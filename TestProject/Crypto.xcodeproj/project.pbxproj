@@ -226,6 +226,7 @@
 		FA00B8A31D1C547A00278851 /* CipherWattConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8951D1C547A00278851 /* CipherWattConstants.m */; };
 		FA14DE831CFCCD9000FF2CBD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA14DE821CFCCD9000FF2CBD /* main.m */; };
 		FA37C1D81D0204BE00113208 /* CWKeyDerivationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */; };
+		FA95A7531D1C5E1B00BE7146 /* CWBlockCipherTest.m in Sources */ = {isa = PBXBuildFile; fileRef = FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */; };
 		FA99577D1CFF54760080F83A /* CWAESTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA99577C1CFF54760080F83A /* CWAESTests.m */; };
 /* End PBXBuildFile section */
 
@@ -465,6 +466,7 @@
 		FA14DE7F1CFCCD9000FF2CBD /* Crypto */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Crypto; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA14DE821CFCCD9000FF2CBD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = main.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWKeyDerivationTests.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWBlockCipherTest.m; sourceTree = "<group>"; };
 		FA9957641CFF4BBD0080F83A /* CryptoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CryptoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA9957681CFF4BBD0080F83A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA99577C1CFF54760080F83A /* CWAESTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWAESTests.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
@@ -828,6 +830,7 @@
 				FA99577C1CFF54760080F83A /* CWAESTests.m */,
 				FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */,
 				FA00B83C1D18725900278851 /* CWSecureRandomnessTests.m */,
+				FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */,
 				FA00B8441D18785300278851 /* Helpers */,
 			);
 			path = CryptoTests;
@@ -1135,6 +1138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA95A7531D1C5E1B00BE7146 /* CWBlockCipherTest.m in Sources */,
 				FA00B84A1D18788F00278851 /* CWSecureRandomnessFailer.m in Sources */,
 				FA00B8471D18785300278851 /* CWImplementationReplacer.m in Sources */,
 				FA00B89B1D1C547A00278851 /* CWBlockCipher.m in Sources */,

@@ -10,6 +10,7 @@
 #import "CWKeyDerivation.h"
 #import "CWSecureRandomness.h"
 #import "NSError+CipherWatt.h"
+#import "CWSecureRandomnessFailer.h"
 
 @interface CWAESTests : XCTestCase
 
@@ -575,7 +576,79 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     }
 }
 
+- (void)testFailedKeyDerivation {
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize128 mode:CWBlockOperationModeCBC];
+    CWSecureRandomnessFailer *failer = [CWSecureRandomnessFailer new];
+    [failer replaceImplementations];
+    NSError *error = nil;
+    NSData *result = [cipher encryptData:[@"testy" dataUsingEncoding:NSASCIIStringEncoding] withPassword:@"pass" error:&error];
+    XCTAssertNil(result);
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorKeyDerivationSaltFailure);
+    [failer restoreImplementations];
+}
 
-// TODO: CWCipherWattErrorIVGenerationFailed
+- (void)testFailedIVGeneration {
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    CWSecureRandomnessFailer *failer = [CWSecureRandomnessFailer new];
+    [failer replaceImplementations];
+    NSError *error = nil;
+    NSData *result = [cipher encryptData:[@"testy3" dataUsingEncoding:NSASCIIStringEncoding] withRawKeyData:[@"sometestdatadoesntmatter" dataUsingEncoding:NSASCIIStringEncoding] error:&error];
+    XCTAssertNil(result);
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorIVGenerationFailed);
+    [failer restoreImplementations];
+}
+
+- (void)testDecryptionWithNoKey {
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    
+    NSDictionary *dic = [NSDictionary dictionaryWithContentsOfFile:[[NSBundle bundleForClass:[self class]] pathForResource:@"aes-cbc-001" ofType:@"plist"]];
+    NSData *cipherTextData = nil;
+    @try { cipherTextData = [dic valueForKeyPath:@"aes.cipherText"]; } @catch (NSException *exception) {} @finally {}
+    XCTAssertNotNil(cipherTextData);
+    
+    NSError *error = nil;
+    NSData *result = [cipher decryptData:cipherTextData error:&error];
+    XCTAssertNil(result);
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorNoKey);
+}
+
+- (void)testNoErrorEncryption {
+    NSError *error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    NSData *result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] withPassword:@"ggsvfasfkas" error:&error];
+    XCTAssertNotNil(result);
+    XCTAssertNil(error);
+    
+    error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] withRawKeyData:[CWSecureRandomness secureRandomDataWithSize:12] error:&error];
+    XCTAssertNotNil(result);
+    XCTAssertNil(error);
+    
+    error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    cipher.rawKeyData = [CWSecureRandomness secureRandomDataWithSize:12];
+    result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] error:&error];
+    XCTAssertNotNil(result);
+    XCTAssertNil(error);
+    
+    error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    cipher.password = @"nvpqjpqjf";
+    result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] error:&error];
+    XCTAssertNotNil(result);
+    XCTAssertNil(error);
+}
+
+- (void)testZeroData {
+    NSError *error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    NSData *result = [cipher encryptData:nil withPassword:@"ggsvfasfkas" error:&error];
+    XCTAssertNil(result);
+    XCTAssertNil(error);
+}
 
 @end

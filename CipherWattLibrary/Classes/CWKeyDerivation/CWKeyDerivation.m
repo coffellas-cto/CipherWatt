@@ -42,6 +42,8 @@ const NSUInteger kCWKeyDerivationDefaultSaltSize = 8;
 
 #pragma mark - Public Methods
 
+// TODO: Test zero error
+
 - (NSData *)deriveKeyDataFromPassword:(NSString *)password keySize:(NSUInteger)keySize error:(NSError **)error {
     if (password.length == 0) {
         return nil;

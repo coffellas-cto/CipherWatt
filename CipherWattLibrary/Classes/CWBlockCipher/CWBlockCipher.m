@@ -103,6 +103,10 @@
 }
 
 - (NSData *)encryptData:(NSData *)dataToEncrypt withRawKeyData:(NSData *)keyData error:(NSError **)error {
+    if (error) {
+        *error = nil;
+    }
+    
     if (self.mode == CWBlockOperationModeCBC && !self.IV) {
         self.IV = [CWSecureRandomness secureRandomDataWithSize:self.blockSizeInBytes];
         if (!self.IV.length) {
