@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Ih/vdvQ6n+25e9cNdnZH6v2KErPIoaBmR7YGEX75UC5vlAqE7MowEW1yrVVB
+		/ct4qbTND7UvITbJh2MdbYcJ7CT99wkxFmLdiP+M2qsMwc7gqCb9dvQNcgIg
+		B2CrJkPgjQiww9vypkHJNiNUW7lsUo4l9GKwvY3O7hQTBJmRrXIImK9rrfhQ
+		mcB5unwstZeQMZ7550VwiEuyos/rlnQWKUaWh6MLNAXv8W5ArhkXWa8wKTmZ
+		S4hn/UGnecvrBqCQeBUoWwsraMbd4rQQu9WAnPtKWpDl7gT708/tdNxTECXO
+		dQ3e2ne9EDzf2FagBjerQsMjJ+DnAOQTZIwhEAwMZyKeh2YEEQPjcxn7iiH3
+		u6EFQ8qxtfUUvXXm3CCeg7v24O2WUGyS6keKS4xS3PVCV9QcGP24f2XhVX6O
+		7Bn+sp5jar9jbGzF4k53PKKlJSfDiiFllw/JutoFXO5LD6Sa1tYOygaHP7hP
+		5859FLLAuhRFdXp/DFHEA3AeS17rQew2nWAowaIR3UdV+x/0dkSAd5GeKXwb
+		jnModX6bjSFgBpcssQqFBVu4YNDmkAs9wDsaC80Pykr4osPuY88wJXfNCPpy
+		9CWT2wx7VzlKtgZmK+TKgzw2JyZAU4MgHSdtcCQW+k7zMJX1seo9g+ATXvv6
+		Ew==
+		</data>
+		<key>iv</key>
+		<data>
+		zWZGRv09K5G/ieMfw0OxKw==
+		</data>
+		<key>key</key>
+		<data>
+		zpzSC/lRarkZAmuCytUUswdlVyTgKFr5
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>ad!
+And be the Spartan's epitaph on me--
+'Sparta hath many a worthier son than he.'
+Meantime I seek no sympathies, nor need;
+The thorns which I have reaped are of the tree
+I planted,--they have torn me, and I bleed:
+I should have known what fruit would spring from such a seed.
+XI.
+The spouseless Adriatic mourns her lord;
+And, annual marriage now no more renewed,
+The Bucentaur lies rotting unrestored,
+Neglected garment of her widowhood!
+St. Mark yet sees his lion where h</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

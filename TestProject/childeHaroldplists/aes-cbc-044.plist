@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		FA5yMmuiQNdNPbFRScVvpXJjPsP/VhEmPESvQ46WHNYgnq+oFTcjPpS/v9sx
+		f2N3v9Qq6G4/3yayviqnebm7de5jynw1WpiP64FN/k4LBXAe8cCxOTLhSKx3
+		+CH4MYxmcFIaH0N45OZmZlM/GAZn2ju+gRqDJ4cptnEOsekpxc6JsOTYzQyx
+		itmMxavOGxL1y1X8B6OV3J+5GB8ZvVXEPAq2Fa/T0vAAe9UJg/dQT3OSy4VW
+		0Q6u99n7+/nkEniS8WZCeC3Muu9Q0VGAUKRoryFDnTkynbcM8PMhWDBxkaAR
+		eg/hoDA/2+2d1fPgeYlHaamxTMCvWXh9TtDETNRPoYVDnh3WPjQTx/1jiYOI
+		jUGXOClYdlo2DYsP1Izr/wYvVIXTGXUtUFr882m9heYuzpLMFPqJHBAnSNuC
+		20ojg0zjegcwKYiuiTdzBPY7DAv/eL+0cksUQMdFH0jZHOEBnhrg8QFgY3j6
+		4GUPG4bMbdKZ0jzjzC0WrARuxkjqABw92vYl0J6SiKzCqP0ynyVeZB3vgr2f
+		ZChW8mceLxe2a/2lQ5cN0U4QKntvniZUoyaKM+oHz8vPGRDSWpS7iKvqgPaF
+		+uUktqDuVBmB9Ip524tSlrWg80pwa8apUNZypeuGq5PqUMBipXrjiw79GH4O
+		qvPscPDuJwj5dc/sPldraekuyBCLJs/W+5K21jMuvYaWNWbdMu9Zyw2VWKT5
+		QJgCNxA8y4bT/c3XwYQFYZ7hIy/UYwQM0zhcvHHK1jO1gmYmhjgYSOkzPhLE
+		1TILN3FuGYFgCmzD28M/IClA26PDwXIfVj30V2kMpYB1Ghx0zS34gNl3HB+n
+		AsHwn7Vl9QEE9H5HO1OgD7GO8yb1G0A+3jIJWMkr0TIvW89hJMfuhDXD2tl9
+		hiLu29gGh7oygTjWMwlv9wtntYPD6BgxC0g5P9A2DQ/nglSFocKXggOFvRES
+		</data>
+		<key>iv</key>
+		<data>
+		prlRfTtJPzvAv9UtB+Z6XQ==
+		</data>
+		<key>key</key>
+		<data>
+		VRN2l0Sbn7QZpNEzYqy8IxqmSw5sebi4
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string> save thee--
+Assyria, Greece, Rome, Carthage, what are they?
+Thy waters washed them power while they were free
+And many a tyrant since:  their shores obey
+The stranger, slave, or savage; their decay
+Has dried up realms to deserts:  not so thou,
+Unchangeable save to thy wild waves' play--
+Time writes no wrinkle on thine azure brow--
+Such as creation's dawn beheld, thou rollest now.
+CLXXXIII.
+Thou glorious mirror, where the Almighty's form
+Glasses itself in tempests; in all time,
+Calm or convulsed--in breeze, or gale, or storm,
+Icing the pole, or in the torrid clime
+Dark-heaving;--boundless, endless, and sublime--
+The image of Eternity--the throne
+Of the Invisible; even from out thy slime
+The mon</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		0EIzbqGuyvBe+XjrmfC7VHbLjI/EL/UXlaCTTKdp3RWpZHvdxWz7PmBeYobz
+		aQQGyyxGsGyYzV9+tKsOpXAIl4fKYXcOZrg/d2nH1c3mYfk50uLHVl4fP/Zr
+		rb7d+ZkvWrkJEzQKEC6eDbV9fO2katVSnc5wqKUVMlBBSMRGpA2Ieu+6MgwC
+		QiBihQFcnvh6gdyjEXlPeYOzF9zTUQZ6HvXnNNprpDJ841mxTz4BVrgL3B/J
+		eLbSw6wvwogly5mUN2xUqvODvpCKJ2LRbMyBjEt6y8yW26DHqW/1YaKGrRI4
+		bGakhO5vxW99h4Xo9J+GTu5yMr9n4XQvZn903DVTibj25MKzxTYrY3M7jYpg
+		upCqin3Sw2OkDdrOQCuvhnNnuGpcieFtfqH0KvZjNyvNTWbNfM6z2lp3wset
+		7HnhT8q2LDeV3h06z91B7jShK19aJptNoSQOmydnYAfEf7Rs8TDaMTLi1RNv
+		DeNnnCYU0mYTMVIKwsezVoTd7pvVAU6AME0e+eGwyf7L8tOW2Cu1DjljdJCK
+		tGZJABpoqq4WUj1ny334OlrJX4d/WUlVMgjJ0OpD0c3I72VYv7km7PT+5kvW
+		dMqQMQ6jVbcg43V5AZHJPRCyz7EcyXk+XhzqY5CLJuDcMjWbUKCJCeL72LHl
+		Vjw81zUq8R7LZHNufVtIi/2t2oIlBD60uoEqs7tL2bMhHnjOVNf9rZosAJMH
+		ZTxyBX9F99CewbEOPUGM1mXuCCJAdfvYzcx492RqaxHCJwbmSi0jCDlnKFx3
+		nqi46k10BuTGbeinAJUhSOTh7q4XH29YL0J7xpGlzEa1QREakvLx1ukOSgzK
+		pV2YBbNBLN+ELo6ff+Oaz6/zCCET8gCSZjnEed4gMfObPBxCxnOKP/YFk7To
+		5aK8Na1TaGKvXsA8WwlQouUVr7BGJPO+axNrLJO124KrBIWW/NU15jYbMoGy
+		IUpz2D+gHGIwOu7+qTYWEw==
+		</data>
+		<key>iv</key>
+		<data>
+		dclJZ037C4cGlxb+otNLtw==
+		</data>
+		<key>key</key>
+		<data>
+		IeaJSg3Cx4H64Qp/gHktnnw5ndmGmZ+F
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>  Thou, who didst subdue
+Thy country's foes ere thou wouldst pause to feel
+The wrath of thy own wrongs, or reap the due
+Of hoarded vengeance till thine eagles flew
+O'er prostrate Asia;--thou, who with thy frown
+Annihilated senates--Roman, too,
+With all thy vices, for thou didst lay down
+With an atoning smile a more than earthly crown--
+LXXXIV.
+The dictatorial wreath,--couldst thou divine
+To what would one day dwindle that which made
+Thee more than mortal? and that so supine
+By aught than Romans Rome should thus be laid?
+She who was named eternal, and arrayed
+Her warriors but to conquer--she who veiled
+Earth with her haughty shadow, and displayed
+Until the o'er-canopied horizon failed,
+Her rushing wings--Oh! </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

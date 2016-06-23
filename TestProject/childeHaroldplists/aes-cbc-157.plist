@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		hRgvQjybYPVRSQTTK0v1PnZ323Ssf018NwyruVQ+GVxh3RmgnrNqqetkuGci
+		sX11i8od9J/8GsE+bqLSUCiOKKgZDElH+aRnqqY38dXPZdHv+r2EU0qI+GTF
+		t/GTGKgFqws8w6RxxHL3N2GqD8D7fS4RhC8FLyyNzJjWLVPlIhCciQnnGHiL
+		xPhD1zqpi7+QYhsupo58cK3fDKeH3plEz6g5d7+FM6vRyriWV0ijDrMPZJgk
+		mfZRGwmum3K2njtFSF+anCXNShrPaa/ophhr2yJtwkPrKYUgyp/Dnfi+6kIn
+		KIA+l+pDT5q2C6rxz4cB//ppsQJkmbphx9ZY+p7AQ2+fGYWakLBqPqKKNGYL
+		dT/P1CYb+TgZC/r32O3+5TOiMzQzzsd1rGan2+dTrWDAYxxXUWH25M7obkR+
+		6+kTIpV2xxLb5lFZn0mBbghh6sg7n6OKVOD5svex5H52KR7Z3uJyrVtXvihI
+		nyep3RDde9tTIDpQiSPx0epQVnX7Seh08rcmLWOR2lK+59JQT88CgryAngtj
+		bHAi3NRY8Z04XxF+mdUznceXka0r/REfXKpd0BSHriQYlL6Wb/DCCRxLj+ec
+		bOoDqvTf+Kx6AZVCVaq60rFuFilo/aYLnEbv5KfIZMfCw+wmL+vPGwmkyxM3
+		9kxjKxnznM9hMRyfjrRa2smSe9DMf6lx0H02IVsl8rS+UW9g+r+2l+06UD2G
+		jtjHQ2hrBqP+tCNw2yo2+OwHH9k=
+		</data>
+		<key>iv</key>
+		<data>
+		8FXHxqhs6B+tNTztSXJO+A==
+		</data>
+		<key>key</key>
+		<data>
+		wzVW+PG/fCrJDDsVl7LCYG6BbWNd2kSo
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>ain,
+And fertilise the field that each pretends to gain.
+XLII.
+There shall they rot--Ambition's honoured fools!
+Yes, Honour decks the turf that wraps their clay!
+Vain Sophistry! in these behold the tools,
+The broken tools, that tyrants cast away
+By myriads, when they dare to pave their way
+With human hearts--to what?--a dream alone.Can despots compass aught that hails their sway?
+Or call with truth one span of earth their own,
+Save that wherein at last they crumble bone by bone?
+XLIII.
+O Albuera, glorious field of grief!
+As o'er thy plain </string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>12289</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>RqkL7DI3UUgwJwjMn1tJM</string>
+		<key>salt</key>
+		<data>
+		u8bGfWoZmeZLvGkQ8y2r
+		</data>
+	</dict>
+</dict>
+</plist>

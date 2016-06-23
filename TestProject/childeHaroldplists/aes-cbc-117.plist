@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		JI/HgsxZmKqa3NZ/q1nhV7cWmOkaYJLz6TF5eVM+WAX/71flg091LKbwU+bt
+		a5hUL9FRrMxCmtZIFnZyA198n5PEAzZ2sbFpSXsXeOpsM3O5aXmmHy1v8kuC
+		/UlW4qp+aiRH+764eqeTf1Ku2YuOFNBvl5GzFHPDdEgp4tUpTfFtq7Zc5x24
+		yM/v1wypFj8VjSE0S91hN+HzxJ/fER2izDxGXgg9KLDaHJmSa9ia8LnzKOZ8
+		eQ7KRGhmv14mY3koiR69k5i3xO18I8/Ng+Sz6dWHUg6h2Ud2+C3Cu1enGlwv
+		XGrSnK2c4P0Ukw2PIYzIRYNq8w9lPLZrep+wMnEblxh/zsM2dZcmoR5IyH5i
+		arqc4fdgCH301GVcWaxX4X0lst2yU2QjYhYANMCBlQEld+6zNccK1R5Xvvvv
+		bYoqVUi+bAJfi8aPgTNXt6xQJ0ghu4IhBp8uF0RTN4vCQOVrZsnJwqh328hw
+		J+1m5afXOhrGoF+8so4ZFo1Xpe9ygCGdc9PFsDlrKZQMCbCjq7bloQ==
+		</data>
+		<key>iv</key>
+		<data>
+		b3I+km8h08vqtDtN7tAZgg==
+		</data>
+		<key>key</key>
+		<data>
+		LtsVaD4JXAO74xGAcdt6+iLFn2YtE/3nhEtVGuGd+WE=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>far, nor yield, unless to gold.
+XLVIII.
+Monastic Zitza! from thy shady brow,
+Thou small, but favoured spot of holy ground!
+Where'er we gaze, around, above, below,
+What rainbow tints, what magic charms are found!
+Rock, river, forest, mountain all abound,
+And bluest skies that harmonise the whole:
+Beneath, the distant torrent's rushing sound
+Tells where the volumed cataract doth roll
+Be</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>13111</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>rQCaN4LUsGyOeBHMsq74Wd7y2QSnhUKNI942PfliOuCccWmsb</string>
+		<key>salt</key>
+		<data>
+		+wT2HR5mTmPBmFhRc5zp5JpLdled9wVgEw==
+		</data>
+	</dict>
+</dict>
+</plist>

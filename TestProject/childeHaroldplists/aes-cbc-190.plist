@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		5Pyca5BrTsOt5ssoncqIVbFKsUqRMkU19aX0IkT7ONL5CYNBskcoTRmEWeaq
+		fW2MPRUYj6W0xNGwqmB5kQFhAdWzaCWAjVSgtJKh5MLXqeXhktmlEPKXd1ew
+		LhgXQBIisa3WIJ1X5Rqs7TWQl+M9GTRjZpjastgvJdVYvNj4p4Hjihi49NG4
+		mlVCDOQ9MlNcQ9x8nFoKGWIEfLYZv/f87V4+fz73mbQBJ0B9beeWYsJ9y1tW
+		MJnamEq7q0+C6aouDVdThpCZlgqcBcy8GwBCTUAm5kU/bfrBPByiQFpZzk3D
+		vbWyYaISThttUn5YTwFUvUyqWoi6prfU3+X8KAJDyKWPdoEoTB+rXfumZBSl
+		gZH1UrkwCLaLALAH0dmQUZQvRtVZLIIImMQgKVEnKCc4qdsZ7Cm973Mys/X0
+		EZ3nvpB66XnRq+yN8zP9OGx+FZ2GGl/oLOdddg9/Mh9NF+BOnmWMngqIJdlk
+		5ZJ+xNOtPNKUbuNn/szvtdWgWLeQEMqvMUs9fRL8CMTL2H+6f7CQBI2y2YhK
+		nMqFSX6U+n0+tHI=
+		</data>
+		<key>iv</key>
+		<data>
+		hQs8xM5PYMdMp9/5HQY94Q==
+		</data>
+		<key>key</key>
+		<data>
+		TcpVz3gM7DcC66ktSLo5sArX9p3r7ozP
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>and eyes
+In Arno's dome of Art's most princely shrine,
+Where Sculpture with her rainbow sister vies;
+There be more marvels yet--but not for mine;
+For I have been accustomed to entwine
+My thoughts with Nature rather in the fields
+Than Art in galleries:  though a work divine
+Calls for my spirit's homage, yet it yields
+Less than it feels, because the weapon which it wields
+LXII.
+Is of another temper, an</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		M23PRMsg1BSkQO1kZwlgckAdHEoLrBWijpeA2bw0sqdvRuqfjbBgBUsU2dGy
+		wDEnl+8PVnWL03QrsrYBqANHGn/n9z+MVcrVMjDrGr7OWPm5cnVeeMKDdJDx
+		4T8J2EOzh7m9QOzq1a48uUSQ1dgEfbHfWdeSesaH9MLkGfVGOA/huEg5AqZk
+		5AHAkEkrxrrYhkBXJlwHY6rAsrKQr/Im3Mm4rTwtFVKN0Ytmi7S87r2LpfUg
+		7Y97SkyDJTOMiI7BmZgcvNyKv8Ygqa473j67u5nr9Usz/L+MP4/3tAoSDO3r
+		bREEeeD8Z6Ck4AbbxWM4j5YnbvgZ98DV2KHQdDM/VyxNNYjcmkK0Pz7cHZXG
+		2jBrTfRHg8AZpr1SwTFOhGw1iWb2vhobDjEc19a5c0Z2bXidkIu0RzUBsr34
+		Rc+WcOuUWyzmHVJ7HeE9mxpBgzHgBofnLfkA6GW3aqtV78hrnKAENCY6fNn6
+		FmQN405LpKOahvXGs2fq4QyPeEyKvz2XrDd2CQXCn1rhzhPUoDoKVH6u02f1
+		6MITi1lUnuc9VyTtiyMqsc1N1MSV8XTlH+Wa6mlOZpOYiWi1pVXJkEw6FkSH
+		+bjmK1faQ4KdgTirk+flG8cQDgXXhKnOKLKJ+QZgzGZYSs/CdD/lJEyE4EkD
+		BBh5mcDkZXK6SPWjo6mJMWr7G5q81lBZo6kU3kseXjWwqNoqbeXg2V7kGwUM
+		+LXRnboWuYBlkQBEarOWEKMMbd9eU0uRU/Dqg7pMzI6BOhj+bX1JTeZ4+n9U
+		/TwZty8gOElGFgd62LeBtfBLMV3Yoq0RxZd9yDEjSz/RUGMukn4SGO342ggC
+		0lEh8HhjYsHv8d8yNTQovQhu3VfPHlR0ayV2yUhpV7fAefky0XsHvJEOFzSg
+		JptJFQEq2o8QgbKvlb8zW0nKrPaJgIiIP7PKWVK2UPxwraXRkO9Rm5cQc5+y
+		8wNdfp6QoNrT0n2Co5zWCECkXzQcfjO33wtPxyQSWAeCtmuYlfEdAN/lyiZ8
+		4nRB
+		</data>
+		<key>iv</key>
+		<data>
+		mR8NatytnFNIxPgaHVAzAg==
+		</data>
+		<key>key</key>
+		<data>
+		M3sFk6sTbVCMbeWrqijNVsY7D8ww25rJ
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>sun like blood, the earth a tomb,
+The tomb a hell, and hell itself a murkier gloom.
+XXXV.
+Ferrara! in thy wide and grass-grown streets,
+Whose symmetry was not for solitude,
+There seems as 'twere a curse upon the seat's
+Of former sovereigns, and the antique brood
+Of Este, which for many an age made good
+Its strength within thy walls, and was of yore
+Patron or tyrant, as the changing mood
+Of petty power impelled, of those who wore
+The wreath which Dante's brow alone had worn before.
+XXXVI.
+And Tasso is their glory and their shame.Hark to his strain! and then survey his cell!
+And see how dearly earned Torquato's fame,
+And where Alfonso bade his poet dwell.The miserable despot could not quell
+The insulted mind he sought to quench, and b</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>10909</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>QhP1leC08cG2mWA2lPngyMHmGdagf</string>
+		<key>salt</key>
+		<data>
+		vxqd+Fuw5fZPrwbmNS6qx/MJf2lDTb4=
+		</data>
+	</dict>
+</dict>
+</plist>

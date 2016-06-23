@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		R9xoUjhoYHM8n1l2XUpYqh360Snc+ebXnt398RVDknPwqNJx1olxpJxpLq7d
+		Typvyupp6yDNSeveA+XgCUPcA2tZolawNyNNquwqq9x2s7zn6jQ0Ykn3ulKa
+		EsZsy2F50FcXqRyMAym4g3ciVbX/K58sIaiyL2EoBuAUGOsljkocXKbFVbm8
+		A2q5+WuXI4nEutTdMjMkk1woLE2zCHZ+UZsNbCNejwj36oiw38p8kPP9SZxx
+		eM5EZqw1ORmRe3N93xLI7xo5RNuSrI7NAOF+PefL9kvN4bSwroyc+7n6kFiX
+		UnPwqDYb2oP9JvJ8J374BLaEX1WEV7jLkaY0Sq27x+m7kL4Ss97jStJPf5Be
+		c4mczU8f1R6peiB5khq+7JE2FROVVjdvsE4Fg5uZoy1BkR2OIy9TPWSkWpjb
+		d9G8RnLTXNb3cpm0Gw/rE1D4x6Fyu1RNHVIsDiYl2oktAwuVwjaQRMJLQca0
+		Huf5kehkhBVpuZ43oEL01JSXawiXV9vW3CBmA/Key6ULrpez7kt7g83KKqfg
+		LMyED95O6Gm7H84=
+		</data>
+		<key>iv</key>
+		<data>
+		QOV4fVgSDRuVb8FwKY3m8w==
+		</data>
+		<key>key</key>
+		<data>
+		YT8NnGgB7DW/rfaA0+NShm0qozEW4gjH
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>ed her from my boyhood:  she to me
+Was as a fairy city of the heart,
+Rising like water-columns from the sea,
+Of joy the sojourn, and of wealth the mart
+And Otway, Radcliffe, Schiller, Shakspeare's art,
+Had stamped her image in me, and e'en so,
+Although I found her thus, we did not part,
+Perchance e'en dearer in her day of woe,
+Than when she was a boast, a marvel, and a show.
+XIX.
+I can repeople with th</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>13353</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>DIZWrIXw0J42YFCwQzhWJ58E3NnsYcm9WXVU4XpHtQF4O</string>
+		<key>salt</key>
+		<data>
+		oVsmcrO/QJPJ6MgpnxV1Zw==
+		</data>
+	</dict>
+</dict>
+</plist>

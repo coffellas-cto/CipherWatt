@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		kmNNtc28GZxuEz46yBRli9spJFZ5C0gKRkT8wdD6aFdWrNfLAVpzyZvgsvtv
+		NiilKIqVY+fXSshLlCTB0sYjCG6bwwuqRrp/+ygrYwsvZhL5T/zkfSveBvmQ
+		PyiqJCwWppzivLQePZRyFkKv5MrlOWwHr6u4UCi1UWa4W6CJWH8IcN+owzzk
+		fUWSdBcmaBONsTwGyeWkM3YlVQGw4N+Ac92depMyCKIc//zFcHDzJb0Wiaf3
+		Qe8g4bVVTjMAkP+nb6b5livLGc1ov8te6PEw8/WcE5V7+mQCMoRP7QXomRPx
+		+SLLYzaEwuzq4CjSjzS25wK03KwGz2BFjhRGa0RTzw4b+XvcR3/YEpQvlF8m
+		B+dxf6iR00kHjxg5B16Ym4REuUyKvexEmfdGV3SW6PXF7TSfNqb5zsi9zDo+
+		mHxsqKooIZa7iw+3e8FOBRK/9szH62cBZKJ9AsDLWCz0VQT9o46jiRuRnyk1
+		oeK760wB4yxgQ+2CrVuApwUuhuUpaQMm/9P8Y4PiphPYKIdH5uLtFQ==
+		</data>
+		<key>iv</key>
+		<data>
+		iVZj8xzbwdgsnJwG9tOOaw==
+		</data>
+		<key>key</key>
+		<data>
+		ew+AmIMs/b7V9E2oeT1VsA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>nting mind assuages
+Her thirst of knowledge, quaffing there her fill,
+Flows from the eternal source of Rome's imperial hill.
+CXI.
+Thus far have I proceeded in a theme
+Renewed with no kind auspices:--to feel
+We are not what we have been, and to deem
+We are not what we should be, and to steel
+The heart against itself; and to conceal,
+With a proud caution, love or hate, or aught,--
+P</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

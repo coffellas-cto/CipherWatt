@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Rlu7uGgaSlN37uhEHEAWYgzbDraD6baXa6G7KHQRJ42tAJ90AS3WB1XwU4EX
+		bWDa4RML8RFV9fk25U+X7nI4mfItobY6LuVjGFawG860nwlr/xI6jJ7cw7LA
+		6GGcVPJjQ8ftSKTnMRoTwS6FtQLHJvYZcDX3QAMLXdHT5rlSsuLS4g+doYgh
+		Vjsi+hCAWVtEiPgbQvcUbhZGHspLb8NAFdo4UxZd/HHLFWo+hsW1xoRmjAV/
+		1IDzlWBdF9Rm5FtBA5UH1Hhce+tjQSeUBlHZlw6xjdyETiHJzdtdd1QC9tLs
+		6Yi6pWG2xvQUIGZXsDNTeZNYlfpgOTstbSUCbynk1SQXSFZ+aIJsT2RTnPiw
+		zY75LIyYRerJYioYIoUEi4SYrPrN82Ucoee/sZBAoA1eZgNvtqMHLJ51AZMk
+		ZH4BZS55nHUqdpBo8EdtwJSwBBOUKsNPSb4k1BDjI41qWjin5nn6huzgeWxg
+		O7V6vSeMKgAnJKwLoFiMXsnH0KGMOG4LNlZqldDXC6EvfxudwtVPl5eQjiNp
+		LG+rPbTKOzz9n09RYwrv1wjKwczNKoA/IgryYpT3diN3cCzLU/0/RHdoqgg+
+		0ub5ASHCHZeO0GAh5EREaKPaVKTX54Usem/j5K081VaZ743Of10TSMSslxYg
+		dlr9gyayumTnFElhMPAt+Bljb75qNJckE0pyE8dp/fg6V2x98DAe8sMnEu7t
+		DEJ/C/N4jV3mc3cL+UcNmrXhFqTGGVHJ8HEFkxOlrIVvaEuGutVhr58Rs9mV
+		cFPUKBbArRfqJw2mPIvTbQBRx68WGf9wXtmIfrYtsSqb7ShoTyVo
+		</data>
+		<key>iv</key>
+		<data>
+		yYha5k5j0cD9WhSTjPRqVQ==
+		</data>
+		<key>key</key>
+		<data>
+		9GG2gnFb1VDBEmdvmIl2eanYr6Fitsw4DnZNFdTd7Ig=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>sting,
+Scarce seen, but with fresh bitterness imbued;
+And slight withal may be the things which bring
+Back on the heart the weight which it would fling
+Aside for ever:  it may be a sound--
+A tone of music--summer's eve--or spring--
+A flower--the wind--the ocean--which shall wound,
+Striking the electric chain wherewith we are darkly bound.
+XXIV.
+And how and why we know not, nor can trace
+Home to its cloud this lightning of the mind,
+But feel the shock renewed, nor can efface
+The blight and blackening which it leaves behind,
+Which out of things familiar, undesigned,
+When least we deem of suc</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

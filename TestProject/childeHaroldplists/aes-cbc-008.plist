@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Y84sydcg+0Bygy795iO+x/cHLvNBHoMDmB4RsdEamuiJAdtf/3cbplV303Dx
+		PB+rH0FFBpLLAUFjrsHjfnHjPOMeo6bTsmS7thILkrm3npuXA+RVF/mpCSFV
+		yC3zqqinHxDJC5Mr6/Ds/ba4NGAkOoRHy2QxiP+uUaPJq8uqfysDL6ReVZLp
+		lxEXu58Np1D8Ei3zGRT+fblTSa5fgt+zk2fcYMwtRh4/63bncQylHDiDOQvo
+		Z3Yhku5+VMp2Q2nvg8g+tXM0khSFF8DtZDFcNnldVcn45OsxqQxQYxVVY7VU
+		Sz6hJlC9cavoSQ61dhP4jPa7JLatRUiBTcbFsAgz6p6RflZyFjUBfB5qAM63
+		nGizonSgNLDA6nJV9vrUP/F7pEYEdGCEu9ArKcPb3PCCH2p0bwO2QknLpVPg
+		KqMro2Lax9lpRojWJnY6ynvX3T9CEHx48tUAu427B6jpYKJRzv2PWqd0oaw8
+		hw1xYq4aU9U=
+		</data>
+		<key>iv</key>
+		<data>
+		pd/V7nfKpmiI9m2XMpeDBg==
+		</data>
+		<key>key</key>
+		<data>
+		P6hOaloAolUWWMCL1IrHAtximNCJXPtx6QJ1vXxc0P0=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>;
+The Delhi with his cap of terror on,
+And crooked glaive; the lively, supple Greek;
+And swarthy Nubia's mutilated son;
+The bearded Turk, that rarely deigns to speak,
+Master of all around, too potent to be meek,
+LIX.
+Are mixed conspicuous:  some recline in groups,
+Scanning the motley scene that varies round;
+There some grave Moslem to devotio</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

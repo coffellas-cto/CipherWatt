@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		0oUmsRRQElX4cziRjF9HZV4sPsZJAn4x/3kOCx5uLnj8AYptzv0gmXUoNPXi
+		lj1+GhWIXYxK9ilsaOKkKlNI+Fei+VSl6FRoogs9UStwvVXvsPetGedE0THt
+		T5CesI0FrI5eVl5a/Fj5YRRdkbsbUVFrr7OEdNQt9NnOyC8P0dX2XeXWj+nR
+		1TXmqFZVN5KxiMVsrv01zMywxmUttERtpkdudohLwywvg1WN8nm+TGHyIm6q
+		jAVBq1xUjQkyNhusGW0m/Zvi+cVDJhPI+BDBHP4RWjd611q3dwJ2AJ9i/XpN
+		2sBCQNR2sTjSHgQYoCIpdev2TJS3Hp3WFwkH1lK5340018kauzIbmxU1/Mo0
+		hEQk4i84Nj2jrJlNHGwKg5lrQeZDPOWV9vXGL3cy5sUbgdTUsBgjU8kkaqRN
+		93x4Nj5odS7nGJ6pZnRO1R0vRYiGFVHarjeKD+qGvnMiCoQnuKHc5VOksI4x
+		3/3Hd4qDOMexAWJ9sjs3mirjBW6JRF4o+mQrMmXv+/nr9xNxKno0nSMd4WRl
+		9/3CbGRZVlzpI7rV70bPOwMemj6AVdpSer1gSwwOEaDAz1TWtnendQkhi4Y+
+		AcfF9glCyY6j7z6Bv2/hUDzA6seF3k0+T0Dn02wgSbpKGt/QoOS92vl7l8tY
+		+kbKK7Mvbk4tLYIv4g44c8i3pr4Ix9mJzC4TOXfxoCX4h2EjPPYuEf4lWHvI
+		0Zaw4YkhpPma/ow7WwL21u+JU4t54TQaZARo4kEA7kGfryoab1VJeNQ9LGLc
+		T+XoU2GI1w==
+		</data>
+		<key>iv</key>
+		<data>
+		rEgM9rw8YcnyIlbVe7ID7w==
+		</data>
+		<key>key</key>
+		<data>
+		hHcpd91TjEsQ4YSWfI/tOA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>
+Must look down on the hate of those below.Though high ABOVE the sun of glory glow,
+And far BENEATH the earth and ocean spread,
+ROUND him are icy rocks, and loudly blow
+Contending tempests on his naked head,
+And thus reward the toils which to those summits led.
+XLVI.
+Away with these; true Wisdom's world will be
+Within its own creation, or in thine,
+Maternal Nature! for who teems like thee,
+Thus on the banks of thy majestic Rhine?
+There Harold gazes on a work divine,
+A blending of all beauties; streams and dells,
+Fruit, foliage, crag, wood, corn-field, mountain,</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>10148</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>m2dhPaF3wA57kjcyoFhpQZWX1PPz</string>
+		<key>salt</key>
+		<data>
+		f3wJShFKh2g=
+		</data>
+	</dict>
+</dict>
+</plist>

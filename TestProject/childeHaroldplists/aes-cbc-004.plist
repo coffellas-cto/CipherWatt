@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		FoBqRTTWrG9n5ShCH/YjoPhHlxC+WzUV5UrGc49vXSCGQnPPSUKqmOZRdHZp
+		14NrRIE/oj5GS7xE/hbSLHAXcAKcdwwebp9c5W/vmCF0h6WTaJ0aZ/40a0cL
+		OhBZ6iZeCsLVnnnSUaEBW/OnnO6Dopvf8yRdWt7/FZfkhCyYaWQBpXqkqfrq
+		pbWW4al+NxJc1k7wRFFhz8qISIst3CmJ+wTuy7xbevd9vIBtXmurUvG3Z5y1
+		qd8sqjxU30kxttzWUDtLiAzZKAvIMh1n+dB1QK8axwUtpCOVtCUJRh4Z0Z9v
+		yQ0m4Aq8j6vRtb30knc5b9+IdiHmASEqFztsmi++lUyDl/pNxKg0ZlPNb2lK
+		3YIIOHI1+MQ024Qv/M19CQDLTKsLjGHT3iBAADVqoikneT1ami6+LgJfZWEd
+		7LpxdhawLNmZM0ML3XeuDUFG3eVNldbVWEiUsJE20cODdehH2Pw1USNpbpxs
+		RSFXM8J6A7FMCr+8GrfX0jqzHMxHYmCFUUiC1Sj1e41x65V6nqhXmUMbCVuc
+		Ml7Fe47HHm00zfkJF3TlGDtVzJNmi5zu/c1Iyur72flE6VLsikzZJ4DXNow8
+		rJv2QP9MNjcwaHNvnJ92PKS+dgsb8OVCvy6wRMEGSdFcRUfl0ZHNQ8qKRXMV
+		e9J0v6sB70Si4fVprfeQIyg1cWOf8K6uLDTEhnFu1iW5kjGtDdUVUdtnwdwl
+		m6eHadOZRdsQNLhf8SIuVQramoZJCSrwT3m/KLCTmbYTwulzXXnIwuhHys/h
+		QwEE/c+mUh72wXVIwQQJPnN6mhYAwRFEAhuy1rrxnOJwWA+A7lW5Gw5QPhYP
+		AvEB81ti7+q6WGW2ShsvT/mvLf5vpriSyM7oqn3ZC3AloZtTbzI1+udxPcwz
+		pGMnAgiyF49BAW+ugdknb0uVVOCbFZnWUAyrMoe6L292CCX861iDmP9DpeqL
+		QbZJEOzcmxRqIyCgz5E+9u2rfZKSvcDyYdHQTLQHLG3GCucWlS4EtfNHfFN+
+		9SLnXmCJBswNlbcMuvZmpCD2qmqGXJtl2yyEYgrYL52odS7SX8VvG1if1N0U
+		mSeQ4jjOFQXSet75A0pZiXQP4hov06p/eFJbnObrMcxFgad5aEraJWG4SLqV
+		lxbAMPEezI97GtcgEGQu/SjudLq8Fsvdk1WrVZuw12m64DWjyJabCooqZe6C
+		zMpKbrhC6o8cQiAnCWNr30hoMqqM4ecuNi3gz4qWs/J4wL7BVeSEQxh3lW3f
+		UzoEt3Y+M8F8P3rjb5iPT0p10E9HxT08rJHmaNY3PDp+4nG84UCSXdf9iQgm
+		G08/PsO1UPxUx7auMl70LyC+R+J7LXLEGYG/KPqShpL/u4PXVethSwWeo3Ya
+		JBLwlS9hlGX5WkFnDkfFWh3bC06TNJL/DRhllNiOoeooxDe9iVXrZtE3zq3R
+		NFw0kZ8CShLL4ZCnNKAa/aIFLyeT+ISD2OL+VLVgi/l6FqcFKLqONg==
+		</data>
+		<key>iv</key>
+		<data>
+		+dAF9tfPRuYdKqdPAKkMzg==
+		</data>
+		<key>key</key>
+		<data>
+		EB0axwv91fsBMFoOJKNXfp4yYY9619Sq
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>
+LXXIII.
+Hushed is the din of tongues--on gallant steeds,
+With milk-white crest, gold spur, and light-poised lance,
+Four cavaliers prepare for venturous deeds,
+And lowly bending to the lists advance;
+Rich are their scarfs, their chargers featly prance:
+If in the dangerous game they shine to-day,
+The crowd's loud shout, and ladies' lovely glance,
+Best prize of better acts, they bear away,
+And all that kings or chiefs e'er gain their toils repay.
+LXXIV.
+In costly sheen and gaudy cloak arrayed,
+But all afoot, the light-limbed matadore
+Stands in the centre, eager to invade
+The lord of lowing herds; but not before
+The ground, with cautious tread, is traversed o'er,
+Lest aught unseen should lurk to thwart his speed:
+His arms a dart, he fights aloof, nor more
+Can man achieve without the friendly steed--
+Alas! too oft condemned for him to bear and bleed.
+LXXV.
+Thrice sounds the clarion; lo! the signal falls,
+The den expands, and expectation mute
+Gapes round the silent circle's peopled walls.Bounds with one lashing spring the mighty brute,
+And wildly staring, spurns, with sounding foot</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>18693</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>TuoGiPZ3Y212Ts7O2VlIFNMxVENjU1EjEAs886RBB2Dbn</string>
+		<key>salt</key>
+		<data>
+		Jf+xo4IuWZTkvrdrpJn0bP3VWsgAWz8AWjcbjQ==
+		</data>
+	</dict>
+</dict>
+</plist>

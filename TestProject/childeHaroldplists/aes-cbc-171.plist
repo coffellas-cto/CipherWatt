@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		PF78h1PcCOOe+gQEIeiKEEKPH+sO1qL0CbURULbrqYcLYbWLoi4oi1RQdKSv
+		bGMEYKmxg0JUzM6pUvhp7Of59a04tFQ8hCWlm0ziMdahF5+KBMFuxsQvvire
+		eDbkIY245kmUG4ruE9douKU69hpTG7nyluQ0XDBWz/rK8mnB5D/Dzf3cD8Wx
+		yVqKIQHTHSjTW7YtUx74aYZ8/F9/yO96FnzRYUN8MLHo5xuyxj7dFjVXvja5
+		JPhrEmNDoTAU+FXA6QtaHVOFPRexWorQz2rj4/OiGLGgFj+C+pLVDvRpVx+y
+		9noSgmEZDm1+0AdJfcDD2eiqBBVPUXuTuzPqGN+V+0A1pzeZbKfwycLCKf2F
+		EKoUlxaN/Fau7jQwVrp6O75pLuHa8ulRxMlVB0PMALBz729vJeTUSmmFqmEP
+		XWGjGCc=
+		</data>
+		<key>iv</key>
+		<data>
+		qARVKRbnFNMT04c67DU1/w==
+		</data>
+		<key>key</key>
+		<data>
+		Mxgmie0A/aAvghHNeRGJdQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>e eyes
+Have made me not a stranger; to the mind
+Which is itself, no changes bring surprise;
+Nor is it harsh to make, nor hard to find
+A country with--ay, or without mankind;
+Yet was I born where men are proud to be,
+Not without cause; and should I leave behind
+The inviolate island of the sage and free,
+And se</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

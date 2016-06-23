@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		ibShqNYDOexx2fSQa2U+3VJNkzWu/Uu1ULmmE2RxHFt+fTtgumMjrfpewfMF
+		MSbzBJngBkWbaVsNhtC8AFm073wBAJl65vwYSqlvwcbDp2Al8uSggn0ZCBu0
+		/jmSC7PdFWj/XlMjAdlRswj8KYVqZ5FW+5G1Tk+L9dQ17nVrwlJDO7NhR50M
+		JusUBUntFItRX7PAGxU2eulekFe6o/di1XBIvFM68gEbKLfB5UNsSofpSq3A
+		9eZ1h+agjprvoeGQC2n5nIG2kp+fm04dUqxM5dwFoV9o0Cv2j7iH0SB0kQrf
+		reUbLhwzKvhEjDYNldCsT5kAwpWhoWM0CCCXfWX9oaYvHBQq8A/Fos0lXMBd
+		tXdpOZkOgo2MCfbW4P7TCk660Y4OAvf4GqoEAj/gl7eTcC4+CWr3y+vIvU7o
+		YvD4m7OK4NeHTR3jTU40H6rEXRxJFLqy4orvNBzZ6Qg7amnr360/3gDEUKYo
+		b9khcje+e3d7Wfn9Bkvm5kdPuhvIEdydrxAVelQ0LaQjFHKhpMKdIur6FNO4
+		JXbqrcIbH+aHwUI/wMnk4vmj80u+BV26uDNjo7zmfNtsVl3fQ/RugraxBGgU
+		o+rHC8lBsTsH6Jyjk33tISTF+ofwLDNxu+1en3Hhc099aMldglbol65vLXIn
+		m2j6FMz6C7bYKKKyIGHW7eOyPDXqIZZcFtwyazgD4+mrZX1V7UZWT3xIUE24
+		gBOhhSJzQb6uqeabd9LqHUCPShdLGZ+dgFsiX8q1tHXdOSbibXpcP6XTF7zV
+		NjmlalnfTeISyCVI9Ci38jrm9eMKE5ulWUOwoRQVXMjmY3j9IkbTkt3ym4kq
+		6BCMDD9aQLdiR+OqZ6LvUmCu+3xFeAsUNHEOAxzLKrlehMGCYJV2PFfx15Fk
+		AAtc3P2pZM/zoEG2iu4q0j9OVW7hZ+N7ne5R7DgNGJgue7ugLLYtL0zN+oq+
+		Gyf77vUOfn9g1DukWjoA/YfHNVxBaSVgEoO/kFEsOrWUJZBZI1wW0tLp4JzC
+		nZ9jcmzSzTSLDhLPeOTYL8zAfL6XLdWLcYzmQhcm6eIw3g2t/Zjs8YcGfbxi
+		+9qrsJc+hW/lp8U0WGMMsF+67DffpSxz44gQtpPaksofJNMMBsfI4ioUFkS6
+		x/Aqseqedw1hdrtfQhdTktFJ4xB/zxnKUOiUzwXbbI9br2qmkCV1y5YcdyzQ
+		I+Te6kKV7ERATOLIkHnb6NStSlpvbrb93sz5AQNwGEazAKRKauOUpMxnN6c3
+		m7BwRyo8QxtBXbvTFkO6rb5le9QR9Dc6rsUV132hjUlSB8m6LGgpPyqfdTke
+		Aan+yzr0Kc2Ezaw17cUhYGpsjhkZ4QKAXXPBmQ/eVfXptdgODn3rHGMloKDw
+		3UehNZoc5UB5CstJUmfzGRzhN1VaxpNBb0jY1/HvpzWkEVshelLNrzCug3KO
+		0x7P8loaYt0=
+		</data>
+		<key>iv</key>
+		<data>
+		d7UiBBSGgQDbbWrUoWhCVw==
+		</data>
+		<key>key</key>
+		<data>
+		FbjvWuOIb3yAT6HB76xFUWP0WFNDQb3IhwmOQd5szMo=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string> on his eyelids, brow, and mouth, as from an urn!
+LII.
+Glowing, and circumfused in speechless love,
+Their full divinity inadequate
+That feeling to express, or to improve,
+The gods become as mortals, and man's fate
+Has moments like their brightest! but the weight
+Of earth recoils upon us;--let it go!
+We can recall such visions, and create
+From what has been, or might be, things which grow,
+Into thy statue's form, and look like gods below.
+LIII.
+I leave to learned fingers, and wise hands,
+The artist and his ape, to teach and tell
+How well his connoisseurship understands
+The graceful bend, and the voluptuous swell:
+Let these describe the undescribable:
+I would not their vile breath should crisp the stream
+Wherein that image shall for ever dwell;
+The unruffled mirror of the loveliest dream
+That ever left the sky on the deep soul to beam.
+LIV.
+In Santa Croce's holy precincts lie
+Ashes which make it holier, dust which is
+E'en in itself an immortality,
+Though there were nothing save the past, and this
+The particle of those sublimities
+Which h</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>10742</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>SLy4DPjGMcwuUf1wF5HGURYS5dhjMcyzLTir</string>
+		<key>salt</key>
+		<data>
+		mILWq1lcCSVFeTUf3b7FmnUZixESPfZ9Kykzow==
+		</data>
+	</dict>
+</dict>
+</plist>

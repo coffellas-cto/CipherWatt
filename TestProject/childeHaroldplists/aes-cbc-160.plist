@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		5RsMh9MHbTxIBX0dnUGs+mFPaH190fLwKJliYJYIVGnFNOcGd9JZi3477Yvb
+		AKffok7IJLey3c0EK1CWb8j2eql9Uzi2pgOEiEK9kcDDd9VqMkp3091niaCm
+		q6309pVISo+C9RpFA/l+SH3mnL85a2HLH8RV4B2GnK075sJT/M65VCh0lvcu
+		lFrK1gihg8waoPfgVbeyGYrp6HZtbj2x1Cr8kRSBmm7hPdcjAY7y9z+A8HNV
+		BNFUS8If/Jz/Ear5xEnsn71uL1SgedLRrHkWk88hyvhaU4SNA4yK+1U1W4Os
+		JmSSGgfVnmH20jWyrDtfyxy6LUdkEHGPSLhr+QabHAN4iUwbIRfMdpKw/+sm
+		yYT36iTUbnmV0B+Z/RfpgZq1dIL1lcLUZLTCgmwxVa/wIdgwu5w0Mf7W+kka
+		YBw/r/1k6gy1OgPKfvl2x+2GGjw2+s+YpQGUYQrMaIOqXkG/KY4F4WVlFDcu
+		2v7kRJFV7Y2LzvXcJEbJmpXtZQlAPhE0CYBE8v/kN20mZXoE79kI1+QGRoKr
+		iTdMxwiRmRctvxdJjVIqFaQH0pr2J/MTYr87vPqxTp5uY91R2h1Gu/MgPhLn
+		glmI9m5mQteACeHEMKgkEtNJo/R7a5EqO3EsqoxMUNLtanAfnqUJGeAPiDcY
+		eZYaKge4R1rffb0+brtCf2RAYhtNd/aH+rGLGZ0PCrXW09UMvnuYXRXpfxDH
+		RWuK2TgWHNrTBFyIQUK/kC+b7aRt2pOesF3ruKFJa3VW9fxC5R4CJQTeTN5n
+		EdN/zy7n/G6z5Cy2WpwlhDCNqEkgpJG1iowZszZCzZpoLWiOMlWue0xaSfjh
+		SlgioVnnqNUQFV+bvS05hMOTlsxtFogf8fpPpFcOI1qSv0yshKwxd2KeZ1YY
+		J3vVyB2UJtMleav0dtAohfN2g8/pX/U6SeGmWHmFwbeRBFmyFmRhvuuZbHFH
+		hKdrS9JMS00XDUFANG39LntYgsv1WfmPC9fvNpNkNZ/giOz3aFJIVo4WIODb
+		JljVFNhAv+Lo4dM5ZRmVvhvYp0ej2Amr+3I6S2gcVL4kPekYdSVOwwbJ/e+Q
+		z3km8MIIqhmHWv0lWNFoV6jzLReb9HHog8WqhueIWPxo2B5yf8Rfpym2F0ws
+		4gq9WkgXsc0lrwnNxRLcJTdGDba6e1f+ZqVO4hdnsJG4wK1P+hERBT4Fs3zF
+		qrqalk9/9OAIitObpQQYaGIPxr9zIYZnCDJcjg==
+		</data>
+		<key>iv</key>
+		<data>
+		ahTUpftusBP0AsHnYuFT0A==
+		</data>
+		<key>key</key>
+		<data>
+		J8X3DoXmM5zfTKZy7Nm5Ew==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>a Cybele, fresh from ocean,
+Rising with her tiara of proud towers
+At airy distance, with majestic motion,
+A ruler of the waters and their powers:
+And such she was; her daughters had their dowers
+From spoils of nations, and the exhaustless East
+Poured in her lap all gems in sparkling showers.In purple was she robed, and of her feast
+Monarchs partook, and deemed their dignity increased.
+III.
+In Venice, Tasso's echoes are no more,
+And silent rows the songless gondolier;
+Her palaces are crumbling to the shore,
+And music meets not always now the ear:
+Those days are gone--but beauty still is here.States fall, arts fade--but Nature doth not die,
+Nor yet forget how Venice once was dear,
+The pleasant place of all festivity,
+The revel of the earth, the masque of Italy!
+IV.
+But unto us she hath a spell beyond
+Her name in story, and her long array
+Of mighty shadows, whose dim forms despond
+Above t</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		goZmJXm2FJ9E7iJlA6lOExFxilr/ONK6+SzSXgHvVSwBhDwnUJNFrM5lKMrw
+		QgCGT+Xr72Mt3cCfIyen/KLuHqUFDkf+YvI9c7Jy8NVTDqDsSzVJrS4r1c+x
+		G0zuJIqMKhYcJChQsKDW/dEgkwQOKF44tcdAOAJueXb85phWjg4+Vycf4g6Y
+		oyGalYiLOYygC949ntmwVoV9RFwDMNxkfuO1bLqZkOkV/YIgqCov+ZsYSL53
+		PkNyDgzAzvLpS0dGt73k0n95Uojb40sRLLZWrU6jN6JePBWAje5znJLccSIE
+		alXn75MjV4RXHRc5kZC+AauPYCzf6QgJZBwHRlzoiW2jNa0ML2G/52p1hT6t
+		LQchjkA4eURHE+TJMbqN9GuTC5SD3qwigJj/6Mtw/YP4miOyzt/nCkZ/SiaQ
+		mO6JZpbEIN6jwj+IP1bA37P48eiwwuZC124dFUJh7MGI/9TlTMoV1h0TX2RG
+		/SuKSvj+vFAX8QrsYw+b6cAJBQJP5edRI4R3pOF/phg8p+bS+mObkn7obmrw
+		E04WVFg3Jd7LwP1CBgqAn+ZFjivk9Ffrcg4SuOrn+6qlQaKT5o4tli9FJeIe
+		1faccNqidiFwZ1ypfb2OUv0eoO9lOZ9ybxPNdpp+nS9ohI5Np1T2C8z+yQsO
+		+5yng4ZmJAzT5zze0VRXRgB8sTdY1mx8BVQIqkkrRecAN0BPuE8vsabAJybr
+		j0iA1hLMWojtqPbac2uUsw/tRa2MEDI66U8BOp8SJse04qyQdsPLDZXUYiud
+		XkyFYWLKG+V7BF2EhekDR0mIZPibuxyX7+vG9wVbOs4FgKlaARfIywct/vD+
+		7Tf3bgSJ0y4TGghXPQ550jbRMDyve8MV2EjjN2bn3EjXaz2jWAkxiSdpIB6v
+		jau7mukQLOTmvMsmaP0ym86/p+in+aj0V1TMo7WDngUB+6b8jtQiPH6RUzMd
+		FNnW50DsZJCeTaWavBLp4zHmPGesEwm6mT2z107B1+FTMOKxhLANtpKNfa5w
+		K40Kh8OYrn7nLUczLRuQLCc7hMIgIP/Z3FHCpwvQZ6s9gTQHcJLb6qjvLasb
+		P6HgwKjoMLgZv1VOgHP9clLnsb8sKLs5psQnB7QDDVqs2ZVPrieSHP5UTW4D
+		HK06UhsWj9b+MfiuoU6Og0XF69RHhY8pkJ147d/64SaaHWRMrKZM9rlfnnsa
+		mShHc5NxfcMNi1f2fgVr8NZ1VW7S+jn+dnOgmXLjiMKN1BpVb433FlvqUQD3
+		tExs+24yd48LKoksztxCHlwNS1bjOydK7711JXPuAaIEqjNRSwcA+5sgMJ6X
+		/fTwborfoeuM6DATPXu9wNL6gHW4rcawhfzbDl+l1fszUGuLA36mN6wWFPdA
+		hRADwyMl/7s0RbwMjANMh5UGL79C7lgbiEsgeaUDRZ9YO3DAbfANBJumYGIv
+		fFutLkhJyGfNAMSKpWmT3spEf2j10Avu2L2yxZeqTa4CTQA5gU+ol16jE4if
+		ASrkcGm7dob6kfTnCQDj2XTBCnngsLn7EQa8
+		</data>
+		<key>iv</key>
+		<data>
+		818qVuvDW0PAAX4ZWLMANQ==
+		</data>
+		<key>key</key>
+		<data>
+		ShO1XBWvpto5TndkkuPH5g==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> and bleed.Peace to the perished! may the warrior's meed
+And tears of triumph their reward prolong!
+Till others fall where other chieftains lead,
+Thy name shall circle round the gaping throng,
+And shine in worthless lays, the theme of transient song.
+XLIV.
+Enough of Battle's minions! let them play
+Their game of lives, and barter breath for fame:
+Fame that will scarce reanimate their clay,
+Though thousands fall to deck some single name.In sooth, 'twere sad to thwart their noble aim
+Who strike, blest hirelings! for their country's good,
+And die, that living might have proved her shame;
+Perished, perchance, in some domestic feud,
+Or in a narrower sphere wild Rapine's path pursued.
+XLV.
+Full swiftly Harold wends his lonely way
+Where proud Sevilla triumphs unsubdued:
+Yet is she free--the spoiler's wished-for prey!
+Soon, soon shall Conquest's fiery foot intrude,
+Blackening her lovely domes with traces rude.Inevitable hour!  'Gainst fate to strive
+Where Desolation plants her famished brood
+Is vain, or Ilion, Tyre, might yet survive,
+And Virtue vanquish all, and Murder cease to thrive.
+XLVI.
+But all unconscious of</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>15824</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>dFRfcqMIVchTsaBISYR5YkQeLODv79yc3ZPmiR1q5OXz2pDVO</string>
+		<key>salt</key>
+		<data>
+		yxEi4fG1YwkA
+		</data>
+	</dict>
+</dict>
+</plist>

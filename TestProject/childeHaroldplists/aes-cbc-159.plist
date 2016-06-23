@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		UNrZPvk7kQGRGb+MCgQapeknwG7v9ayusoiB2G4mAP8m3Gc/ooukT2lpbVfH
+		EUPS+yB8YhDVE18TtV/LaNtXv/jEzmpxQ+ukbLBc1Wrkt/eYpVfxQIpZit5M
+		3A5aGp3t267I3AXkz9uNi21DPqk2tsIdAjvAdDv85HcTvnY0bTQsq9qhqOeN
+		aMmTpdKI4yi+ksAyY/CS/1TRbVw2G+bPTRgz4kgxA+HbmxCMzTMbVlE4no0r
+		s670LGMHsAyanIuKQXtXfn0v0yV3dXxmyDzyt2tG3Y3FZLDHio4gyjALAOQk
+		h5vpOcwOUOWaxOVGZvpCHeQHgNnbSt3vgfPsBgMeU2LiNqB/PZsebmZJ1BMs
+		Kay0dGqwFhgr8y0/yhkfYND6P208WMJWSWi5ra+Uc70PyYTIdnUltTz92AeI
+		e/Qd1/uU17gjR/UxXRO549qmRglb4KlJ2ps4bsVsPggAhlQ0dUW9nKlaPQ3X
+		4M+si+nRt/kU8cBw1u6C8BjyE7pyE2dTmzwRjLFF7aWOFJnzQIHgAw==
+		</data>
+		<key>iv</key>
+		<data>
+		3SjkueUTpYSOa9HRmauLWg==
+		</data>
+		<key>key</key>
+		<data>
+		t0utlPkvbhjNJGS/ZQDawVnm1QahsMuC
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>lth her mightiest deeds hath done,
+Meek Peace voluptuous lures was ever wont to shun.
+XXIII.
+Here didst thou dwell, here schemes of pleasure plan.Beneath yon mountain's ever beauteous brow;
+But now, as if a thing unblest by man,
+Thy fairy dwelling is as lone as thou!
+Here giant weeds a passage scarce allow
+To halls deserted, portals gaping wide;
+Fresh lessons to the thinking bo</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

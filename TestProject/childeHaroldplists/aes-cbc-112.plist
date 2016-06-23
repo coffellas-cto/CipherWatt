@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		9L/DPE2bf0P+AneMGw2zZdJODxnBy011ryVEuMBbQ0/Loxf+hj6DEv1YPsjf
+		/5hgfidVH7SkiQ6YWzkQ9MVklEr3kxW3eDj+wvGl2KUt4oN1DQkj8TJgYVjq
+		AotKyfrheGaDzWT03LwHciv34hy686y346ch8eh753jTbS5U/dXPbJHo76ET
+		cbDGnHTu7KwCyYagumeO5HNXe9WrbfQbmwNZxq2SnjQmG75h6ZWPz7LMQ6MQ
+		CC8fHfMkwwnFmkqWS7RAPVsMwgzK7mFr49kBwukpYDStr+o+2zYZI4EjLZaR
+		ZTyLyj5XaXTmpr/sZxTVV9fmi9WOQlX31iSESeyiDhTTsnK0cTg4ElhsJJm6
+		c6umOO8CJrEjq1r5mw5h3T4vOxyRs/ELsr1fMdssYCxicctGjHTN9AQdAWEs
+		SosFKZaXbYbZaW4thvBlaj51SIQd1SiW1WR00i3UYNmbBLVFBVAxe2vIlRP2
+		N/o7C+c2iNRAo/Ow0nGHWyV2TKmPbULWrX7UtvBDpMoDHROBw9sH3O1Vhu1+
+		aTKYBeLg8KtMms3Y1H7BWxj6pPxgG3mxXee0wcek1vA7mFv/4Ff4+tzGXDcY
+		pql1I0d2AzA79TGHtzYb6HV/CCHkIjoVGWuf2GqrWP2/OLBTQLp41Z79bO0D
+		0DInehqQvmBL2wkOYdk296MJZG30/p9V0SULU/GQQlratoF3Y4pOdve7HFOP
+		KhVN93WCF1MD74pzMNnTxL4IR1gf00aXM4zmMbR6iKO4xNqaHynnyr21duwf
+		4CiYDMu9cHE3cZM1hrPeBCBW+GIAUVOwOwK5zBmw/Vpppbth18GGoSGp6+2D
+		xoNlLywUf/nkQLz0+w5kU6jDxE2eOCHvhHJrKsQjMiXesnyKF3dj19RTcXig
+		IS4C1kRblvWDyaRtXT34MSX9Sih5DRr4DaE2lVlqhDa/Q39EBbTzPRKeanl/
+		dpj+541itcVuEjofFmW43hKedxbUoUofdSQ3I0aLOXa5U5sfnDIweJNGJOIP
+		F/phI9nWnVP3lZBsMc1RXC4tNFGthV3rOJw3MLbt8DStkW5nyFPcUBoOigXi
+		zCeksN1IoWrS52BsjTkUvQeKnGiv3Em38HJG+SG6Z95DgmwMfsJhcDvmqPVV
+		0fWhkGdjO7jywZd8KEjU+v9Hvh2eBZcfZ747XbshEaiW+cPiJZWZ43aPow6d
+		9IJBVwBdko++ThqwxQbOYyZFMHbMenc2kJmk9tjquiQ0yq/Q4/dypt7MAdLP
+		3qFS+cPbP7aPK2sjezaO+AmH0tqG7yFATzRZnY1wEdi2Z4q+LtQCRPoUsm3o
+		Ag/GplH8yXnrHtD6yCyx3C/JTpTQ2nFL2L+SPvfJHrVU9EEEnibCGvj9F3Nv
+		V0y65ib5R4ZuY9+2GK53vbgLlUgafHjBMmZD1fy+rfvVXmbaMjSkN093RC/o
+		ko9GtjABs2kcUHPPkZC0CyrPGwxd3hcyLQV3LPFLyYKMusWOyJhq4A==
+		</data>
+		<key>iv</key>
+		<data>
+		XD2tz/wDA2DKcdToA3fCFQ==
+		</data>
+		<key>key</key>
+		<data>
+		YeNibfKDWgR8FDDInxN62c6OxMhoRrrM
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>Or league to teach all kings true sovereignty?
+What! shall reviving thraldom again be
+The patched-up idol of enlightened days?
+Shall we, who struck the Lion down, shall we
+Pay the Wolf homage? proffering lowly gaze
+And servile knees to thrones?  No; PROVE before ye praise!
+XX.
+If not, o'er one fall'n despot boast no more!
+In vain fair cheeks were furrowed with hot tears
+For Europe's flowers long rooted up before
+The trampler of her vineyards; in vain years
+Of death, depopulation, bondage, fears,
+Have all been borne, and broken by the accord
+Of roused-up millions:  all that most endears
+Glory, is when the myrtle wreathes a sword
+Such as Harmodius drew on Athens' tyrant lord.
+XXI.
+There was a sound of revelry by night,
+And Belgium's capital had gathered then
+Her Beauty and her Chivalry, and bright
+The lamps shone o'er fair women and brave men;
+A thousand hearts beat happily; and when
+Music arose with its voluptuous swell,
+Soft eyes looked love to eyes which spake again,
+And all went merry as a marriage bell;
+But hush! hark! a deep sound strikes like a rising knell!
+XXII.
+Did ye </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

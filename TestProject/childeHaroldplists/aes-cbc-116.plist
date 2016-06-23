@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		mN994SzsDwMFDEwOz242/ZadZXqiA4w5HT+uo2q1TfuT7ur68z4+2Tg3ztbP
+		FK4eYik80h/gum05vzIsGdlt2USu7JjLJA2sr/kJfCPJux5zf3q0DnuoGPDr
+		690HtFFuZpU9LzL6bGnwRbswAwkW0lwLyewzap9zBOXbcHhRZE+yQVK8A9Hb
+		o7qZxnzCdnFYn+F+LlQo2XoQMTC7Zcq9+6O09jiehdXwBHLbqDKziU+u59yj
+		uGElQ//p6u/8lSkmfQeCMWLUToOMPloryw8o4XEi1qWeCJ6dhXKsCBgDBX/q
+		FjqS1cCJ6FsWwUsFVPhUV1AYZYxI5i8WHmP+f9QNcY9ynabWMNDXbit1IPEW
+		42dKYJHy8bulRuocl7r8q1Ucsazg2y7i6cLvQe/mg+EV51ew0fHui4AqBYh8
+		pLYMZv/tnDJqj0AKPXjtWOiVNBi/D1LpseYw6cElY+DR7qyCNFBJodGOqK55
+		r4IAm7J6kKF8ihMtvBAUGsXvfidEldG2TKqOPauaJK2PeiuVgMyZ5VW447d+
+		X091K8KKIVcKC7huJXaeVjqstdBN5PIf/KOonT2HWasagaAv8yrwpmQYwedS
+		a6sGsMlEhlyksHdouIFw1O0WqMKBMP6A80+Leh+yeGUwGHUQqiV04x3fRLSU
+		rPnY1xQ8kqa8B+tibjrsHnVlXdn37LjBwYYVu8eLJ7Yv/kQAhQNR5MlJqxn7
+		ADGMCpGA7nuWFO3bbs6baAybmFiH6lFNqyfEb8tzPjgtpfcAgIOK0EFpTG6C
+		Y8kP9Y4xmX0QRMt6HDBVnIjXytheXoZpwJPj3q207H/NIlEyr8Vb7F9GrogJ
+		ZqUDvvHeNyq+ELZPUnXnk4YcfsjNfctzLx3nmIR9NQlEJrA/4u2UGsq0boKv
+		pXLa5JnKZAfjCPLTgQf+d8o6E4h+NdUsD9wKwkoR2dW89vZAGBk5m86z+JVU
+		55APmrUVylz1JL+C9iMqMA0YFTtHNTds7rERRhYufJhM0rufuM4aqLnQ+GNe
+		OvppmvUhr6TZ2sw4OSETrhZqmM4XrfB1ft/7U6W8klKiSmBm094Z5kRWHQmT
+		LGsewavoRohJgYMsW9nSCgMdZi2DvPYqoKZ4tMbFpiTUFGJTTe+db06MMGCJ
+		4FnZzGpQ7w2L92YdUvLg+L6jHO8gm+7V5K3EnqvnUSTr0dZsUAZ2CoOE+fnU
+		PmLkZjMbJSFRhfEtffDmDhWOrOzQOT8QQFkKxiXAm0Y1uc959bADspvuE8mY
+		+HEJ0+LzeuX6PkoUSbE8Non5rpZnCPdhqauBYQAc1g==
+		</data>
+		<key>iv</key>
+		<data>
+		lwjbQ3l/cj4EEYRZTeKDsA==
+		</data>
+		<key>key</key>
+		<data>
+		OJR1wmVQYFwttI2KUC7FNQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>lowings speak his woes.
+LXXVII.
+Again he comes; nor dart nor lance avail,
+Nor the wild plunging of the tortured horse;
+Though man and man's avenging arms assail,
+Vain are his weapons, vainer is his force.One gallant steed is stretched a mangled corse;
+Another, hideous sight! unseamed appears,
+His gory chest unveils life's panting source;
+Though death-struck, still his feeble frame he rears;
+Staggering, but stemming all, his lord unharmed he bears.
+LXXVIII.
+Foiled, bleeding, breathless, furious to the last,
+Full in the centre stands the bull at bay,
+Mid wounds, and clinging darts, and lances brast,
+And foes disabled in the brutal fray:
+And now the matadores around him play,
+Shake the red cloak, and poise the ready brand:
+Once more through all he bursts his thundering way--
+Vain rage! the mantle quits the conynge hand,
+Wraps his fierce eye--'tis past--he sinks upon the sand.
+LXXIX.
+Where his vast neck just mingles with the spine,
+Sheath</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

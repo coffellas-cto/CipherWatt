@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		XVVC7GSoE3k+QL+WvCAvv1i2gYtpmf89SDn2XolwA+JoviFxui4hYxQ04uZc
+		TyJCaLwLQ/Bu/mxavoANmGDTf/RiBaFeITxYsdrQamWSyoyK62BKgz9d70nF
+		xsFMs7MstVFHN3aPQccZ6T8wAf60/VJM/Kv4WEXLUAVelmgX39D/G0iF9mrh
+		i81oLcL15722A2ield7ZXxd7sGj8LzhQCjR/Hpsv6JESZyzBRPd6NO3+e4I/
+		CuFSbnAzW/yMoMw98Z5nf16r7/Qq7KGGdZZfE3Xx4OsPQrxJ2fITyUMdQnBD
+		eBZxHI5+ySn6y2fW5ZSqfc0ZLsiEaOOzolqhJLXlsaD1vUq6X17BZMXktr8x
+		E80aY5PqsmHsgMlYGl3b1W/ZLIS+Md7Ta7wq6MEnZj5bOhzpHIv63XZsSBEC
+		ghj1W5UC16Zsg+zpeUfVDqZnY51q0mAztNixls2N4ICGtXnCBFhIZYh2+pxX
+		NIixMSdsuL9i0MKKTHUVhYHJS3R8nO08TI6SWeu3k4I28HhqT7i9Lh2+mwxj
+		k3XmRgsz8C0ZcmmIuQFUZRgHKavb1eI75kam3byBvrKaCUgjWZc0MHYXnOZF
+		q87ct70asbGmTCkmKfYKbYjJ2WEIMS/FMygMckSZy2TZgtnuAJMiQegriyne
+		WHHJdPC0kVMa3tifeRZgmi5Uat+c/zx7a5sXHXvqH7fGfwNg89MBizbK3frw
+		Q+6I6qwEFsAdjYG9xSeUwI5J8WqSu2ubO7pvMDRAdfPzvqSRd9vfeJng9le/
+		kZcnKmhleqfHMLTmORQ3Uzz1EJeyhMb2f05UOWzUWlXld/qcaPRS
+		</data>
+		<key>iv</key>
+		<data>
+		D1VX/66YdJUEg7dNm7gQEg==
+		</data>
+		<key>key</key>
+		<data>
+		w0mK2SOxJwDEDbYK+TBkX+2LHyH0OySQ
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>ending of all beauties; streams and dells,
+Fruit, foliage, crag, wood, corn-field, mountain, vine,
+And chiefless castles breathing stern farewells
+From grey but leafy walls, where Ruin greenly dwells.
+XLVII.
+And there they stand, as stands a lofty mind,
+Worn, but unstooping to the baser crowd,
+All tenantless, save to the crannying wind,
+Or holding dark communion with the cloud.There was a day when they were young and proud,
+Banners on high, and battles passed below;
+But they who fought are in a bloody shroud,
+And those which waved are shredless dust ere now,
+And the bleak battlements shall b</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>18733</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>Z9EE0yocCNLPn3HvYtmryQRnCWd70ChyZ2YfJnhgd</string>
+		<key>salt</key>
+		<data>
+		BO7+kr0i96pYGUr7ZQG/bjUER0joM6jVDcuU
+		</data>
+	</dict>
+</dict>
+</plist>

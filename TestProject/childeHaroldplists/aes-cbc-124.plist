@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		GRSU6H3nwKyDagkzAWjZCEFgl0u6Z3y2qA26kCSzQ+dQMlimC99ipdB+Wwg7
+		+gCm+SlawCUGxbOA5KDSs7WGQUYoJjmHuMVgz5dQ/Uhfw0ku544vkV1NVi6C
+		kz4b0QlRs8jraUEuSqemtA5WWjGRXjg1H5QsXNTX7zCB7Ug0EalZ3Ugr9bdW
+		YUPG+TYkST4ZAhg0jblyZaJqNJtw2AvGM5K4IIT+m1UAy2SBV8S1lMTZfquS
+		f0X3AMwrSlm9uDh/XYS+RfHkOCJcmoTVW/ZZ9wkbjATqdLZCFqRHA4M9GUUe
+		nABh4viPJfnek7gTCAxKDugNrof3j+kWJEImLSqTDNNp4+MLCqsTse1ibbx8
+		aeWnYq84cYNaluibj5qKIah7ZKT3wLKzZORZ/Ot79noqVdBeHXak+KepDBhg
+		C9MdE86+GURXpYueZlSaQaHcUDcnmapjkbPT1iiaXhJkMSwTPHHnV+qNo9KM
+		Oez2voFozm+kgVjsCpG4HSgmuVi+h2oTD9uZOPh7zTj+o3Zhi5JJ36dqzi91
+		Ii+JVXXwF03EwGjg44+QGCNM+vVTGtrxyCCFEZKeeAOXexihlpP3x9qZQrrR
+		OjNKsx4iYFNYBCTK31q5MW/pfHPo1+GgNXvptKXNL5Q5E0PDVeOF/rtobT6Z
+		tdjwKwij1feSoTb5MuhnMirX7UzBcvSzjbYMuMzHmgOnoBe8UwE79IXx/ShN
+		Uyynso1KTCrLF/cloT2rBJ+XnLqIdnrDBNMKCYUkcYKwizcj6rrXjo3tcgOj
+		OhvEIXqzb+A9pY+AF6L8OtyNe2jhPjeWGRpVLVIFEK471iR27HD4
+		</data>
+		<key>iv</key>
+		<data>
+		wI74gHu/c3BD4D6H0mJDgw==
+		</data>
+		<key>key</key>
+		<data>
+		2YgR7susF6Bt7oaEd2O6paj2CTggNOg5BOT9I9rskAA=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string> are so desolate but something dear,
+Dearer than self, possesses or possessed
+A thought, and claims the homage of a tear;
+A flashing pang! of which the weary breast
+Would still, albeit in vain, the heavy heart divest.
+XXV.
+To sit on rocks, to muse o'er flood and fell,
+To slowly trace the forest's shady scene,
+Where things that own not man's dominion dwell,
+And mortal foot hath ne'er or rarely been;
+To climb the trackless mountain all unseen,
+With the wild flock that never needs a fold;
+Alone o'er steeps and foaming falls to lean:
+This is not solitude; 'tis but to hold
+Converse with Nature's charms, </string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>15112</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>fM1MAYoVc4d2aUesHKt1TWpxzZzGLP</string>
+		<key>salt</key>
+		<data>
+		Ix7u/3KMtgkkdZGR3+JFOprQo7eocQ==
+		</data>
+	</dict>
+</dict>
+</plist>

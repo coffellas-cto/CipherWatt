@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		XWQQI5P3WzpgsMNuTSGbddywMV7pq9JPzXm3QP9H89FRlZUlrsaNnd9EsW6B
+		GeMx6CTmvAQeP0qpMAEIVP90LpPHWbvotxk9B9bBXad9MAXduv9ftxPB8NUT
+		N7y5Heid4IFEyHZDTrcr+XJWGEVw7O8bYUkyfUwYmE6EPNY2X8OO/0E0Arc6
+		1TcniTXOZIjhxSObKH8Jpe/0428bZJHjTiFgN2CXXjk6Cp7eCbYQxK3MQ+kb
+		06sWKMozAZXx31JMfZflOvqIztxZuv+AucZr+wfswsQn4FWC6qRhR9P0TAMY
+		fIXRH1utZTxpHXx/Fs1JNezC9h0Ku4VidPwHEtMX119xYDyiRx5wIcviLMwF
+		D5UFIG+ejc3rL9vcwjxzzro1hWHf1AIbhHiUV5qKp2YHX4kzY4RpYEmfZIcL
+		EbdJ5+Ri5qRUWHOP4LLgKYTd2mSm9VevE896skQ5tqgR4VEGkA==
+		</data>
+		<key>iv</key>
+		<data>
+		Rvl83G/6wEiZglxmwjtVIQ==
+		</data>
+		<key>key</key>
+		<data>
+		QgZDnNDwOH+6jYFhY/8lTKQXRnh+Re5EAPriLgLmTUM=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>
+A flashing pang! of which the weary breast
+Would still, albeit in vain, the heavy heart divest.
+XXV.
+To sit on rocks, to muse o'er flood and fell,
+To slowly trace the forest's shady scene,
+Where things that own not man's dominion dwell,
+And mortal foot hath ne'er or rarely been;
+To climb the trackless mountain all unseen,
+With the wild fl</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>19145</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>DSMngOjoHkVji3INka3JBfQgPnTzhwxltj1LW0erCjywqZD</string>
+		<key>salt</key>
+		<data>
+		mHwyPQV7joE=
+		</data>
+	</dict>
+</dict>
+</plist>

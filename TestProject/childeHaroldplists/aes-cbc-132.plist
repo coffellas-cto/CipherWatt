@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		qTxmUPt1ecFm7jJNRBvOwR5TXbavYWTjEGp+xsC1Aj6AyfLPMGyeprKY1kO0
+		zAN5VaitMBrPkSCO2WutGIzY9zBisgqgYp95sEqhV0YrwbhKxtm2IqhYK7AJ
+		+bHa2qjrT88NcteBdFCDuMQ0Ph5FwMXxm3M+/P7e5C+JalL9G+f1kAGb3yC1
+		XRb+VwPkMreQWtgZnUL+nmewvQbcu2By0uZOYIAGnE/ikn4XDfC/JDDXNrls
+		zKkhQkg2zbgJw+7G3k4JKxZX7WZAMhlx2KgPqIcEhiyfObbTNdtoYoId5IMD
+		k62jyhdyhaKCrZyTTnDanQULafjLlneu3jd6zeWTqyenrPrjtq9AGPVOGWJV
+		LaPdVOizjX8sHn1N0cRE9dD6Nre7md2zug3ouhdOCTyUOFmeQMv6iiMP1syN
+		ZpnCrauoPyjtQ+MkB1IDQAbqzgpgifNEa2/sOXHa5fQepj55ix4yG4XNgDI+
+		c3q5A1sX5yv+q4V1pNkrfq30lCMIp5iQhqerNSmFT1+5TD18BQ0eKPlaTav+
+		ZEMDm7k3+xWCP6W0XAUKZd5XbazXIepXTG4WUsUiscc/h5tNLsH5jLEOmqev
+		q8G+o/6McTL8h9OZMEEEUBILhR0ziR1rrfemZvdT6nc7XF6y5DmMIviVzRl1
+		YHQDWtSulQpyqIC9wgtf3J119Trb53j2Bu/9a6xT4Fo+mOle9wiWRjOxLZBV
+		M/PAVTQV3eT2T5JAZH35JA+R27aF6fE+so5qISMhjj/hKnQMscQYYk0z6XBE
+		oMABxz7OcN/o5kzKfwak/yM6SK3BCV23csB1Cy7ijlRWIy2sRtEv4Jei/6Ho
+		VwOwxyiNnKAw48AyiMzhOY7g3WxwpMVF3FU4lgfql28Q6uOEwslyYfSlHSaZ
+		jUAnXAXhqTYTDRnvQqWSeZRBIdYDkb48MFh+0KRXsa9FSVS/l3XEhjF8vi/4
+		0zEQw042/7opx5KuEtTwbt71PlOi6XD91t8Q/vlvsaoi2NuiIWGZXIOjH3Jd
+		r5KaI01ZTmPr6y6zkbl+SNHK5w==
+		</data>
+		<key>iv</key>
+		<data>
+		hMlmAiEt5qn+oE7DQYbq4w==
+		</data>
+		<key>key</key>
+		<data>
+		GI01+AQCJWnkfTjEPS7P9PZN2XFPbuL7
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string> ocean many bays will make,
+That ask the eye--so here condense thy soul
+To more immediate objects, and control
+Thy thoughts until thy mind hath got by heart
+Its eloquent proportions, and unroll
+In mighty graduations, part by part,
+The glory which at once upon thee did not dart.
+CLVIII.
+Not by its fault--but thine:  Our outward sense
+Is but of gradual grasp--and as it is
+That what we have of feeling most intense
+Outstrips our faint expression; e'en so this
+Outshining and o'erwhelming edifice
+Fools our fond gaze, and greatest of the great
+Defies at first our nature's littleness,
+Till, growing with its growth, we thus dilate
+Our spirits to the size of that they contemplate.
+CLIX.
+Then pause and be enlightened; there is more
+In such a survey than </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

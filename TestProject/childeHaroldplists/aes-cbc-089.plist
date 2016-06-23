@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		DGGXqGVybTibY+paXgPTytwvXJxQK5FIarXPGI+znqD+8FNpOuGDYgmCP6tH
+		1XLLdPYo025lhrQLlCiZJ7dyJh05QiVYU4/FgZZ10Kxrg0GW9LlpPm/r7lk4
+		OGSi6LgA6C4JWbCSZjaswgJUUwuezCMVzXEEOhjf/H6yttZjJ4vGyHKyx53L
+		6L2ktadkXCE0AKvQCbNsQKLeOz48hblZfbU8tJcTdpYCSpdQzcWAckECCWdz
+		Q03KTRBFz7so5n/yYtaFiScjzLKUnmNlarKM/nQV9tGnS0l5FmeheH/Mji+t
+		l85TcyAj4IBBjiCU0rHc
+		</data>
+		<key>iv</key>
+		<data>
+		3oebG/U2RFmlNdn+rRwJ0g==
+		</data>
+		<key>key</key>
+		<data>
+		Xn6p///xApspCAYRH4n7Uikr8AY0pFka
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>ine in rocky durance stowed,
+The holstered steed beneath the shed of thatch,
+The ball-piled pyramid, the ever-blazing match,
+LII.
+Portend the deeds to come:--but he whose nod
+Has tumbled feebler despots from their sway,
+A mo</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

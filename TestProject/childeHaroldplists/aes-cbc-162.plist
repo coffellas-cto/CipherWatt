@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		zJ3kkOylz0xiV6pCozXsuaErX17PWoRrF0mVMWVW/x0y5Yt6PiufqLoTT3MG
+		EVHgnp5mPbXzKUtRWPdfbmlcCzNLh17G9he6c46PrPIOg3JBL/vPIJA8h8J+
+		HlZtTaz+nNqrxxeOku8viCB50ja/5WwryizybMgWd9gqWPvEX9yih+7B2S2v
+		1KAHN15kTxXg65bGQLz1BULUBeIVvx1cdEzCXdXD9Sq8UTxJqdDtj3ckRjVG
+		ctPXxojIqMSRVQhTAVr/lc8ooCGCCG7u7qA92zpJQVcr2T1o+nvOkOG9+VOq
+		wlqIDmUe4Bnr8Br5brF2spwd4NdJQL+EOeMz/CYByHwLS7HY1FbCJO879jRb
+		K8lAtyBGxN6JSkw7X9wyw9GnRjEktjTP66Q1ZwkdG+02vplyZgwnsDJBo7uR
+		kMjNsbKG8Wh1mix963yWhCFCWpka3wEbua5xFb9iPt3FJCLxfDocid2NjBVZ
+		mfJ8299mfG8LJvOLocvNhZfIxNTF+saMQ/mwXtHeS5vx46Qh6+SWx5NluGvw
+		KwVBkZiVO/A5x4HRqogeEENj5j1K8AVzceJGcUTI2NHFn0WUoHdpi2B5TlLt
+		iqX7KlLKvlbHUoUJFnqC5ySeC1aCqK5+9RfYGDQMPpX2HMDAzDngdGPS1XZx
+		so/QQpkd8koGxKt8b+B2e7rv1NExTU6hHYroiJaizjHWd0EfCgSu+ceNeNgC
+		2r/lxeXOS2cS1DtHVnbM7HK6s48rADDvq7Q92TivCl/t0OMeW8tlWMpFMYRD
+		nSKioMZylMCKzHfrZfJ/HzcqcZLGWdq0R1tmFe5ple03aX/8GvsHLomvWt7r
+		0UQrLSgMwmxKwHG5G7/cOzWIdWQLOgI7cix60xlqpNhviQSzi7b7Cvl2wvjp
+		FKva/LLA7u3L2Wp+8jSWJ4nfUR60QHSs9FBpSIoMfY99PFk1n8m9dp6Z3s+G
+		WhOAbV96VOgkdOggRW6CHG0KsiTVu5V9WMSwy+IBpbT9SKmrRSdZbKcM/Xun
+		y7ou+6jfqzFU2nDcH0ym+daOXiHieQbwzebZvhQoxEAeB+oWKO6C0IN2x+pL
+		pbvP1hZ7RX+aTA4VofXll0QpE26zgeYDrVvXxvKqISnAfdXKnmfnyTiWgvL7
+		xlO36lbp54QtsM/LClx6k3zqDW+jhAhfdZMAJpLcjWo8mlyGzRIAwMYK9BTH
+		I3WbUhjkhjUUKIO/
+		</data>
+		<key>iv</key>
+		<data>
+		8ezH7sFKKRP2hYXMW3uL1Q==
+		</data>
+		<key>key</key>
+		<data>
+		VUn2+maMXheVoiykkw7aUAQUccBtKKOF
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>stands,
+Childless and crownless, in her voiceless woe;
+An empty urn within her withered hands,
+Whose holy dust was scattered long ago;
+The Scipios' tomb contains no ashes now;
+The very sepulchres lie tenantless
+Of their heroic dwellers:  dost thou flow,
+Old Tiber! through a marble wilderness?
+Rise, with thy yellow waves, and mantle her distress!
+LXXX.
+The Goth, the Christian, Time, War, Flood, and Fire,
+Have dwelt upon the seven-hilled city's pride:
+She saw her glories star by star expire,
+And up the steep barbarian monarchs ride,
+Where the car climbed the Capitol; far and wide
+Temple and tower went down, nor left a site;--
+Chaos of ruins! who shall trace the void,
+O'er the dim fragments cast a lunar light,
+And say, 'Here was, or is,' where all is doubly night?
+LXXXI.
+The double night of ages, and of her,
+Night's daughter, Ignorance, hath wrapt, and wrap
+All round us; we but fe</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

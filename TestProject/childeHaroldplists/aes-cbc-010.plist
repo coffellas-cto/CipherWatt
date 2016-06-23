@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		J4VdU1MlZLhyJ11y8DbkJxUsuasFwmESo4H2VLujpARwZdFTIKYGx0pp+Af7
+		3fuaQ65iB/EPrtZPdiCcdJDbivROWLb8vIoorySlPWRPa4MSXFBI8dAOpweU
+		WCy5lSk4MKv3wLHDU+z4jE3MxW813tJ3nFRHk8pZIBHkKlOng364TcAf2W0w
+		BS/E3hA+6QDu/Iv6wfBMi1hQKLqApuKdPEn0nma1GtqobUbMGxrNtb4mgFnn
+		Edg7ON8lJh7RbKmdY/2K2aCGrBG69gkobVt2BthIDdscltQe4qYL9VfILXQC
+		leepZioB8jotRRNmDXK8mvqxvY4alYTpX8oXLIJ+Jt4v/HLbnKcbM1Vsgvku
+		8VsUWJhU7nKGsUi66SgnrQvPHt2y/IKdduTLh3E+k9wZSuqEShu6e/sHh2wv
+		2a68P9aT4ltX5dy1tTNbX3zdBIh5
+		</data>
+		<key>iv</key>
+		<data>
+		Odab70kcQwruVEwkxP+klw==
+		</data>
+		<key>key</key>
+		<data>
+		WCqe965mM5El7CIFgKUvXi8UKXl+PiZ+
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>cave Honorius long did dwell,
+In hope to merit Heaven by making earth a Hell.
+XXI.
+And here and there, as up the crags you spring,
+Mark many rude-carved crosses near the path;
+Yet deem not these devotion's offering--
+These are memorials frail of murderous wrath;
+For wheresoe'er the shrieking victim hath
+Poured forth his bl</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

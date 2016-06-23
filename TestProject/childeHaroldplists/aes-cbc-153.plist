@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		MlURgI60DBwdoNaY9c42VC/fwMZTmHltYd8C9KXSAaa0ptkij1syXcW/9M0V
+		PmXIaVvzsBtIZiYmSPXJcQacuypfbPW2ywyDrfCWPUGEUF8nQudkLo/XI09f
+		fthu5SjwSYdr64EYO1MQCw25J9DF2/nO0MrwGKxpMVP2KgccTr7D1Bw2bCjt
+		eR3xvp59f+8AKkKTcIdYZOP17hlTRU0GaX+CJmwYn8omDhXtRIkUVTA8PZDY
+		iGKIgM2LBiUTlCuxEwqnzcvfxV/TgiNcpD/MMKPl9tBl7S95R2+3HvzhDYhG
+		fIXtBbJhx0H7UTeaURNePNu50cMXWFf5tTgGvX3k40CHnmRENIcvFbb+ORfn
+		wocmw+R7Ag9DTdw/2Po+pIrzVfNab9hqE5pQN/mIVT3JVM2AI4FeatWH0fAP
+		uqt8kSXDSHXuxqd3vpwxN0PivKUJloW+zNGsq5GXWypUsM/OULMwMbzVkrHM
+		qB5zAOuwi52Hqb88rERF8zpPIHw7NivNJJtlTGPNU41LIOwhKEmO9NlWIdHV
+		ktd3qRVSezS1II7qspx6hxqQV3iftgENQJAscfhgFvHZgLLhyFK/Ua138fs7
+		BSlcla++L1Yv5YUrb6WNCrxval7Ee0bH+zScuNxAZ39dWh62WX7NTcuTlMdp
+		Z6rYNhdS7WqZez85EFg17gM3Kl18cj6vEuGNk/L6qauA
+		</data>
+		<key>iv</key>
+		<data>
+		8gm3Vd74jWPOUEkXnaMA0g==
+		</data>
+		<key>key</key>
+		<data>
+		kNbOml1y3JwqAwwSXT3ceL0P7SIwWJdg9lfNGOmAX9E=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>th her rainbow sister vies;
+There be more marvels yet--but not for mine;
+For I have been accustomed to entwine
+My thoughts with Nature rather in the fields
+Than Art in galleries:  though a work divine
+Calls for my spirit's homage, yet it yields
+Less than it feels, because the weapon which it wields
+LXII.
+Is of another temper, and I roam
+By Thrasimene's lake, in the defiles
+Fatal to Roman rashness, more at home;
+For there the Carthaginian's warlike wiles
+Come back before me, as his skill beguiles
+</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>10562</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>Qus6GKHaT2AO9bUVEwXjD7E</string>
+		<key>salt</key>
+		<data>
+		bQ/NfmKIDhLR2Foh8iMNYWTfVXQOi8LE
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		F6QUbw+uu04WKTtRYO6HONfsC+U2UzBOGrlvU10dc1mBt1mpeWWzHVCaWab1
+		1y2qVcLvBIQqdGPpfI1r9vjQ9j58Aaj/iN7r7Xvol0tf9uOPUhCRMpb7gYld
+		bN8fzR8ajrZHHmw9UuefXkOTgzUElI91iQpE9EoajSOPrea7HgQ0Oe5lO4MP
+		yfp0JWNc+f5IuVPF1/I79OtuW52/kYN8BXdnuanGfebPu4NgOq+fI2rYPByX
+		bQbPbfUL4ODluuM6JtCybEOwz+QSqncgEUr3cwtZJeS0F6Khp+Y+cK6e6+6U
+		9yci2BwT+WcP7tLEYM1kbVSYMkKMTrehZqO/MJ7OHceFEc8M5cr4P7pp4Y8w
+		FLH1F/2lkyybf1rPKwRloo0mA4tCf7A+jWULTgaiL6RtOOA2baJOqPzrpLVL
+		/mZTXAv5URyfpYdTaNopIwTzywUAstwSCv0N0J/ZqUk5bqp/EwQr304LikiN
+		1YU8TUjV+z5NleRzirRNtVuKjaAZBHN8KKANUXJGUVaGAV/TufP07Dvaa8Sc
+		AfvD3w+4AS8D91/tyIqUNXCqJHV23EithgDwKKpBIiUlRgFCZeUxKGLyT13U
+		n7RUSAbp8saL8vriM0gchprLtgFn1kMZc4EMfPrc8DvBtrAsnDuGYpBENDc8
+		cJ4EyMw2Wlco+E4ov1djW1ytOfMf6CuRzy8p0Vi1z+L0v++VTqCHmTAxZfbP
+		2ZF6jj5km5uef20CKanubMqHk+F3Yuq9x73KvCX8/ZeBR+H5A8oeIWmsNvh9
+		FcRu/uR8m8U62DWDb6cIIeBHPo04k0F1R7pkm1hKUIsaT1cgmOk4ZrVK7UqY
+		XWt5ssSV3zHcJDTpxkPMuawI2+/9U1l4iEQ=
+		</data>
+		<key>iv</key>
+		<data>
+		k5fRZFPaO/HzucFCOzvhLA==
+		</data>
+		<key>key</key>
+		<data>
+		4ixtZJxT2gtWtVqdkp/p1LvGAVmxOc5EabPy3cX9ks8=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>d mound,
+The dust thy courser's hoof, rude stranger! spurns around.
+XCI.
+Yet to the remnants of thy splendour past
+Shall pilgrims, pensive, but unwearied, throng:
+Long shall the voyager, with th' Ionian blast,
+Hail the bright clime of battle and of song;
+Long shall thine annals and immortal tongue
+Fill with thy fame the youth of many a shore:
+Boast of the aged! lesson of the young!
+Which sages venerate and bards adore,
+As Pallas and the Muse unveil their awful lore.
+XCII.
+The parted bosom clings to wonted home,
+If aught that's kindred cheer the welcome hearth;
+He that is lonely, hither let him roam,
+And gaze complacent on cong</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>18115</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>LLUMQeYyVOFvUFl4ibqG3cdpaBiaARD4yczFwKid</string>
+		<key>salt</key>
+		<data>
+		2oMqIVc8enCd/sat5VekWUmWxvfiPJP3CaWt
+		</data>
+	</dict>
+</dict>
+</plist>

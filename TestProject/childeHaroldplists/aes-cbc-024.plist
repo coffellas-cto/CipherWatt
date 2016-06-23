@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		aQ2CQIcH17p0NC499YjIPVPt5fjEPTmrVZi86Vs3ebRYPj/pBtgSEMvMKSR6
+		ybwvbguqH0zZFdgPVdkmXMgWFKqY31n7ivZ1SXSYZdWUcX+DgLdDgRM5P3wi
+		VOVeQXOU7LylVIsdBLjj9mzQLfosRLQszwhMN1dcmMl4CNBupOqopFim1hoM
+		Sbg1P+IwUmrbFqUMVYnrXFFYGgY63/l1cUWKUve3AEMOlOOCPZCSbRzg5TCk
+		XPvFtTacFbf+YgvVlxhTSvejIn+J1qmVCl1+HcMT3qx3b1d22lWEAM8WHMLX
+		k68JeOxpltuSQHnxhZhhmGoJiarzRLZ1H/TfyFOc/IpxFrpncp/4Rp8xQOu1
+		G/FfVybNoJV5F4FKq0fs48p7YE8lDIBU6AfXNJQdgT6fO37GOv2meLliEvxa
+		n5mkCoIJrTF5TG2Ej5xRKsB1OJ/Nz1gnRHHsa/E6feiPQgqa1cSH8Er1lOx6
+		naX/zVluuWnmTSAC0OR8/7qXe6sC4J4mG2imAPbEZzsIPiTjLXbT8wepuIaF
+		wSKSuJK34WZ6+BptIuXg3T1YpkdPLIMxKSivAEmbaU67/1FNXYh3UehAytLo
+		zbpQUhUbV0YUgx5izMTrAW/XvWM3akBRJvzV/kN0/BhgPXGvIwJbgNfUQsAn
+		VpNNOphLmQN5aKgNv+Th6QKRLqogJSqw8xhg6hsKIltr+Q+YnP8VRkPt08PH
+		BD1NaMmM5QKOkiZOZMG+dF2JVQ0ojVtw6PPfZphOV+ZX9Hj4wTdBGFCHp5DN
+		n0fBi3elqrhyr20LtjcOjKPShkc8QgxlwJFUSGqRbmuPCtdGvuoAOdif7SfG
+		ycrnoZzxn6H604OeqdPYeybieuQxAh2iDeRitn2FKSX2G4f4moE8XGgDtC0e
+		zwZG9NmgDgdbHOMgCDdAOSbMRDgnjI4sRjRk0JTbYBP2A/5VSviDvTXz/uzV
+		wwd51QvzsA47a+RGRHWbWgMGclkpueq+TbDYDSQLuJEMms6NwVRa/jQvVlSI
+		1Ysz2Iwj5RyfM24OU1bE7SVuLWXaG3zAWaWeZedsENRtIFw=
+		</data>
+		<key>iv</key>
+		<data>
+		8/q4Ww6AlDRhJP+rVsDvBw==
+		</data>
+		<key>key</key>
+		<data>
+		wmjqBRqwU00OSa9jvmAketqODH+/zCayof5oQv13l38=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>t,
+As winds come whispering lightly from the west,
+Kissing, not ruffling, the blue deep's serene:
+Here Harold was received a welcome guest;
+Nor did he pass unmoved the gentle scene,
+For many a joy could he from night's soft presence glean.
+LXXI.
+On the smooth shore the night-fires brightly blazed,
+The feast was done, the red wine circling fast,
+And he that unawares had there ygazed
+With gaping wonderment had stared aghast;
+For ere night's midmost, stillest hour was past,
+The native revels of the troop began;
+Each palikar his sabre from him cast,
+And bounding hand in hand, man linked to man,
+Yelling their uncouth dirge, long danced the kirtled clan.
+LXXII.
+Childe Harold at a little distance stood,
+And viewed, but not displeased, the revelrie,
+Nor hated harmless </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

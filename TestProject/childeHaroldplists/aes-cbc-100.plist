@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		XZjGBOkDZJftlRlCzKu7l0pAA2KLdSFywWDxl8CD2Hh52n84HgBnQD3mHX87
+		DLVREmLdK3tlQTCpO6/q9sRyCFtH59yVxA8Qz+/xFSA5Vj+InN6EVW6QAzDC
+		D8jStNalLke3R864ko9uNrk/8XTgVut71ieLWg1oU+FCApgFEymQ+/2UMW90
+		ImJLefh+FCh0KwZaByRjDHGo430jpcFltKOoANCwwAcJmkn4N9oHoFT9ksBU
+		kXEDUqN1O+rPcDaP0UHy4vQtDqVMSKUc46RS1w==
+		</data>
+		<key>iv</key>
+		<data>
+		+N2C3egFJfkC8Sz3MvUhEA==
+		</data>
+		<key>key</key>
+		<data>
+		vvHFhNcAk8SzLYFP/aK4c/g/gjyTugjXTBQ0odHSaUU=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>d arena shakes with shouts for more;
+Yells the mad crowd o'er entrails freshly torn,
+Nor shrinks the female eye, nor e'en affects to mourn.
+LXIX.
+The seventh day this; the jubilee of man.London! ri</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>17497</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>peLiIenRefoch6poX5XD5NWqcZmwz84BYuuNN</string>
+		<key>salt</key>
+		<data>
+		FnNvuYmH0dt24IWg
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		zMpiAvYpKBkz/gYC+iHADNC/GtrXIoPHxHqGUZ6HmVmK4Xw96Bn9sUp6VLxa
+		XP9pYEBJTnWK3s4qyFeEwwts+g5ZzA4HPTmHfpLHsxjt7BBr9SI0FgwJGp7+
+		9Z6VBn+19N8Q2NPaFggxnM0HoHNjHAd4hwWS/Av4F/e/B+DWRl0gYqmuDWSy
+		g1tf3GrrT6BZ7pCH4XNvXj3DeHhCbqL6/ivOHX3bBWaSYd9MSwBSIAbqMZrd
+		lbwxuLJkknwLZaK6iZviQmkztDS98J9wenRXgJ0i+1Uxp4L+PujfKSa8QpCV
+		BxLDzq50BdTjaBIYf+6Jj9qxnbhIqlobKp9ohFYyPpDNn+DeFD+6CPNYAAOZ
+		1dGyD+d+5Wq8gAPHkJk2veMNwjhRzmPfCwNtP/zTWmtrh2Hec/5XJBl9yHmC
+		cZ0NsCEZ0h0ztXFfUOwFonuVQsAtBO2LSCBh8pSBanBzEVDsG7K8n1nxgFWi
+		8eQ9dKg6+jlSLDFO3gJ+orjanrMeD+ZIy9Hg65tfKLFP2H5wOeNneB+dfVN5
+		UHET5FfXlBrbzXcXm/hK3t9qYeSYRjF3h/0Rz3ltTat/LbuhWABTcAHNgTCE
+		EfSG0ztR70KVUGAVMNtMhWT6xwFGOx7isXY2d6zsOU/Y1pE4f3jlhECucNET
+		Rx5qrAqFaJWYeRwC9z00biRbLI9TatU3qWF3MkLOYvEG
+		</data>
+		<key>iv</key>
+		<data>
+		ZhBxOYF7oLskKxqLrIbYGQ==
+		</data>
+		<key>key</key>
+		<data>
+		u/qsTiTWp2bi+1Nkte7laz/I+2tjF5vMXE45iRCFbyI=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>in Oppression's darkness caved had dwelt,
+They were not eagles, nourished with the day;
+What marvel then, at times, if they mistook their prey?
+LXXXIV.
+What deep wounds ever closed without a scar?
+The heart's bleed longest, and but heal to wear
+That which disfigures it; and they who war
+With their own hopes, and have been vanquished, bear
+Silence, but not submission:  in his lair
+Fixed Passion holds his breath, until the hour
+Which shall atone for years; none need despair:
+It came, it cometh, and will come,--t</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>19674</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>pTKHCKGfpV7onMHfdz17PaoCzg8NuQfvA2</string>
+		<key>salt</key>
+		<data>
+		w2DTgQQ2QnbIv77v0/FK7MQdY66otpW0nY7dTQ==
+		</data>
+	</dict>
+</dict>
+</plist>

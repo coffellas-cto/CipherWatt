@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		wig69esLTl/4r0GWvkxRBLH8EJwxcX1lDl8HagBRaO1OACJ+ShB//Noz8mjY
+		lMlG/hWA5GTucfgv3M0wppmTz+PAkuKBWdqENwZHD4Q0eiFCIejHbE0skSma
+		I/lvters6mZjqDa058l3kAgc7huIzfHshr+t20J05RvWjgiK1ewRdBMlOXJM
+		NPkB8RGNCWMOyWa4ed9FblTOuGq2Y6C7afeX3NQ8s2m6eTMJUh5o3S/gOloB
+		+V+FjnKJjw229xN8nSFtYKQDsWF18DsBJnuQ/edAAbNJ/gvl/jCwMlMD9erS
+		ERc4pjOHm737akRt53lPC1w0YpfrpzVBn6oZRy6WEgpLuf6nCxQqEj2O2PDA
+		mxfi2HtBvZ57o1k9ta4pijvKuoFU1H0A2s1Zyx+mYq0ZSfmSIPfnwraZ2hqu
+		GIC7qj5XZE6S2MOdeSRrWC6LeYEiG7pmN93rxuve+0olzTVMcSsvCdJIeT79
+		VeRYvM6tRs25o+tXzPortEBFMw22lWBzkZPCGmqrzZykufgFY9jaRbzcpDxp
+		Dw2KCC5z3H1diz2+TkPRNehQsWf9UkgJFEmN3L1mLFciN3DXabTlO+I+7epH
+		BxZ2FA7woM3plAn8vRtD8WY7I2FIf5J5DI7ytnwcVUw59QlZXvsUWlvYOLWp
+		YudckGUo55UJTeSC8ewcA+wl6ji53xJ9LHROrwXFGdlZ1/P8bHZZPrNkrnGT
+		CZp+cSoYQH1erEtQzPFeHn3t8YNZ2yyt/DLhKIfLOpAEuguAZ4/51S97npGk
+		owX8gN5Ekc3d74DQV36c8zF6PJh6JJUPAHbzAsgXDcFjXPv6HA5JVkvsf7VC
+		M3E73S+MNr9Tz7a4hSPjutXzkySFWZbepUvI6rooN/IcMYacEcjFioPolq4S
+		OS03YHo8ceeNDjEqYkmNxGXRfnjLy3+iJduLe0w=
+		</data>
+		<key>iv</key>
+		<data>
+		G7o4ANCbA5SyoO7cHbCqmA==
+		</data>
+		<key>key</key>
+		<data>
+		u12esOMzdPcqX89tBbYoaQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> forth a grave for those who lay
+Upon their bucklers for a winding-sheet;
+Such is the absorbing hate when warring nations meet.
+LXIV.
+The Earth to them was as a rolling bark
+Which bore them to Eternity; they saw
+The Ocean round, but had no time to mark
+The motions of their vessel:  Nature's law,
+In them suspended, recked not of the awe
+Which reigns when mountains tremble, and the birds
+Plunge in the clouds for refuge, and withdraw
+From their down-toppling nests; and bellowing herds
+Stumble o'er heaving plains, and man's dread hath no words.
+LXV.
+Far other scene is Thrasimene now;
+Her lake a sheet of silver, and her plain
+Rent by no ravage save the gentle plough;
+Her aged tree</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>12217</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>sEW0DeDovxvpgz5057nLjj0jTrZj71GJjP8hq</string>
+		<key>salt</key>
+		<data>
+		zr18gJJb79ZPLglv3vAaqRiR1CPmfNyvZQo=
+		</data>
+	</dict>
+</dict>
+</plist>

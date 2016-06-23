@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		OBsswTT0VUJT5TyY0gljGTPkgAfT4KPcizDpdQX9JG3u1y03rWKSUZxfcsHK
+		hwKmXgnoruavzqv7tbSxN7/e/DwkO4ZKC9EekT1hCZiMGOC5vHGoIp+2A23J
+		V1LQAkrI7RbIlBALiHo/XpBuciDlm7NmgSVsj/xOEf278z8EkTvE2G8oQk2t
+		70eCNs3erNog2LpMHvtfIlU4ChKslLAv0bVc5ISyG9VQzaasA+HyKJ93jecE
+		sErLgUEZ6Y6OXcm/LRP+MqfaK7V2/70NxCaR0mvXtpoTFAecxvdpBnJNTQOx
+		bT1XmhkWrpFUaB3PZaOX4/IftdZvm/eTCWR8/DPQ71jMzXO2U6eULQMHogEs
+		mpR/JqlQbhWIgDZzlzNDXQ5fugS0ykAPmAY35dFnfzlkTcYWHWdZCQVEbB1l
+		uiQvyUv/BUQjQ7fNZ/8AOFAkfKP2QWtjjX2Fy8iR/oy9Zbfg+dreSLwQX9AX
+		stwgRajNVHE8kXwSuoe00C98z6OvxvQVKO71Tql98vYAeL9PtUjaqP6Zhefh
+		vJKhTO6za7AtU3MZy42LqO/9mhNqHaYPDARjf1qR8DB8kuZBl+x2N3U3nCIs
+		t1hZbnN5MvCHJ+lXe0RCdpuVmOkmEDZsikmx2kDgDpAQozYRTMkMkIcH7qG1
+		ZapwbEQH4Q2tWhpzhv5k849YMKMNEV6byVGErjbSMUAmk+bBc9FZtBO5CvTg
+		zwh2wOa4len17uPZMXEjHM/AOtzqkYlvDW1PC+vl3U68PSlIqMjJKLWrCzy+
+		St3GFlOTqrMiiCW9Ra+pXB2VflwuuKPZAnqBIV5HbTK4TTLxmcK+5cuUBrtl
+		baE+sRrMHOvqc1cYnFE7QqfRHxqXgjGg4rTcS8jmYLDqjRaUS5UMRnx+HTLZ
+		iaA79hBTrrCWTUvN/HPAkY8Y8StufY/vhYC/IFFIjIvLKVfBdQb1mHl6yZz7
+		cbeQE4LdLfeC93dAdnkLwMNKjdPnmbPjAmmlKdsHsBXLQk6mSUJe8scDT8yz
+		szb4klssAffPxVng6qrb+Le99+pcUm4DDd6kvDl10z4jN776tXyPomKr8g5p
+		6oS/8BBY
+		</data>
+		<key>iv</key>
+		<data>
+		7xxcSIQO0THu5tFpOOW37A==
+		</data>
+		<key>key</key>
+		<data>
+		UZx4rGfzpVtpAAJiaQNWvvvEJa6gH2mHo1WVg74wFgw=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>without a stain,
+Where on the watch the staid lieutenant walks:
+Look on that part which sacred doth remain
+For the lone chieftain, who majestic stalks,
+Silent and feared by all:  not oft he talks
+With aught beneath him, if he would preserve
+That strict restraint, which broken, ever baulks
+Conquest and Fame:  but Britons rarely swerve
+From law, however stern, which tends their strength to nerve.
+XX.
+Blow, swiftly blow, thou keel-compelling gale,
+Till the broad sun withdraws his lessening ray;
+Then must the pennant-bearer slacken sail,
+That lagging barks may make their lazy way.Ah! grievance sore, and listless dull delay,
+To waste on sluggish hulks the sweetest breeze!
+What leagues are lost before the dawn of day,
+Thus loitering pensive on the willing seas,
+The flapping sails hauled do</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>18447</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>MVPpD8mOlh3JvBy27bT84Dn2sVGXNNWn</string>
+		<key>salt</key>
+		<data>
+		fr1aRy34Vte20k9MfkDVaNdfEWJ7Lw==
+		</data>
+	</dict>
+</dict>
+</plist>

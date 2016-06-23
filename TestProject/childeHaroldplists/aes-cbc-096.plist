@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		+a2dCTTGYlu5pyyPSUXxHTyK7ECoBnWf2vLoPx2qvDxXvYsj5ov3O3RO/cX8
+		lTOiHfY7Bbrz6F1GCYCoZfYf86ir5Q36Rv69PkVivsMKyYqUpk3A4cxDsJsT
+		U72PS85lTwUiwh80LkHAaA8wPq/5YkHf0cXzv2DWjyeYZAxPacHdaCh3Oe3a
+		0J8knK7fN9uHFnKOFVn7ZfSbwYycOR8XGndVL00qqz2bHh1C2zGvJJ+3PX+g
+		ra6I+Sscxe9SuIjbHMvbtfsJfxCo+Ti9cg//Y50O17RKYGaPn899S+DozHwh
+		B45V6210Q88kDMe1jC+cN7geTekmYfvvhXvm5goGM+ciM9ZazPcbDZdPXI9u
+		VAIQ5fWGXcfcZlGKikZiufZ7Ihagi9EnleoQAK5IQCLElT2WW/xQpq2ebkZ1
+		xaZK18rfGs44R2IbFmZ1NlPYMjnOm8y54TbxO9ZKJ3OPjFNG1yOz9ezEzdAV
+		+hZ5+tADu0aijpYfMxPOV1uvnQgBuaVehA483AEFhmQVPPOxzq6K1ya3qJAO
+		fyvvndbcG8kgrYE8l7fCndBQcPXHS2GRaR6INkngBhKMnpSfpudx5YLeWpB3
+		yfgBdYZFY0luW3YN8BVLYFZqXRVSxw3NbkTy1leQfkRLurngkIxDYv4Odrcz
+		apppq3MebRhsRiiVVkNzJIQhYsBGv+5cAZu9s+qGtehyu4q54xgnv0bD3KPh
+		duQs2r0xwEf1Y5uHhYqJXoSHF5sbmhv4035bjv0L34EFMx+1WrCobF1bGL4F
+		exQz9kZ9rnzahsslnaozJ6xTiDfz4CgOOZzhtlj3ke8WCE1RuWC9N6axKE4G
+		C9ff/hrKskrTVDlO5M8gP82PkH8mtgSGy2dcjIh6Dn6dGoPwfBOXtSiz6kvc
+		kVUHNg0TWlEvu8F+kIuKhJZF+JQHHN1OzFqUU6HSrWicWqIFT2Gke5K+SLkd
+		jFr2EFYYNpXvz/3O/7Gf9ltM7S1rfK8FFd/K8xDKjpUp5Z/lW8A9ZbG7Reus
+		uktzx4eAz6NIukJZb4OcSBwsb3ePmgIPJxYpOEyYq81Jdb6hGxXD/oZyYgA4
+		l01lOMZrZZE0hmsBQ23Ulnvaawv5PTXXiVUDCln6OekebyZSPNjjs81LEXG8
+		DoYmMHLFddmciTyiVujMgFQudqUn+OUV0IlEKFvhvdgExJAEpK6y7WI=
+		</data>
+		<key>iv</key>
+		<data>
+		Uh9rVPw2hmIfvrzgCxlpSg==
+		</data>
+		<key>key</key>
+		<data>
+		ZULzsGQWHBR3F1KYuJluNBteZVT+JSEA
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>, whose veil
+Mantles the earth with darkness, until right
+And wrong are accidents, and men grow pale
+Lest their own judgments should become too bright,
+And their free thoughts be crimes, and earth have too much light.
+XCIV.
+And thus they plod in sluggish misery,
+Rotting from sire to son, and age to age,
+Proud of their trampled nature, and so die,
+Bequeathing their hereditary rage
+To the new race of inborn slaves, who wage
+War for their chains, and rather than be free,
+Bleed gladiator-like, and still engage
+Within the same arena where they see
+Their fellows fall before, like leaves of the same tree.
+XCV.
+I speak not of men's creeds--they rest between
+Man and his Maker--but of things allowed,
+Averred, and known,--and daily, hourly seen--
+The yoke that is upon us doubly bowed,
+And the intent of tyranny avowed,
+The edict of Earth's rulers, who are grown
+</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>10173</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>aI0pMspnBGWzB9SR3V9B</string>
+		<key>salt</key>
+		<data>
+		B4XzP0IAv+gxaz6HapxAkxoiteLxF5iq
+		</data>
+	</dict>
+</dict>
+</plist>

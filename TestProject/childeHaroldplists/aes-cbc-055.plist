@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		tbTPN38wQYBOoxsdi2JMlxrqFRa3lJwRMhXuLyO8yOT/fnooxiT+EEf84yd8
+		UmBQwaNceHdK/65TVtNOXO3iVJHzhFRwwQnniBzQ4bj2KEhqw7fqneSHAoDw
+		yAY6BePu8WMgDyxdsLljf9kcKIm2r6hgkzN1AlmIfNBg3lv6R+rU7on59ROc
+		5b+ZowDp6WdHEUo15WZHuWrxpPtcNpAFIqInj+DK6utdIDUMXejx1WIFkUQh
+		MR3jG4S6ozwgkb0hjchfTszTyAD2EKKRprUJjCh97j7gXe/fNlGG3JSGzwvK
+		9q7BTXcrdcE5CNIIgshjZps5ZiZJfmzwWZykQKDfV+e6BnO31AevT6C4oltL
+		UFMSnWzB6fMXSh3U5ndApR0jz3eGBb/D+9ylbvb9MYhOqbJTQWa41+E7LVLg
+		bKpm4s0f8TDMT8wUvLzB9Xakn/tMxUG5TWlYXNDGhFUW6Cj0ysgrFbwBH3N7
+		j7kvOOTpDZ/J6L4jgFNUl6xzGkakt/akKCZ4IWjTaBFTtG7a3hDK77HKQ+Uc
+		yG131hUM111xrb5DqTJaiooyjKSJs3RRdnBHfhrGKh6Gm/SdgrvZs/jhQmil
+		CDV3PjfaF4PxreXowaVSsijusIvT0WmO1FMw85L+qoY/f1D4tPK+FjnZT+b2
+		PdRzKLJJdJvcFHirS/TaQXE9BmgcCpcpd7tpGP0tZ1joij4Vp4L09ERqt8Qm
+		Nvv+/wR8UEr91jyvQQLH+tCgWXGlUPGFbUPgeXHmk8wKhAvP1bHPKuGQrgPG
+		XdokE5+olif1FLUDxWGrZByD/YpZbz7xzAajYQJuZhaHRebHBfVfNYgvSl8a
+		+Oz9wB6zzjfxGYp0FB4W7wUVGguNcMOweFQAIvZjRYm0eEBQKa8gFa0SHfPV
+		tG84bNjfYIhfJYHnm3iY6kYhWVOMf+p/9hFzHRr20vWbFF5xYkia9Gah0jJG
+		CyobU3G3LMpou0hm+5Z+a8b2dCXELjMWm4PRidWvgibDWK0ml7TOHu2P1RZ5
+		FzUmtE5V1SQ72YjM0xy8i2RKEGYQ98EudeAYChMm/kuuxEQ=
+		</data>
+		<key>iv</key>
+		<data>
+		G/UVIz3YabQmxwiYlrq6lQ==
+		</data>
+		<key>key</key>
+		<data>
+		zeJ9pftBVEg9P8O9VH6+3ID5yOiUHjv8cnK6tIBIxQk=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>en its wind-worn battlements are gone;
+The bars survive the captive they enthral;
+The day drags through though storms keep out the sun;
+And thus the heart will break, yet brokenly live on:
+XXXIII.
+E'en as a broken mirror, which the glass
+In every fragment multiplies; and makes
+A thousand images of one that was,
+The same, and still the more, the more it breaks;
+And thus the heart will do which not forsakes,
+Living in shattered guise, and still, and cold,
+And bloodless, with its sleepless sorrow aches,
+Yet withers on till all without is old,
+Showing no visible sign, for such things are untold.
+XXXIV.
+There is a very life in our despair,
+Vitality of poison,--a quick root
+Which feeds these deadly branches; for it were
+As nothing did we die; but life will suit
+I</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

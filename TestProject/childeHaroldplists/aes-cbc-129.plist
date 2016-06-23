@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		yq9faGJNRI23izEhkVlZOQMGkymqwDZSBZPPn2ZX2qEMShDT6saqcMuVk8r5
+		8UAhExNfp2hYiwNMVPm3VqE9091/ag8qAsYSjwoXqsm56+HhxkQhH+/py/8w
+		aXrRpWlKIAYP68bDb9Va4VCLubP8s8aSMArxpPyoVMKf2fw9gBmsisKz0BAE
+		0k2fMztmzeRnmCmpTNnsYLQjFKW6kP1mqJ+iWrDCqTnUYcV8Mbwd89DemET/
+		lfehkWBSPySFVy4eU+zzdle0g9e78FOGNvvJcSUv/KZOg/ixgKwVQCkRLezs
+		mZ+wFjcnSaYuclS+YEAp1DkI4dYluv1cfVvwou3/mgRCYLAjoUMXdrLh4TD3
+		sfeoBJJ+8U0wMHpNf6JN8RpHStiwaQ8J+Y/lt8xesSCwZRRtMzUO+IebX32L
+		r2BgX1X0q+oGYKnQEhIqJKi9DRrR66cbGbuQ7V9NJ/fL4x9zs6knC+C5LwdI
+		Ev951/9HzZCbT9LVwkedxbv5qPqGVPjUGkChIcLaELlxAef0eh+inhaSJ3Zn
+		dcmqMpQR4CCaZTbYH6DCfrokkrZ7Cq9P1hOXj4wIItxejGE15R8FOeMNECnN
+		Zsei+eMohcZA5E7XxpYeKnHRnDYSPRL+Q2xx2I0umV8kVpzVq3TzI6/7WeLj
+		RyPd2zaIE2Nepftgy6Z3kkGlpTl3WtugB5hCfCSEmoYU0tLbgzJ9lMKqkZdI
+		DD2acQ==
+		</data>
+		<key>iv</key>
+		<data>
+		NXW1/g+0a3HlqYALyEX5qg==
+		</data>
+		<key>key</key>
+		<data>
+		WWxX3JJwKU/TODnutmbg2g==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>y shore,
+When all around was desolate and dark;
+To land was perilous, to sojourn more;
+Yet for awhile the mariners forbore,
+Dubious to trust where treachery might lurk:
+At length they ventured forth, though doubting sore
+That those who loathe alike the Frank and Turk
+Might once again renew their ancient butcher-work.
+LXVIII.
+Vain fear! the Suliotes stretched the welcome hand,
+Led them o'er rocks and past the dangerous swamp,
+Kinder than polished slaves, though not so bland,
+And piled the hearth, and wrung their ga</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>10885</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>x7IXmTRITq1efTkTbyGe0apgdy5</string>
+		<key>salt</key>
+		<data>
+		a+UhW75ZaeNmYZLDwPiAcCOenJVpwtRVoluI
+		</data>
+	</dict>
+</dict>
+</plist>

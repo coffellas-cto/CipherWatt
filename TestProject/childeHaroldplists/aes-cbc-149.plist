@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		wL2/RSF5yqAdkXATNLfdTLjWxow6OIl26uYeFgZtlLE2HfePS4agU3W4IE94
+		ZQVmOWuN0sDbO4QZ2I2n4xkxuOJnP1hgVmF95dYi+UrToOMUZar4JQQwhZIm
+		J33ZWPWIdG5hUWYMRXlamLvd12ySaLa2RCjb4Xec51dDf+zqAHteCe5O2WdO
+		m3/2FxF5hcgZ48AcDRhoJ7d0Z14ki4V4OaeMESFfEUrtG5Erd5MA6Fmog5u+
+		P62z8lmJeYtyU0j2iyA4M/cqZOe+XOZTJZoOhoXkYcIvXmJJgaD3T0ZmZb1k
+		PHuJ1EReof8NsF4fzNa7wSs/ZWgj+C6mUkx9w2pwl3NnpTIkcPUSR2UT58dg
+		3MKKC4jcDzVveokgciwdxMVWeJoZTPwozmgrHo4JdOk5b2SHVNQfziGKoo4g
+		iK+K9lhbrAQhiwqi9zoQVcMaAdoeiYIiTTmizO+j7N6DvOfQQRLr3EofpTFw
+		TfvpHaMBi+LRBfgKDP0vcSvLgqeN+6zoE9A8exIUrYtHMxsR9IpzSDTWArAv
+		6MVs9sIXRZJawPFJdhPF2kqePjfB2+6JqX3HsAA5WrZbC4hjSXOVz49rtm+G
+		ouHgx6xCjX2GfGpstn8ZrtFlEEFmZfYKdAi73pjL3X6Sby8Z8yHKbHswhiq0
+		6P3BgcIi0Lfb3pkA5RbuyK+n6A1v3E12FW/U2QprrJnFIt1LRVGMin/oaEo3
+		0U7tMLhfcus4eouO98PMug+NF6DdCxnNP/T63VgW7Lx6an6O9KZUSSOZ9QDh
+		AU9sm2J6JDYmSnw3ojakkdSooo0kBu/ChTsmLbQpHRbqHmIqMdoDA9iwrZo+
+		3g2pdSIaZZh+yI+9xE7wBBYRoys8k+jQAUnvJXrwlzMQgrtgvbEWqHXWBQ2Q
+		pYE608uTSwv7M/xL6uPVQCSA7eT8XHSWf17bl3pCFWO54+7s4V5QuE4vELyH
+		8AWn/AN9YCudQ5OuBM6gsXsq9+YykN3SqXb6QEdcsDAfj01kJCqp4caz8Mj0
+		l2h1rX2O4ca0zge08DyL9wfo3DIZWoLw2+M7J1SGoBUQ/Km4XrNpExMBzFna
+		Ntj8ePo9jgi/Z918Z2vYhBd0yvsuWQPSAAk5pZmV5UspTeMtup9e3fdv8ot+
+		e6s0TBoSKmnuvQas7xW+4TshWPNNkgyxRoqPoJrWklU/ll5wSb8FSdm1jhHH
+		jssH5UcTMkoEiEuc
+		</data>
+		<key>iv</key>
+		<data>
+		+yfKNpcnxQBWtYjFxHp82w==
+		</data>
+		<key>key</key>
+		<data>
+		TvIx4mmsUSXmId2xyztqmA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ne!
+I send the lilies given to me;
+Though long before thy hand they touch,
+I know that they must withered be,
+But yet reject them not as such;
+For I have cherished them as dear,
+Because they yet may meet thine eye,
+And guide thy soul to mine e'en here,
+When thou behold'st them drooping nigh,
+And know'st them gathered by the Rhine,
+And offered from my heart to thine!
+The river nobly foams and flows,
+The charm of this enchanted ground,
+And all its thousand turns disclose
+Some fresher beauty varying round;
+The haughtiest breast its wish might bound
+Through life to dwell delighted here;
+Nor could on earth a spot be found
+To Nature and to me so dear,
+Could thy dear eyes in following mine
+Still sweeten more these banks of Rhine!
+LVI.
+By Coblentz, on a rise of gentle ground,
+There is a small and simple pyramid,
+Crowning the summit of the verdant mound;
+Beneath its base are h</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Z27jaz7NsHzaIX5PubmVhJxNIu7O8Ia4uV/ycmcx0iNBFmooEVQQoP7v+6ir
+		U7jzTp5dnQc71XAdtGU8EMJ2z8F8n+eQYlKDPkGrz0Yvsap7ZnHFRJlSu0du
+		/YvTy6Ct1UBA8+hvJNerpv7c28q4w3GtD54sZ52lbl+2ULVsg0LUQGmUYwWG
+		rfSu/8O5EjtOAQan7gEi0VmoXMYoaJcUje1S7966bGB02TgthvF7HesEQR3D
+		3qO19PERdk/5FOzKhxA9/NsfE7wwM3DTTK21OyuuZnY8WRAjADUxl9bAriQD
+		WwlWv0A0KMvYSN0EKm9PGkKlQtXSD9bz5QkbfEpTiVHtUv7RTwAGMkQbMHyp
+		4bC8qfy60SAgA4H0CVWDQtToc3iTAS+rVhq3Y209kxDfffOn6r4bGL9mCci1
+		nMQaeyJdTq/6W1RQ4DLWcEedURb1i/zpNe22AmPjiXYe4K6SfnyGsjwqB8t1
+		5wRXrMCnbXFVxqyTf/XrK07ORlhhvx0xH9JAThsBcdhdSk5T4a1hGkFrXgAa
+		GfFPK8GIREwBzUcZH++7Gw9GCqQtREl3aP124fi4nKQMRJIf+6R6Yx8sqXRm
+		OLh1A7i+X7DXTaFtS+D/8gkQjNAefmDGvZARb3QzlMXU1dfOrvMPcNTmkizV
+		3Qx1l3KzsnhcAHmVg9ugoQM9nVg8sAfWb/idFKZV2jUjZfALf2G59m5Xu7Ff
+		bj3T6KQr7DwXdZ7tkLO8rUzQWkv4K7ZZlsHRaA7osc4lgPTUhr1l6qwsqbvv
+		+0gsCZFJQuj2qbA10XOFZ7UgHFCMhaOoweP/aq9FEqyA1uDEl7OYalm31O83
+		gxsU8zqFW4xFpHvt5nYLuIs/anjKXE0r2mI=
+		</data>
+		<key>iv</key>
+		<data>
+		YnZSz+eTIIjFdwgNp4BYtQ==
+		</data>
+		<key>key</key>
+		<data>
+		g5ZerJU+vfLxKNouQOzok6qbrRHVWFUz
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string> long and darkly, till my brain became,
+In its own eddy boiling and o'erwrought,
+A whirling gulf of phantasy and flame:
+And thus, untaught in youth my heart to tame,
+My springs of life were poisoned.  'Tis too late!
+Yet am I changed; though still enough the same
+In strength to bear what time cannot abate,
+And feed on bitter fruits without accusing fate.
+VIII.
+Something too much of this:  but now 'tis past,
+And the spell closes with its silent seal.Long-absent Harold reappears at last;
+He of the breast which fain no more would feel,
+Wrung with the wounds which kill not, but ne'er heal;
+Yet Time, who changes all, had altered hi</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		vR1FvxW234kJyxswNlvv9/zZUhQhoT3Q1cYo9a+HvXRmWCHE5UCFn7QaZATF
+		SvHn8wXjjPTU+JV8+Sy66aX+K990WtQlYO3fDgqgxYX+QL87Yup7Q7Hss0+z
+		i29k0muVLhFZp4NJs60GY41qIVhQcZa1du7q3frTIpl8pWtKLs+fuQuUVt2i
+		5DLG1/Zw3Ecd6dZymKRxBX4ELUDhin6PmvD7KaIZiSfxh7yh6Ceo2ipMKRih
+		Rq7pqMUEl/ASeRFRnRlH2WMyxPD17Hr+LtZz3eZIrE/1cw/mVi6pqPr9wxns
+		q49GKazUj4Z80oc9I9Tj2EPrCmUNOhiN6lRSYUs9qHuYrePavlqMHqRpbp9G
+		piAtolsqy/Xl2AJSvXm0gvjdrZoVvPZW5vEHEBVdgeSukeofHHPqCxxV6i3G
+		TxCGvMA=
+		</data>
+		<key>iv</key>
+		<data>
+		8f2XzyGc/k72Q8AN1Z/Sbg==
+		</data>
+		<key>key</key>
+		<data>
+		2OTe5LoOqv3IrbFxOS0gm1qx23QuFWXu
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>forth his blood beneath the assassin's knife,
+Some hand erects a cross of mouldering lath;
+And grove and glen with thousand such are rife
+Throughout this purple land, where law secures not life!
+XXII.
+On sloping mounds, or in the vale beneath,
+Are domes where whilom kings did make repair;
+But now the wild flow</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

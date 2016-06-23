@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Q3OTnAsBZiiREWPn8yh27DNXrDTkKRzNVA7H8xeNlJIkU1ipztTAln+1c/TP
+		GXDUfFVTU5XLBhCTw85koC5bLaU766bLFgmimGyrpoFIYpF+td4FGhL/yfQ0
+		L1kOx3ZrSValr0fAnmDjCCqlKbgZrQejkB0IOq7/iexuxzqCB69Wd0RvMjJM
+		Vfoar1+JQBYFq4S53dKKR7BZGeAEI89tcYAPrO2ue6Rai37w3Zl3UR0cEYhD
+		YpOU1sfmIR1FaxiKSw9BR0USzGdFUPxrmXl1jTtkkv1S6CNwxnPfyjFHq9yB
+		wZs8uaDIUd0g2kHSMq1y+ngcp/V1Baide+2Fk8W0rKnoOpFi4vCr+h110Eh3
+		b1rxFt6OXsbej1pwri8DB3Tf7zAVlEXes5JbUXDc4vUxNW0iWgqhmCvcwZaV
+		8anWMf5VqUNgl2loQR+EznLvtbzjQdcl4SXJ5q0EdGmgcUczizw7DDtcNTHm
+		JayMciGkz1s899DLOfEd3zMSmPe+TPWg1GeUthKF15g8NZe68SJjUQ1THmt3
+		qSMqDZ+RxJEi+Jg2fbdQBv75PmUz07OZkG7e
+		</data>
+		<key>iv</key>
+		<data>
+		1Kkxz06Q7nei7JjkGJrAbA==
+		</data>
+		<key>key</key>
+		<data>
+		Xz5i95EHGj11SZvAPu73aQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>
+By the blue rushing of the arrowy Rhone,
+Or the pure bosom of its nursing lake,
+Which feeds it as a mother who doth make
+A fair but froward infant her own care,
+Kissing its cries away as these awake;--
+Is it not better thus our lives to wear,
+Than join the crushing crowd, doomed to inflict or bear?
+LXXII.
+I live not in myself, but I become
+Portion of that around me; and to me,
+High mountains are a feeling, but</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

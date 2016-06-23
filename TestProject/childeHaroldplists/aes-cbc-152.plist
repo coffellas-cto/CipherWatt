@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		GQDOw67FldbhNt9W9QNz1ptMGy3TteEUQewzvP0F03ag7Z0VbiB/twgOWhIY
+		8Y6WluZ7ciXwkOzQJHvjn+opxzKLtEldFvSF+x1NQeqCGyE1jdgE0SwTGyry
+		rhI3DUH9yH12879ELhbCshQQ61JPOqwKXxYVzF5bglu9QLuEGD5nKP00YoWv
+		6yQNkHfnKl+as3fN/4V4Wq7pDvialv0MJ7SxQqN5LSQZnex5qaBbq2JPcah6
+		EdGjmqvXK/SBs/7BLJrxKjbWzG4oQ+V+kC1rVu0uvIFxaAV+cQDxenhcC/Kn
+		KuGcd3QlQVso71K2UesTJW5MEOTHx7hP7Cg7cwKy06cP3x3aIXtJESGuDPjj
+		kZodGSA4NZ8rq9KNgpILI9+6CGdTnmpzvqay78SPJCAat2gC3HSZKFpZiac+
+		ou1Y7AwxCVej/d4lc1ESl8txZhApIDqzM9E8ZEzcIAOfO0lLLtv46jNbXjsB
+		XMiKjsWK5cwpXouZHLayqYwj62V+4VBsp+UjpByWObr2M8feWmJVdDtZs0S2
+		SwrpD7qQZ9iuiD9l+BPPcnf+W+xyizmhmZQcSFYIcVxZA4WdkRs6s1e49Q==
+		</data>
+		<key>iv</key>
+		<data>
+		2lKarz2YMGDNKHv+CYPk8w==
+		</data>
+		<key>key</key>
+		<data>
+		pUczBpRjdQ/xZE2qwyVTzZuMePQajsnC6tE4tJ5xZyw=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>orn-field, mountain, vine,
+And chiefless castles breathing stern farewells
+From grey but leafy walls, where Ruin greenly dwells.
+XLVII.
+And there they stand, as stands a lofty mind,
+Worn, but unstooping to the baser crowd,
+All tenantless, save to the crannying wind,
+Or holding dark communion with the cloud.There was a day when they were young and proud,
+Banners on high, and battles passed below;
+But they who fought are in a bl</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

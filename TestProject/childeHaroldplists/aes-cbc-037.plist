@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		pq1LQB9zSzg6MFBqv8cJWHs25NGMLfwLnMYA7oNzRaNFAqq3qd9gdrYe0Q/H
+		5mVLiFsCGGuSuUx7MIVK4mRw2OenZ2LiH2HNNtdYTMCry+Rsz6T83PktEMMa
+		fGXegMYc/VLUhDvNi9mow2BbeJGQ2YbLGqYuxam+wsC1vlhn52YmVJWpS/Di
+		7GlqY+Bf83VyatAp0ctApQ8MH9tJadj10flVLR9bQFT0hSsCQttzpJGHj+o8
+		2aCAv1EhnKY6uRhPlvAZs1eOaHG2LUo3nGc1DrELwqiIwycPfaE4QBs9RZSI
+		Otr2q4SZAufJ9M0hR5hbdT8VzBNN2+qL940PiXFTekTV6QZw5rXvWiLcQEm/
+		Um+TYNSFcFnTxKwpFNtFvc56lHRxSJIBNfO78tTmu1V0OF7lZ0rS9T1Q8gmi
+		46xYcZ4mpQB8Q+ep03wc2Bv2gGZG4pRPGe2ncp4MIse18jtIJKn+qTRoDZ+G
+		p8DoPxeKdY+tDub8iW3TkHuX0HQxepLKJhB6m3q1akBSiCMT9m+pHXdldxzm
+		wl+rv85Yu0PHCIFEvAOY2ISEUdCy4zvZDI6UXymSfBVnyLfQU8WSIzmfRrQo
+		6bTtTNIKSv8+9Y2GorsMecZOhVxIPQd+DZN+Zh9hmD+ViQO/Y5MKWULGpY9h
+		/FFAy3SF4muyGmpQ3fqt/sDPqUbSvLGwVAo010GFvIdaN62+oo4oeiFQrwR5
+		znIoqknAaMy6ONgKYMwxa+n3WVZLFW/lAoKjFoVzhVw0zoFUfxXny9a5NbiL
+		27Tm6OaRVPfkM11eolQTLKgqpAX1SRyEm3vVAUFx/9yxOmaY9K2bW0nlOTcm
+		jRTLKE45vlGEJiPjJn2AIDqLswG4jOO6pte52WcWfXC0XwcbUJpnYPHJpNnw
+		5fDtsRfUoX5PwRy1gYqyiH3byqPFxKb7hqEDj6/fsMUVfVJEF0nlIBBMKsmx
+		CJ47hzbaaDtlDxXenlTOehXscYqEPQncjUT9YGxXhmdOlCRWe0FQK0djfPF+
+		qi7moeGWesoVOxrI7RufdrKfYriRcqDLTfXY2ybFhBcFojAaHZYCYR0F2C41
+		z5eq/z94jeFVdWIhmeBKs+/IQZesb6qVYq5fNuocjTryti6xTPZVpE9+/u/o
+		WjunvDxaOdzX599Cr1o9wm9tXzu2IWkoFpK1Lv5wHMXCYLJ17j4YitTT3seR
+		7pgrrjeebrw5kJ70mCWmMcrtpCVxj61tq66SVinLrQ/u/QDJcrU0sAV0LRNS
+		vUvFbFSEV6t3XhSaiQNCAyE9zGxeoFPhA25m0SnLVZ6ZXfLo40iQMI318Y/R
+		HW/rTFtJq98Yz2yxR4rcS2OX4mEjUjCG06NHHH4Hb7cwd5n2tR4qG6Skfq5D
+		4EgvhvGa+qzX2l0Cms+M14ejyj+9xN/WIurV163V6uWsald3fcOgY7/2nroF
+		agCq/YSdZ7wam+xYsAUYOC+YDTT+AI6TIRMqw5W92Jm2LCDx83YRYQ==
+		</data>
+		<key>iv</key>
+		<data>
+		FM/k5+VL9ltqbrPuCv9+Xw==
+		</data>
+		<key>key</key>
+		<data>
+		J2fzs5MXIJfewHU4uIg6ItKhIS3bN9y0hJbj8jgwlEM=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>ts to dull life, in this our state
+Of mortal bondage, by these spirits supplied,
+First exiles, then replaces what we hate;
+Watering the heart whose early flowers have died,
+And with a fresher growth replenishing the void.
+VI.
+Such is the refuge of our youth and age,
+The first from Hope, the last from Vacancy;
+And this worn feeling peoples many a page,
+And, may be, that which grows beneath mine eye:
+Yet there are things whose strong reality
+Outshines our fairy-land; in shape and hues
+More beautiful than our fantastic sky,
+And the strange constellations which the Muse
+O'er her wild universe is skilful to diffuse:
+VII.
+I saw or dreamed of such,--but let them go--
+They came like truth, and disappeared like dreams;
+And whatsoe'er they were--are now but so;
+I could replace them if I would:  still teems
+My mind with many a form which aptly seems
+Such as I sought for, and at moments found;
+Let these too go--for waking reason deems
+Such overweening phantasies unsound,
+And other voices speak, and other sights surround.
+VIII.
+I've taught me other tongues, and in strange eyes
+Have mad</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14329</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>qNEDcirrWgoucJycOmWoladfuoyL1yqGtk9C8RrIeFzPoG5SG</string>
+		<key>salt</key>
+		<data>
+		QOiMDidg6CcsD8b6hBQZnP3fv4jWRxkVvFzyTw==
+		</data>
+	</dict>
+</dict>
+</plist>

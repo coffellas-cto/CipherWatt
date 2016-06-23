@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		zrTkH/FE852O9wJf2uG7c3u8ObzHz0ZJfKlDadlQdbP2wBgSe5b0j6bhwA/q
+		cWMykuC+HZD14w0blbnRfeSJIF0NWZa2t3N8gyTaDnm14y/1Ebn365BF+unI
+		yzLro6DOIfKmWsTl+hrU+WYbxRrpaNvmcZD2RY00iqd9ThR1SC7FR85aI6G0
+		WkH4jE4VTG7oLpVA2fVoJa0Q/rombFkunB/Snx+hVJ/sFi9k4dE/UW8Evl+3
+		+TTA4cZR5ujcW0+p+/d1jaqCKZNuPYUEnuy5/Ju1g6i20az58T59/2L9felZ
+		m4F3WTVxC01PfBzfmTc6GlqaJLazYKdAmdDVMJpoKAMT6J5eWlgHK7GMNqj9
+		BBmMuWtW7dsY4O6FLk2SOYUz6RsVRWGzkeBDe6PGK+x8Nn/6PS6/bPE8WQMA
+		EdL33s8wgLD5LVKythMaIq/2bZ6YCoAZnsQW/TABP31EnK0p8hxstGhFzhfy
+		BtOOqqItNWgi/GzfIWr5f1Yx0Nnf9J8v9lofGEc+hHUEjrkVJO3hYL9wlGXZ
+		sQdN/pIoxTrJai1g2eGFfy4TyY08ECNaoggPTU/JbFn1tOaaWJZr0FWHoA97
+		wxeEYyKBLiAWmlp3qyhV8S0Fwyawv9uQV83HrfNxKRMsVNAt+VZDo8jTjVfl
+		0bm77jgaB2w0psRH6eKVJT1RqDeu10HKEwVA/oamYRPJ+5d2pHQVxhXBf20J
+		2f+AdHyjelHj9H/9FaMLITd6bo/Fu+p1BVIcJqy/ipzpTjVLd0TW81pYMNDx
+		1v/26qM3OTLWMPxzg93qgfl9akRI2bBejcpz5/svL/aSTnIOUkxZvJyKJczD
+		WrExGe6m4USsHw==
+		</data>
+		<key>iv</key>
+		<data>
+		UY059dLgZCbyi9TBQjxFUg==
+		</data>
+		<key>key</key>
+		<data>
+		J0VFXDtiv731BQJCE3HY/ee5JBzP9YjZSUWuEdu/PL8=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>where flame
+The lamps of gold--and haughty dome which vies
+In air with Earth's chief structures, though their frame
+Sits on the firm-set ground--and this the clouds must claim.
+CLVII.
+Thou seest not all; but piecemeal thou must break
+To separate contemplation, the great whole;
+And as the ocean many bays will make,
+That ask the eye--so here condense thy soul
+To more immediate objects, and control
+Thy thoughts until thy mind hath got by heart
+Its eloquent proportions, and unroll
+In mighty graduations, part by part,
+The glory which at once upon thee did not dart.
+CLVIII.
+Not by its fault--but thine:  Our outward sense
+</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>13999</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>veqZ27P7TGVs2ejVqGMizUsWsdzB0Mxx</string>
+		<key>salt</key>
+		<data>
+		YRINipGbZWz5Seov+iVD2YyD12hG2RdG+Oc=
+		</data>
+	</dict>
+</dict>
+</plist>

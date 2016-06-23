@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		/+ka5EsYRx19HrTjh1LM6CKdsul/qiHsiF7V521vkOhf74uKX9Q7vMDn5TP5
+		UuFQ0Z2tYe806A1OZiP7gdCMMPodQYi93t6NId/Di1O6NDpt97tYVZWRyaVn
+		uf+OUvF8mGbwO9JDhuv/F1C9nj24bIEc+oDsoZrPKpdd3p0V7WAF6SmfObd4
+		T0eMnZmfRzyWKR6HkP5Qt1hO6QV9bzZ5S3MCJW/RqNyQKkGJkvaNpPnPL3DS
+		P/wQLQoYReOCaFaWxHGqEI17W8ZKZWrnuL58QjFZm0gqk154wc+qaVVc+IYA
+		z5oIZcZPyx+CY0L9kD1A7vJAJP3mnuuaCBRMNaT58cMLWe24FmRDLuDbMFKI
+		TF/Pi/HqmBHT2Nm0PLVmPBLh/78GsLk7JXMVaL9lDRwyylGtM/GPeHJhEoE3
+		GK7gKys=
+		</data>
+		<key>iv</key>
+		<data>
+		sVqpsq6fDsqHTe6BD+U8FA==
+		</data>
+		<key>key</key>
+		<data>
+		5GEcfq1HJCIg9zjcWJQW2jCtjU3+68+FR11C99Scqu0=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>-but molest not yon defenceless urn!
+Look on this spot--a nation's sepulchre!
+Abode of gods, whose shrines no longer burn.E'en gods must yield--religions take their turn:
+'Twas Jove's--'tis Mahomet's; and other creeds
+Will rise with other years, till man shall learn
+Vainly his incense soars, his victim bleeds;
+P</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14442</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>4ugclQxPwDKxUSa6RugAa1IMkumT2jU7Y3WJkOmM7UxcrtmZ</string>
+		<key>salt</key>
+		<data>
+		lu2MqowZa/Pk36M=
+		</data>
+	</dict>
+</dict>
+</plist>

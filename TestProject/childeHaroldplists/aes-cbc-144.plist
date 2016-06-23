@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		7wkRkGG+OeSy3t4SAhAHuAADfB2vEJs0YtfoLnDR3dIWF3n0g5ZHecwEXkac
+		YVC1wGc3CdHZdvPsy11lR80CHYRwZk5rKdAvw3K2ENpAfaPOlBdUqtHvYak9
+		YwarQ2GUXZ2dyiIpV1fCsbzNlxFa8jVCAOMLVNnVq/wbw4PU4y4wL8rHjZbp
+		KLWc0OIGd0HPITk51m/ziq37syLYgS/EzsMIzGQV5FQhkElhkfDVE/TcVEDe
+		GlGvW41kT9Erc5hAcb3WyK+ErfTwOektBzcMj+LRRZtkrwMGWeHeGopf/eG8
+		boGSg5qJorm8SarI8JTJWxj8rpn8aXHn9yE6htcUynHX2N3h4/2q/u0jnnRa
+		hXz6k3xyC7SEey06hoaPd54+sD3pqB+j+vl+Fe3dNbkLbvDsCNCoaKAUQryj
+		3gDt51+YnpwK4seON7QYKBwu8SLdAj9nbktIOCj18FiU4VKLT7fuC7O7P00a
+		p8qVt4O7zIg=
+		</data>
+		<key>iv</key>
+		<data>
+		LSXhkUE5eqiSQveTbcgiiQ==
+		</data>
+		<key>key</key>
+		<data>
+		ip5oOVbCrNzwY6GQcblJyw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>r by them,
+If merited, the penalty is paid;
+It is not ours to judge, far less condemn;
+The hour must come when such things shall be made
+Known unto all,--or hope and dread allayed
+By slumber on one pillow, in the dust,
+Which, thus much we are sure, must lie decayed;
+And when it shall revive, as is our trust,
+'Twill be to be forgiven, or suffer what is j</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14307</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>B5sWDupPxfrImgZUw5PbqEacnG11pQrbkMtVqehsAvB6AK</string>
+		<key>salt</key>
+		<data>
+		s9ZFCEd7mebgRA==
+		</data>
+	</dict>
+</dict>
+</plist>

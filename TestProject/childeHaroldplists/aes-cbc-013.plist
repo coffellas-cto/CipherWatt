@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		VlOHB0kf3FoK2LBCjMwYofpD1xcxjRp/J+L7rpRbghIt2xP7J4iOok8R7pca
+		4VVRo0k+Jj60rY8ikXLKbNanuDBh5eMacKrjCWnSjP7WIAfa4n+KIXE4b76X
+		TyF+b2xrc0EKLaQeaFIfgQbPb1AceoGV2kusxu6N4ipIPryXA7CyXXlupswb
+		7GGF9OzPN/jmNuHW/YjK6JRxR1dQhOAimWZC5yY04tLEH6a2Hs80AbAGzhoQ
+		8Ev3jg/L6Da3iNwllrHl8mooy6VZRYHATZKbFwsqL5X39fETFFUa46auHX1I
+		xZQP0638MRE9M0f46aNBzz1oOL9lndSe1ZnhLdrO5j3G6Qs4Ki9MsjalIi/g
+		2rPejP4g0T+pzht4hhnJTLjsn4RiOlCBct66wayCfB42t+ZzWpk6utKW5Yi1
+		oFAE/5EmIijnGzklI+mIC0V+v4YDtJqpYcb0dhyqdzRoXa5Vd3bBZ1AX4qOi
+		vQxOexm/CpJ32ZiEqeAbKWPsS+p7GK8ui+tqcrZvJyd9j9qgMNTG0A==
+		</data>
+		<key>iv</key>
+		<data>
+		GoONNtPKX8Gua9ox71uwTg==
+		</data>
+		<key>key</key>
+		<data>
+		pqlUUAxxMc7esH3032xgmwKPGCB0bmtA+rcCLhYNXzs=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string> saints and temple of all gods,
+From Jove to Jesus--spared and blest by time;
+Looking tranquillity, while falls or nods
+Arch, empire, each thing round thee, and man plods
+His way through thorns to ashes--glorious dome!
+Shalt thou not last?--Time's scythe and tyrants' rods
+Shiver upon thee--sanctuary and home
+Of art and piety--Pantheon!--pride of Rome!
+CXLVII.
+Relic of nobler days, and </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

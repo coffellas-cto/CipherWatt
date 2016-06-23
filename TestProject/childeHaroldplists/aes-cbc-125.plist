@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		K1qLX72+sCQDX4qEDbRhXcy02kt+EWNiQEajurK8mhMoLfNuinURLdnb4vqd
+		T7Fr1xx1N1YNXVXDiMo/pgbPsZkgiYkZn1hk/VhEpnSjdI2stYB3dYg7OP0x
+		4JdLM0XQAGu2UgNIC3DEkW46V6ANdsa7UjUzOVLJ4yBF5iZwDNvh1I1EaK38
+		vFqFJL6wimj3L9+at1ckHjVD6qFIBzmi3MMG5gzcb/eedl5MeNnR3jhaPnfQ
+		UPQfk5G1RQVU/AYaP7Ay5KbEzCCdNtQ8Ddy2xTaNF2l9SG30oQpUOvlJCJhC
+		sUYMou04djTjcqNUvgKQkHqBTp4+Pfm2v2zVv9j5PM+72YTgQ45hQLYpUPUu
+		qKdvJC9OEaYzrPQXIfkyRUsfn8sTkSOctDbpRtHinjyqed110A9ny48Y9Nys
+		IJNMpAujMSb8ZRazTOa99N52mVT6jypl0waWsUa5SQD3YP8djVng44ysZkeT
+		EkDxy0uZk+Yhhnex2ztre2KeuIyGoDBmWas/5u9zDiUvKPIRH6TXZ7GmLmFh
+		b8s70HXMrjpenZCSJwQM7FF/N9aU0OJHO8Lw+U1vd+eA6PlQ9vUEAcAkxGOf
+		RpJj8L/HQdbECrNLDKWtDegAE2Mtepa6MXPaprr1IX8RQSvypOBfnGt6rYhU
+		SbdBFftzJAP/BN7ScSoHAGCnjRBc/zIz0vUmmhXP0Ac1i1IOt1bt+K297Kt/
+		obOPp8c4tGV7McvMOdweUEqLn2TCdGPbY6xAp9JnZTuU/ue2jJhceBUTOox2
+		Ri4QhoLrASAUg46udPzEIt066Luu7+v5kxy0sptZ3mFPyJB6iw497W1Ef/6w
+		kX6LrhHIb/WH2hyWlxQr1HCTO2iSzv7pKnaGb1Z1osG8OdhFODe2nhv5HBVr
+		eq8dVCI4Ys3/f1JzEe0ti2RMOacXwfRRkIzVlzzbTX8saXDLjkSMmEwBD/jD
+		DilSjOEXZM3/89w3jSPRoFE/XeN+TRKCkogA7RBGAayyOZZnjeQ3szO/M5+3
+		gq9oEnN4AjaetaexKJYPSb6g0/Jrj9HGMr286SZbVJWFwfc75z7KoRdPZ9Zj
+		8q89ZE+a/vaYpgJSMvEOVHGJm2fhc3Xylld4Yk7tc4S0NdXtQwr5pI+BBGJr
+		U9DopFZ7FaeDK0rM4gA7//vKdNu70hw6rK4PbhEDYjiBdnu8GWU6uZQgFfAe
+		tP56paVrIsa+suXShGr/Uo0wcEiSMfxitoFuCc0rPC+hxoyCrJmNnNjDvz0=
+		</data>
+		<key>iv</key>
+		<data>
+		7oyeFsJfyj/1vRxLBEy/DQ==
+		</data>
+		<key>key</key>
+		<data>
+		6FNRvy2BAlo03I9meRYC/Q==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>s,
+Shrunk from his deeds of chivalrous emprise:
+Land of Albania! let me bend mine eyes
+On thee, thou rugged nurse of savage men!
+The cross descends, thy minarets arise,
+And the pale crescent sparkles in the glen,
+Through many a cypress grove within each city's ken.
+XXXIX.
+Childe Harold sailed, and passed the barren spot
+Where sad Penelope o'erlooked the wave;
+And onward viewed the mount, not yet forgot,
+The lover's refuge, and the Lesbian's grave.Dark Sappho! could not verse immortal save
+That breast imbued with such immortal fire?
+Could she not live who life eternal gave?
+If life eternal may await the lyre,
+That only Heaven to which Earth's children may aspire.
+XL.
+'Twas on a Grecian autumn's gentle eve,
+Childe Harold hailed Leucadia's cape afar;
+A spot he longed to see, nor cared to leave:
+Oft did he mark the scenes of vanished war,
+Actium, Lepanto, fatal Trafalgar:
+Mark them unmoved, for he w</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

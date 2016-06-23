@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		2CWRfFkUxvWzcVeRWW2nbLShOR5NlwDnizeDhiirJXFrBXnsZvWjsTHL687x
+		UfjpdTzdZ4x8u+6LvzOPrzlc5zZjsBIvgTzMFJMFKOhxdd0wmuuCM+CyhtzF
+		je5VIb0nS7mSrHc0NilWypWijB+yN/mzzQWfN6VKEzz4c0HCMvB1kou17PmJ
+		KvcABeC2a1evWTSK+Po6M5Ae24s6SLGhnFNrjEMVz7xEjENimpB3YlBweODq
+		aUcU1bUcKBjw6K4fkyDj4Kq0P07PjWNsSq3k4hPk5iAgp3Wm7LqqWyFsZ37x
+		zAAoMfwbUCD5gbOHCuS0vtl7B1MDgK6LG2Np92K/t4gc7FmfYE+w26RiC7p6
+		JMOi4Lgevgsd0wqUpDZdW1MUg5x25tQ567lufHq7C+M0A92sBzwNnCDNUDKx
+		+isKOEub/9pGjzOkCjdT1LK6VJIU0jENS+FZ9deiEOJYP27erxyZgq2dm3cx
+		0PRi1TlQWx0PJmRehGKks+kytd14nRc6N2RIYnsIu7rVm6MSmXONksD1LOIx
+		R5171ukcFgDP0SgDdvD7cNf4sgLp3X+SfzMiB1S73msgTSy/EGRDtuNqvQA1
+		gIbopMkTfNTjXBmjJBVev7zg/uDFJNJ1/TXaD1LJ21I/E09zCH5e4VhoNHS7
+		Mh2X1MPNsxiVp9X0js2M369z3+cjTP1Tt2bMQjoNq3g0IfatvQglAetWwh44
+		lu4c9FDDo8O/HHBBtTIociOScMSd1QLB2DpTCPWHcCo877oyvFHviXAC6Umn
+		+FBiNzhOpfmMKaOOB0SZ4+8IhsgBg/V7+1+o7laeMzCLYMLeakvvu/NRVd+H
+		GxlaDBBOU3UAyxF5dtd5BzH0EQTKe5pan6HgLFkpWezsk87OXOqRTZ/LctYb
+		XLS3DtKxul4YCsgZ9Q==
+		</data>
+		<key>iv</key>
+		<data>
+		A7Ogn+SoqCyyVR5WpYlO/Q==
+		</data>
+		<key>key</key>
+		<data>
+		tHXDC8LZSFztYsg19ROvwunqs54RWMFtSusw4Rq0bCA=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>nce,
+Or with the moonbeam sleep in Midnight's solemn trance.
+LV.
+The sun had sunk behind vast Tomerit,
+The Laos wide and fierce came roaring by;
+The shades of wonted night were gathering yet,
+When, down the steep banks winding wearily
+Childe Harold saw, like meteors in the sky,
+The glittering minarets of Tepalen,
+Whose walls o'erlook the stream; and drawing nigh,
+He heard the busy hum of warrior-men
+Swelling the breeze that sighed along the lengthening glen.
+LVI.
+He passed the sacred harem's silent tower,
+And underneath the wide o'erarching gate
+Surveyed the dwelling of this chief of power
+Where all around proclaimed his high estate.Amidst no common pomp the </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

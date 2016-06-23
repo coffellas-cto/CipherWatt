@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		/D5WgbAvzUrcq5iJRtckcvTJ0kJJTS7ChdvWo9kNXS9rq/+E1CqaOCH0nli9
+		38e+yDG27MwrYelc7VD20eC0ffwwmUTrjopMggX4sUheCosOd6KGEJ8uIvsV
+		ERwUFQ5H2lZC5Zd6KD8X/wK+8kaI4twKpS0DHtU+g7gE2b9q6z8NihecorGp
+		64eCTz24G42WQMiyIOJtEtgW6SylpRlKXfObDt0L4M6hmfXE0V1ksfksB9ns
+		nJivzRD/Kpj7BRqJzDpxkFvFIZOwQQ3hnAsb1w==
+		</data>
+		<key>iv</key>
+		<data>
+		KSiJSn8BGm+Opnn4YQJWEA==
+		</data>
+		<key>key</key>
+		<data>
+		vDdxaNnxVumRPfKJFpnPL5To6JXiVjPWyY/PwjKLvOU=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>al, bows her to the storm,
+In the same dust and blackness, and we pass
+The skeleton of her Titanic form,
+Wrecks of another world, whose ashes still are warm.
+XLVII.
+Yet, Italy! through every other land
+</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>15264</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>GkqxwkxUnIKxgTHPF8xOGRSjpAjSvCHG</string>
+		<key>salt</key>
+		<data>
+		ui+TpihbkJ+5lWzH2ANlaybQ5eA80YI=
+		</data>
+	</dict>
+</dict>
+</plist>

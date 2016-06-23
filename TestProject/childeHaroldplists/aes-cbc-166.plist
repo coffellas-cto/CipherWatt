@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		/LXIL2bRwht2IJpfaNVz0eOUJcCoFuhAF6FfJdsGwkEM54lZOQD99hoOgBza
+		9Hm29tMvKN1PGbN/cLYhnbUdZfT2eOMxMe+K/NJB9n4MyBgxcsk0pCNac8Lr
+		QdsWRsF5shghv4x+BxHWgIa/Bxmnhn50KF9Zu/P3ENcjTV9lsEwGbRySYdL9
+		CrlYCaHW+SofFjNWiwlvkcaN8YiMFvB/9xb1P17h+ssal0XvZTRVSzlX0dwx
+		/7T1acPLR0O4vG1f7Vn4LlCRoXMjvuq4O4dOj2yYLY+Z9JWo8QdKtk20VQq/
+		fgN9AVGKbOjoSq0I4yaLmjXbikOy7Jn0RqBT+goVrSjnXVdZASpJwp+S9MZM
+		xduREC7SGTCLX/Uf0tGYsf3SD0icbdFUCZjpJsAKmH3C9E7ySeYGdzirnFyg
+		y6y0n6DeAKBii/9tXIJSC4T+wqyKrlLfYwDMxRyHNRySz0EhRJxda6C8+xGD
+		pGPTf9xT8alyG29C56J+R+UtryvUf8zCJUW3pbCVr14cIGSAgnlyCNhOwEqa
+		nBxdp1b+xGepXvw0I1vlyZuC+lPwt7C0Kc+TqnMAgpqZlbfoZw/bgeai4s2G
+		MMZqLpTFCXyDtQh8ERfrVvpLx3TsTCMXv+r3oQO9hG38qFoMc/ndWGGIsmQR
+		eE6K+g7yrioSQxI2wYXRndKBLCUNSidm3DCCxGfpggU1NXjRd+R4Q7cL8pRF
+		u8t828LpLv49Jq2eA0WewAgEKoY1ytzBDqhyLkaHWGqr140daCNT/gxMv5AO
+		S0POOlbF6T72SMcpao4n+dQKI13i2GQdahZai9EUFqFlAvBc12f96+gPihRb
+		HYeEBBOBE4QbeRhlUPkaLfqm9BbwV4XSsAJ3LvSx0nowxKyKA+mLjsH6jkUU
+		X4FnPfQGbtYOWkpe0lVH7OgieYjaDreV8FjyzUc=
+		</data>
+		<key>iv</key>
+		<data>
+		1V8R4OBGWsLUPX3TZVKedw==
+		</data>
+		<key>key</key>
+		<data>
+		vGIkxeqMffGbVPMMGNux+t0MVGWV3yYd
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>lovely in thine age of woe,
+Land of lost gods and godlike men, art thou!
+Thy vales of evergreen, thy hills of snow,
+Proclaim thee Nature's varied favourite now;
+Thy fanes, thy temples to the surface bow,
+Commingling slowly with heroic earth,
+Broke by the share of every rustic plough:
+So perish monuments of mortal birth,
+So perish all in turn, save well-recorded worth;
+LXXXVI.
+Save where some solitary column mourns
+Above its prostrate brethren of the cave;
+Save where Tritonia's airy shrine adorns
+Colonna's cliff, and gleams along the wave;
+Save o'er some warrior's half-forgotten grave,
+Where the grey stones and unmolested grass
+Ages, but not oblivion, feebly brave,
+While</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16181</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>ax9lymhRKrsVgVempXb45UZLExpuDSS8OqQPy4fuwIJcjd5fVG</string>
+		<key>salt</key>
+		<data>
+		ENmH5Hxlax+Vx5wzesJ1CphuM4IglUCL
+		</data>
+	</dict>
+</dict>
+</plist>

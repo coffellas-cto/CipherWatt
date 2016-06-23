@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		7WmolReXaXRxUbCfQd9TIy44fPzpDb3k0Lem/c1UD+KeYDS4D9RPJx4WlCpa
+		Qumqv64/HzbGlnE4dYl10YPg9oYmjJNIEw/T6PjNrjzxcjqXSfPYqyFFk3oz
+		jJotK/GLVQ7xDokJBrJ1lDU74/LSsf4Rs85UBNWZ4tD+M9yjFyGCyeNPezgO
+		Q7JaTiUlibU0MH+YYvmWLXICB8odQlqU0WXcdOK25JoehFFF6FXNsjV2B4S3
+		Zc6/e3gTXnhTttO9F1vVUJgM/RqQvT/eHlYSNbI7psUBzBdtW0ej6bE8ZJSw
+		DicLhbixaSZL12p3vmAmu5WLBoqasRxwzUx4kt8P9mhO4vzXQzfqOim/QC/o
+		6ExbMvoOELrmNga/O4/mlEudRmxHikgLE2q8nKsYa9ELGNMhFZO2fSLT4J2+
+		4CPXgbetmuJ0XATx+x1o4Fp9zCnqWfapKQQ2hq2Eq1qb9+lkFzQmaIPFmfjP
+		iH4raPbJSX6AIdCwffiz0iCT4ErTJs03cs0DMveAKnKyAa2L2f6Ebw==
+		</data>
+		<key>iv</key>
+		<data>
+		hONtx6EbWJAri6K/WwXLLQ==
+		</data>
+		<key>key</key>
+		<data>
+		KqSRp4X66uYr+YjgIawlcw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> merry masquerade,
+Lurk there no hearts that throb with secret pain,
+E'en through the closest searment half-betrayed?
+To such the gentle murmurs of the main
+Seem to re-echo all they mourn in vain;
+To such the gladness of the gamesome crowd
+Is source of wayward thought and stern disdain:
+How do they loathe the laughter idly loud,
+And long to change the robe of revel for the shr</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>12737</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>LvmVND3iHZAz4nJo7oXG8ZQtNdequxEMIpg5cW0tXMeVj2D</string>
+		<key>salt</key>
+		<data>
+		MlxLGwfsZwmt
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		hI95yhyLQofAzvMblV9mrjdAVpw6nY3gT/5wCHVziwVgIiDab+cNwCreUUcC
+		tJ/QXjZcswCvl6IavCCu5HzNiDvOWng2DFra5qF0cQTSUKY0u2l96gju117h
+		K8xyuLbk+Appwxer17Xi19BUotJzn7Y/9Rf0kQIeFE/JUh3B/88Ay3BjR1vn
+		csIsUS/WdN3qLGizd9SqtAPx8C1cZtonCs4KS6eLLc6hAu3SJK5OtgAMaggw
+		wGEINXCB4vigIvncFSmkU/aCGN4nDVXqa6DgUtEidiPXwA2+oPnBYuS7B6wi
+		rycPrlv+x675VvPVhxUVwT0fB2XSWBsGE9WDUMgnmn3CSDgwEPWkXZF/+cuo
+		T+9EN4cg2IZug84yUpjcgg2iphnu2qunQ9HMOu06Ot3GzmpGzJnAClPOQBE1
+		ZkFCWpN5nRoE2uFGGchI6b0Z9T+iBDIN7v8qDnQd8tTTHA6XIAlPh/p6uTKf
+		ay3FXsTQygdfcmxEgNZwJ04W2t8xkX/nAeBpO5sQ9JnmbPS18+sHmrXCkV+P
+		NRpe4l02oZ0dLEVESy7EolwXNewtsg4+MGTPoC46QEVoP16TdoDecLdb3p5v
+		RmTNp1+87FZQ8+mAZOI2eDHkBrM0G020Bv5zfDYKG9QJYmhSK3Dn1BUyGxHN
+		c8d+l/f0S0hcM/qExpfHEi+jN19BMLl58eVieLo0+wCBLik+Kr/nV9eYJE8o
+		dL8VYMotvgjiHtaN4WdkvVkO6kaYgEoTVsGiTfPWGrUwVPo8ipKGz22aC+/t
+		ioJ6uotY9asHNlH1Ea39uwDr5I5SNWDf9v+Kmhjryk/5BuMs/BXyFQ3jMdo1
+		XKaYRJSzX1ekC80rHsJHXUD6KENqCmrNie6AE+T/valQTI9phHsKrB0A/lxG
+		OjkF3MLCfBUEY+y+dhjgZeDiKojF9F4oGI4hxC2tnuG8WlWamn289g6iuIrU
+		xxs3wGSrg1T+5qZpeOU/fOYuhiXAdojpNy/TJQim+ntR/O5xg+6Cuplmjn1S
+		Qnur8KajN8HLw345rWCWA2HOv8TyGlBNIIa9m9PUbacEPQHJMiy3ZnMpakp7
+		n/FE9tiqG5Z2/tvbxBryZXZPF9ujSt7ACiqbRtuDR50Z9IvDw7bKyjNkPMeY
+		xulmqB/Wg9Dfe/Z6o25y5ADI8Q8QhTdFgFT0VoJpHbdMyZ+GEf/2v+aqMKjb
+		AIUqgK58BhWB6HDTPlHfqZVkUGL8fbi+/OU9gzHlOVn4fouAgR3ZiL8RRvLd
+		neZvUR92QvPN1uKsb2EObnTfIbNyb2ax7W84nvrIM5w/e1AoHtJqsZXHg5GE
+		jbJb/wIq3CZiI2TRx1O5w/aKl0RE8ZL2/fwW/AZe4tva4ca2/JKV9MBHZ4xo
+		4dxvwTnnoauNE9knJN6huWiaqYXTH07UJIYgN8sB8SzlzJ2UeQ==
+		</data>
+		<key>iv</key>
+		<data>
+		iQcPb003AZLYhhUTNdAYbQ==
+		</data>
+		<key>key</key>
+		<data>
+		j4fODcyspezlYgwl4CEEEQrPRGDihapq2DDoSc7vbQw=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>Or do ye find at length, like eagles, some high nest?
+XCVII.
+Could I embody and unbosom now
+That which is most within me,--could I wreak
+My thoughts upon expression, and thus throw
+Soul, heart, mind, passions, feelings, strong or weak,
+All that I would have sought, and all I seek,
+Bear, know, feel, and yet breathe--into one word,
+And that one word were lightning, I would speak;
+But as it is, I live and die unheard,
+With a most voiceless thought, sheathing it as a sword.
+XCVIII.
+The morn is up again, the dewy morn,
+With breath all incense, and with cheek all bloom,
+Laughing the clouds away with playful scorn,
+And living as if earth contained no tomb,--
+And glowing into day:  we may resume
+The march of our existence:  and thus I,
+Still on thy shores, fair Leman! may find room
+And food for meditation, nor pass by
+Much, that may give us pause, if pondered fittingly.
+XCIX.
+Clarens! sweet Clarens! birthplace of deep Love!
+Thine air is the young breath of passionate thought;
+Thy trees take root in love; the snows above
+The very g</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

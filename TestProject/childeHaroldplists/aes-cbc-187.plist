@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		gtPzH3jEkDO/REZPpPTw/U08v/WOItg7qaHNBYZSXRuMUu3KDUfNiXe8fd1Y
+		JiOCAngWxfkXKweEHVmM3aCLVHNLYgw0UFx9oyyHfPaj30wWuY9w0LH6IoQz
+		APIarinp3J1sB7/ezDBxpp9ngSl7adC6w1L2ghg7NYdzMLYtmGP3qKF4ZRKK
+		0rtMmLzEQorLwy0rCbxJCs8uZa1dU/HC07nW2PXLpCpgYkGOKrZGxhCHhct3
+		wIfkzkqICD+Ttbubbqbfloqnlr/llBPxwPO5WAHdWKDvrNbg2G/GQvexbDGp
+		rY0XRhE5SRFrqidyF8gMbe++1YKGGOfgYHoAGhgmXDxAC6Vx+4aJjXbbmYm5
+		9ifBBlCLicXA/WBDZE4KklU6FAFbeIy/oMkABq5lvfqXkcbsn+mmM2NV3gBt
+		wyUK9xrfH2cyhPAvMCcx0JI98zpkuZrzsUOd8Z1QwhVu5HRCBRgJ709Bxy7c
+		T0Kq09cmZHO2eckCCUaMQpOUeMZDuE3tGEcFaar3NvLhzZpkcJ1A5HjWRY9L
+		sIV6lIKKzHrPZ8zfkSaIK5kROBF0+GcdALipGGI5IipLr1Z+0m0nnCDwjqzF
+		1FHw8mdeVWIT8pyHcKFguoQcAHKWBt5u9tykBAgaoXR/f8ilOpWGNa6OCb+6
+		SXwdBhyf0bKZNN5Jb5kJ/uD70U8Gv5YTXGf4mrMVZyjYpI+XOXVY10h6Tnia
+		j64G6q48ub8EI0gmlhf6BIn1ZYsO+1pIH91kZpeWma2DFd2KW1Vlasu2G6Ax
+		1XOkH/p7c/fqpz04TPDcKipc+9p+0WopYrlqYzhFsUhB5d07APkm+tYXxL4E
+		NJKcq7HKzHaQhCv6rb+5hNSGL6DqJOvwIktgoUQO3MNZSo6orWQ6XPeVK5lz
+		EqVb5DoptLxeaXpNVwFG1CFrYj8z6+RBb+UeRitYdBtcRwvZyyU+i3QNESPg
+		tV3kNpYsqVAmhumfJeIM0g==
+		</data>
+		<key>iv</key>
+		<data>
+		wMyNjeTdHRgydDBc9F/wfw==
+		</data>
+		<key>key</key>
+		<data>
+		45NI3Dc5lCpZjD5LxbIiJg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>nd his compeers
+Roused up to too much wrath, which follows o'ergrown fears?
+LXXXII.
+They made themselves a fearful monument!
+The wreck of old opinions--things which grew,
+Breathed from the birth of time:  the veil they rent,
+And what behind it lay, all earth shall view.But good with ill they also overthrew,
+Leaving but ruins, wherewith to rebuild
+Upon the same foundation, and renew
+Dungeons and thrones, which the same hour refilled,
+As heretofore, because ambition was self-willed.
+LXXXIII.
+But this will not endure, nor be endured!
+Mankind have felt their strength, and made it felt.They might have used it better, but, allured
+By their new vigour, sternly have they dealt
+On one another; Pity ceased to melt
+W</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14880</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>bWd896Y2B7jHnhjxUP3gm8mLEoAMkPwBUqhed3O</string>
+		<key>salt</key>
+		<data>
+		dfKESGDfbAqLX9gQxtavsrk0rfjXhoLjKQ==
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		pnhH3EKQdEtvAqRt4fK7eadegW/4Kz+0cKNKMjRqrOqx4u6W8/FC++kcQZoL
+		W5WRFbzg56wAWQ935fuk5j/QswtE4jQWRxQ3XAjHa0YO3izaCT8QyzUpwc1b
+		xsAom/v7y0UFegeOz6GtyvNq3m1L/tKuCUq4NNxUksHWHSPJpGP5zF8IbKvt
+		kCAGQtU2fdYeVxjPGcC8aZOqHL01DrDAYp00VgVgMhPymH41X6XtT6UvN+lP
+		SswCPj4BcCprHOygFFYEL2ZcqANAFyjQnouOzJRfChnMmjTjf8zO176DViK3
+		VV5EaZ9c66izAKU9UVuW+OewWcUkrq2qvPUP9daZRv73+zD+cn16D4laSmCj
+		diYV7nErKiWNNx6DQ3nQrbm6imVQinx2DZnYWZKNr9twkunw4kVSyrCrtkWc
+		c/O/9uEzopAqsg18JlDMaoacSut3PFmDTHmV9GzMp8qmWJ/r71ZEaSNse/C6
+		/r22sUlLE3olW74T9ofHW9XneNzIhT++HwA9N6Ph9zzZxTC+JDnBNoTPOwqd
+		dpHxusHZScxW/lw0ssPe//75lKv1UySm5GeC/BD3uZMNVLGXrSFSIdvYqJSi
+		nFA+Y/Pfj00iJW9j5OCV0GSkkdHGxEXGA0xZjtZe0VtlrPYitf3PC7GOM+F4
+		o7Bd5/sZl/PfFiXdpZgigzrO1uW8+VMFBLxU7IMWsb5bRYzBD4Updo5OcPzl
+		CtZIxSN8CgApycjO1l03ANT7qvBJRRdPaIvBoVWXnEsJ1ZaYTteTYDeygxvi
+		49mT6R5GacGLUkA9sAvW+k1oF308fzPBIcsKUr9sldcRZYTARUEAV2rUKNzr
+		hrfIWkHeSue1eoUMuM1rPsbDnntOlCMR+7qLMc17XMVgbFsQzD6aBWIZIs3E
+		9zWVkKdmaGZouxWzkqUcZjklnzTe+Se7n78Qa3w=
+		</data>
+		<key>iv</key>
+		<data>
+		FPtXew8uEUV8bCZu88qwAg==
+		</data>
+		<key>key</key>
+		<data>
+		lkYOqt0V3qtmrerSIq6sbgUyFJJCgJxqM9Yz6diopPM=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string> coming doom,
+The feast, the song, the revel here abounds;
+Strange modes of merriment the hours consume,
+Nor bleed these patriots with their country's wounds;
+Nor here War's clarion, but Love's rebeck sounds;
+Here Folly still his votaries enthralls,
+And young-eyed Lewdness walks her midnight rounds:
+Girt with the silent crimes of capitals,
+Still to the last kind Vice clings to the tottering walls.
+XLVII.
+Not so the rustic:  with his trembling mate
+He lurks, nor casts his heavy eye afar,
+Lest he should view his vineyard desolate,
+Blasted below the dun hot breath of war.No more beneath soft Eve's consenting star
+Fandango twirls his jocund castanet:
+Ah, monarchs! could ye taste the m</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>13629</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>yXOCBGEBJV3Lh6AgEkbvGEbejIPA</string>
+		<key>salt</key>
+		<data>
+		ZlO/qwBPstFzB+Go8OPam2yP5w==
+		</data>
+	</dict>
+</dict>
+</plist>

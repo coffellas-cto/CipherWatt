@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		BLiYwrfAuR/emn5qMXyXA4yxY7qIOTQaNVTlEi/E2Wy1YSCOyF9d/KKsGnJL
+		+QFf7nwJ1OS9O2+MYBzUb5NWUiOF21yB4pcqnh8ajoZcd1/c3ab5IQKQrrv3
+		tV5wc0fyLz3kYjCePy1y1SQGWhNqshDQStHZT+On+GAozEVuI8Mj9YPBuBGK
+		aigttEA7rgeLC82PqcRIQ4qJOZ2gB0YGD2aZjv1EiyMtHXqL4waGgpnRuJ21
+		zHDmH7x03/k1pnv0QUbsMCX+xmnXlGVKVXNMieN0RrJppyus/ctLmEdprenH
+		A/ECVGYLzarGSh+sZdLNnIftkvPbJAbm9jOHkGeiEsVcnSe+XBS7DB//L+U9
+		nPD6Gp7JmQFpqIlsR0strv/ElazihxLw8JhDWXkKQuDVJl9P83KQeAinEZiU
+		YmCHxo0cXfb+lDcB/j1+xyvjzgFjqL9VqtOPG/bexu6PMoNo1UWsEQZc2x+e
+		yxyQnTTdvbww4kX5HQOEVmpIwdbRAhUUfCg8ecFAn9wrZL8jDu2ot7Lxosvl
+		/LIkveldalT/sKfqeh7ayRZ8Hr8EJ7BoJkNsOrfQvBn2XnK1D8mg+X4j2TWt
+		GxTt6U3qJjMqpcL33jaTKZj7oCzsiNaYxPEYikXhDwSldntZjuMz4bD7Kqxm
+		U9LsnvfTg9cjlt09y+rBXr2CaNLIqjvFZEe5yGDKRv6tDZUJJYGALk74O4Z7
+		aZIdUA6ghwfIrz5JlHU60IH3GCkBPNGR8F6lB850xMCE2ULpf+faZFiyCSwY
+		GX8t1Js5rdmHMSqlLhP+1Bcf97psZiOYrBBD+sKxjDo76myPxB6fbuybUKKJ
+		luSDZoYWpZiF9wauIvtwhPubvd2tU5kEJmDuBXbtFO27LSXWgU93y6TXd68H
+		IaVuTWBn4a/M5kQF+UpSgC7Af+sCBfSiLPpQmXid8ExQ56gWi4Vj4ulRZtOo
+		</data>
+		<key>iv</key>
+		<data>
+		eUVyEmZ6MqKOvBaubH3Gpg==
+		</data>
+		<key>key</key>
+		<data>
+		Fy/UJ04MXOVc454v5DYcP89UwWWdr/W7
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>hed interchange of wrong for wrong
+Midst a contentious world, striving where none are strong.
+LXX.
+There, in a moment, we may plunge our years
+In fatal penitence, and in the blight
+Of our own soul, turn all our blood to tears,
+And colour things to come with hues of Night;
+The race of life becomes a hopeless flight
+To those that walk in darkness:  on the sea,
+The boldest steer but where their ports invite,
+But there are wanderers o'er Eternity
+Whose bark drives on and on, and anchored ne'er shall be.
+LXXI.
+Is it not better, then, to be alone,
+And love Earth only for its earthly sake?
+By the blue rushing of the arrowy Rhone,
+Or the pure bosom of its nursing lake,
+Which feeds it as a mother wh</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

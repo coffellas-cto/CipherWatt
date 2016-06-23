@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		eHNH1CMqt0zGvmrQESEo5B1k5zNzifWhK3Dxu5e3W/WRQrrOBwV8gmJtenk0
+		ZAtgG9DhEVliU+9jkn1cQuCDLjd0dDPXWd9+pWKMTomOE1ZLgSpHUNRI7toT
+		woYuAMoF3xCPfbXvnDxWkuhB6ifbd2yAXy5h9UMHOA5EkY1uhvlKNI9hWuOr
+		KGshMKxQ6iGllzwPmoQj/okSF/5ZI2rdh4bHUg59YqO4/zK0Qb4Hm7lFM/i+
+		I52owz09VJfsTf/giQ70eCbUKuADVt/ukccF+cXewWl+JsY3eBsZO/ECldAS
+		xrRZHH1eRZzbnxFFlAV2ZXn301CE71xZkk88NH95SNWrlzSk5RN4sv0aMPyG
+		1AQvj6vt7O22gjKc4IyBQChMOIV1awzDvs8t6JwODm7Xq7skGy+0mt8eA4Y2
+		R3m4tjISKRl1xyFZy8fT99RijkcqtWdRhTMwOWp5/1MSM9i6S+NwxqG0YnbD
+		1JBB9P08owjKTAD3b9QRx+Wwx0KA9392chgWnEsqCb2/b2G87AFOIGZSv8VZ
+		oHxWsxKJ4pu1zlLlrXzeVOQUwTxOsdXy2WMOVff2sgvlcTXMET5SR46fJ+oe
+		Nhxmgf8r5rZBEPGIV23qZ7dpdw8CmqMV6iUNb2WgAT2xlJYYCMVVdnY0CH7N
+		pLV8wEGVUcnjJyz5ajAf6LVTjnNwfKzFVBA/yYQ5tD3hiEPAqqZjLqDW9GB5
+		AS/z3SqCyDS4XJ74Q+/vqORtJZHRYRS0Bt2lDmHucHV3dD96xBJHzj/+zejt
+		dtEv/Q4VtPYmcVvYUzZkQdLqGjrl4046qPgkB0kRIIEEZ9ptBAVLk0HYTV7v
+		LlbX9O/XwmxsK5nQlNmJ5cxB6dJHGnyubTFtwwgbM9e4EouX45WSSXTXHmpb
+		VgG5jYLZo3rCgz6MPF9qzpHT8UdqPI1wpLTMCpliWMF9hRaPbVeCRgLvTujN
+		Yzvfj1akPOM1jdde/Tv1HMQRT/38Bna6P0tXDcwZeEda52jRYcDCPJkKjvG9
+		TsD23nw9prCMt1f/oSjItNwvdp2BKQ35/IJQ+5ac/42ui4c=
+		</data>
+		<key>iv</key>
+		<data>
+		++ppgmTl0Mr25Il6OFx9ww==
+		</data>
+		<key>key</key>
+		<data>
+		vAI9LZwqaz0+w0wyhxFz7w==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ract,
+LXXII.
+Horribly beautiful! but on the verge,
+From side to side, beneath the glittering morn,
+An Iris sits, amidst the infernal surge,
+Like Hope upon a deathbed, and, unworn
+Its steady dyes, while all around is torn
+By the distracted waters, bears serene
+Its brilliant hues with all their beams unshorn:
+Resembling, mid the torture of the scene,
+Love watching Madness with unalterable mien.
+LXXIII.
+Once more upon the woody Apennine,
+The infant Alps, which--had I not before
+Gazed on their mightier parents, where the pine
+Sits on more shaggy summits, and where roar
+The thundering lauwine--might be worshipped more;
+But I have seen the soaring Jungfrau rear
+Her never-trodden snow, and seen the hoar
+Glaciers of bleak Mont Blanc both far and near,
+And in Chimari heard the t</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14308</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>pqaNN2xE9gdA9TTq0QROdcczaaZnrqo1PWjvCP7AQOL</string>
+		<key>salt</key>
+		<data>
+		777+Bz9GrI98DTau0w==
+		</data>
+	</dict>
+</dict>
+</plist>

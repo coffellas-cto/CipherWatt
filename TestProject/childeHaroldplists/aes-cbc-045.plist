@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		TxhEUeWabxqsBmRHpUxtueVfuz3kOcaJ0bcGK4cJPRdNtSLeHC0iZ/AfwuGi
+		g7nsL2Yk/CtghqHEBSY+yZKzJ7VtBk6aTIllGh6OIc4jGeuLuoeOkIL/ixKk
+		FMW0C/pl6qBu0f0CIvT0EdNQeefdizLmCc2ZrCXXy0jSkHqZbk/KrV3jCFyg
+		LS/pH+BlswTKzqEAyPNhYDpSlJ4HWpQL5ILUIq28APlJFjMQzcLV0aEmIfTE
+		IHzH9UQrKDx1iYZDXqpS1mxKOQM7ecQLBIw4xpRdP60TUS1+lhV2tYgno8Pv
+		rTfjqjw+eOslevuRTW2AawSMjqpeOVr1rqGvsbbyKlvNd9ednJCVy/JWuvGc
+		BroLuDv0dCtffHy5SpBhrx9vpq02Jn61nKE2WWGLyuwfzh/DQLvZpAl0hlXC
+		/Is1LEukwks0B/FzjlE23yMKa6Q+67MbEwmbA0bSr8D0H/cfVKlZKmCO4Q9D
+		gKi+BfChFzIqV98baAY6MeTQJ8CdAYkX/y0+9bsAgwSJuMxCq1ZC+Oa9Hyrf
+		i3O60P3vY8/yMK9p965/ZBrUhkH3FAXF2T98ew2hg2M6l0IOPHDcgIr8tjvs
+		Sl208N9mBKv0a/gNFI8O4ZktkxYDGWQO5A35z/0pFlZXgJpq1g9bgA2avyzJ
+		miQcjke/pe3ZzKcltQUB31MPZgFkLLIq/Rs71TOncGpM+p8F6mhfvPZpn+9S
+		P7NLtXnxDOayY+XyyXmFu/oJnO50LWRoyGOkIXjG1zDuVqtlhks3Szleh7Lr
+		d111/F+5ybdrWIyRW+aV2FpnoDTPNjx3belzCsHzmspY3yEK3OAEFR4GaT9N
+		TseqaiHNN4ooBGs03nJrMgZa/9IxURcqmF+4L/GmI9oePFymB0jnlbud1Vyd
+		v/1kGIdKqhaGy9nZRM95WK6g/ESgXRioyjtSo0IO4kghIvGvUFvFiOtQrAYI
+		AT8ddCNo/qNunQ20FCgeKYp1XPNdDUt63CpAHJXah12A1Sm0MCgvKcjTa1qM
+		FybzbssyAA4rjoOowCoLLuxnmQ++fTLdQlm3j37jCrDagWWgoah/F4hYKVMd
+		IceYol3xP2Cv2ZaqeGysWL/nCTw13VP5cZSDbfmUvNOoLUiFJgNOWt+tPTjQ
+		ldsC5osJv2iNKtX3XiTe7vrXcgxGTO0D98RofPP3iu1k3bEVFmKWl87OwbTg
+		dWq5pkzoP5dnlnPlMlNizw/PnCLt1f7RAGyLTm88DV0bWfyfocr57kr+VPko
+		95cZ5hp6YwDT3SSAc3oC+IJAgekI5qira3hPR4XzXn7SuNpLYicMzlIaTQO+
+		07gkoO0dDGF4guCMCW5HpQciQVSpmkQQKHsMXDOcp4R8rByTj3ShPtNNYEed
+		vKVVVaE=
+		</data>
+		<key>iv</key>
+		<data>
+		BFT17TodTnEErWov5eZN1Q==
+		</data>
+		<key>key</key>
+		<data>
+		D5ldM4lfrmceq1ilV4PfwuNOW2R8k5oeRvbczQJPLls=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>realm, I call thee from the dust!
+Dost thou not hear my heart?--Awake! thou shalt, and must.
+CXXXIII.
+It is not that I may not have incurred
+For my ancestral faults or mine the wound
+I bleed withal, and had it been conferred
+With a just weapon, it had flowed unbound.But now my blood shall not sink in the ground;
+To thee I do devote it--THOU shalt take
+The vengeance, which shall yet be sought and found,
+Which if _I_ have not taken for the sake--
+But let that pass--I sleep, but thou shalt yet awake.
+CXXXIV.
+And if my voice break forth, 'tis not that now
+I shrink from what is suffered:  let him speak
+Who hath beheld decline upon my brow,
+Or seen my mind's convulsion leave it weak;
+But in this page a record will I seek.Not in the air shall these my words disperse,
+Though I be ashes; a far hour shall wreak
+The deep prophetic fulness of this verse,
+And pile on human heads the mountain of my curse!
+CXXXV.
+That curse shall be forgiveness.--Have I not--
+Hear me, my mother Earth! behold it, Heaven!--
+Have </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

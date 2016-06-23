@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		avLJqfP5xH7D99jZDsnYK6GoB78n8fqn168PoqIQLi8Yh3zMEdAPS6s0+Z3j
+		d3PglcfmE1LqfxvRHkV9KimcrXVJ5CbYXsnlmdWOZFDPrtI0B+1lXQuRg947
+		QQiZK+hqwdKjR26LmZFmdiYmnecC+KIwdAUYSzXKDrsLXTWHzPKYTfmurysf
+		N6nGy+Vo7FsrU5M/r7GnUfnnLzwLqAGchANfjD7QGf1n7QDTr+u6rOAh/FDc
+		eH8ygedqmCmpRRdtoS9Z/yWpE70PeBJEoZwEgnJaK37rmMGGlEMYLuFpwx0A
+		MY8GrrTV+C/IDWmGbykUCuhApdyk8VNjhog4E2v4LXhpqC66WFZs8VatPIBs
+		LCYz8pIifN6mpFnW2wLcleWfzyilgvLwMScqZMj+5ncr42F1lPMZqwBJP5Eu
+		mMiydi/XehGKsPZc5qO/X+znvKTqokx4n1LpgNLR0gAn26wmfHkUJ8scBj+N
+		TyZv32xYl9G2NTthm1CiPtlzg/guLHdCCGKrie0VsZyiueJrjGPtcOCZvpLs
+		LQMYxelO5Kq5wnDZNX8oonGiYi5z0WRAv9h9WZRDA4rtc0D2sr8phiMPeSmt
+		1RkM96cU2FkhcXz6LcZeqAhBEDcNQqBCP/2QpfVSl/wo0XPx4rkIDeml1cHo
+		IIbJCq0ljgwK8Qbft5NeqSaIfBwrtHzc4vYrcZhUj7RCh/dbohzUKfr6xdwd
+		aTO99KK9NnGBwoxP1mwv/aYDv2LvCH9JyEAccphiPDNIxQ+n0fuvY0GLQh9u
+		6XVEHmJaFZca5T1PYgnvB8x7ywU1Dn8=
+		</data>
+		<key>iv</key>
+		<data>
+		0hlXD4VBsqn7H0oj6yKn/A==
+		</data>
+		<key>key</key>
+		<data>
+		4Pt+MAJf+0riPDPV9JHwrNfpvkqY3pXfntj/WJcP5+c=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>cay
+Has dried up realms to deserts:  not so thou,
+Unchangeable save to thy wild waves' play--
+Time writes no wrinkle on thine azure brow--
+Such as creation's dawn beheld, thou rollest now.
+CLXXXIII.
+Thou glorious mirror, where the Almighty's form
+Glasses itself in tempests; in all time,
+Calm or convulsed--in breeze, or gale, or storm,
+Icing the pole, or in the torrid clime
+Dark-heaving;--boundless, endless, and sublime--
+The image of Eternity--the throne
+Of the Invisible; even from out thy slime
+The monsters of the deep are made; each zone
+Obeys thee:  thou goest forth, dread, fatho</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>18666</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>2X6AtGPfq5RgjRxSpP0KWYRgrvxYBgL815NBtz4gPtWOYejkm4</string>
+		<key>salt</key>
+		<data>
+		D5nvkoCJLj7W
+		</data>
+	</dict>
+</dict>
+</plist>

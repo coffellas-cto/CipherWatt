@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		rIhWyyqX/yexasPO1YHJDMU6BKMFQYH5FEDL6IWA/hXN6rhhexreyg4BF0QK
+		lNyHIaOH8zh76Ilx16I7KTgBCOVTvZa3l1nJWWJ4sToYJRBX4w7t/Rr30sKT
+		AeD2zh6qFfSNwMC11oRebC6z453If98sCalAMH4hUTnRhCWC0dIP1OQ87Vtq
+		dglqas9RasVXlE2ParsPZv77pOtA+xA9yF1Iymn3F9vBYZUKIEC0R8pczG6U
+		XWM/AEIZlRk9P9aiL7OxRmH0+Y7SFGE2pg7ffyP1lK3E0p7WgCMofu9iQB6K
+		T8feF94VUrbkrMU93mJlWBypHJKbOJOHe12qT0eU6g==
+		</data>
+		<key>iv</key>
+		<data>
+		cN7V49ydPeN3Aou7E21Fig==
+		</data>
+		<key>key</key>
+		<data>
+		ukeSmo23grm2WiRphtpP9oqj/3UBRGtM
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>s destroyed:
+Roll on, vain days! full reckless may ye flow,
+Since Time hath reft whate'er my soul enjoyed,
+And with the ills of eld mine earlier years alloyed.
+..CANTO THE THIRD
+I.
+Is thy face like thy mother's, my fair child!
+Ada! sole daughter of</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		FxwaPDraxauxTJwbPqp69PgJJV4Ykbo+YgrckaMGqG2BLwJwxjHHd9Uw2K4Y
+		H3cI0adi2Z0QVhN7CjxUsE7Zl70Q8i4hQrB8NjMOmmSps8NGzzYxmcpYhHxV
+		4stiW7NGA9Rl+8GoTtuIto16vAk7gJvtK2DN11M5g0K55ukODN2l6zO46Wv0
+		ya+P0N3R67PF5er3hQPMfq0Rq6Vv6FTWimHtenrDhloNbY3kItTjKQFEk6c6
+		AVar+otBzoaYKe5C8bJJhpdu9KYqjmd1y/9833dwcq1vWzZGEzMZTGqSU0Ud
+		pBI46XDot19ZiAnSFPNpWiBFd+AGdmEArWeCgNt6EZvlz+/PGxO3QOFgzFBA
+		ajk98sMs6blJR8S2hSlWqnP5VvNnIdGR1ejg7LZ9j32F/SfPPpk8VB12vcKZ
+		eGVL7x9+l9N2BUmz/aA0cJCPREv3iEoEPpVZLws5E+9JoKg/h7ying+vZ+nT
+		9Ua3HtTC1/XzkMqM6rGhHNAv7Kn3ER5+dkGTJFyaKsW77QmTvROrMonEVCza
+		VaZfEXesRY27zThsKMDbCjoXCV3hwR8iUZhGdS6Iz8TzQ6tJH2JTz+Ogg9q3
+		eqo81QuVtomAoufwthMogHtZmJD4fvBpSopwiWhrwNKuNyGpFToy8grJHClJ
+		AQrvIO6LDJpswgSAmgYgpFhVZy4MCZH837rwFTHN/WUTSveZrTeyM56ga+VO
+		/EkRp6tt7qZMdQjyRaK4n2IpmpHdLzEZttPMtZ3MhwvvsagnuobUuxQ0/YDG
+		/d5n72FBYllX0SGLLA1N7ulQ9bm5wpC0utGeG8xjvZHnra4Yv2Jp1LIp63yt
+		trsVuvD62gtV2EdqcGKudD0eIkAjvHdMk5U7XnBKpebetZO7TGwn7tJp3P+1
+		RXyfSMKFvDb/RX2OHZSKGC4AnTpw3tDZ6ln8yzb9qpY0fpEr0lE0eiFfAHge
+		King35t4xUuGZCI2DP/qAjSSnKmStjOB87t11uIWvI90rztfdsm6Wl256nli
+		xN95axiZfJMI1swDQVdoipaEZRU+iot/ba4qHCpGgejFQCb9KzPudPd16etS
+		XWAq6J7Xh+Q8CWRJ2BTMOHq7r/uKZMJ3Ml/uqzCYR6Xzx9OP9cl5Q2fMjx8c
+		wSYEXSKq/gvV3CX3YoXoqLsMKJk0Ev8jECHigR8FwC0iaRDyTItZ+HIUQ1Zd
+		fJlYjhHbDrdueQjNTHLHdniOeD66rvdpOWZE9fA6morfum4aVe1n3yhHBMGO
+		x3JZU/JocwzvEOJG18i/NXMw+t4mFYFhGz+TxTQ6bw==
+		</data>
+		<key>iv</key>
+		<data>
+		WNDKQjxlQI6J/w+IAcNVtQ==
+		</data>
+		<key>key</key>
+		<data>
+		GdNn5bkDQrdYM7cxvuD/Ow==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> its cradled nook
+She sees her little bud put forth its leaves--
+What may the fruit be yet?--I know not--Cain was Eve's.
+CL.
+But here youth offers to old age the food,
+The milk of his own gift:--it is her sire
+To whom she renders back the debt of blood
+Born with her birth.  No; he shall not expire
+While in those warm and lovely veins the fire
+Of health and holy feeling can provide
+Great Nature's Nile, whose deep stream rises higher
+Than Egypt's river:--from that gentle side
+Drink, drink and live, old man! heaven's realm holds no such tide.
+CLI.
+The starry fable of the milky way
+Has not thy story's purity; it is
+A constellation of a sweeter ray,
+And sacred Nature triumphs more in this
+Reverse of her decree, than in the abyss
+Where sparkle distant worlds:--Oh, holiest nurse!
+No drop of that clear stream its way shall miss
+To thy sire's heart, replenishing its source
+With life, as our freed souls rejoin the universe.
+CLII.
+Turn to </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

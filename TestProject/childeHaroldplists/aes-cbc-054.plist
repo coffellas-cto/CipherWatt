@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		HZV7v3dVwJo2UFZPpcVGrOOW1lnExPV60Aoph6o+fpGsKy6DZsKNxEShLUj7
+		I5yBL1R38HWK36JeN0SThMwcnaVyszNrfmBN7L17VA1IjT/tW8bTDzU7aPnZ
+		rTLEe1o/IHljVDGUwj8lmzbTfWMK75NY0CTDagscGP+QcVa14zJp4xsOiTsY
+		hiA2aycSOg5FRjseJXfdoTxKZdLSGSeUUzzlcu3bbvwbYHpSYgiPZVNswepJ
+		41ZVMLNP35h4QRzSlwODkLdY8OAkN4YA37BlgSNMU9SMqA5VAMGlIfYkW3lz
+		nyZQ2NJ5jLfbxtinMa2FL4SetK2iWX9TYoETVerOlYzGhOmfh5Hb4IOWUF6v
+		KTOiqHrTuXcvJ84A4zek8vffr3gakZze8F1aYqvB9T9BaAziWGYZgf7CJamx
+		YshvwN6xy6ha4citmtFejtn3RcbtT0qlQhl5XyHEiTT9FBs4JumrNrNIkYFX
+		c//wTFK6B/lAgLI79gciM38RV/qJcTGYQFAuUp9ZoH/vY1i9xYa14Ccyhs+V
+		0RoWhafevqAY2vwcRT4COVps4wdX+FmqE1vthQmAMKFmGvk2vIBEVY4Lxdm3
+		RAT9E0gbGS5jSOQeleRkHYHXHqAoAXnvPJCLX3lwhMlK3/hRRGO22rQeOORi
+		8bxwR/QBl+aGZGMrSkFZ1Txw9ALbj9IbqDGMZPYC3UzFNC4WUezJ6168MS0X
+		BTGMdJhcuI1u/2c6EVYsatL8FsdkUeCQDAQi3I25/k5pteUdv5ffPbYIGV7F
+		pqRIJVXwUPeQqoVEWQ8hRMwVKiv5opBl2NSByqRhCV8FQ/M/6w8Wvgs7cKKV
+		kTBJ2wUWCoNAJHe0y+aUwepsOQhyjPRXbuO6uCRPmI9lK5MEtxjylCRQz5Kn
+		gut3c/Xpav5v2Mc28fHKKA+jZufh2otZ89L52ZEhPpTHu8eZCbkc2AROL8Lg
+		3FiEgxT2hEbyGLWG6vY7aYNTRzd4M5F8usaQmcZEqe8W1pZiiK3sy/jQjM8X
+		tUZWlP9Qc80A/ucY2RltwDyeWFX6Ds3m+Ts6Nfv+YTWNm979IpK1J0nhn1tZ
+		UKF0QmQo2SJdWRoXytdqQfXmH/aw92ennu1EzGQNHuF11PaHn7ds4yTTGIZy
+		weZbsVxtr1RDYCG1GfCelwci1krNhsG/mtuOHk1I6dhNXA0jPFcCunPCZ+id
+		C1aTlCkKtN18I48BeSFB+39q/uQDgvhThbQoW0I+qwlSAK9Vg+Z62yKJPy6k
+		z8K2f8XgbxPbwbtMNjRAcz3FY3uXF/rX3feOgwONfzLzhDutOrTFsLy4/yZs
+		g9ZPPh0H/69Sp8eaN5fIQ4YSYJSH+40ULyaXiYSx2Reok0USTrZMRqDLWVpG
+		4ATFVI4=
+		</data>
+		<key>iv</key>
+		<data>
+		3GdpoPITvhZhM8pciSn+ZQ==
+		</data>
+		<key>key</key>
+		<data>
+		v+y+UUn+6EpmzoAsE2CBohH/PsR82EH9X0iZY1XF8HU=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>r nymph, to gaze and lave
+Her limbs where nothing hid them, thou dost rear
+Thy grassy banks whereon the milk-white steer
+Grazes; the purest god of gentle waters!
+And most serene of aspect, and most clear:
+Surely that stream was unprofaned by slaughters,
+A mirror and a bath for Beauty's youngest daughters!
+LXVII.
+And on thy happy shore a temple still,
+Of small and delicate proportion, keeps,
+Upon a mild declivity of hill,
+Its memory of thee; beneath it sweeps
+Thy current's calmness; oft from out it leaps
+The finny darter with the glittering scales,
+Who dwells and revels in thy glassy deeps;
+While, chance, some scattered water-lily sails
+Down where the shallower wave still tells its bubbling tales.
+LXVIII.
+Pass not unblest the genius of the place!
+If through the air a zephyr more serene
+Win to the brow, 'tis his; and if ye trace
+Along his margin a more eloquent green,
+If on the heart the freshness of the scene
+Sprinkle its coolness, and from the dry dust
+Of weary life a moment lave it clean
+With Nature</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

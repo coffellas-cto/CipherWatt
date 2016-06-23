@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		QXcmjfxHBY1JMkltgmiajw6czWPiSB52jBL0KQTcUBjevuHxDtwgkpPqoegN
+		72KKyDoY/bpJcnTZjOqLfL3xCfadfqBecvpKx0Q0F8nLRMBa2G0Y8yuqF5Bi
+		rj84x0P3exR4uXGyBLYAYLfXajqaYi2MWnM7ShggFydds+FBfJ5Fj5uMltEO
+		B77vSolJwdicnxTRM+ieRPRGb6b89ikAz3IR27PMS6sIbM4EVqfYgG69lNOE
+		mN9E7hzqanb6nw3vwG47TtM1i41QtOczi4Nqi7R9grYG4isjpmimOL8jb932
+		TspI9wTsvN6vPGSn1lbH1OekhNC15TcGpOhrMktDZuYT/Ek5ickuBno4HD+7
+		62WIZ8fj/fqUSVNIN/M3fVYt/vxRlJVMqidanjxsZmO1sthCwCVVqsl79jdq
+		AMKQA0zPgcacMYDYTgJKc6V0ueghun2U/6yrzjRzQ9o2Hg+SeKyJ+M5L+q9M
+		gerSWpGsCW4=
+		</data>
+		<key>iv</key>
+		<data>
+		25J2AAMQK/29y/Giiv51gw==
+		</data>
+		<key>key</key>
+		<data>
+		YZQXzZaxubBk70LOrGsnHWz3w960bW7C
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>XXVI.
+Upon the blue Symplegades:  long years--
+Long, though not very many--since have done
+Their work on both; some suffering and some tears
+Have left us nearly where we had begun:
+Yet not in vain our mortal race hath run,
+We have had our reward--and it is here;
+That we can yet feel gladdened by the sun,
+And reap from earth, sea, joy almost as dea</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>17444</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>MsJgyu9PTLQOhXh9zwBs7AfooVFNzAMapxWRNqSU1</string>
+		<key>salt</key>
+		<data>
+		8Ff6I2XZlf/gByyvSA==
+		</data>
+	</dict>
+</dict>
+</plist>

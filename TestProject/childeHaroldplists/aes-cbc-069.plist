@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		+zXLlDnzSct+ceWFPW8mg4ZVqr82UbLBV0Qgphh48TrkfSLAMEyBqDGSLnU/
+		ucayGq5mF6+QbFoXVgVkVRsH4Qtj6qmwc8WCOPoMJkpcA8jO/Ksi1gH3Yb84
+		3GNdQZryAgcqBn8ohxO6wDEXyhot25Q/mKhpsXOr6L6ZfsMdim9hUxeXEaLO
+		PqtDNaHmXKoxbbKBHXLrnBQ4ABDG8GSq59MmvdwCnIdl21dN7dcxauQzTkTA
+		w6Mulqj3rUXbqM+PXnNkh5pIL63uwrdFtXtilkiGEyLlbVkLDItb14u+jaUg
+		dKZQ0dC5E8oHDJizd1DANA03agCDNk79PyMyTwojdCoFsRrUWQLluliG/zOI
+		tIui8G3ncXBaTSVwg36hurdypElKz7FUvb2KTljMWT7VUIpvRfrKn3I5gQhn
+		J2kP7RQZE8PGJEWc0O7b/5iAQ8CBxWRDiV3oswtTS2kDAgFYTkYUs1+bKocu
+		A92P+tHyOsSs4sdt+5o2gSNIUYs+OUCVSGxQ6EBho4R3s9D92Qm9z8fToVLI
+		54YNF3bnQ20DAnJv6+SbfqmkxbnHN/OilAePqtHDzDev0MDkQPqw02cFXh3o
+		siz2/aUyibt91T6GxUKNYW41raENtTFSr70OT4tw548D5xEJ5BEpB4iJeTJP
+		Xont/W0iR8xQK7N1VzjenvaYNVivgrFGepJu/mD2jeq7dunXHepX2yKbGimz
+		e2N/NGFa951gjR+4AevXb0yBPg5eIJ2Xgefaq8JUpLR/BVpHDuAolPW1u5bU
+		YrZnaiupVvkReO9xAxoSjc0lU3M0uCEl7jxd1Qwyu6RwmZlogGbTOCzhivw5
+		YLhQQi5knrm7mboLv6xPwU7bDqPCy0DabCRtPPeBRwnIJgUHFM2XxouBo+LJ
+		Kl5XeDnqZFckUfOAUywOSn4jCsomXRdTgzAIKoqd2JGKX+cMqDJm8ya8lhq8
+		4YUsK0zFAFJEXlsS4LXpjMB3pHjm4v2UDhIUNpLvPhRDO48+BBPijmuBApAX
+		x7IIA+lGj5VVzcgPtbKro76hf7yJmy7znCIW317j8/8dHPYqAiD9qB34ys+p
+		2xGbkN4ubP0rw2+eMOOGj0kEAAWzDHYtKVwfu/cwU8RhJTN3lT22XzwEW1XS
+		v4L3ZH6s9FqeyemtzpFutMJA4WSHNsbFZaaH56rSf7u424ldpqrwZr+gTwQG
+		/xdBJwpqyNlkL8qnV2fZxt98FznZ4SIFrb8Vk8S5FC1427AUWaelWGAReJ+N
+		sh6cQ8YN9lcEjXoKseZO
+		</data>
+		<key>iv</key>
+		<data>
+		jOreLoFOgCP2j1RaWBT6zg==
+		</data>
+		<key>key</key>
+		<data>
+		TzVbfALf2zrvlSbYZvOjYA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>llation of a sweeter ray,
+And sacred Nature triumphs more in this
+Reverse of her decree, than in the abyss
+Where sparkle distant worlds:--Oh, holiest nurse!
+No drop of that clear stream its way shall miss
+To thy sire's heart, replenishing its source
+With life, as our freed souls rejoin the universe.
+CLII.
+Turn to the mole which Hadrian reared on high,
+Imperial mimic of old Egypt's piles,
+Colossal copyist of deformity,
+Whose travelled phantasy from the far Nile's
+Enormous model, doomed the artist's toils
+To build for giants, and for his vain earth,
+His shrunken ashes, raise this dome:  How smiles
+The gazer's eye with philosophic mirth,
+To view the huge design which sprung from such a birth!
+CLIII.
+But lo! the dome--the vast and wondrous dome,
+To which Diana's marvel was a cell--
+Christ's mighty shrine above his martyr's tomb!
+I have beheld the Ephesian's miracle--
+Its columns strew the wilderness, and dwell
+The hyaena a</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

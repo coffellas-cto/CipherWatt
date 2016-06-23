@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		XYRrXvUZNBeB7LNMODt8XY8DFSHlG1sc755KK2w2FrUHQiTqHXONxE428lLN
+		ayNh7OzbHmoID8MZ7I5Lbg/JI+0/7AyWr+sgOutOVFnqcPrVjD7WYnwP2fiO
+		rA7W+zfFSB5Di77TQ8B9zmLTGunwYfJKyLcEURjk3TobCxvrIDBnVsmatGEZ
+		2NMc98fBt1r1tbnO8EbifjstRORJ6X4h81WGl3Cj9oXd9PoJbK3ztbgYRsfV
+		Fctaha/ZAOFcaHr0JP5sjOWppr6ckhtolmgRcg==
+		</data>
+		<key>iv</key>
+		<data>
+		HF3wt7aZzL39cb8fcoyhtg==
+		</data>
+		<key>key</key>
+		<data>
+		E10wlqcSpSlosvdnHa/ckg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>Whose travelled phantasy from the far Nile's
+Enormous model, doomed the artist's toils
+To build for giants, and for his vain earth,
+His shrunken ashes, raise this dome:  How smiles
+The gazer's eye</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>15141</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>Rgm76n4g8VQYpzeV2gHYrXZkhhF5u06d1LMZjxsQj</string>
+		<key>salt</key>
+		<data>
+		PymfVeNL104Os8jQadGItAyn
+		</data>
+	</dict>
+</dict>
+</plist>

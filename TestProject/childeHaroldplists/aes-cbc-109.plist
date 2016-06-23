@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		RW/UbMyYKYV+qmsE3WG4/C7kIZ0BnakcpWAbfD32xaBZMgtvf09yx170/w6G
+		xPwMBWnJhQCyWyStYzZP37XuIQjXIedimuVZxnBvB2Ffp2LD/KLtelK5oe7I
+		c3P4yqxqf7nU+jn2ZhluGRNmDa0psvSxvk940DHY2cxWyJQG/NvYOC9zlS3E
+		C7c+uM4vG7TzuOMxriUmjd4kPcwR6kAqdiXZDZFGMOcUjwZWa9JWJUV+jYkW
+		4uFWOVKgQpGONDnZo4BkWQcYjjLzSW5Rnz2ovjY5f4hrKDNLcIP9HkUsM9ew
+		zy4ODs58o2zxOmcr2rLnoF/SVQozU6FiG31JgOkcMytpYj1yi57bNzbT+UaM
+		BY+SeUyMJGW2onZVELWUJ1Ji/T4g0Tht0ZQTMsS+CjYAMcxDxfM5kGJyDb6q
+		Mwikik3dRXHX6MuBWxtGIX3TfkKJvt070qAifmC0HBkAvuDhhuNNecAzY/YV
+		FV3wJDtdWtasyT0k1G1yUPNza56skKkUfGOxIXhK9wEuai0rokvf6/QgFXqg
+		5ZKW5V3ebN/UwuEv5NPdx4xxk+jkXZN9aMj92i3qnI+SpP5NIzdb/D8UfeXf
+		8nqwGokN+WQSbeCb6LsUcrsbOk47GuF+RwVwDZl1CB8Ht7hSDgfCEH2tJxRw
+		zwy483ubI5rxEMoB7TtHrwA=
+		</data>
+		<key>iv</key>
+		<data>
+		glVwnOobLFTOfsse+ocxMA==
+		</data>
+		<key>key</key>
+		<data>
+		CRg8/8aJ9TsG3a94tDQSLq2em/uAhKB+Y4ocvYEt+X0=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>
+Have left us nearly where we had begun:
+Yet not in vain our mortal race hath run,
+We have had our reward--and it is here;
+That we can yet feel gladdened by the sun,
+And reap from earth, sea, joy almost as dear
+As if there were no man to trouble what is clear.
+CLXXVII.
+Oh! that the Desert were my dwelling-place,
+With one fair Spirit for my minister,
+That I might all forget the human race,
+And, hating no one, love but only her!
+Ye Elements!--in whose ennobling stir
+I feel myself exalte</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14901</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>38ABMJRablKRrb6aPyRuUj6STAqilWB7b</string>
+		<key>salt</key>
+		<data>
+		4sSc0/QXqedi
+		</data>
+	</dict>
+</dict>
+</plist>

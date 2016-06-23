@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		C2ax/Udf3Ji6+sl7P2/9pZxCGf8Os1zTOqORvyqLuFcpQftSvPsp7cQkNd2+
+		IP82Y+6ghEo5VL0V6Kn8iqF0QsWKlth2UwlCUpKa2CIUksXNnbjXjU/Taew4
+		qh2f0yeEkExrBqEEVAOKBydrPiE9gQ832crEzTfEkdd5rB6aLi/KwtJDQuv4
+		K0UWY0kfQzkubkk3UINdRNADhcUOWm932Rf2evAPV0uyqouzaxRe8psw5Xoa
+		ZIevYSlCSRlPlH8Ar4VGyAw7N+3C4e1W5F7uw0Ad6DMH7Bz9ZpgWOiXN2pLk
+		/f6o082HgUtU/zvweVmx35S6PtwISooVk48mO7vnK8eA+cRHV0XjmexX9HFZ
+		Lj4pjWBl97cm7gaEB4/8m0UcdcLYuATKmnH98tvmvG+txNCTxWo1dArtKmb1
+		RHWhdD9yEUzRs7Fjh8y9bHMmFdZBnleY7DuFaIzc6EvEvtqwfb9vJfj2RMxk
+		HX0W51Es5WwOW/QAh9W9zJWjhIKWAmD7kSOLPsMt62r4gi/3oly70jeoHzy6
+		kgAI3/EJ0o8OLb9zF2MBlvcOMB5r09kOET5F6TR0Gpo1dLijcs/cU34ZPy3v
+		csCjhwmbEDkDnRf6YPdDqOnAnwt4JBur2X97XvTO+pv/QI5JafTqeXe9bcBH
+		iLmLMMBTQmfX0NfGo2POY7p0jnxROIqHkxB+KDAmjOA8
+		</data>
+		<key>iv</key>
+		<data>
+		YYU4tV2TCgbYGmM1wZXzQg==
+		</data>
+		<key>key</key>
+		<data>
+		UXFFuh9KA8oAZjZ/dP4bTkVB49VLLcm3cq/OWYpyg6A=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>here they dwelt, the vast and sumptuous pile
+Bespeaks the pageant of their splendid trust;
+Their sceptre broken, and their sword in rust,
+Have yielded to the stranger:  empty halls,
+Thin streets, and foreign aspects, such as must
+Too oft remind her who and what enthrals,
+Have flung a desolate cloud o'er Venice' lovely walls.
+XVI.
+When Athens' armies fell at Syracuse,
+And fettered thousands bore the yoke of war,
+Redemption rose up in the Attic Muse,
+Her voice their only ransom from afar:
+See! as they chant the</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

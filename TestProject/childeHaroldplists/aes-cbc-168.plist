@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		ZyBRzYrAOdpGZ4AhUr0CxkrShQLz0JHqSsPTtERruEHAi0ZYUuZ9KNT1ghEh
+		0VA+JtT85ehm+EMvZGgNs0ZvhWsl7RQnFRtejWKA8O1WdwB1ptLNMfy2twRE
+		cUVQxmfQATzRRSRjaP7EzLT0W1zzcRZ0u9RcYSL8pT7UvJ/yKjNeibdWzv31
+		83ijl95Z2M1mrMG0m8/AbKfrWRNtHNlFrvi7c3r7P4yq/p/F7NvQuWqIXGMT
+		4QCtygcvzbqPrijlg8gzQlyTe/2C21hMZ699ZX3oF8J2SWeJfGIGFKeBhgMN
+		gkziTZpFX8wNo0MFLpXCp9Hj9e3gx32ziDeGbbO3TnKyPSNeR4oiJH+TY9bH
+		edLxbjfWPiPdK+o3IBExqHE8scyFsJAf+gOki4cYAD/VsiK6cbbW00jG/sJ/
+		trctLVOHk1eZREYnf8eWD0aACtWhL18Mv+r4wG3FDidN+WdL4YZBkbR56jGd
+		AdgXsDkkOVvglwDXPNHl6M/Pp645GjoAjw33WZBFLoP3j7whKUPee0XSiazC
+		r644KFV661ui2kCb76jdb16BtVuBOkjUtycU
+		</data>
+		<key>iv</key>
+		<data>
+		Y4suEk+TvV/voJSeOs7Q5Q==
+		</data>
+		<key>key</key>
+		<data>
+		Jr9Ylh8NhzC+MKsVxhwQFA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>me feelings Time cannot benumb,
+Nor torture shake, or mine would now be cold and dumb.
+XX.
+But from their nature will the tannen grow
+Loftiest on loftiest and least sheltered rocks,
+Rooted in barrenness, where nought below
+Of soil supports them 'gainst the Alpine shocks
+Of eddying storms; yet springs the trunk, and mocks
+The howling tempest, till its height and frame
+Are worthy of the mountains from whose blocks
+Of</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16364</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>0NLcXUsDdEAdnKNiablvyHbx8rzkzv1wYP3mh9Yxz</string>
+		<key>salt</key>
+		<data>
+		wEP1UzgjhOWgbmtONWJDBw==
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		dqtIvdBYt9ew1rGUtiDZSlGgtNFG9AO66vTwCvaSfe4eSyCh8EbgeIp8p+ec
+		D3l+4/W2zQ81La7TvMKltrwJ85nILNdpwiSEsrLucGhgoJrm/OJNkRkCdIH6
+		7KLWLNm6EhxTQYgLQ+wiUBoDDc2mI2MZBc6cHggbk+x+XcZYtOQe3vZHERL2
+		Tg8ONLy6lvW8YUznCnFuLZ2Sd5iilEXwQLyPNaP6wxNPLl4K5Fv7HVn0E1tO
+		Ojkw/JNZ8cJmGB+TQz9zhHSSNMdWmCqz5N/ZlzlWR57lObAXyAHVf7KEGOIT
+		L2YOCuhR8RWNee2ehC8JdoXba+wnxQ6whMWT2QyO959AzXy3osy761blhsrX
+		kZ9sHnnu22lxy6x+4XHxysoW+Hu2KLTivwVs3ANq36xTisJTb3FS7hc1NFZ7
+		yP8mG24R/rNUGAHPnDh6iQCJBi7S1kQQcNRQySGrWYBXxCz0TgzkEi10/8B8
+		E+Wz6C1EuqWy/piAMjNrFtynjKX9HnSdDoaIv6GsgkVEv7hiQD1uAVjPb21E
+		EsIocilE0/jSZUVGaiqBLGA8xosPnaKJbPop6gEyJsKGh22YtJqpVM3Rwxwu
+		x8W60fou5IYEeZ0K34Cxj5qSw7bI+U2wtte3a9Ht2L78pvKZxhsnzxk3QB33
+		lBsni8EURWx0qJvB/vdBt/4rPWXyzxr4H6QJX1fxdawhyXDKEclJ0eRfq4rK
+		s0i9ZTUdwDNyI0XcNNEl8CEy1RrBaWkP70PdMoiiSE7HiC2B/dcRB5gcedWR
+		o97GbqKUEVkuPROmAXSk3ONO/Cjmucg7lD+bmOdyFnPgcIcIxM+31QYAWRFh
+		zFv5yFpqvjUzbPkH8kujNxrwl0VPxu6SGaOc+PPEIdvBTlZouXvwQM/kB4ej
+		fwxSOvIy3OU3vtQ/TCkWL5mGNS3vcPAf7Ls7mzeyBbZkNTos4IgiFt53Gpib
+		QHAffuBJn4t+ozU+b94cvC2na+sQvVcYbqBGW0CX96FSaD2Yk2EqG6JnhUZo
+		kX7P5zVJTtP7FifMysFoTLV6E3TY8V7RQOHSJghobGtUNrE2TQJrDHOw1ADy
+		v46cpTKo
+		</data>
+		<key>iv</key>
+		<data>
+		RoopuhZCdBhYxJMDuowGow==
+		</data>
+		<key>key</key>
+		<data>
+		IRdAQZqRiMQFq3bNOr2a8080U63agu2D
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>
+Ashes which make it holier, dust which is
+E'en in itself an immortality,
+Though there were nothing save the past, and this
+The particle of those sublimities
+Which have relapsed to chaos:--here repose
+Angelo's, Alfieri's bones, and his,
+The starry Galileo, with his woes;
+Here Machiavelli's earth returned to whence it rose.
+LV.
+These are four minds, which, like the elements,
+Might furnish forth creation:--Italy!
+Time, which hath wronged thee with ten thousand rents
+Of thine imperial garment, shall deny,
+And hath denied, to every other sky,
+Spirits which soar from ruin:--thy decay
+Is still impregnate with divinity,
+Which gilds it with revivifying ray;
+Such as the great of yore, Canova is to-day.
+LVI.
+But where repose the all Etruscan three--
+Dante, and Petrarch, and, scarce</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

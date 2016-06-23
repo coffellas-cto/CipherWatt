@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		lgKsq8f5BzqOLCSvV22/ZMIU/HIEYRVwYfM+8hmCWAec6Kf+TeQwZiw+9tmI
+		zBchl3yFPbrERJLo7NnHVLVBOBXUFFAxVaBlXA1BtZYowpv5W8PCE3wtCu8x
+		GbNuYJBERCP2ih17V4SImjYOoJQm9L2RCDgW+INUuR1NzdhlIquom3B/oVLS
+		Zr7+oKbCO3+Fh2WtOzK8VfEHYm8ivnSiqyBRoM0IRKiJr6CAtLLvXhLuiDzX
+		yFytMjVbtJHTltu3gVueam2w4ytamjERxP6aAPdeDWgAEWaGoncga6IaqsTH
+		80Z5zPLlPQKgv/Dbapt2jrymse4E1i/Yc6TdjS+K+iEFHU021WYHvKrl6W7G
+		tpblkenMIlJnxwrqO7GhcwNfd+9LYf07OwLqfMkFVmhU6ybpBLyqgDTQanhR
+		6KksfimkdcA6A5GH+L3YTNjvajxpTLicObA3+3ajBSx/5RaaDIDQw8vRc2fX
+		x9GJdIrdAz+OxMZYmHvNzOx2Fvha328p
+		</data>
+		<key>iv</key>
+		<data>
+		xcUmEdLpSHGoAYHN+Hzw+w==
+		</data>
+		<key>key</key>
+		<data>
+		TMunj8wz/6fRrEwyH6rytA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>s arm his lambs defend:
+For Spain is compassed by unyielding foes,
+And all must shield their all, or share Subjection's woes.
+XXXII.
+Where Lusitania and her Sister meet,
+Deem ye what bounds the rival realms divide?
+Or e'er the jealous queens of nations greet,
+Doth Tayo interpose his mighty tide?
+Or dark sierras rise in craggy pride?
+Or fence of art, like China'</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>19603</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>GwEveEgVoZrR1agNw30tZ8VJrUFz11y4omxndE1evLTpdWDH</string>
+		<key>salt</key>
+		<data>
+		PcdH9EhY4vhxsWXe4HTToNci1w==
+		</data>
+	</dict>
+</dict>
+</plist>

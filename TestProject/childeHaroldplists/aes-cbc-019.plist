@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		SDU4XSOqShvsQytMiOYncyKFYw5DTMrMI4gnkK398NCrcajGXNOUvyyLElfN
+		50g6RQOzf5lD1HhYUX3yJp06TRIlLIP3o9StDSjoDaDOaWj3mNpZJ6nKMQ8y
+		8ssj5fZlGwZ3fJwm88Lz5H46Vs6gnWQXUrb82KmnZ5JXWCBY0TJcP3Nnraja
+		80CnfVxro3jxhs9SfHAs05xZij6AEFhput/BoGQcC9iOubJrUXKhI3otCQFz
+		FP6xWePJ6GZh6FM31XiahBkUKFod9RYf5codoQoYyupTQU5/RxEyAZiMTay2
+		q7hostenWWJG+fraX5MOxnFSxD0qEdrOW4APdHDsA7dk77xv9qiRi06E0TL3
+		J5luWGNnmmrEx9OFeuto6nf8yvods5MXPrOPl+EOr8G9yhbsXjVUTjawXLNh
+		jSfLph1/RKB6bVuD9N9woGlWdk48JZdW2/d3deDwYsRT3NdEOwV7TEh5cMEv
+		vb2+zQ1u66eSjkZxoq3aMicv/nHp7pv4EB/UHNHVX1HNqUqU10qRwTpZjqFC
+		o2mgT5OArQw26wcMNsC70jvn90Ek2NShMyMgL99t0pdhSgrv4RULSeFpXmt/
+		aJNsHUWBS+EYXOc4aTWfF7vkbwBwsGsTY97Mhass
+		</data>
+		<key>iv</key>
+		<data>
+		EctDu+5ZnnwCjMbhxd6eaw==
+		</data>
+		<key>key</key>
+		<data>
+		PUDI4UcAQQmC+H1xJuFVQPcELjhG3KUkknx8YW5pnrQ=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>And traverse Paynim shores, and pass earth's central line.
+XII.
+The sails were filled, and fair the light winds blew
+As glad to waft him from his native home;
+And fast the white rocks faded from his view,
+And soon were lost in circumambient foam;
+And then, it may be, of his wish to roam
+Repented he, but in his bosom slept
+The silent thought, nor from his lips did come
+One word of wail, whilst others sate and wept,
+And to the reckless gales unmanly moaning kept.
+XI</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14722</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>9O2UOoqSIPEjy4OxgOn13Qi9WbMHnTbA8he</string>
+		<key>salt</key>
+		<data>
+		gfKeYI0WEHqo4Mc=
+		</data>
+	</dict>
+</dict>
+</plist>

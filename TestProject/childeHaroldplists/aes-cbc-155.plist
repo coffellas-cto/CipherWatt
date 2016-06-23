@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		wX4kE+KZ1KwUEn8DICctZLN94uVRULa97/KPM8gTf2tRsVTvck6lqfL3PPzz
+		jHYqOpqOPcLM2sKrdlkCpTF5Esksp78KNjC782781F3I0IK/wo9GMQXbOh25
+		LPI5YDn3xlarUmrD9OrrMRfXpiqCBRz+EXOqPY0Ouv8C1I4E8QeZp67aWt3J
+		rFR1F3LCzN3eMjZ2J92KKpS7WS2UjdWXSG/oFc0efJFaTgJKXj/OdTYBoXUk
+		9z12CUah1WoQ1hsxOeYWz3+4RI+lWoUzxEmwASKiFeH2dG9+PlJAE+sSZtA9
+		am/n90EANAaH8rHQkB+r5pnPTZNPgkn7l0Hgn9pTXzd57pYsGS8LX1ngORIW
+		QNO0nnnBGQWY3nV34OGgbsaW4MnkddDSeJU87x6QFwsMcZKrQuNdyXyW5gs6
+		Cht0oJBVo9wp/mKKmiqi2C1L+Kvkh9dUNsNs5txjKIkIsCIn/yIHDcyToh/C
+		eFLb71iTo/58kcQZGM1Ihzi7YRrmScY4RlJwMBq9MQ/cDo5uaCjR7z1vMRAL
+		sVMVqbp1/cALY/EU2ciWBkAh7XqVgtswK+ru0GPg7lzri1sctWH1H96+W0S5
+		c4FQIjn3lF/AP1Ik560AGjm1x1PkdgGrvlmy3TsDd4A1pdUDJMuWp5eoQbKg
+		BBJjSnLw4ssiej6bis8g+hqdr7E38bfd6KGgcFa1WRbcSfbfbuZemVjDAs79
+		mgBI143qL5Xrfj5zZGCgPUqdK450wVlhVxbmtKpHWvu7IAmhcBEZLgl7e9xg
+		Ml/CrBNir0oKf8zMEzpFnFcTBspjVtrDg041Bo5R+RBfgDXFT2yD+pb1QPTW
+		uJlBZTvkGPp6DkeJQE854rVcUE0xvIZZ6ViuIIwFA51Ft/4V0XoWUE5//RNJ
+		W3Ycyfobac0UZob0o4skUB08SZYB7Oys0EXK6uSRWR02CeAkdZuQC0v2IlpB
+		LXa1futzJuUgPapvEe5OrusuJZh1w3yEdXYu4A5Vk60NYeTs0DOjyWslXgtE
+		/cjW+4Tyte+2jyhaBrxObD7pXimDxTXuLywt52XFhbesEOItUjs4FbhdjWZq
+		VcWSI/dgwgh/T7t9957z/AsFXRaUYTIfqIMJjfa1gD8FuSO3qtJ9T+eS13me
+		vBcn/GatxMTd
+		</data>
+		<key>iv</key>
+		<data>
+		wEhAoFqKNEGz0wmyaxD+Fg==
+		</data>
+		<key>key</key>
+		<data>
+		OBo8YJzUb7id+AAGRGFuIA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ld have sought, and all I seek,
+Bear, know, feel, and yet breathe--into one word,
+And that one word were lightning, I would speak;
+But as it is, I live and die unheard,
+With a most voiceless thought, sheathing it as a sword.
+XCVIII.
+The morn is up again, the dewy morn,
+With breath all incense, and with cheek all bloom,
+Laughing the clouds away with playful scorn,
+And living as if earth contained no tomb,--
+And glowing into day:  we may resume
+The march of our existence:  and thus I,
+Still on thy shores, fair Leman! may find room
+And food for meditation, nor pass by
+Much, that may give us pause, if pondered fittingly.
+XCIX.
+Clarens! sweet Clarens! birthplace of deep Love!
+Thine air is the young breath of passionate thought;
+Thy trees take root in love; the snows above
+The very glaciers have his colours caught,
+And sunset into ros</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16159</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>Ddd2aGXLN5j6KcHq4SB8YzG0a</string>
+		<key>salt</key>
+		<data>
+		9GMz54krBN9DCqMOO/3C5lcsTj2xE9fn3zHuuA==
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		nKkd5qrBjxGGfgW98eQA/qmsNFd400WeUvsImUjVt9OuNssCtG49X2r0FUah
+		l0AVuSOsgD7SJqDBXVZDKOPO4b169Ak6gtUGGt3ln0K3vnCpBYQ+1rrweNQQ
+		bUSGFT+RmtMOpuRPdq9HRzCVrBoq2reLFvMJo97LSV+ygIXYxlR/kdIfaekS
+		mPUdX5wnzuN2L1U8eCvsYSSrJazFozohGQR23IcL9/Ec+WjRxCxKEh7ek3dB
+		NE7Dwiop6jrAKqr6yMXby3qKqYo4K3Gfr1d660S83Q1HqsUJ/XR2DS6AcRzO
+		ktZxx+Tz+dGjBDIES+CNUDJOuFDfc3dvj7qnew3SvXH34tgDIR/Xu5HbbuPl
+		6UzSgMCPct5YG/9dXFqZ8yDs7i36koLwPK3elRWEBoVdfYRt5ggJIYswR4wY
+		tq9Qq990mSZzNccXXJDAiJPt+8+78ByeFvS8/8rH/X5pIPqg4P8J9lPwn4Fh
+		zW7YuQrLS7P7KFdiEaoLbgzc2p4Vuy+9zeMKB2VYLLYWh3jEtJjF+Y+CXKXO
+		j4K5u793bOR4ruGuZ/cW422i8qtrBth22pFI+OPv9CmbCrw1ZpQ9Lc5pRtB5
+		TaxRXeaM1MkDI46HYNIimM2U6bdD+R49NdafR+z6SFSOu9LGdDQheQw0+5Mj
+		+hMqJedwJL6v+7pZex9VERWwdANxYNHilHYFwMlSNlgueNinBOVFHDePHvh+
+		G0X6gIWqEbXVVG0htqVx1sDM0znygGnL07DyNAAJ/5uw47gR9IS2Gj/uML+1
+		ghPnGpkFguUlPyH3rK5y0Yf4O+gVctCmChOOaTNyu1739UTmy/8b8WTzMv0M
+		1T4KeAcSabg2UcHTPBEdTT7D07LXgCHTPfsPUn4JkN2YUNPh1lv8GRtzKurt
+		dtZteJoa0CtJ4tZfmjkNTWxKIHdh1TV3qI81D0nEs28x0O0Di6QHi6FazCTh
+		oTWevdBRBn4/C1BYsLtYAfs5cLa13AHOQ7KO0joWJ5O2AgqWmzVADwxfoI8u
+		JuIcqCCLu/t98Iv0JjvI8ioooPCz7sOWm2j9XycT9Xx2LLcF98EQlrKJpGmR
+		DVWsuZ9ameQs4YeQJarGWF2guttYSfwy9kyl5DsAudwryLaceRYyBl5CXtCe
+		594c0rEJyRpW1BC7L7ouWZHa6HB4LJhEJPSzJO8sohb5l7HlYGXTcbM=
+		</data>
+		<key>iv</key>
+		<data>
+		690toWzHEbaHN4NjyL93Kw==
+		</data>
+		<key>key</key>
+		<data>
+		o9Njc0c+GJGo1X+nwwMedg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ing doom,
+In bleak Thermopylae's sepulchral strait--
+Oh, who that gallant spirit shall resume,
+Leap from Eurotas' banks, and call thee from the tomb?
+LXXIV.
+Spirit of Freedom! when on Phyle's brow
+Thou sat'st with Thrasybulus and his train,
+Couldst thou forbode the dismal hour which now
+Dims the green beauties of thine Attic plain?
+Not thirty tyrants now enforce the chain,
+But every carle can lord it o'er thy land;
+Nor rise thy sons, but idly rail in vain,
+Trembling beneath the scourge of Turkish hand,
+From birth till death enslaved; in word, in deed, unmanned.
+LXXV.
+In all save form alone, how changed! and who
+That marks the fire still sparkling in each eye,
+Who would but deem their bosom burned anew
+With thy unquenched beam, lost Liberty!
+And many dream withal the hour is nigh
+That gives them back their fathers' heritage:
+For foreign arms and aid they fondl</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

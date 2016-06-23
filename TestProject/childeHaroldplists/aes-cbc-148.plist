@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Kn+K9Zp4vsqfkqhyfrZIqU89ooz06pjOlN/W8yHBmoIS3VIMX3Jb1H8hDlY5
+		62OvV+Jqidyakef6q0lDJzt2FvtyT299gFo9h5toUwzumsyGjnSkG4AGzF0+
+		Llp4oAY4+4k0MXEXnMc6+Dm3FRWYYAXLpWD4oQHRZl4H8k4jGzeZT1llwckq
+		G6mWKRm8lDvjXdFIP6jhNKY129w0ZbtH3omftsJFr8WkYFvGQFd+B8d40EqK
+		F6Y1ssjhhI3oon0BnwP0H5GRPLI/6QAqEP1Bza1wglanvs1v4E6iHxcfqW+A
+		B9bO21uqWSiZVZTXOjQD3IUouzYwprDb5N+GvMAS4XCt/5TKcX7kwWzA5wf0
+		MCQPup8vjNwRjkmN5kfIFIo39t9rA1JJsWBojBzmSwOJ981ZcAM/scFV58SK
+		X8nPPUDa3+RrJvCHt2iptV6Oot9ZGQL424JmbP9x59Tw04qrLcg7xkNBs0Vc
+		iM9CGzo0/uh08WnBUOhLdApngIKcsaIujAL8Ji1xhHtOQAHnpCtEeiy/9knj
+		eHooCDGPiU0jmF2J4VX62Crmszn53iT6nVwO
+		</data>
+		<key>iv</key>
+		<data>
+		QNl4DOMErgOJy6Mdxjd84w==
+		</data>
+		<key>key</key>
+		<data>
+		GAWSgK+QwLQMVyMveByoaQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>most intense
+Outstrips our faint expression; e'en so this
+Outshining and o'erwhelming edifice
+Fools our fond gaze, and greatest of the great
+Defies at first our nature's littleness,
+Till, growing with its growth, we thus dilate
+Our spirits to the size of that they contemplate.
+CLIX.
+Then pause and be enlightened; there is more
+In such a survey than the sating gaze
+Of wonder pleased, or awe which would adore
+The w</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>19612</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>osS63ayCaahXBOpVsquX8x</string>
+		<key>salt</key>
+		<data>
+		NsUir7FcG5E56yDK8SoOz+KeVpJ78g==
+		</data>
+	</dict>
+</dict>
+</plist>

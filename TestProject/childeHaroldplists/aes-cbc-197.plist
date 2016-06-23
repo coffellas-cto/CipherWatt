@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		oEdNP+WFrm4rX+smMEXIxjvtjnDIrgFA5VawOQtGvUU8HSVhpybdkXymKDBP
+		Cv43Anloba+nb8KVhiIUN59W64tTzNcWdzyEPVGxbUSdOl0ueg50MCpVJHi7
+		gFZUkAsYnpYvs9CcIQS3RFwJUaobVl9IEv5IS6DaLWjhqfFfSdwlhq347DTb
+		u5ojIU9OTHp2CgrdXd82QBIc5lmwFTsOxj2mzZ92dteKXyBEB7Mi0h/mr3JZ
+		495Xlm7FgsdhHPB/0Z/7qoIRO/bj+ILOfvdygohvw8LsAalPeHLOfNb294Me
+		jtyJ5rjBPctrBTphUjh6redX9IvAoI8u2ghEEZjA64laLRPFD697SiqxMK+B
+		Q2zb8PflEdCHSqyOGpcbMgogDg6kS4PWVSkYZCS0KDgSp9LhjTeNLyNVmYWu
+		E+wOPbmSBCWWk7MZfKpB3ZcGPcTGbafltwYNv6SQmW2lJMqTfLr3sYr9K7I2
+		lg6mro+jN2yMeOpG2b9CF+edGxYhYisaQpfr4T+lUHzaTJEIVlllE8POIdNU
+		BBJksQva24QZjpbij1HpfOUCXo/g+HuaIf1KvPBKqDoghPsYlTTUC2JNrA==
+		</data>
+		<key>iv</key>
+		<data>
+		KJa88+ASYGSvryoAd+NSkA==
+		</data>
+		<key>key</key>
+		<data>
+		RQEB2ZSoBJTUXJqM90jpcSMKp9YysnDU
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>its crystal face,
+The mirror where the stars and mountains view
+The stillness of their aspect in each trace
+Its clear depth yields of their far height and hue:
+There is too much of man here, to look through
+With a fit mind the might which I behold;
+But soon in me shall Loneliness renew
+Thoughts hid, but not less cherished than of old,
+Ere mingling with the herd had penned me in their fold.
+LXIX.
+To fly from, need not be to hate</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

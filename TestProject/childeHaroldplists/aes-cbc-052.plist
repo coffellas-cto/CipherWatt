@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		AJ3RdlKLWKSLEHlriFU8VC1E5fuoCBQ6nuUir9i4U54XlmKK5s/5FyG7geSJ
+		J7z0zJp9noSEaaPNXjPIu9FKM5fz4C8Pw//Q5q97C+6zdD+WOCLtH/AKT6nh
+		Isk/vcbYlitwp9cHaxq44v/D5ByInfyXBzw30babAtMdq9rPEIzldwXLzE9E
+		M+b3BekopG1O4W5YTyGXOOaXhMwnz/Fxd8X+mFzY84Pv6jZQ3ZVo9w15vjaH
+		N2x3yxZYoG4ztdrvZuipBjoONk7+rzczdkB7o8sDrdGD8+yhdCioJf3JXILm
+		vUijLlLnMdeGbWNx38ls0KcD9vYnV0xH2H76Ygo0elbpg+o73+rHgXHd2i9d
+		H6jq9fi1T0lMzJrjbaEhvlSjYnPW3et2UW6z1iS08DCuW0zFUncqdNbyKNG7
+		Je1GIVFqR2qxb1J7tRRYfzz5kaVcJw1jJBnlK95JE6HEIoEXkvnM1q6Qg/pl
+		Ntj+utoHoI6Med3SoW7RG5RFowCaNKHCBFf4T2kyL/U+8EUfqBIDa8SGTVzP
+		7hWWU62+XSXIhJ2+LxXLwP2FUeFmlJB4MR7nM+Hvec1kS0LsN+RLlvI2V8i0
+		g8pYyScarGWs16N7WuFqWrRb8pVxTIyKHGliYIXEH61I4GSWyUYKwAXFpEWX
+		q1p+dNrlOeHc7o9cMIIgMUtTUkHlJQMC5U2QrE2zJ35LPReKAtJgNQWtdKwo
+		Hfsqu/4T9qULnig6LAvG7S36VyKZkX1t5dIaKMVhTvqRz2J37j9eJMfPdtzG
+		IyzI3yDCGMK0wUfofegpAanjSNXBB69H1u9Drq4aMBWru6rgTYzeZg0TGK9B
+		ThaDp6tEUUzTAUy6iyJIPerIC3AZI0RUc8sFLG9tfmw2mPEPoP2HPl81ToZs
+		WuC2JDjeJ3oMggC4i4QtT6Y5NY6+sDXP9TKQndRGAKKfgDdAL+pDYyB4KqSp
+		</data>
+		<key>iv</key>
+		<data>
+		bUvYBhPIkxgQulLs0FDWHQ==
+		</data>
+		<key>key</key>
+		<data>
+		7yuewtdylr4Aaab3UOY2Nw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ll night, from night till startled morn
+Peeps blushing on the revel's laughing crew,
+The song is heard, the rosy garland worn;
+Devices quaint, and frolics ever new,
+Tread on each other's kibes.  A long adieu
+He bids to sober joy that here sojourns:
+Nought interrupts the riot, though in lieu
+Of true devotion monkish incense burns,
+And love and prayer unite, or rule the hour by turns.
+LXVIII.
+The sabbath comes, a day of blessed rest;
+What hallows it upon this Christian shore?
+Lo! it is sacred to a solemn feast:
+Hark! heard you not the forest monarch's roar?
+Crashing the lance, he snuffs the spouting gore
+Of man and steed, o'erthrown beneath his horn:
+The thronged arena shakes with shout</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>17230</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>IKan2zwivOee06Ic5aNMGfRukx5NQYvvDv3PBhy</string>
+		<key>salt</key>
+		<data>
+		WNwAmAievO2xYD0qlxyd5D8=
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		/mXyM5hWArXhN3xF7Cp4kPP5bearBVrUv51FIgaOr3lIuEQkZmAwQ3NNxH97
+		Z4gL5fv6YWUl7i1n7VlmK43ZyGIj/ojU+gNyh16+HqZKS7QkqwEGM1bb5K2T
+		illhcJqk7eqycvTcIv4wzo56zs03BgMjM2USUsK+W+SOda/Dn7LNDOB6SxXC
+		Ztr+tatDb+SCuShFlafcyLPn2DkF1cWbhy2EvXC6PJJTIW405UbsZkSVbo7Y
+		xQ9t4C6Nj9X2Us1fsGJ1UXFIsYWmANkesCcVYuVRIitVWsuPqavJRR++hfga
+		60NXScP9mFAzkkJ/6aRmeBtJZZHSWEgS7Zks8ArDUmCHwHuz1V8/vy5tqbKj
+		M5n6KQZrPr8J48Kn5kBok3yL
+		</data>
+		<key>iv</key>
+		<data>
+		Xk+fgmd40/47DJ4t3CofHA==
+		</data>
+		<key>key</key>
+		<data>
+		P1LxsJZI/7aN3H0jaCzYPQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>e solemn Horn,
+Grasped in the holy hand of Mystery,
+In whose dread name both men and maids are sworn,
+And consecrate the oath with draught and dance till morn.
+LXXI.
+All have their fooleries; not alike are thine,
+Fair Cadiz, rising o'er the dark blue sea!
+Soon as the</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>12437</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>NCE8mKSB90xQ46yTesi5G</string>
+		<key>salt</key>
+		<data>
+		HVX/mhLgbBWzJUzAnbKP/WRTFeG3G40QIjDA
+		</data>
+	</dict>
+</dict>
+</plist>

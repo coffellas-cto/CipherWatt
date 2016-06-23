@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		uWCAMd3SQA7ciuId4OmpyHKAkKzbWVE9Fpxn0fMc1h6choDMIQrjAz3bKLWu
+		WIXByQdMcSwUTvgH2oW3OyC6HBKlZdLjPqdngInryFTfQ2/YvMSMEjmwfkUZ
+		REI7VZ8Kb0ujtq5jDjF5FcjJrNE4iP4i7EkgG9vINkQkujVouNacId5g9epG
+		agghJf/1Yx/pNR2xR8WCf9LCHjWbUUrao3wxqIc40WhOwsYrxShOo9IJbo3j
+		FRFfpdhvt+DL0u1pcUr3em721kug0sRIeLmV/nMerzv3kR30NIwdlbLNApyG
+		RMwqlNDPQUfE9a0QrlnHIZsuY1L7SCCB7FbZpvNhemMb7LCzGUIYZeWJofbU
+		v6XQpZs540TV+snp/UIVZNatjAVaWNdH6yYWiwXotaaqzNFlfa/ZRj45tgIQ
+		eqmkeqgWXhgWF/nfiKDKkLwEfaX4eEkVBTRv8zu5gNNoMxDClkHB3eImd67u
+		sqlN0SMPXkGnvX2A3f38mwo6K7DhdZGRQyavC3YtyNBq0OjeDDdKsSfsEunn
+		Ecb8DF5dO0fvGH1pfMz8yeLn0yqzUQvJr44CPIDIgOmnlgzEgGhEWd3uSaX5
+		JiMzByqyxPv6iwldv8IcrRVf5QQ4S5Yfh7F8GIBO
+		</data>
+		<key>iv</key>
+		<data>
+		JwtYD4X19a4Nots+HGlwvA==
+		</data>
+		<key>key</key>
+		<data>
+		QrciSuurcaQp+4820pKrNdH8/yOeBsMt
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string> languid, wan, and weak!
+LIX.
+Match me, ye climes! which poets love to laud;
+Match me, ye harems! of the land where now
+I strike my strain, far distant, to applaud
+Beauties that even a cynic must avow!
+Match me those houris, whom ye scarce allow
+To taste the gale lest Love should ride the wind,
+With Spain's dark-glancing daughters--deign to know,
+There your wise Prophet's paradise we find,
+His black-eyed maids of Heaven, angelically kind.
+LX.
+O thou, </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		RtXKHJDkm/f+DN0u4AvLo/hztI+ZEYuzMpMLYxN7EcRi8Vt15CY2cGPSMHvz
+		FoAletWfqA5IyE7IHXXf1Zixz2Ux4l4r03rSB+QLDNgmQbOBiAt9s3/ODj3E
+		7eIPhJ/x84MP0gRFPdCXGfcYKydne9CzFgSilu7HC3540z0gGH2DRq47O28r
+		vOQiFn2s1uEnqtGpwbSciZDtraOYXtXS1l7RgK+8Uze9kB9F5rkMasuzzCGS
+		RLOI+Z68VtRAux30W8KS4rPjcODgHj01QsN6HEnERSJAjpCLjH7Vyo5ydB9s
+		Fx2hdF3/g7714y1cMOu6ktAeNrCnU5elUNbUNZkokRBDOTcV1g87cwxPHBQd
+		t4kqPrgz9XBXX/mEfebpB877GQkCzIQ8WDAoB7A7zQ2Eskj2CIiMVL6XDmWk
+		CfYrQ2BaN40sUGJHM4XKUPoBfxU4VzxAXRMpTAG4ObHBP5oo5gaNr79Ygv4U
+		cMQm+U49rad9UZ5CrQLRbDX5o3ksJhvh6TjV8RK6r2teQJ0S5e5IyMYy10b6
+		IWmuklFMCtT5k43txCwEc8FSjOAWJAwTG8yHSaNZYzVBGi8xy5EZ71tIWUx1
+		MYTJKl3iNDo+UtAnbHwOyg7aKvWWFuuat/PfhVqcZax6/TyCJKIt7yD8mnz2
+		bGAhS51E66us2GJgIZVIxttBY5cPSY1zFsCv90F/3i3iZsabZS7jxXG2ipuC
+		abISp5ATdpxHJmNaZPaWH5dh0wE=
+		</data>
+		<key>iv</key>
+		<data>
+		qgVniyspNt9vnqZ+Y+ev2Q==
+		</data>
+		<key>key</key>
+		<data>
+		xlhCPNx8nkEEszwbyTl7cQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>iply in us a brighter ray
+And more beloved existence:  that which Fate
+Prohibits to dull life, in this our state
+Of mortal bondage, by these spirits supplied,
+First exiles, then replaces what we hate;
+Watering the heart whose early flowers have died,
+And with a fresher growth replenishing the void.
+VI.
+Such is the refuge of our youth and age,
+The first from Hope, the last from Vacancy;
+And this worn feeling peoples many a page,
+And, may be, that which grows beneath mine eye:
+Yet there are things whose strong reality
+Outshines our fai</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

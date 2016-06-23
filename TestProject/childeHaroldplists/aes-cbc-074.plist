@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		fuQ3tbHDetWqP8atPKSw/QqHGpgBExAJh9JPpRkJ+cQPORZimwWlYea9kl14
+		X7fx9RVfL5nY1/e2SBxq/3m6EsKT3tyAmA/jm3tP9VLqIwghVo/o5uKgVWVd
+		EFQ0Bc982KL9JQTxblDlJTOUo0ctCJKjb/J/Xah2yjJqX/AHBoYsD9gy6fAC
+		1VDrjWgAT5U9xBxTAcrRFF7NZY1sMGzs8e/oebg+//ho+D1kZZ89xdKKWS9w
+		Vl0HA8Y1JOkcNgS/ycbdsoTPEhX5tqIOZL7ZpX4et0H2v8RXH9HVBPPZQSVV
+		AKw3EUJdqCCY64pqBk/uVmdhw06LjdbpZOoHzL9a7Ph9qo4q1b6aA4RAEUp7
+		0PHbfbLjtH2p2F8lPtCrwd7XmROWuNZhmNMhCkXDevpHItkRtux14GGcuL4V
+		qrzFZN/MM0R0Uw9Y44PMVcGqk1u9q9CReavWG2lqeJ46U4hdqAEBA8L4jdrQ
+		NFtO5W0vcxiq1I8+g3eq+Z5wInudaQzSMsTNbUzy4UR3b/eErvVnoQFK4e+N
+		pD5YYiTVUB3IhVjKrwZJRiibTgw6IzpvmECDGvPC9YS6FpjcHwRZq5JVhplj
+		ThmwMQB5sKdR0FpO7q9E3YJpHnK0mj8uBSS610BxKEDJLtxJtTm8uRbXzlGn
+		c2DTFxk/f0HSbRrCariYeA8=
+		</data>
+		<key>iv</key>
+		<data>
+		5rpYpzTKXrpV8qc5NWgWFQ==
+		</data>
+		<key>key</key>
+		<data>
+		q98/efEnLj6Csi+Hsu1EMQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>t breeze!
+What leagues are lost before the dawn of day,
+Thus loitering pensive on the willing seas,
+The flapping sails hauled down to halt for logs like these!
+XXI.
+The moon is up; by Heaven, a lovely eve!
+Long streams of light o'er dancing waves expand!
+Now lads on shore may sigh, and maids believe:
+Such be our fate when we return to land!
+Meantime some rude Arion's restless hand
+Wakes the brisk harmony that sailors love:
+A circle there of merry listeners stand,
+Or to some well-kno</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

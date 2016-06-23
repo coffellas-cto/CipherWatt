@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		8h1MmPDLyH76Gsj3xOHiI+LFFewaGAqkuSUy9/L12NU7hIobm5gh8huM2EHG
+		qAI213wQ4WYi2zd0i24LpMUlRs0LmXxjWz348ZUQeyxa/9dx6H3WyJW9u9mG
+		+LA0uLODuuQh7P0RJaXcjDMev+TiiZnHgGR/4fQHP/GNqE38Gmt1VDqkt+FF
+		Yh6EIH2Qj9GMiZOh7Dt8aB8LYO85+TvfeK2rFDBuC6U6RM1h+nmjvk3yRZII
+		tJKhB9CazZUQ00fgb73E5BkYIK6nQsmhuQMOZRlTvZiRtEloIenSztjEWQ0L
+		g5CiLCEN7vQCZPTooQhf8IGH8/nqth0EzbeGxExtu7RUsMYXrbCsFW1MjyIW
+		CzALrmGDhgQ4xlFbbSxSltHJfzGIkyDH6CEIUB73wu+C7W97RV64zLA4Yo8u
+		leKAJETBfTrFDSQwocRnzFJrS2SkElxiQ9wg1WYc2P7dzNHi8OIZUfd7vySG
+		1ep549l7A7qrSnfRsWPMW4pSAKW7N5Mzbi+Q3GhZIsyEbAPvDN1OwbNmZQuO
+		9Nio3W51vCoQN5eS7Jfq50Z/SXGAQ2KnT24l0pnHk4sq3WmN8VT4I9Raa0MM
+		dDR7ybBDjBk/KbEbg0Ae62gQ5BLUiiz5XeqlGR8AwmVqAEKFZR6hGgzbW8VO
+		jWynDaD2sjIXkGlbZcQVAsfQC+KW+Te1wM/fvkuimZA8oF+55MOajB127B//
+		aBEh/qm5yRDcJR8V2DGNlNZvqKagJRvl81prBdxzfuGNK/TzgjWwPN262X95
+		JVZWzrHStNSDLqtua3O7JvqJHmNtSMSWpyj/Bxu+l8uiNgU+4PqJJ6GyONIF
+		nxge1lpTWFPmjJ3yQfPRsEWBPHesWzLq9XAqFfNhpn66km1+VP8Va0TT8mgK
+		gcyC+RtO6pxg71//mLtLdrT4Vh0uynr5qMadAxmlW2pIYcYasKO//+v/yJ13
+		uvA7rlKGgYvf7Gb78368QiyOjxkdjn1MOfEANkty0LL6b5YSNnUrlXr3vHwA
+		E5BQrrhlkxM+9mOLt2aNrxATH59AtGSh75f2hCUFP7KX7xlyHMYSFSnEw+gn
+		ucqJpGcybLW0yvwOT5YqhEjjtTJg7DCHyWSTiobr6osOyDNAZJ1/YN2l4H9y
+		kbZAWrbIsb/KFV9AsQ6hb/qEOhwhuXFjfiQNViyVK4IRxSRfwmJ7UgxXNUpX
+		98zPTT70bQHBCnMKU5EEVkRyR0JUl1YEsQIoFA==
+		</data>
+		<key>iv</key>
+		<data>
+		Dui8lK+WR9w+3MMU8IQZ8A==
+		</data>
+		<key>key</key>
+		<data>
+		zV7njmTy5znmOLYa8eEkWUK/VN24gLlYxSLFovQrkf8=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>n ridicule,--which, as the wind,
+Blew where it listed, laying all things prone,--
+Now to o'erthrow a fool, and now to shake a throne.
+CVII.
+The other, deep and slow, exhausting thought,
+And hiving wisdom with each studious year,
+In meditation dwelt, with learning wrought,
+And shaped his weapon with an edge severe,
+Sapping a solemn creed with solemn sneer;
+The lord of irony,--that master spell,
+Which stung his foes to wrath, which grew from fear,
+And doomed him to the zealot's ready hell,
+Which answers to all doubts so eloquently well.
+CVIII.
+Yet, peace be with their ashes,--for by them,
+If merited, the penalty is paid;
+It is not ours to judge, far less condemn;
+The hour must come when such things shall be made
+Known unto all,--or hope and dread allayed
+By slumber on one pillow, in the dust,
+Which, thus much we are sure, must lie decayed;
+And when it shall revive, as is our trust,
+</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>12847</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>175HfBteqYRAGbH4SN7kl</string>
+		<key>salt</key>
+		<data>
+		h21Bk6cfwFXhDAE=
+		</data>
+	</dict>
+</dict>
+</plist>

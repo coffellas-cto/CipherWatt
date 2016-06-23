@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		mYb/RkiSmNpPdkgnZm+QJ1jODnOH13zqNZOdaIhutd4jJgZMVvgm2pWKmgS5
+		pqaLCxPRSjRRZFk+kxopRpYz0u1ks/z1BqSJ3bqy+qyU0ecMg3V31weEt8U3
+		QHD/OhHHdDNbNALf2LLRWrsFsxNXe/LEbQ6SF1QkLvIooqaNOgQhgf/Q4SAW
+		TKkZwm63wgshRdCaflQnQBG5AFE6AZpCT1lcWFJVGtxRYVVK8GmpkMkE2E59
+		Is6tkZofAS/7s5j+ZeOdUKZPfw5ly/RXR8PTtZ5W41zpzBnY0UHvC7A2HrqC
+		Sx/kJdPFzR8sXCGLMh929R6R6xqNuYPvdLCTulDUYbEHM/qfVRAga15G5hv0
+		uBf2srFkPV5GohgwkiQ9Wh/dxkWgHd67zNJ9FD7V1x9kU2Hz8RbtXx9SPvwH
+		TxBCuQGjbxps6DagSTpEeiQ1cb9JEr6JLOGtdYEXKjAKlxepdCDdcJu0oKh7
+		gkRZTbWHbM+S8ZwM+hNtKlzZBPVAfBPaV5sIqDGDTmjM7wh5xyv+wRVe0Ego
+		HGWmCpJYGqI67b8fSwjBEU24w/4KIFgfZ2Gvo1xzZES/RvGk7zd0+GVFpBEB
+		0PgMNZP6pqyxYe/Bz3v0WQrCBN6pEY8k3AIGPaZZXaM0E2FC40bXqBOdOX1P
+		SVkcboR8CemkrokX/56ybSu9wE34zt2fFYmUyQDED8Pptmh3WJFAl3mHN5Jt
+		Uy+ef40FX17t9Zz+nZzri7uh0HAioqzN0IzWm9nL9DUpYyhZggfqSgf0Kie6
+		SoP9OysuFbV8scu4H/VwYA+eOCm6/40BmbR1RY1R/03xb+w4LowPGHfA1/qV
+		VQpc/Up1T4YPY8tXVds8ozrssfV3uyFN2SUBGdkpzSlHBjWK9NMgdS2zhZEz
+		VvOrJ+Xca/wck4VfKe4Sdl7ojVjRk0svtZLhLPO4FXfMPAIxuDwX6pqjMaNh
+		ibRKHrm9rvXnlOrJdEV3Ljg6xAT6rM0RJQEjd6AODu2XTm34OF6GHjajGP0P
+		0QJUxnURzPp8NpsIOEpfqB2qRekgP+C92da5GAkZ2oU9STlwZw0hrCHkt0z7
+		KeZ/jYVa+QQ+FZcVtA7wj9p7cLmx/gyP/gchJ5d4VAGk5WntsTTg0D0MTlsN
+		B0uPbI3xd6ioBa/OTkkSJk8K5GV33SS6Vogh7KI6jN+H4NqSfoFTRhfauXIu
+		rb7GYdK584PVkBi01cu6cGwB4HCoCzKZsS+6Eg==
+		</data>
+		<key>iv</key>
+		<data>
+		r7I0mmwMTW77K58Lw7v5Fg==
+		</data>
+		<key>key</key>
+		<data>
+		9hMYu4cmeCFh5DdW/tF+Fw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>s truth tells simpler so,
+As the ground was before, thus let it be;--
+How that red rain hath made the harvest grow!
+And is this all the world has gained by thee,
+Thou first and last of fields! king-making Victory?
+XVIII.
+And Harold stands upon this place of skulls,
+The grave of France, the deadly Waterloo!
+How in an hour the power which gave annuls
+Its gifts, transferring fame as fleeting too!
+In 'pride of place' here last the eagle flew,
+Then tore with bloody talon the rent plain,
+Pierced by the shaft of banded nations through:
+Ambition's life and labours all were vain;
+He wears the shattered links of the world's broken chain.
+XIX.
+Fit retribution!  Gaul may champ the bit,
+And foam in fetters, but is Earth more free?
+Did nations combat to make ONE submit;
+Or league to teach all kings true sovereignty?
+What! shall reviving thraldom again be
+The patched-up idol of enlightened days?
+Shall</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14941</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>DDag9Diz1ia0ZOBxw5ZU53goZaMcsiuAdhnrd3</string>
+		<key>salt</key>
+		<data>
+		kYBo0HRDOAV3W6NdLA==
+		</data>
+	</dict>
+</dict>
+</plist>

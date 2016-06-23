@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		mV2q5zUtj5Tzw07VgzI5rAJ+0Z+aiEyhnjJ7N/SBUO9STWwnu0jK+i6d/VdN
+		Qq9zJQN7OtlCLT171qvx7FeR16kQNhSKZ+tlykaFCOhCnk/qJA480Py7ow3h
+		phhwszm1NBt52LBfHEjKJZKLkK/EyvDm/QTBZUSlGSk0L93ct9v6ywatpJaH
+		w/wth6j7BvaeB51S9+w9iagnmSrOS3YAiy0Bnrw96EoC4Vqe06ZBzPMy6mYO
+		rxvskMAyPKNcEXDILDB7xP4XesXs3x95WngjmrBHUiOf81MrfTX7wiBTM+WB
+		CBV9jB8M37Coou+yN5+39D91+8NRSCnArkSG6GSrtAGEwgKa01XvXyLuRYf6
+		ZWPvL3Qrp0MPoCGzaE/mtW0t1HI5umTw930iRZVUAN/idRdlhaslRKzRRZYO
+		euXlIapMT0p3tcgPMkfZuEHN0xium/KwOS1dcVhwHo+3JmM5Pcx36e7wRG7U
+		K7z4SFJWRr6yAy0TQM00Yj/E27DXECXxLeNOqm0qRkaKlL4etQ8U7B8YIQg4
+		ZCtUqrWTsWRc6ymQmoGtJBuL/eSd4ZZREm85f3kOu5v9F0ADwM39MzO9WUVi
+		Da/X3tyPsIvh95mF8M8=
+		</data>
+		<key>iv</key>
+		<data>
+		1D52NKrzxKBZpz2SzZlsIQ==
+		</data>
+		<key>key</key>
+		<data>
+		AZqCuTc9v0PKBB8rpwoVbn7UH2FWStL5
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>behold
+The smoothness and the sheen of beauty's cheek,
+Nor feel the heart can never all grow old?
+Who can contemplate fame through clouds unfold
+The star which rises o'er her steep, nor climb?
+Harold, once more within the vortex rolled
+On with the giddy circle, chasing Time,
+Yet with a nobler aim than in his youth's fond prime.
+XII.
+But soon he knew himself the most unfit
+Of men to herd with Man; with whom he held
+Little in common; untaught to subm</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14137</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>JosLLk2yhwNZ4zg8EMUQg7SlUB9VesS6Gz56Yi</string>
+		<key>salt</key>
+		<data>
+		5wGskUwPzoTE
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		p8l9Rk/aUAaiNa1YMiMYTI6jQ29/z2enRTBqpRbtVDSixMrbPZu7NAWmLY+T
+		2W4UaPC70LERL8t4IQmgzudXpPHU7MXtr8voNKFaBCRCJEr/F+Y+y8SdM0o1
+		KYcXg8TBZaGf5IMyM5hekRZjL5BTS6SwvzJu4KR9MTz2JYd6SEX4YCbuBdKY
+		pdPJn3Oe4O8heXwbtal+Uhjqt8C2uFRlYm3FEReSYjC9dacQMJ2s9OPd6JsU
+		qd8L66pI1HCvwLIEImKzgUKtq3ZvCkC60BnQPyXHA9lEeUnbzpoZlhrGVNPv
+		JcgBQM+MXJZWsGfy9h8j0tAAmEMegl/A0/DkXhKBpCZpxvtBArICQlS7YBnC
+		zOMltY4x1EZAZ+FiF3L3jDFPsVVCtK5izAWm++XaLbiF6lR8iQVGcfD6+p7k
+		5VavISkBWxLbBXrxxlBQV1vGM/OlRYYdQUUnbDq33OJfDlDQmSWYErwtUu+d
+		ZA5SAf1vR9MSXp+TBMXcMCRGnXcHLW85Z+B02c7DRGE3um07iMsUbqir/EHH
+		pqOy+1awqghiLDPOPIAkQDRC7gI9vModjyTwg48BF8+DFsSui79TD3tyJa7U
+		PxHAaAZ7ZQzmZoUGRUjPzZftNZ6kuz5kTDGSpfYXAvVvU4GeXKq0nvW2hBJv
+		jaG3CDhj338/HDxncBth5BBx6ji1EOpiqWQbGP8ajp2RAwYmDOIfX4FhgdmC
+		UKKPhVpW8QG7LxtlHyktenKB5SXNuB7k+ORj5Mu4BlHe6EzlwD8saPpswxXy
+		RK1sfq3HwZpAagtZbmU1+dqt0kFa+KAwWC+dtRyjx5Hkl54jmUCjrl3hgiuP
+		KZbIzH2cL2t0bJBio+eFaqNY/XUcI3P3CB20ZrVzZRRLQnWml+pBetScI2Dz
+		MWYOavT4nekiwdIM5hSWGKoW1LF4jDq2pV8Vq2AToy00oiicyvIykxHlo0PO
+		gSIECOip3aPbPqSpWn+7exUMEmQzuDnZ7L1gUywTlFlvvJrVsH8pTFjCVs4q
+		kg7N6v9oRUgmz4d4HmaI20u0hkJ47Pv6ICc4Qkai6Qs2WUdFk6lXEnxUL/1g
+		Zd3T6ucmPR+1OqiPEPioVKxEq5DkUlWElCWgcR98id/qYSnB607e7dzV0M5g
+		RL1a25hMgbKsJ5NrZjAUb86sKbLEXdZnqRK7Fz0exOvc8MjF9JzLZF2B0aEp
+		yT7ylACXCfv4nO2N
+		</data>
+		<key>iv</key>
+		<data>
+		go+r6DWp27YhZ3ST5T3inQ==
+		</data>
+		<key>key</key>
+		<data>
+		KXft7k1SSVWdWAS7At515g==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>e?
+Where are those bloody banners which of yore
+Waved o'er thy sons, victorious to the gale,
+And drove at last the spoilers to their shore?
+Red gleamed the cross, and waned the crescent pale,
+While Afric's echoes thrilled with Moorish matrons' wail.
+XXXVI.
+Teems not each ditty with the glorious tale?
+Ah! such, alas, the hero's amplest fate!
+When granite moulders and when records fail,
+A peasant's plaint prolongs his dubious date.Pride! bend thine eye from heaven to thine estate,
+See how the mighty shrink into a song!
+Can volume, pillar, pile, preserve thee great?
+Or must thou trust Tradition's simple tongue,
+When Flattery sleeps with thee, and History does thee wrong?
+XXXVII.
+Awake, ye sons of Spain! awake! advance
+Lo! Chivalry, your ancient goddess, cries,
+But wields not, as of old, her thirsty lance,
+Nor shakes her crimson plumage in the skies:
+Now on the smoke of blazing bolts</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		ZtzTd5R+oLORJS3DgmSWYUNPuILmLBA8ow+AUl3hni94rqHL8UgvTGZN3xfj
+		Pakpb8jSvpJ6zylWBhK0MJSxr+tUouFzya2F5bsWS0jlLP1BcM9K3hCoWPZ5
+		RQTkhGZZZae0W4H8Dcv0SbC4goXAZRO/J0TwXZLmxz5c3Mx/IiCd3h7nY4fT
+		KY+JQ/C48gmfSc5TGvLWkgcWt6bHutdMHJfB2GIWosURuAuUR9QFG7Q+Ef4b
+		spQ+1hkhXiWlqVMAyBrMaT2L91nJsxEGtwjruu5mRarHYFBz41yZpSfjFFXa
+		BsTbQnX7FqFSRvggptbhKbR2EU7sli4F5oId45uQXtx7WU+S7CJOzpaFirWS
+		HONyDS8fxfPERyb+nHr01cg5Neeg3A4v7WM0xgEaNt3IBoL31L6fOi9vK8/l
+		/ErJD1C3iQawM8jw2qLfHK1La6ocDRQ1PxkwTwq2cKblmMOeZT/J/ZoOZ4/l
+		xwi75MgX94mji8TCltQ/BdOixXHmTCJn9hhqK6yeCS3cL6vr/1IGrsBWJnvQ
+		T70P7Ai7oZqhtMKedug6v812LVftiTt5RIWFNQ6vuyyhb5gFAL5TwBoCmOE+
+		qpnIf10PFjVsglIC0BfufcXtbo6z9mF4/Wdbp2TPYvRrXgxLSGMWTZJnZYhP
+		vtfabhgANor29EBIRLBjeyK+sZBlliIPC8lKIybguOSIIsRN2nFAtLsjoUDI
+		S2wYof+MpjOpGw8dw1bZkw8Klq6YGItqaS8kQzgnE4SyFKn9ePUcUhZ9rXRh
+		pniAUdmTV6kNx5SmT+HJWveix9CxwPlpfWhukPjHRU4G5RBNpJVLdUJA7/vD
+		Bfzg/9nwZAgLNiP5kCd1drk6Z6TlnrQcxcprd3fanZ0lDTQ0ZI7rSNQ7Dv+3
+		PClr/QE+AIDikwlN/EzC/FFA1sh+tqF19VTyrVQPLHYTHpkktxRVQUl+eGB7
+		53FkhJIzfASIL9agfOPmgjTbBdfW96CnxvL3sRMYTwo=
+		</data>
+		<key>iv</key>
+		<data>
+		TTELs+h5CeFgjn9yHI6TdA==
+		</data>
+		<key>key</key>
+		<data>
+		G2V7OzIbcqc6pyO1uWn0hrJap+DX3i/S
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>st I look on thee!
+LXII.
+Happier in this than mightiest bards have been,
+Whose fate to distant homes confined their lot,
+Shall I unmoved behold the hallowed scene,
+Which others rave of, though they know it not?
+Though here no more Apollo haunts his grot,
+And thou, the Muses' seat, art now their grave,
+Some gentle spirit still pervades the spot,
+Sighs in the gale, keeps silence in the cave,
+And glides with glassy foot o'er yon melodious wave.
+LXIII.
+Of thee hereafter.--Even amidst my strain
+I turned aside to pay my homage here;
+Forgot the land, the sons, the maids of Spain;
+Her fate, to every free-born bosom dear;
+And hailed thee, not perchance without a tear.Now to my theme--but from thy holy haunt
+Let me some remnant</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

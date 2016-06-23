@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		xoLFE4rr3E52yqWwLh7DgjW8v6e0Ln+/kA+1iSfrAhfUtKLJ/qFHzeh5GN5B
+		yZy3ZRaX00p3QbNQ3pw1ZiOwViEyg2rVpEUg1csKyN7KnRL2t6LHPOziVADR
+		QinbSMVD+pA1NdUbM2L77bI3AnO6U/RfyxVdWX2JD4rcX/QfequQWfA78Sh9
+		hk+oOTJNR2YuOKVyDdQLTLqRpZ5hUj39yXLhWl0UoS7le+csZASHk5lKX8Af
+		Y668fesFio/9EfBt9SEoG1M+92TDGHL52lKEZQTh+YFnrzGKQi2izOdySkXz
+		dsaIwCw64l2GAuugZBG74Er4mzoRL9vtd6INpPCX9xx2JmawT8Op6Yl7D7bR
+		At9PgPttkiPGnr2lv/u8yl3XBTfoxmYhF4bjy1VaEZq88G9P4Ap0mqrpuwk1
+		/+3Hf+/V0Dtisb0S6W06UvOQrRkuL5Gsq/6wnmByyq0w50ETzJjrKiPKFlM+
+		mlQg2gfzWa8SmvEi0750anDaqdFccFS8uMewG0MXHjXpLS0aJdcLSg==
+		</data>
+		<key>iv</key>
+		<data>
+		QKCYf4XITs/cd49Z4jiidw==
+		</data>
+		<key>key</key>
+		<data>
+		mXXUc0TxuYeBxrMP3b5d+Q==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> kindly given,
+That being, thou wouldst be again, and go,
+Thou know'st not, reck'st not to what region, so
+On earth no more, but mingled with the skies!
+Still wilt thou dream on future joy and woe?
+Regard and weigh yon dust before it flies:
+That little urn saith more than thousand homilies.
+V.
+Or burst the vanished hero's lofty mound;
+Far on the solitary shore he sleeps;
+He fe</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>12396</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>Jk5nnHREv5nqVfWL95Jjtg</string>
+		<key>salt</key>
+		<data>
+		rNTDo41ecX8aSj02DgX/bt0=
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		lwauhEepspklpCRFqexfdDFBMNMF/9nQYeFePg/83G+uxykAvYAdjupxgnnf
+		/AIwuxdDw1VxBFziVH/ke+CozdR/daPk7c+4wtlsFHPA21iBgBVtSFjfIXY6
+		1sSuz4eJXR4WqHnslRN43rnekC6o9kCV7kEB0633TzoLULDcV781Cxjweidb
+		A+vuz4pWpmDWqAdnr9B/tAWacKSegwQoFowG5z5S6l0PWYeLggCi/75GZtpA
+		8GNv8owywxa7sDI+M3+t4iv/0I17qfsLQqnHnz4Zsr7b/SIVhY+WDfP+0kfS
+		AdrAMXvdvCt9330/zFbW/zm1rJ7tWW1kQAjEWysAudWJIorycxVBg+cm1bhD
+		5xA=
+		</data>
+		<key>iv</key>
+		<data>
+		Egptirv1oOIM8dixuRLxMA==
+		</data>
+		<key>key</key>
+		<data>
+		T2KqNJ7t6Sxo58ISm+Uba1In/TzcRVZJNGNFrNPADoc=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>the piping cry of lips that brook
+No pain and small suspense, a joy perceives
+Man knows not, when from out its cradled nook
+She sees her little bud put forth its leaves--
+What may the fruit be yet?--I know not--Cain was Eve's.
+CL.
+But here youth offers t</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16050</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>N1jkHYaK4RVS1kDMXtmK1aSp</string>
+		<key>salt</key>
+		<data>
+		cSDMCh8jD+ZENHxWUh1JelhJlg==
+		</data>
+	</dict>
+</dict>
+</plist>

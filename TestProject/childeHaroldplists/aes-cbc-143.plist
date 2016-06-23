@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		DFZCD1PqCQju592PhHAxc8T/MiI8emhMJ6KidT5tlU1WzfEH7o7m1MIv1jMh
+		gKBwUOnBAzCfYupQ2KxPJMwXFJnaDRBj3h3Us/NsXy3x6dkn8Rd4G1LJpZCd
+		7ZZ+9nrIBlIqfRAiy6PxxfpwX6FIzCxEaTqM+qbAfTJ29ygNZ+c1oCKvle6O
+		E4SvLsQFqXRY2/R5yhufHX3GT7t4Dkwfv3U24u0LfM3i/E0MFIyHJimodRS+
+		Tj26QcbVMXFxbV7PsKMqOzdnTZWKzEDvmCcieI9q4AQX3umxALuMNGPIZDlh
+		wfb3kYlZdfTuYi9voB2xEFRzIYF1C/UmRR/inguIMbK46JscEhSbRgcLfaW5
+		4HPnLENwBMuQZXnJ8SCOBcUX1WrqGF65xqGUPa9eCjVHwP7L0W9SP/FO9k6V
+		XDWgixfUCf/VI7R4Jr5IpMOot9Nrx5vl4AAbOD5M8C/Lv5EJ8a+lxwPJLns+
+		EtRYoMm+GtDqQGTT/LyiBn1htnwWkjsPZzt/MZG7gyOLQu5voPpLZLNiPj2D
+		rbnPT8lUUzxjURKzZnj4OjWtqukMwJ84wUz7vYVGCm9OzIEuG11l99zlQ+S5
+		owtvDCflswT26GOVHNwxLVxpq7wPY2dl5eeOZjfMfduXXHYPSsnMJ1ocjOA7
+		FlfhOBo7PgI6t027BJIz5bljRuFMSfer+Btz4FgoON2d2j8vMEhyIYKp+M2G
+		qUW6hyuyMOrZ+E3vN5p4M1Oas/0fZT05YOhjRq+YdKY3x5QMONsE68Byd17N
+		RZd5dBe0d5WSHJH3FOuWRyh567lcFwvQ/CjaNBcmcaWquE+DHKpjLtHAe/mb
+		YtGS9H9jgmy+pOKjDGercGvMjVlRKyRals4DQtKk9TUnpd+qR+vSNV+Pqj8c
+		C/OHcNQCZIkVptiWab3p/CK1h69lt99XuYL6cpEJ6LXSgDCTzCjdyLNZuYBB
+		DE6JVvD6KnV1huD836aJLY0fjNPl0uFhR1MRSg2CFU/FqPKC2gWIfyR7i6Rm
+		iLRz
+		</data>
+		<key>iv</key>
+		<data>
+		hkK7uAhLTwb1pLKlOtutMA==
+		</data>
+		<key>key</key>
+		<data>
+		CvKhSnzuMpSQ3k63Ug2g/Hs2g7IBOe6E
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>ange retribution! now Columbia's ease
+Repairs the wrongs that Quito's sons sustained,
+While o'er the parent clime prowls Murder unrestrained.
+XC.
+Not all the blood at Talavera shed,
+Not all the marvels of Barossa's fight,
+Not Albuera lavish of the dead,
+Have won for Spain her well-asserted right.When shall her Olive-Branch be free from blight?
+When shall she breathe her from the blushing toil?
+How many a doubtful day shall sink in night,
+Ere the Frank robber turn him from his spoil,
+And Freedom's stranger-tree grow native of the soil?
+XCI.
+And thou, my friend! since unavailing woe
+Bursts from my heart, and mingles with the strain--
+Had the sword laid thee with the mighty low,
+Pride might forbid e'en Friendship to complain:
+But thus unl</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

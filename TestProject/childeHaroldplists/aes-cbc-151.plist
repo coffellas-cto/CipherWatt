@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		IXGDPKSsCmwVnht2EH3T6jzVi0751JkW2xifZJzsmWKwse5t5xe+ZvV5PjGy
+		hNksBfB+vB9hJGHbL6BG8DXl8CCgWeD8ou632EejSOk7yecfj8Ar3dKBRJ+A
+		3yU3x2MTkSrVSDgdtxsUpqLVT5PvSrdRxb09bybQo9TuqI9CFF1RNIdAxt9m
+		JDkhp0Fpf+FgUKUhNaZIWx3BkBR/X2MhpPZRpCLoafakEs9cl3QG4NxPRFnd
+		qpLI+S3iV74/DmzRm6uxxYrSGzIpxyswdZl9EVUWRWq8JglKviVf75wz0QhA
+		stOUX3/iC/aruaQRkleZ1ButldTi2JKJvPxziaV/BYrpe8woE0csUHY+3YQA
+		ArQ=
+		</data>
+		<key>iv</key>
+		<data>
+		sWqPNJcoVLEAHkyHUqGFvw==
+		</data>
+		<key>key</key>
+		<data>
+		ONiSD8URkpeTEWdCP8v9dK4FWSPAtN3debxNQmyKykc=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>oncubines and carnal companie,
+And flaunting wassailers of high and low degree.
+III.
+Childe Harold was he hight:--but whence his name
+And lineage long, it suits me not to say;
+Suffice it, that perchance they were of fame,
+And had been glorious in another </string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>17293</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>XBf4dUGpRc4b0EUVoFaDx8cDHO9juNZ5583u5AfFsdEM</string>
+		<key>salt</key>
+		<data>
+		q1DHe62r8lU7b187xQ==
+		</data>
+	</dict>
+</dict>
+</plist>

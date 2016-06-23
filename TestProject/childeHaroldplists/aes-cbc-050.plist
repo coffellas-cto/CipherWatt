@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		jvVwKmyXlieaPsswxomBuYSyMTEaQcJiHCTUwH5edWygZkqn3rGZlkkDNfnX
+		h8XD41kyP1kW0Px7oQW7wj74KEcX8KRTR5kwKAEWUwhMEKNk1vb4jY0Xbwur
+		Go4xydjKmLmeL1ZWgAb/wGoeDpK0ctNZ+V4ZzAvyUllLwI/QAJT81C01RHOz
+		n23LKqhmr5k7gtvkUOH49NtTkY2T+tjHaaHxmXf7sUa0ElOn9y/xkGwXXvcO
+		vinbzbYe4QKo434ICNdAIuMooP4bdbIu023CdOH7Jlpxoz1OPOEP+uJFsXeH
+		+WnPYnfBpE7BGJtcE+iUTXW/de5hyJIEbTMxsyY65+sx6fRPSFkOvR8a4q4H
+		OjwH5DmvBjFQHTXrnYEecgw9tpQQgoyMghiAKkd0rlIRX5Cem1fp17kq0mNc
+		2SiHaE7V3BB2HvldgJJPBN6XtUbl/HD265y36NJBfAPoyyS6Qop7eJB7TW5f
+		rC7/1YmFH/1yY/BbYnq2WC9pzF9xQg99GrilJXsP9huhgUHtvbbcHDc0HAEb
+		dhzguxcCbLuj2Gg+CIYOL+BvUA1sG6s9aB8uttd8j4HJQhYQGSjagxeznqZP
+		a78Pm17Wmetc7k5MaI3hFEz6IAEOjydiBG5qsCtP3rI22rfBto/ZuloNQOzj
+		aWYE+LCYrUcOv6zCH6GIOBUMH3vfxTDj88kmuxo6DJPExQWFUvM2e9g4mcGU
+		I1QzQvxzCnBl0bbhSOpLol7IOWeElDn1vqFqgKIbaCZWvXMpP2fi69vG0kgY
+		xXDXM+i518eqw8guCpN1gO7WHCK+GdRZ+okHT3RPebWkWwMHGm03IkdPr+KQ
+		040dHnbH3nulJLap3LB+Zpx5v9vY622UEYiBB7ncqmzVZqP/4v1XwWaAFvZ9
+		ENb9hmjuaevKgrCvu5FVYnomucqoE0j/EkBtzQi2g5SsEHbeULIbOVuV4oPF
+		d74Rui9PJ7X/rP/oSl1Ho3E8I/tJk6cgx921/cqTWmM005R4wU/baRxwyuN8
+		aenu4tsWl5Hjdep1ViOlp2ndKvlqqyK6dC9ZIwuARWUhcnPRQ7pQq5ua6y48
+		G4rSKoBtfOclax1ybRh6NEeqrJvZj219Mxnr0LOTSgQTslJWmQYxWE7pePVD
+		uG3x34YRwEwVknA5zljiPKlCI2m4+Fu1BMELDFDlm54Fjd/TryQp9YpNhDiU
+		Xy0/P08AbWKXUpHCDXb9vEzFsGn4530mbTVGi9GUVEV49/tDBfxlGWaME5zL
+		H8gj4bbQtZV5h0wZcxvmx+IFyUK3zG+2rajwqjT2KCIT9LlvZE1sy1VO3oBU
+		KWc=
+		</data>
+		<key>iv</key>
+		<data>
+		ylF7DGSJvxm/NpSzVoLTUA==
+		</data>
+		<key>key</key>
+		<data>
+		rL/1LbHgs4J8csxI6uhcj6hq2DOfeo5L1zr9FggMXAE=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string> wounded ground;
+And, scathed by fire, the greensward's darkened vest
+Tells that the foe was Andalusia's guest:
+Here was the camp, the watch-flame, and the host,
+Here the brave peasant stormed the dragon's nest;
+Still does he mark it with triumphant boast,
+And points to yonder cliffs, which oft were won and lost.
+L.
+And whomsoe'er along the path you meet
+Bears in his cap the badge of crimson hue,
+Which tells you whom to shun and whom to greet:
+Woe to the man that walks in public view
+Without of loyalty this token true:
+Sharp is the knife, and sudden is the stroke;
+And sorely would the Gallic foemen rue,
+If subtle poniards, wrapt beneath the cloak,
+Could blunt the sabre's edge, or clear the cannon's smoke.
+LI.
+At every turn Morena's dusky height
+Sustains aloft the battery's iron load;
+And, far as mortal eye can compass sight,
+The mountain-howitzer, the broken road,
+The bristling palisade, the fosse o'erflowed,
+The stationed bands, the never-vac</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

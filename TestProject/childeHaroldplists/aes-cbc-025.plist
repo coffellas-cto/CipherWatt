@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		nLq/Don4vHl9CQf+fgYVl5TlZXRvdjRG8JSicMZgDl2UFOCl7WgDVih6pA+5
+		rgGSPyD+QwN77uf7QcBQAQpN+j3ywvITZwdXCVvUtuUsbFp/fXSgG5WqR/43
+		n8bNwdVuVtLumYXvyBGnCPjXHKp50idL08/JiAqvvgrah2QtEw0J/x4zwJqg
+		/pfWTPMWn+YvpTGNBBHuCbYEeymXaVdQ71HlWasAB7lORMd2xUFzj7VF/EO5
+		asIW/GUSXgqKCMnsTJgLWoIMBkyyodxNdFIiGMnCkDR51n9bIh/O0mQhyoWV
+		eRXDpMF28/VBcDpTc462zOXf1bI9dDKusw75RQ38KT4xTJ9mxWmA3GUly7ZA
+		Mq5S6jm65uZ7GIlKffZNrJMXaiE9aitcMJn7SB0irU42jK5y6MSHK01/JUy3
+		yzeAMC8I2UTe/XqM9MCH3g10Z6+V2gQwy6S9Ne4G968BtVxk1mDWjyEjfbk2
+		X1tofPxsboTmXxs7GM/Uqao/KfZypuMldr8vtmqITDDoDhWJXw+QQefjA94b
+		W/FIYzWXfzkPogmDUy3NWgpmlS1NzCFXQL97MjB2ip2jKIWKqoZREwCqUbUA
+		bk/ag77sv+TGA8bgR1K+/iQ+uHW6vtcf4i0coyBOKLsX+WjX2kw8EBh3CNHC
+		vlSGH9Ol6RlxPFA7uQBlQiW5z+fb7vUdDMDr+oXW7U7hfXMqAq/xBjtVzkXE
+		IFFnKSdeSZZIzZoTjSvDP8KKCmLnrNvL+gH+Tr3xa+hucgK2Zo+dL3gFvXKU
+		NTKMl/Mgful7fau36TjQRAam62spIwl6JzmUB1H/AeK9CzTOiYSIJobok94I
+		fsvrCDCL+WpodndoGtXpFiIygEOoH4Vx9rrRPz5S5Enwmxl7ZM3ZvN4uFIAb
+		ID6M0CktJ2aRK77NzAuVB9TKsO5qwW/juEzYIolBe3lfWcAVyHKDXlOjT2mW
+		2gCLthmWBH4bhIesUPJZvUsNkKZVLTy4IdWrtrJWxJLXVvzbiQPiwPPnEuP5
+		KHHLXmamN4c2XEoIIl0/f/wlwfwe2+bBJ6091QIP1w588Jtigpw9uxNUVhhp
+		hm3UyX8ow0sJv9XxFX1WZoaXfee9w7a0XJ2Er2TwblcCeqA/W87WZgdZUpgA
+		axaYX3Z6ph2eBC898zfHBml3zfVjtk91jg==
+		</data>
+		<key>iv</key>
+		<data>
+		Lp4S4L/LGErB90RN7AuTNw==
+		</data>
+		<key>key</key>
+		<data>
+		dAaYjJHNkbkmHtoKhBLI/vUOZFC4iEoT
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>runed forest, midst the roar
+Of cataracts, where nursing nature smiled
+On infant Washington?  Has Earth no more
+Such seeds within her breast, or Europe no such shore?
+XCVII.
+But France got drunk with blood to vomit crime,
+And fatal have her Saturnalia been
+To Freedom's cause, in every age and clime;
+Because the deadly days which we have seen,
+And vile Ambition, that built up between
+Man and his hopes an adamantine wall,
+And the base pageant last upon the scene,
+Are grown the pretext for the eternal thrall
+Which nips Life's tree, and dooms man's worst--his second fall.
+XCVIII.
+Yet, Freedom! yet thy banner, torn, but flying,
+Streams like the thunder-storm AGAINST the wind;
+Thy trumpet-voice, though broken now and dying,
+The loudest still the tempest leaves behind;
+Thy tree hath lost its blossoms, and the rind,
+Chopped by the axe, looks rough an</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

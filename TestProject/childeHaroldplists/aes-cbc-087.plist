@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		yMpZVI0resh/Ya50SRPZ+pc9QjlFyLenYJYnBb7ntKPCLeotSnvJsXU8v0sR
+		1qBTme+d4k0sIxwA/W4o3ZOC+cVv5WOlFdMu9tFFsY40GN0Fs+CokB7G3m0O
+		xNfYAlMmnOCg91zuRAaZ0DHG4bg7Pkd+fxhPrd9r/nSvr1lSDifrYaK1SYYR
+		hiel8odsb5w6vGy13qTKIq04y+jS4Q6N58T5fM3OMRXVgZ/NzUIxAlxpy0CY
+		6DiC3Tr57SELT2AN76gzv2Sdplc8bP/Z5yye+zbHtHwMEkYU/V09vOSqLQlf
+		NuhNUg1PSPXgHC9ZOVJtUSeUNe/qtEYSPD4gBHIPl1mx6gJRk1ZFQjRI7NIU
+		suSRky/wHVP4a0RWltTXUGyADYD/l0HCvQsscy6K0/gm+LCIC84T60WF5G9G
+		HdOVk6gnAY/ywDKFcSF70Z1zmx6z4bbQKqoMVRAVdMIalJat/2/w2ekK0RjD
+		ypOyNAd/IZ0=
+		</data>
+		<key>iv</key>
+		<data>
+		ASxmq7afCr7XscudQ28Deg==
+		</data>
+		<key>key</key>
+		<data>
+		PkX43xDjo1RFkLbDcq0/K/2O04SH35jXPpHy2WFvawI=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string> of capitals,
+Still to the last kind Vice clings to the tottering walls.
+XLVII.
+Not so the rustic:  with his trembling mate
+He lurks, nor casts his heavy eye afar,
+Lest he should view his vineyard desolate,
+Blasted below the dun hot breath of war.No more beneath soft Eve's consenting star
+Fandango twirls his jocund castanet:
+Ah, monarchs! could </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

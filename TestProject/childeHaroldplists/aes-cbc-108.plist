@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		NcNnl648M5FHReA1Ftig/wZr3C6Rsug3tyLisFu13o+TdSIyd7xU76FNHAFz
+		0aJqX1dyTvgRZ8a/swgpVlK49hWaDv1cS8lfGAhwQZPUcE47mPvieQy0n0gs
+		TdzKPHrULk7uyH2WEKWZvWKhnw2zIQSP7B1HTGs7xqoXkGl0+qZa4q+PAcgE
+		5+ruZO2rriMuAyRZKxjUe81CnTOu1REJEW6I9piOHctI6oJq/TD3uycHy74j
+		a61HeL/HZvpPf4iZGChGm/gL80bcKqyR0Llnh2BC1ojPsKjEcwKpbVm5NHYf
+		0TGTcwE5zC9myKWrXWoIRyzJZZbQArnuu1bVgDJs5aoCNLjKGML5G3ocb/G7
+		4g/9rn/cGeKV6OPKNZ+RHnSsC/YOi7DDm2CclIAafMHVEw==
+		</data>
+		<key>iv</key>
+		<data>
+		w3Mjc0U/p9A8ORE37QiGPQ==
+		</data>
+		<key>key</key>
+		<data>
+		R4V2zDqyPe6f155AssrGoJNcY+Kie3KI
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>er,
+Himself awhile the victim of distress;
+That saddening hour when bad men hotlier press:
+But these did shelter him beneath their roof,
+When less barbarians would have cheered him less,
+And fellow-countrymen have stood aloof--
+In aught that tries the heart how few withstand the proof!</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

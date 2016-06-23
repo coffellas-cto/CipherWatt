@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		KpvP/szz4R55nOLH/5wjaXEy2O6ZkT7QuRoa3Ujdf2/I34b8y0q2/acqdPJ3
+		KZwDHYiJJYkR99Gqmo6nWOLrzqREq7wz3LpyWjlUg7SxVZpVhSna3wZS6xY7
+		XMBL46gaovM6cCFK9cRGSOi1UqLPd0txEZdvEjSLmLy5zkYDFcXU15rZ2nk6
+		+wwHCiNW/pW1aS0Y17dgA0hedyRe5kzdvG82VhaqpmS0d/WMmHCVOphFKfUN
+		RbP4o/wAQZXpwD1I4Q+UkDewgiox5CGOMLc15KCRF7aSCbAd7itU9L60/v2L
+		pOeCTQ8bNZZUE/teBdnND+ktMlgf/byCJ9nNSTiz3GwR2OI9z6zNxCKd/Ze+
+		JLrLNX7t1Z91PYOxaq0xyipx4TAd2to/UGOPrmX2fScofQ==
+		</data>
+		<key>iv</key>
+		<data>
+		fh0sAgC4Fs1Bbwva9fmSkg==
+		</data>
+		<key>key</key>
+		<data>
+		52UPo7xH8gZTZWKUW7K45J+XUE+4lKOn
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string> thy soul hath brooked the turning tide
+With that untaught innate philosophy,
+Which, be it wisdom, coldness, or deep pride,
+Is gall and wormwood to an enemy.When the whole host of hatred stood hard by,
+To watch and mock thee shrinking, thou hast smiled
+With a sedate and all-enduring eye;
+When For</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

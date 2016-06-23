@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		lg4GX5iArQQ8C7gDMmkosJ8ycQ78GEcZRcWb5w5/yqBHPaS0o0j9ZrfKP8Yc
+		o8ZxLD9z+ibNtr89zmiHwbWkmRu3jZgSQ/Rh7i1uEOc0TnHur+UJtuWT5bZ8
+		pYIp1+bgqa8yEVjhbI0NuZ78xl6CEp9QrJjnUYpY94s6rG+vtt2X6cNwoVos
+		5eAxCRB6+4haNf4UsmH9adBrMqtY2Hlwev1obJkBFYonLEyd5QwE+EcnQjaN
+		NASO8pLCnJg+mt8O7B2G7NkgYIV3vi0SdBuDoNie2FsCJ0/GdC7iufBaFI0L
+		tsTa5FPiKchcdsSjlpffpw3MzoItGwwLPZ1p9z9B/Tm/a8y6XI9IFL1PchWP
+		5rIUZwQYvosKHBuRR4sPa0+K6ngnJvGi7lT6FPB/m9f196cRyoqnQfnZqWqe
+		SK+5fyg=
+		</data>
+		<key>iv</key>
+		<data>
+		gIpYimxrdm3bMNeOaEaXHw==
+		</data>
+		<key>key</key>
+		<data>
+		4au8hPFK9NIRW6VGPBI1i5nrq8HaKc/g
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>a remoter sea,
+IX.
+Perhaps I loved it well:  and should I lay
+My ashes in a soil which is not mine,
+My spirit shall resume it--if we may
+Unbodied choose a sanctuary.  I twine
+My hopes of being remembered in my line
+With my land's language:  if too fond and far
+These aspirations in their scope incline,-</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

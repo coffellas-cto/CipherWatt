@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		QP6tSTiTxarF/viEIUl0pPrKq+eS8eVke4PiYnNmTdYRtjObSdbIWBGyYr4b
+		3tN1DA6AxprstSQYenXp8RP5rTTJc5hy/qkW8xmSWbZ+GYQ8TgTfN2aUCyUj
+		Wv+l/3uwbKTxZNxM3Rk8XpTEBBLZFwE8RXDBGV6Ghm1q+jIxAPU9hAHb/qge
+		oHhAF7Z5bNoqQa+idsHPR3wTK3yt41eQkuLA0EX1IRWSrEN26cY7KG328+NY
+		KwMAM6DqjCqO7qIJ23OLL36KZwyYWo8zyoM2d9E9oRbMdKk4jYCLrsrlbFM8
+		h8OHZb5maIqdbopxNzxS+h7l4Ne8X0huJx7GVt1RPJNu3pV5AiTa9Aa/9UNJ
+		WzNokYYpxJ96cfRcATlzw/FXdlWD5uaLoeW/iSoMPD93am8zxmS/MymkTSON
+		gbzppPIe2jb2ZIVVonTkLikRE050MWr37/cjre4bNjdboNlO8yl9Il8TeG7n
+		LjDkh2bTdiK9qfuS4RQ/qrULC2sDnAOt5JsE76jbYrx/tL8WIYNzdLpZZLAN
+		Hx/LMNWd8hTAakqHshW8RK3S6rrSMoh6Qd8agzPnfOtvWWsxtQ5LpH9pVl66
+		RUBc0ADpPyzWb5ZQXUYtNDfwE14LxjhXUqPoSlIiqRLyupx23wemTf6RQa3v
+		kmwfpMNLCCTxRYlZ6ePaDdXTd8aIbpn6JsDNxdHypBccGCu8NLfNir+5x97l
+		k7YAHfIGS1jOUb5TzRqu9NG+yGYIzCYx0N/Fi9tSPJIXF9OcbR+is9wNVNxp
+		L7ezsneGc4c/e4f3hXEaMDFbdwNqAklcQDM5oLCj9s+GA6YeiKI1lUTTukPf
+		iBebz0yNEkDOSKgvkX2BuLlAgKLdLcfmZIFuNfxk2k/ALoXta4wlc5C/4QxE
+		31+jL1XZQd8PI6faVA08p7UbVuOrwrr+6fFImadZ3gt/vFJ2Nhew47XJpPWr
+		xOc1YZE5cNghnJgmrtsDaOmREB2ol1Hs+Z4JgNUzSIBSuToB/TmRF/5J4Bfh
+		MzdbXF9o5RFaf6CSJzCvAKzeQRdOKUL0goVApRikTDHq6bZ9Mq7niyJH0rUg
+		1iF9gY9Ui2t5dEDBN0sGUOT7uPL7VCWNJR6fGctnRJceuLj75mSHDIdpU7c8
+		QTld8cIxv3x5dGOXsIfTkAg6OT/VO3fF7m/P9VQZrg/8dBdiPyt4C0uMWYNY
+		1AoYIArmEJ2LALEj
+		</data>
+		<key>iv</key>
+		<data>
+		2ZdFQl7ypMIpWyS10jI44w==
+		</data>
+		<key>key</key>
+		<data>
+		5V9eT5EYG5X70BMaXDbpQM1oAlPfv0hIGogcj5OzCX8=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>arch, and, scarce less than they,
+The Bard of Prose, creative spirit! he
+Of the Hundred Tales of love--where did they lay
+Their bones, distinguished from our common clay
+In death as life?  Are they resolved to dust,
+And have their country's marbles nought to say?
+Could not her quarries furnish forth one bust?
+Did they not to her breast their filial earth entrust?
+LVII.
+Ungrateful Florence! Dante sleeps afar,
+Like Scipio, buried by the upbraiding shore;
+Thy factions, in their worse than civil war,
+Proscribed the bard whose name for evermore
+Their children's children would in vain adore
+With the remorse of ages; and the crown
+Which Petrarch's laureate brow supremely wore,
+Upon a far and foreign soil had grown,
+His life, his fame, his grave, though rifled--not thine own.
+LVIII.
+Boccaccio to his parent earth bequeathed
+His dust,--and lies it not her great among,
+With man</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16263</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>AvzgS2eR0pPpEONCd7y6sw84ISk0jjh4zXf1PaJ1XT</string>
+		<key>salt</key>
+		<data>
+		kGIZo5wM3WEABkhdwsgXCQLrbUPPQwCL//xnlw==
+		</data>
+	</dict>
+</dict>
+</plist>

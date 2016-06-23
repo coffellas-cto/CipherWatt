@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		0keZzXcmLClFOWIeUZZhAYPCz+txIyVk1ODO+onYoa8PCfWkQR+p3oje6Enr
+		AxFq0vKQ1In5NG/Ptb5IsSN6zPxD+GMBIAogRPEVWarNUNh3jrzfCvJX/H/b
+		DQoEg9pnLncfhYQWMGAg0jA6ShXMPAhnEoO1Ics3fab+omyMMcLmsBSzSuOS
+		rBlHuAuOanknBxD1E3k9JOdd+OZW0p8C/DhxjR6KBY8yhKkRyiEcfnH2i+kv
+		YGjMcZo4O+imKhpZmxsx0fmWsH42ruTet+iWX1nCsxBhCXshf7Uw+Q+dhjBU
+		5A+HbbT8P5225jcHEB6JVkmNinOBcGxY6tE6PpT0/PaxcOAyUhDit8BMMWr0
+		609NE6BH3tHiCOZQHUuB5382TGJWrA9jWrZyvVhj8q3M9QvyD2xBqv6huS4x
+		YWxB5AU2ZmjE1BDT8nOsbAN2F4bue/Z1mNMVL4ezB7X8/0CmCV5AFN3mZoS6
+		235bEkX9ex9eHT6rZIvJR0m18ShLSjP5gLf9IznuZkRI+OiXECqPfU00qlp0
+		SzZ+x0Aqyxll2kXIqjLUtiWgQd6sxyqqKSk2Jn3C7zJSO0ukwti411t63Ek8
+		eRUYFDuAXFajDt0KmrLeftfyqRH5N4f9l0uTjbIRrL8i84jNprX5+dmz8oX/
+		QTaga9PoPNdJRUCK64Ha9k89g1PJvm2xfY32GT2mNCslSjFRTTUO42SEb3MX
+		HBubWSrW5AhMGlcHuuwzOTnVnu8+bx4wT7q0qTghpANOfdvWTIANH7w4bWU7
+		U4Dw1SAu9vUjSPza4sYQPEnzIpPLy3pnbLI2er/4vq6SbP/zLWsyH8UZDOJf
+		N2V5LC8lTgKRjB8d/GiTvJ+w7ahCGzpzTIK3jUHMvHSeS7+IYtKxdixrhdgt
+		K6bJFa1HF94sK8D/5iS/j0ABcv/ZTN+Fg05gxOmqXTSHNNaoPLv2czTgErsW
+		QOGoWO6YnjwCRoqj4cgCeJL6TX0rKG3jh5s9lwqLVUEhPyELKpcSAeJ4Q65B
+		hw8eUE9hnQGqXeqoBhzeaojbi1YQKz2mCtvwYthk8jz71occDTcEO+KGSnba
+		umt+CjcEgWkaDRWW/NAFUtp5lQg9euI5z3KtKJsDifTgcJgFmjkpSqNHnud1
+		JYUOohchOQXIhSMvm3ovGLoGUO8xm0IzU4KJfzkkNB7aYVxmcH/b3xjeLqSa
+		xksbi3AhD/MtniYTUvrEuc7Pk5iV70u/V2b4beJv6112UigXJcMUwJS0g1SI
+		SdUFV7cZQeCrERe+Eh1dfc/LLHd9hXuNMNfXUB7zR5bTUn9eHZrdqYCtec5v
+		WkpIrGjqCSNqdITSpJ1BB5I7eqLcCSG0MdRtGBT+U+pCz2SfMdfjcJTDjAzs
+		xItuDa0+QhlMaGI6yMkSe/7o8MnCV4bSXECQ3rINxkrSamdeqh/5cC0bZpua
+		IyWtLOm9PXY=
+		</data>
+		<key>iv</key>
+		<data>
+		Lhzut9bmsOdzIPCKVbNMDg==
+		</data>
+		<key>key</key>
+		<data>
+		5LwNy0zBvXOA8j9iYfD53b2JyUri42iZjiS215k2gRA=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>ke Scipio, buried by the upbraiding shore;
+Thy factions, in their worse than civil war,
+Proscribed the bard whose name for evermore
+Their children's children would in vain adore
+With the remorse of ages; and the crown
+Which Petrarch's laureate brow supremely wore,
+Upon a far and foreign soil had grown,
+His life, his fame, his grave, though rifled--not thine own.
+LVIII.
+Boccaccio to his parent earth bequeathed
+His dust,--and lies it not her great among,
+With many a sweet and solemn requiem breathed
+O'er him who formed the Tuscan's siren tongue?
+That music in itself, whose sounds are song,
+The poetry of speech?  No;--even his tomb
+Uptorn, must bear the hyaena bigots' wrong,
+No more amidst the meaner dead find room,
+Nor claim a passing sigh, because it told for WHOM?
+LIX.
+And Santa Croce wants their mighty dust;
+Yet for this want more noted, as of yore
+The Caesar's pageant, shorn of Brutus' bust,
+Did but of Rome's best son remind her more:
+Happier Ravenna! on thy hoary shore,
+Fortress of falling empire! honoured sleeps
+The immortal exile;</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>12584</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>o3jsxry70M6eseC5oaUPvYUB9x2XnVg9SShQc</string>
+		<key>salt</key>
+		<data>
+		1KDQVAXjsumTa4IW8d+yyxNY/Opf
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		mPi3QOWmbcLTJjlFUMXGOTiQC73tu5xeyl2x5m57plnpLP0acPbdMUsAeyoC
+		dRnznHshhVtl9jqKs9nN4V5ZUILqBE8qrv4Z+z1KPZC746a2JlA7xNxXIq/6
+		g4OjVD82DvCiTc7Vl486xMq9PBv+RV+7issElP4IBrbiXPRO0rG2pW+yrF5X
+		7YQ32ldPspefeF//XSRRby/4MfMfEZ710Ux6t/aCVZrMg6GMVwGuMe0wrHs3
+		v1dCST2kGqzHNiiO3WCbdUD5BI/oXmeE+c7dJDuUTICAt74SpYswSikxAaAR
+		M8r+z36cpp3k2Na2VpOsLbLBme3gZc52pt9QhbyS1q2c+/QB/oO/Y/UeClF1
+		76/QXGi6Xyqce3NEzWqaUAOj7MaVG8Sqit/AtG4FgOCShk41+xT6OFF+Fvvg
+		2K9BGT4XU9ikOx4PAAPH2p85JR5cr5Jr+B9WJUTjynjWPsi5r2nUPjpd+6b/
+		6vjEp0ZKmIHmDYp56d/4Yi04RVB6dh6ohI2/60zpN2aaKMamR+1QkAtiMAi7
+		9goh+iYrX5O9EPjtYrrWBAs1gin++bHUXHT0A+oLvyg5l/OyAxInZ9PaoQ9N
+		uA03/bVAz0B/ewbGhRyVaQFezYYahcARCDM3tL3l92CTD8HrZ7YvKc173lfE
+		1iqC9oc17stLNXQuG+K7tF8DBMaEh7QR2xx94v4CU7FHztDAAd0K53zAozBv
+		ac/h8WQb3nEHKqz5U5Xhn6syNnL8njwI0TSxbqJhJz60ICBl7GX/knWWSQFm
+		m9EngR/FHuxMqK6Lci+LQVNM2FOhhlL9FV/FK9EGeaoon/if1+g7m9CagErd
+		MiOK537d+12r4nH/GAMS+lOC4rJ5LI2gUZR/AseBzrTK9y5WuqZursQx8Ryy
+		EOtao6oQ9QQWSu/GhDYnKvte44dCOfNsn3nja6OGEG6T20IpAB8xcsZYsF1U
+		yM9g9RI4Jz4KAqcqUOyZ8bJNT80CxLoje9F0yFnQLzlLr0EX9YBAjYON858E
+		IkmR719Q6cfLqe0hk0/XgrZZktSmM5jLHf8S2agZLlJXOUE=
+		</data>
+		<key>iv</key>
+		<data>
+		bfcC8jelI5euDl/XYKbYEw==
+		</data>
+		<key>key</key>
+		<data>
+		FBsdORWqrErBbUZLW/EUpg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>do which not forsakes,
+Living in shattered guise, and still, and cold,
+And bloodless, with its sleepless sorrow aches,
+Yet withers on till all without is old,
+Showing no visible sign, for such things are untold.
+XXXIV.
+There is a very life in our despair,
+Vitality of poison,--a quick root
+Which feeds these deadly branches; for it were
+As nothing did we die; but life will suit
+Itself to Sorrow's most detested fruit,
+Like to the apples on the Dead Sea shore,
+All ashes to the taste:  Did man compute
+Existence by enjoyment, and count o'er
+Such hours 'gainst years of life,--say, would he name threescore?
+XXXV.
+The Psalmist numbered out the years of man:
+They are enough:  and if thy tale be TRUE,
+Thou, who didst grudge him e'en that fleeting span,
+More than enough, thou fat</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

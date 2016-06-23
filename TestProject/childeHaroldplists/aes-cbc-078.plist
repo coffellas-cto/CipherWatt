@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		tVKlSEXCH3BXYEvUxAhKLjEw3+M50QXqSU/NSSOn7yvEIq5cGmIUHeHzjydK
+		mgD8J+Yba6vPbkr5FY+ItLmRRewXFia3wjdpJEM+2ooSQJ+hbDCELsgdxCt5
+		B1YH3eg0nMPvhddjK56icA/vX7YuBlxqPk1VKMkMeHaqNpK6T/2XS7twR5sQ
+		A6HyPJXk9LDkdI/q+hrpaxXZ+1STUSqPPWRntYPAFd0nE03FBm+GhkwiLzv/
+		AuXM1Zkl6t0cYfFzscilU4xS9JI2Wi7L8yoeQyaLlB0Dj7cNpfUxs73WZBuN
+		T7Qu4MzVNf0jqrjM59X6r46czQ9VjFlIHzSbib7ge+OgAdD2DX8jn3R+KIlH
+		Nlc+qtekAn86h/kNXdhLsSDfMbDYs4FWQjpjGw1QeK9XQvo9DcSw+cqKSfxl
+		3VjFn1UFjeOrKGmTDPKLmVpwkm9HSUx+7P4nyEg1uu+A+Sqd+Rc1XwXGyMmt
+		9nLQh9H59VTEARy6ZS39z5sNjK7onmqgQ2e+M+4xn2u9YJX6QVgU4iRRXy6e
+		h2g8R81Cx40uvd3a1ofrlONA8tbXRQLsN+88VMTXL1D9FP5ZQxnuy7NSHcVv
+		91rwshA7TJBUuRekTDY2Z/y59hsXrYMNBZmmBz1EaCzfzuOLLN8h1Gj+Lpd0
+		7AX0Va4w1c3peKeEFjETYCVQil/BRbpcyQKdH4T/tX/mRTnMszwB8tpfOl4h
+		A6cjX8MUDFvH61styCQBFLoMduDMr+O9h504Ptjo3ukjw5hd7FXSzX4XjtvH
+		ttiW1/NCIoD1R2sS36s1oRqvwskOKIOs+cKPTQhS+N32Xo3yCHoFBx6R+pCS
+		35w6AsX3MyATVSE8vUlwkkIXBmnJZpNkJN9J11Rm6IiCdzcgoA1M/JHyoFFL
+		TC4FrwVIkr8pGxh4jmzWZ3xy4kB0/3fp3Oz1tvkhF5oco6URkAYfr+/5V1sh
+		</data>
+		<key>iv</key>
+		<data>
+		YP3ZJoULv3Cvhp0M4Q2qiA==
+		</data>
+		<key>key</key>
+		<data>
+		+9ewcuCwVsmWgdZvkqSXIqHI/3hPdbmq+B/2S7kgegg=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>be the light which streams here, to illume
+This long explored but still exhaustless mine
+Of contemplation; and the azure gloom
+Of an Italian night, where the deep skies assume
+CXXIX.
+Hues which have words, and speak to ye of heaven,
+Floats o'er this vast and wondrous monument,
+And shadows forth its glory.  There is given
+Unto the things of earth, which Time hath bent,
+A spirit's feeling, and where he hath leant
+His hand, but broke his scythe, there is a power
+And magic in the ruined battlement,
+For which the palace of the present hour
+Must yield its pomp, and wait till ages are its dower.
+CXXX.
+O Time! the beautifier of the dead,
+Adorner of the ruin, comforter
+And only healer when the hea</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14864</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>bj160umSplsPcRKrlVPXfXSL</string>
+		<key>salt</key>
+		<data>
+		PvAuZcnGOtR8LU/v6nDZNXRkoDnEHwnU
+		</data>
+	</dict>
+</dict>
+</plist>

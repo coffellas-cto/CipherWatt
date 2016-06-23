@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		ZPnMDzg7wfL3jpLFEbV4H2b8m9eb29E5ZEgW6D92nkmm/HMPcb6EgiGmsoy4
+		nAdLQeWkFiGQjetisk518ZUEgQqFYdTbo96JTjVEqDwbxH9tU1ChiUiNdyfg
+		nVvYTBtQEtbMXx0i3N/X5y/flDo5Xv+dsIwNdwlXEE97TYP7+IDsdaCGIr2J
+		w8s9K1+FvOGh0bHNCwhRgZ8MVBVYZVtFIVW2XhAUqmTgtmF1IR4AVxOQUG27
+		19wE/DV4cjG9q/rY9zeqjHuoRVSO82olLQGS1TdFiDPK95eSIkGVoud9XBeA
+		GxfmkbchDo72F3KEjAg/mznwXvf8rfHS9FL73vzGPr+0vR5ULC5Fm8cdp4Ly
+		zS1iHORVH/bs38C5fPNccaDpDjTyS6YjcHa31IoVIWn1uSb0W6YRcV503ZoG
+		sfFuhQyIgEASp9X/wAdUsT4iKBZr8UD+CczJ9MKK8s4iCMHSbslyPSX1ul9P
+		tglmf9Eu9Sga7hWnLovE8XRSaqV6iSMDbnjdC69rnJ7cIQWeQzQ4LKB1rlEe
+		1qfKWE+F5MeO7ihEyDWxNEqYZNRLHKTIaDOc82K1bT0w1/GIA029s7+R3i2k
+		hl0oHjGcmYcXBc6+Aj3gVkHpKUeVqB9ShObQORZw2xcIuD4hPz8a83bfhkrz
+		6xqL3Zubmx4sfIwMI0YSl2YyapQmlsn6Hpe6d3GLczM/K+uKHycScFlj6wVP
+		YAx8nvfaVtGmqEePoHUzXbCXnjJ+KPnSTYZxzkCS7/8U0MRrnvDUGDmvkBLL
+		yB72QQduPL03Z3koRgE801ZXi+ouMbBv0ToyqBvVc9lfsGx/9hwaBX9nLjht
+		xdr2tX+RyKrxB0kYrY4eGKvxWeiHKRyNkaZD662/Uu5TMKZL5syQjHFJsfCf
+		Afz3SNC6LE2t7wFc7DDMTehwVqzeQAQMwt09jbUKaCshsznxq5U7ROtYxTcr
+		LHTfdsaA1/YhgcUIcQ5EiJ5/bJzbjxxwN7H+KNjqV4fQ46PtJDVJ8sHkyWvx
+		1qgY
+		</data>
+		<key>iv</key>
+		<data>
+		j2FU+9gzxKPjKOF6eFGCug==
+		</data>
+		<key>key</key>
+		<data>
+		5Ny2F+QzvIu8qmJFQd5FUA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>th; some suffering and some tears
+Have left us nearly where we had begun:
+Yet not in vain our mortal race hath run,
+We have had our reward--and it is here;
+That we can yet feel gladdened by the sun,
+And reap from earth, sea, joy almost as dear
+As if there were no man to trouble what is clear.
+CLXXVII.
+Oh! that the Desert were my dwelling-place,
+With one fair Spirit for my minister,
+That I might all forget the human race,
+And, hating no one, love but only her!
+Ye Elements!--in whose ennobling stir
+I feel myself exalted--can ye not
+Accord me such a being?  Do I err
+In deeming such inhabit many a spot?
+Though with them to converse can rarely be our lot.
+CLXXVIII.
+There is a pleasure in the pathless woods,
+There is a rapture on th</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		KZUDAHb92g+9tk2jribwvZW4j5jlQCZkbLad3Nm/nNin7BC70syjrOnUWD08
+		/qt/cCRsqe7daH036nkL8nhAtqbgkZFfzFqTYmy82WN7fXSYjm4UYE3j8QLX
+		gjn4H+atg7cNj5ipt+Z7V1IxshznJvdk6xc7So5NKKsdK2pnQME85L5joSsD
+		V0XbVY972lOSJEjtzuGTl93N+B6mSEEMwBOWExuqRnc2sTW8EmPa2AFktHiy
+		Y0s5ZoxK0R3iSPe5ojkojADnaJAKlHtIYuCpEFPLo7tpDEvkxyhAMe6CANYV
+		CtMz+FagQVwpqgnf7Drw
+		</data>
+		<key>iv</key>
+		<data>
+		N9ZcPvfm5CEuOiORdgbH7g==
+		</data>
+		<key>key</key>
+		<data>
+		S/e3Jiq23D4CNDsszB1e4oWnbe37S82yPvoZqMz9Ny4=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string> astounded kingdoms all inert,
+Who deemed thee for a time whate'er thou didst assert.
+XXXVIII.
+Oh, more or less than man--in high or low,
+Battling with nations, flying from the field;
+Now making monarchs' necks thy footstool, now
+More</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

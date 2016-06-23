@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		uBASh5fmjKb8huyZicxNzcNBVxZWQTosnIlb6ecjtNaYE0gbZi4qGKxeC5/u
+		Ym3ODxY4QTM24LNt2U/PHbtPLpdbUuLIML9KM8mXrm3uEoCGv+MZBmtIEysZ
+		YburFOmEknV7FLXx4c/3gy6EiT0XKUe4KWlYnbWXZVZqm9eoxDQ20DBCAz6P
+		crXixqyVc6o85i8qA55OFfDhwjPeRNPuPn5rXfocZae8PKMH5rOA6HtmJwOJ
+		DrhxBDbtIQ86QXgPkm/HfWHKZS8OhsvZLESguGIgO9HctGgwNt7aMlrpj7Lp
+		ygYHsxOeZUakKpPfpkKdmxKDdHUFqI9avoP2YEOHbl2DVjdDyfEY0oMS83Eu
+		sZU2pvvvIJq9nx+ug9A15uH859uzjwo/xk5XV53PdVgI318dvmR0RBqBGhCs
+		5829LhJ8muxZDcdF2+s0nEkj5IJ5
+		</data>
+		<key>iv</key>
+		<data>
+		fJ55TQuUFL+fEo7JTsBhvg==
+		</data>
+		<key>key</key>
+		<data>
+		PwxSTZoevYvgIyFUDADyNA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>o upheld it through the past?
+Methinks he cometh late and tarries long.He is no more--these breathings are his last;
+His wanderings done, his visions ebbing fast,
+And he himself as nothing:--if he was
+Aught but a phantasy, and could be classed
+With forms which live and suffer--let that pass--
+His shadow fades away into De</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

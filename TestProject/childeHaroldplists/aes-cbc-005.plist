@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		ehP7grMwKGNs3TdbanSuGw9Q8tXQpdZKG9BI7r4atLs8fUwylkO28S7kYuup
+		orHgrddBNje41AAiIY+i2Pa/zsnZxx+RoAc4N+ebr54U0xuBCkSEfaypYXnv
+		zKmDkUyPVVwVET+4Ww/4tVGqqJQTyzZ/DbVrs06qEXnDRRdemcxj0fKPgn5D
+		oST/8KhPQjjB67cFKC66lqK15R/kqDus6Ruykoe5v3Ytt7vDR95Qe4dYx+GF
+		dbChUDos2cHOKWJhfN/oqv49AHw7GgbreuTiDIwMgp2PBQXpsjRrN652z2Ai
+		rdZ6e3/Na4ZaX2N6DLhc
+		</data>
+		<key>iv</key>
+		<data>
+		wucvrK/oGcqgQCejw2K2EQ==
+		</data>
+		<key>key</key>
+		<data>
+		nbG7WlwVDq/CI4q1IBLh6sjZwlMUlvvaV1cKqW/vfPM=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>it feels, because the weapon which it wields
+LXII.
+Is of another temper, and I roam
+By Thrasimene's lake, in the defiles
+Fatal to Roman rashness, more at home;
+For there the Carthaginian's warlike wiles
+Come back before me, as</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

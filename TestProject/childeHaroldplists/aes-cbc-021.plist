@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		nedmTbSIzSRyR0TgLZCAHi62+oZvkWgArWunGlpF8hZGAhW2pzEMlib62qC1
+		Dip62UfePoQ9SnGMdgTOwpwV+Z4TjNZcUa1/8G4VGzXRs41v1BwpAaTp1xSC
+		MXH+3eW1v4ZUkJs7TBnauvMDiXWTvmPK6tXOsckV4BnBmScsu9BkPBOlTsPZ
+		xhLhAzLy4ZcG0kcrBNM0w1RO3m0VcJ6gWE0Xnz/wDtVF6D5cCVtE95xPr8ZL
+		5n6UDorfWL46z1LMrx5pl4dDQeJJ+6y0oV9WMAPueUZpOzO++ktcRVq5Uln9
+		Ge+F4EsMMbwo1YRaasYej0l+XISTgk1lOR7652U/SD1zbA0rtFasgDZRXTRX
+		DgcF3zsjYOmEN/wpGbFLuzGF5z/Q3HxQQKc28XC4lZgXOWW/yWldMB0waMIa
+		mzpcyfPwubrhOiAXv9UBpEgwogFR4ytUXXnNo/OiqY3xaPUQrp7mNMBk4EwN
+		L8/B+LkcaIklrWGJngn+aMx983dpLy5uJ7v9IItK4yox86C1rXNbipbhENdw
+		6V0Q7AUC3vuVbKlIO+Zimn0H3Ptv4nkDlH2GV2woXpsWpOPC5qes4xa2QkSV
+		7LeibWd2cEPUp+88Gj/Uc52D9G6cjnJh+lZSGgsPlg2vcTCy4MBRCHF5iVhs
+		0cxMQWGfuN8xUeinbO5RKNMpX7qvRUtiKBL4uf/hYx11QvCj99NZPI56/1PJ
+		bGnJ3BQ3Kl2qqWJvQrTC8kxm40I3Nsg8kNB+NerfnVlq5tne8kOvGrOO6jTH
+		nuO+xG+J6PD1InpEXnuSEVGqLH7sjMoZWWFoFr+UbsjClkX+cXdh4GWyj1Ir
+		h09ml0WbUruNu3LQY/uepfDHUjEzFW3eGKFc2wknSvPahrz9TmV9m5ScEf+D
+		DXlfSIvhAhbkWjPRHBgd8zb/aoOt7AVPr6Lh1bq7sTO5X7zzIcrn4C6DPLMP
+		02yiiENtPKvfeWeiyoIIz479lB5rAHef1LKMo/oKtR9BoxPY0fdnNqi+mnOv
+		B2FLeMMLPdGvbsFNTTpuEmBcPKYFBet4snO3grY3efXduxPiuR99fvMRzRdg
+		N+li3F+mEY8no9kXWTANilpGi3TsEvx3nVn6WvzyO5sEHfSNvVbAwKNXBXAN
+		0ZwJRCnNK5KSwE5/4DY1fVfRLa7aVVa4BWux5WAdE6JMfBKKYIorVEoLdXZY
+		NiAWASC93nA+bnyCMA1a5uNl8n56Z7XoNdsjhXqbk0nEvEDZLlEFr1EyjBq5
+		J1JFGpU3F0YMLeXogBZLbEfmzjGdcwer55+V6mV/NA==
+		</data>
+		<key>iv</key>
+		<data>
+		4kl42jauunJxHTFBBsNjHA==
+		</data>
+		<key>key</key>
+		<data>
+		laH5PoezIDOhjBgXORY1CA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> never shall we see
+That brightness in her eye she bore when Rome was free!
+LXXXIII.
+O thou, whose chariot rolled on Fortune's wheel,
+Triumphant Sylla!  Thou, who didst subdue
+Thy country's foes ere thou wouldst pause to feel
+The wrath of thy own wrongs, or reap the due
+Of hoarded vengeance till thine eagles flew
+O'er prostrate Asia;--thou, who with thy frown
+Annihilated senates--Roman, too,
+With all thy vices, for thou didst lay down
+With an atoning smile a more than earthly crown--
+LXXXIV.
+The dictatorial wreath,--couldst thou divine
+To what would one day dwindle that which made
+Thee more than mortal? and that so supine
+By aught than Romans Rome should thus be laid?
+She who was named eternal, and arrayed
+Her warriors but to conquer--she who veiled
+Earth with her haughty shadow, and displayed
+Until the o'er-canopied horizon failed,
+Her rushing wings--Oh! she who was almighty hailed!
+LXXXV.
+Sylla was first of victors; but our own,
+T</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>13080</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>Tpq1v3g1TZx32SbNV3qn99DYnnHN</string>
+		<key>salt</key>
+		<data>
+		UxxxN6QQ7pLF9cyKu0m4bOmxzgO01DH6DgEL
+		</data>
+	</dict>
+</dict>
+</plist>

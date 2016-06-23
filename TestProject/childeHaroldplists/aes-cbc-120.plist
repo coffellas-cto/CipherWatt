@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Nv2NThxcwwrDvt4iD5av3RxRHjnfY+FKbxypjn+O2edPIZ+p+VyjGGcv6ioJ
+		7OlGOuv4CKUXD2KiaxT057efcTdUlmELu2U1wftFYjlcqIuV8V7jqtfXr08u
+		tqe10XOqA8Wvg/nfGmbja1zm5GtjMphSLGARKBKC+5TVGum04It3hPwe0imZ
+		2gyw/Cb3YWHB/g1uE0CxAB/luQ/isyfOzCVPiaiIgJBzhDnCEjXDeORcCI9+
+		AufAtgWovvvvvxDdUgBRfdMh8p8xe012cszeY5/M3LEkIZKyR9267HMato/n
+		Rnv+Cj8kSisHGFvJXxsCvsgrIX2oJgFzrSXiiCiOJ76pCuSKMIiR4QlNetfv
+		VhEvK081PxWK2T52lr8ij5oCI1N5WdnYQF0TPX1WJKb3gItEGpEFMXGIGpCY
+		/gLr379XoaUoX0cLYbDABDudR87owR/7mk13FJA+22jXBNqBXwO/9LqA8AuP
+		7rhESjUSSuCN2g8lFfn5FEqp5VP5SunlUZUfkgOsRvvlK5nVqwD7YGH7pan7
+		Fc8lt+W1z4n9gGquIK2/4K0mPl4yHmHhpWUzLEO2Q6eJalG7JeWZ+l/b68FD
+		dQgG/fSTNbEeV9DCUPrwOzuSlTFu5t3WtF3u2BpXXJ5cCfWVrUEjhjLO/fSK
+		13iPQA3Tehx4H+WB3K/rtYXFvEicNjinbgNMmWC5U25inBaG99Fs8b3tGoOv
+		BiUGOJDZC7QlO2WS6uSz2jBBw5e20O+iHG9uWR+oe5Ge8YkQ
+		</data>
+		<key>iv</key>
+		<data>
+		Mn6bOE73JfKjhja59NlEBQ==
+		</data>
+		<key>key</key>
+		<data>
+		YlLmUcU8+LaJhZL46i3jr8PaIGjIYcj0w++HiAhcGls=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>tle fiend that scoffs incessantly,
+There sits in parchment robe arrayed, and by
+His side is hung a seal and sable scroll,
+Where blazoned glare names known to chivalry,
+And sundry signatures adorn the roll,
+Whereat the urchin points, and laughs with all his soul.
+XXV.
+Convention is the dwarfish demon styled
+That foiled the knights in Marialva's dome:
+Of brains (if brains they had) he them beguiled,
+And turned a nation's shallow joy to gloom.Here Folly dashed to earth the victor's plume,
+And Policy regained what Arms had lost:
+For chiefs like ours in v</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		ITFh5aJI/RQbHtcANUl8xtnvHtSOxvsC410LaizagZ5tt3JQIVko5v+IJh/Z
+		Lt+fLTFXfOARwDgdtTHi3jgA4l+EmLuG5IGxnZAOB0Orpji+VPjwNXCIiXTQ
+		3K7ZWPJ3DjrETRsTbN6970s5P07kKOoj2Ba8uAApKpzkS3LlQ8lTmAK6wjni
+		cBkq2Hf/V1A0ruxVHMFZ6ItKp69usjrNzk6O06gKt9f91j1xHdfR/JUR3yVx
+		FLhcfTfztJyEmqJWjWyoSbFD29IoJ6ITFSi5FCXNsN1iukkdHc5p3ZuM7KdU
+		UTDzt/4T/DI1FGGDI561JtjYh2q7fkdztbsvwdg8/SWFF8iKzWeg8qOGwm4m
+		+T4GJmTDpvs/BJkgW4dOInte0/lzAQHoi9EwG93H5zc4fvYGam+FuZoEl2c0
+		I7VpQhRwYiWnftDj1Qy7TnAmIX0Hg2B4k//PZXe17OPjslRviQ==
+		</data>
+		<key>iv</key>
+		<data>
+		LE762719uCQ3NeE/360iOQ==
+		</data>
+		<key>key</key>
+		<data>
+		Tz6LxOP89ybI+wIxM1FuSA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ou dwell, in this enchanted cover,
+Egeria! thy all heavenly bosom beating
+For the far footsteps of thy mortal lover;
+The purple Midnight veiled that mystic meeting
+With her most starry canopy, and seating
+Thyself by thine adorer, what befell?
+This cave was surely shaped out for the greeting
+Of an enamoured Goddess, and the cell
+Haunted by ho</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>11455</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>RBAT3pLQDYW4bVkxgZ96Ri3vRIIaDRXUcQGw3daqpH</string>
+		<key>salt</key>
+		<data>
+		CdDMqYFkJPkvmrPMgxosvfjwwuAH
+		</data>
+	</dict>
+</dict>
+</plist>

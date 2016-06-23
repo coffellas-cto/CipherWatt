@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		f08ZMNm2J24/RQja2ATYsPKdwiJ/50YQoNSgKQepqVtWzChiK0d7Xp7hSV8p
+		3YqnQt8wHKqzXDaYiEfJAEgIfUs+fQ1hlYwbNc4ja61czIcrl7CptdDXvu7H
+		z5mFwdnuOi7I1ZNbQYCP0OTiNn97OlTCjXSYGFxZJ7XB+S8CmSJ9PrH5M460
+		KO7mX97jAjRjPI52jRSoWgKOPuD/EkGGo4quG1AlDc8MnwKYEGn64qLUSsJI
+		rTayQxx+maPTf3iV4DWjqb/3OXDN+EYtr9D8aczwJEpvolBB95JLIECiir2G
+		t4K+58PBOoLKRksZu3e2exKF7xTb3j2oWxwnlJMAgviyHKJRexHRCXJQvQeu
+		M03+6cVi31AUZSg+GapBb27UOn5SLHLIPvMziX9aBF5WHE+T5UXocKZ48KvQ
+		d++gGqOPo6ReHKcxsSdk1Gjrkf5r+sCZD1BC2fjMTM6T5LLyOCJugcYxO4Nf
+		OQHj4tEa/3uv1Ct2N1LWn3fZ4nPDcFo4/jvHHiQuLtJ4ph+T4aYSeJzEJIeD
+		xqeNuAdvni0XkaDB/16iRlWcDyAKgw+ODLMO59zsh0vTTZlkNtahOs28LpHY
+		9DyGKe0S2eT02GieEENaMOIOnJA87EuCFA8ULdmH1GJZ/bV05OgHbV1NJIBY
+		6w==
+		</data>
+		<key>iv</key>
+		<data>
+		rCtGM980uwPS8DMpGwNzBQ==
+		</data>
+		<key>key</key>
+		<data>
+		zqs8cqqJ/YMnsDCJTe5LmeMXwwAmSfe1TrBSUAEt+t8=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>
+There is a rapture on the lonely shore,
+There is society where none intrudes,
+By the deep Sea, and music in its roar:
+I love not Man the less, but Nature more,
+From these our interviews, in which I steal
+From all I may be, or have been before,
+To mingle with the Universe, and feel
+What I can ne'er express, yet cannot all conceal.
+CLXXIX.
+Roll on, thou deep and dark blue Ocean--roll!
+Ten thousand fleets sweep over thee in vain;
+Man marks the earth with ruin--his cont</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14076</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>QfmXRnDHDG2aEDDDKs2RIQd9FzGByaZkZpn83v7nCbIHvevjYN</string>
+		<key>salt</key>
+		<data>
+		suAx5oqB2pCWhw==
+		</data>
+	</dict>
+</dict>
+</plist>

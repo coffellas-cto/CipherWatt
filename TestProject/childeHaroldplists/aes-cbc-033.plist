@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		TDG19B+D89O3a5SR4J+uH1OBjt5TyqrYViLtGGvw9hvVWPEtmOauC1CDjbBC
+		ZTkR5dxwp5r7i2SiQyB0IPPHZeB0iN6+FHLQU+y8YfsAcgTxHZnaJF79rG5v
+		ARBAHwqsRbffAYk5yEo/jffQHJQccEaci1m5GW8h3IBTiUwGx89dGCHZk1Px
+		a1OR1893Vp7l3IB/iTyKPJ5plclxweto0znV4goLYW5SHT+k22PiJD2C7DvE
+		eCJ7RSWfHWuSlyXaZ2MZfZh/sXJGImSpcl6u50S3KXCzpD/484IbJ59+/nHR
+		KK9TOc78NnrE9PDeS0C0u5XB9u5rX5DX7dgUan2BLNyTDqZrLVnrsbxtmtQs
+		jMFQsyFe+XlEQmY+moTn2sXX9kNbZhDI/wmALWndl/kkVOZzgkqCHsW39XPu
+		aK6UfYr7P444yah88X8oS5YPJTY4p4pB+KuraqD+Nf0yNUfGX4RT2dEjh18X
+		G82Y0xxatyvVJQQGqlOcis/E2GxZYfAxsvZ/bjfkTz3SJXb1eLxD/nGVikJy
+		qfCCdw3l1qlVDsO9H80aLd+fDjiMzi9qCgKjuQVE6AmXqvjtfhSkR7tM5MbT
+		xWWeroDqkkgLjjUPcOsN8UHXml0faSQA1EmkQqHKuwJ60S7/sQv0NdmWnNhO
+		fsGfkl9BN6iXhVvCkf8vHKxsmbw1/K+fs3hL2j2TDKbWIzsDYtdrewY/5dtF
+		hhZuV2+jNtaQVEyu7HAbAw7hiOhZDkfFgSP2oZ0cPrrj3Eyaw9kUCplhig+1
+		IDF1y+/ixDQWOSzx75mZ2jDaDugZP87C6MNdTj7Jq8wi0uv5c5ZmlXsvHTm2
+		AOtiNxgnjGKZ6CX0DJZ8G4KHr78rXqtzoULQJABQklZAv6K2rPLmagmrddlL
+		vLgJagZYo9Uv571Qf8umzCeDiL1XBtOBRQwe1A3J15LkCSzJq5vYFcHcDGal
+		szAOdDKKrzRThtzVfbK4/2/pVXMtRxl5eUu42ncU8pABw/X/OSNvuwSSZUfq
+		WloQ6G/ZP+/pUD7zL16N3Bl1fJi8/AfuHV4lff47TLI0Zfp+jV3eMPyPiIXV
+		ft36hcbahIridhKlciX7QTDVGz8GW9lBy0WKjhb+Okq+gdzDlvXjf63XAHop
+		xVcVbnMFarCqlCrbN1hOOOCsxD/nwmbwl6bUREpXYhH5jgtinmk94QNRZjPS
+		Bb/i9BsHwMEtmcpF
+		</data>
+		<key>iv</key>
+		<data>
+		zZfqeSMaasZTdyBEjZYPmA==
+		</data>
+		<key>key</key>
+		<data>
+		av0jXKYgMXdbR90yg5TsNg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>air women and brave men;
+A thousand hearts beat happily; and when
+Music arose with its voluptuous swell,
+Soft eyes looked love to eyes which spake again,
+And all went merry as a marriage bell;
+But hush! hark! a deep sound strikes like a rising knell!
+XXII.
+Did ye not hear it?--No; 'twas but the wind,
+Or the car rattling o'er the stony street;
+On with the dance! let joy be unconfined;
+No sleep till morn, when Youth and Pleasure meet
+To chase the glowing Hours with flying feet.But hark!--that heavy sound breaks in once more,
+As if the clouds its echo would repeat;
+And nearer, clearer, deadlier than before!
+Arm! arm! it is--it is--the cannon's opening roar!
+XXIII.
+Within a windowed niche of that high hall
+Sate Brunswick's fated chieftain; he did hear
+That sound, the first amidst the festival,
+And caught its tone with Death's prophetic ear;
+And when they smiled because he d</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>19521</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>Rpag0Xdwo345PjqowhmP</string>
+		<key>salt</key>
+		<data>
+		NOXMT8VxmbqXiNgpz/njpTD3httClZ9fiPU=
+		</data>
+	</dict>
+</dict>
+</plist>

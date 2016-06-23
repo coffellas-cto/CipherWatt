@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		oy4YPpJqgeykOtNroziydwIEimwrYdbv43r5aDXClYoNEuOEj7QMKxNOZHAy
+		fN8aInlPBRswBEFONwjfETMVuDXZMYFDGoqKRxVkCMkMQw+PczeuKgEhIJ/7
+		CS0UIvNK7JIFUvhNJjyDAkaOWiH8RSrILvLk4c+GqIVHZxN0ZuV+D9kBEVly
+		ESPwwQSyxul7C57kFbus4zXPmMktTw/26w28Pn9wzBnrMtC/cbtJxQ7couiO
+		nn5COWc0bpMEenU3ZR8rD28WdCUhP/BNpxuRRG8MoOYGZUMN8jJ/WGiMJ/CS
+		sCQxVxWXQCQ1QF1OSdQVMRqmHH3jHh4qelBxKEJXF15A0m6LK59PMsoGpaxy
+		2xcpSjtw4lohTijLzEvPNUbj5YG74ODEYk+6zZtEjfmPfw==
+		</data>
+		<key>iv</key>
+		<data>
+		6EBqMGVdBdUv1nxpJgoLkQ==
+		</data>
+		<key>key</key>
+		<data>
+		WwdplbPtjuJBq+wrvUrYDdg/eU2O/csACtyM5uuSaCY=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>that hallowed spot;
+Then slowly tear him from the witching scene,
+Sigh forth one wish that such had been his lot,
+Then turn to hate a world he had almost forgot.
+XXVIII.
+Pass we the long, unvarying course, the track
+Oft trod, that never leaves a trace behind;
+Pass we the calm, the gale, th</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

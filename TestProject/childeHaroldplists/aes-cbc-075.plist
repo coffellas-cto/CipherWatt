@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		AYH49x6GzkDM9Fyrl22AeZoy2c4vsjn+A/0fUIXhJS1ZxDJuAlDeWlsNTcFv
+		Ps2I1BAuGYHZi0ioQBujbHmtS+dKXoXconD/KhzDyjL9xJF7qPZatPrPc+GP
+		RbAJH2KXWRYCi/A0lx9/q0rJlH+M5om6yQWGDaMfbIPh+oWO0QIdCyolk4wi
+		hUhEyA+60ZT356kjRipp47cHljzu23h42qY03/0vHoHYq/TMERnzx3rCZ0nM
+		UDz5solAIGw+IdnaiR9WBG9FE53QMB1vPz2yJiZMmSa+h2vOa67485xhKJfL
+		cxqsNFQLkfO+Bg/9J4TGHjzJJmH5Bsvv5h4IuG0T1phUIGl7YpUPEjh//qb4
+		1sbW8ffBzbrJVGOA2e6tpycUWXpj7ks+0tOvjl0gBRhu7RNjFB+eWT3D/bYg
+		vjaYOZQ=
+		</data>
+		<key>iv</key>
+		<data>
+		ZNrmO1SOJ3ksmCRnDFxfow==
+		</data>
+		<key>key</key>
+		<data>
+		/IJCo+a7cwhB4M7ovolUrw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> but to hold
+Converse with Nature's charms, and view her stores unrolled.
+XXVI.
+But midst the crowd, the hum, the shock of men,
+To hear, to see, to feel, and to possess,
+And roam along, the world's tired denizen,
+With none who bless us, none whom we can bless;
+Minions of splendour shrinking from distress!</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>10363</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>NhY4qYqebDx938R7iZepZHrbTuoX</string>
+		<key>salt</key>
+		<data>
+		oAqFaIbRlxGBMVTVxQ9S4XS5
+		</data>
+	</dict>
+</dict>
+</plist>

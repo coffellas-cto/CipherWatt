@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		aI8vqv0f79wvoeXoyhg6hSd2SFNmR946xjWNfmpqv6N71x74k2Js/I3YFSRF
+		qzRp8B97DZXthxoXqPLUYiWypSb/pm++4sCrmDvvbP+jqSz6lqmVKQXPNKrj
+		UYeoZxYehVWeBgIXeTfQA5e/cx8E9t4DJasmm5ZpmU4qpNO2SJ10ogeY3+j5
+		Ul0j9cqb1vuZ+9OS5ogH1G6904jqcbsbHu9wZY4rCtoug1iyiPoOOd3vR2ly
+		aUuHPObl3WnI43FJpVt0Q18ERcNsNnLfRyrlskW40hJalQh0Ii/JxozPmDWm
+		qNSdLnJB6p2zEnYOQkxXXhtQmmwzaGDFiaJQEhpPcDEG4BNS7cKQgl2RM8UN
+		rJFgWdGngQ7LUVF8EMh4i/0uzeeqvtjO9FvjuAT1PS00l2PcLdY/H8gev4Ps
+		2QJ10WMOBggsuI1tA8WYX9EZAf36DXiXoql2Z3Nz0Fnqp1GW7DHNBa9j5LUx
+		pXKJ8bR0hHvXFu5ThgWZKuwGFiJBZrzVAfgUKbvpyBxCiHjpQaleBoCV3w+S
+		KiE0lxbyHsJYtSE=
+		</data>
+		<key>iv</key>
+		<data>
+		oGCVxv2cetyM5Z6C/uhEpg==
+		</data>
+		<key>key</key>
+		<data>
+		ZF5LD/lXwfja7XJ9BMXNZQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ns, withouten end,
+Spain's realms appear, whereon her shepherds tend
+Flocks, whose rich fleece right well the trader knows--
+Now must the pastor's arm his lambs defend:
+For Spain is compassed by unyielding foes,
+And all must shield their all, or share Subjection's woes.
+XXXII.
+Where Lusitania and her Sister meet,
+Deem ye what bounds the rival realms divide?
+Or e'er the jealous queens of nations gr</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>17699</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>NfYYZ3EzgLVikIW7YGdmQfMvdpSwUQaKvtAafHv</string>
+		<key>salt</key>
+		<data>
+		iBUdHwwYXCODpz1VNpKo0SGjyxY=
+		</data>
+	</dict>
+</dict>
+</plist>

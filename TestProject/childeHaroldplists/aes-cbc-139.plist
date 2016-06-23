@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		QJmanFMf8/uCqxJimqAjdJ5J7d/k7ZBkHafkPou7a2adCDWQfRfZpteEP5y1
+		Ny2tEqYy95z53CLAvbD9Ae0q/rHktucZsUA563l7b6XIx5mWmQn0iKWak1W6
+		eXDXev8PVYH3ZHDN+YfVEc3/4NrCzmvEXEVl9BmT7HNx83F5MxJ5CYIcwc1L
+		7OWCnho8ZjaMeRxdn0qK0wBDUM2QF8gteWYlnSh4OMKFsiCmgMrRLcRycoPS
+		C/cBudj31JhjG+asrVLOlVPJENmDt6BxYkUl0M04DSfFPBgmLBg2xAEYHawD
+		KgYmASyu1r0/+G0nrOc3cAM9Gq/ttT8B43NuIFDw20Eh79TfoGyHzu1Pb255
+		Jd5QFafBHzSGIzNFcFjPNF0ydByxSxgKQxTJjNbcXq5osQ3YqgSZShMb3pgc
+		HOzWovQMXuDFPrurCOqWncqHQfy+B9vxOcDpn+/ML7YiRsvy1/nCT3n/FCEO
+		oa8LMfPt6sZIzSe8avA3ZzBHAFDes/vl6igrUX7PN3nMkXTrxML9P82qzRyl
+		7LZKnCqi8SHIQZdlXqe0w5jJz9sxi0BxwddGO9gHrTyHRYsugWpMjyyAaupo
+		FaDP1kBrZeEFbseGbi4VoN0RqJNrVG6LAw6HA7NXToRgM1W1/tSbaKjS0A9P
+		p92wHjfQYo3YUQNd3R5CfPLLSysjdmkJAnqKzn/aDMxyzn/c/kSAvvBhXs0h
+		+kEmNvc+LhRgrf8hTIRfjlSFGeOa2siUus+u66mA8Qo2xS+Y6AwXe7lA+cy+
+		gFssJTDjNjWLTE1Pm8R/W/tPUqImfIiPe29t9M8z0j3/1qK3b7IUCC5kLpgu
+		fUusqXjO8rR50Niyrn2e4N6HvSNL7q7ejY6yW0RUnlmEed/E+rUubwjuMvv8
+		tJa/6lAtnqWiMzY6/SbywGCCsLshiEdDUQ5BFm2Z6WYYDASqYdSULjaNiCRi
+		R2W9P/nMOBrh2jLqTg1QDdNy+s5syrSipMW5pApJLJHJHKMe35C+Yn1Npk8l
+		ncLrxTyCGjrFt+DIgCFZo15fwHgJBpnIPnTZZthI3tCjDcm9pm8jul4FUbmF
+		zgcc3BSvrxxcx1B2BKvUsBDWPeSATKrl/tuvJfqW1HGiK5v2VYIyFVuunSC9
+		/3wmGbINnYBmuRBY4NBEz62tCS3c2WoW7Z+PDl5pcOHIx5pxGjfCpoRvPezT
+		YevQphlHQ4a3o8UCjr+ijJu7uWaozHxdv0FRNr7pDQ78jPKBAo3j6Rqm23Z0
+		1WZEz8AMKV3+i1iXSKQQbCqkW+Ri8slyxYmBIiNBVTJVTuYyWm7urCDqj4RO
+		LbDdNNnZh8XTIEREfuGUhzi3RVs6DeC7CBsmxsIy7WLULw7PcyRGu8KWDK3f
+		/shNOdk=
+		</data>
+		<key>iv</key>
+		<data>
+		cDiiX0bwzT7oVYSH39cf9A==
+		</data>
+		<key>key</key>
+		<data>
+		g+Gjp6y57DjdN4ICB1aW2w==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>us element unjust,
+For the true laurel-wreath which Glory weaves
+Is of the tree no bolt of thunder cleaves,
+And the false semblance but disgraced his brow;
+Yet still, if fondly Superstition grieves,
+Know that the lightning sanctifies below
+Whate'er it strikes;--yon head is doubly sacred now.
+XLII.
+Italia!  O Italia! thou who hast
+The fatal gift of beauty, which became
+A funeral dower of present woes and past,
+On thy sweet brow is sorrow ploughed by shame,
+And annals graved in characters of flame.Oh God! that thou wert in thy nakedness
+Less lovely or more powerful, and couldst claim
+Thy right, and awe the robbers back, who press
+To shed thy blood, and drink the tears of thy distress;
+XLIII.
+Then mightst thou more appal; or, less desired,
+Be homely and be peaceful, undeplored
+For thy destructive charms; then, still untired,
+Would not be seen the armed torrents poured
+Down the deep Alps; nor would the hostile horde
+Of many-nationed spoilers from the Po
+Quaff blood and water; nor the stranger's</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

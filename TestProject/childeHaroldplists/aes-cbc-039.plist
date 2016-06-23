@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		/ypBg5zeW0yDbmQtTjLZChkk0CJ7FZECuH0mTqCQxUNDXTXHBf4yS1HiED9m
+		YsSAa+8xwScX7vhaLQspcF8Xur4sx3IbdeDtErF2Vldfzc9E6YYpiikW2qHJ
+		lMlm1bLIJimiObgoAl/qUcogrvdv1/aTF6iXAoGrDReoRRLan2fvFDQKd6ot
+		iVVnNYb1dJ7dw1reU+U5nrDoP+S1N/+Gh3NfJJjFYfKMuyyhcCWM600ybCY5
+		8Kpr9PhmMFClFg6UunhQNxnhLuZfe54e3Hp7XhtFvhOCGbCt/8A4RQurB1VT
+		hyUen7btfhHmDqxTI58kKxQg9Go4qLJbzNQpJKU7vA==
+		</data>
+		<key>iv</key>
+		<data>
+		VqQzjl8fQoHnmNuzN3MFJA==
+		</data>
+		<key>key</key>
+		<data>
+		GlGpZ31Q2MWcGuEUwD3+s0t1JcKBSh1xjt9A24H02UQ=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string> her bondsmen claims:
+And much she marvelled that a youth so raw
+Nor felt, nor feigned at least, the oft-told flames,
+Which, though sometimes they frown, yet rarely anger dames.
+XXXIII.
+Little knew she that seeming marble heart,
+Now masked by sil</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

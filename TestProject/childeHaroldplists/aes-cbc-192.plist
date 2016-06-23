@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		OYMVg/ZoY34WzskwxzFmKheM9tSgPz4AjpPW9/ALnhTOMO4GthceZAOYO26r
+		c+g56Shqle8al4915RItAy4jnQ9TcTUkyi2UDE197UqwIYckObdIpZs7XU4o
+		IRH8NnRaRsww7ZKFOe9a8xU9dlotDraMZbELFsGfPdi8gfYa3KO0w27ikcVx
+		MELc8NNzNG9dlUKm6RY8fYmcGwpWuTy3z9PHXs6UoAnbHb2ZJDR8gTK663pW
+		v1L4ZX8TGUbGg3fdGEwqpV7bZHfgtLwkq+awIAR/5U20YRm/YmHPt618N4cI
+		GWRz1M6neO1b3Mxe4bYJiNKM5YFq38ZfySfOtFVKDtuWoxUvEPWfEFOJ05zL
+		OfCV+eegOpFEzWhhg97n/oq4OHLJWwv8c0/2N2XVbQ4vS2/oquC8zPzv4dNo
+		qhShNSUOSEgN1OdcvOwv5zhgnsUzH73x9VEsGCjq6AhpxqFV6/2Q26uFrIIX
+		CfGqIPmzsR7kS7CFgvSAYBe+FAkeisR9eiRnIaGn9j8Qvvn2jTEX7w+I3WVi
+		MSA8VqcLe2CP8x4q1fHMbUQ8Tora6x9qvdSghXELmmpQ/tom7R7wCj8/NY6W
+		9rvrRKuacgQRPnyY5QRFrmKXePFF3NbvwBRXHcNCpjcL4Ow6284xPWgBG7dJ
+		cGHy+XqmLeICvnx0qpr0/JJVfLQxNxIR1vVsxZ0Wazw82zZimAc3La7zgZCL
+		lcsmlinGm4OL3bw4dRFqbzwPF8bZpbFd1OZkRY79+mMibebhUhsLcYKSerX/
+		hOWEIqDIDM9H4e1fql9TakQtqMP0YcQ=
+		</data>
+		<key>iv</key>
+		<data>
+		JY0+YoaKqrVz7VwXSMEM6g==
+		</data>
+		<key>key</key>
+		<data>
+		yAha8coNeNq1cTsD30xGVA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>nd dost thou ask what secret woe
+I bear, corroding joy and youth?
+And wilt thou vainly seek to know
+A pang even thou must fail to soothe?
+It is not love, it is not hate,
+Nor low Ambition's honours lost,
+That bids me loathe my present state,
+And fly from all I prized the most:
+It is that weariness which springs
+From all I meet, or hear, or see:
+To me no pleasure Beauty brings;
+Thine eyes have scarce a charm for me.
+It is that settled, ceaseless gloom
+The fabled Hebrew wanderer bore,
+That will not look beyond the tomb,
+But cannot hope for rest before.
+What exile from himsel</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

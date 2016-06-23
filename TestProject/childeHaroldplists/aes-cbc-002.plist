@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		8qbqV/6/GSkBU8zdcY/c/zA6H8ZozhFGR4x+CCx4j3F2gUwBG0ad4h1fLwzW
+		RYTyxaN1LVydPdgSIQJl//9VHqXX6tozkR/HQNFQzbILVSr0AZ0MOZEqiYk8
+		Z4Cghn0QPxaIOdAKms9esUh8iwnYqhsFA62iSx3K1uQDFKQGMrvLxCpMJniG
+		qHtrdikix7pt2UT32tVBcYDFGMSNWdwTz2f2IOkdaWV0fosYbVfD+ukGEOBt
+		Nk0A1pLSwFZe2Up9zEonXBKF/lZ8dPV7gc2qlssDWvwINdxr2W5nBnvNEKdA
+		pXsRbM3hz0n6iq+P+tAJ9DB23Zh6niv+d/ltzKHhY6dR5KsZNDAvaKOkDvwf
+		KWDzTQqZrEsdgdlFRjQuPWp6WMFUyrzVrBWG1c9tbS4G/mlujmNKQV0iB+Qz
+		Y+BQUshN6LDWqMGMh8OHxhlSluf6hJa0Sn93FAADaoy+nnFPBi/7k/AlpySD
+		1pPn/rGpFdAjf2hbGJfomhXDhVs08M8fjf+gpC+xiQ04E5lP6Bl+gcrFutIS
+		x8tz00sudQFTHatBNAbNdJuQFxrevlcxHO9BWBS1WBrXn8VvcvxaYmPTYdwm
+		Op2LpUhCVSu9JvDsJnDLxJXyUptTu1DSyHObLO786X9lFg9aXo1XcJN2RCkx
+		D9IwVLuie65Sn+nS11OocmdXJXmJ7NwVevawPo+6BBMMeIz4jY/VrRznBYhS
+		8/3AiqlQcrqaqs4Ls/JyrpyIodeO59eTzkmi0SapzMv2yjx3vtSF6bPa2G3z
+		+kjv5sEKYP/CBM1T8FI+hATLzKio5e9ISq0L/vqWRUk+C5UsKsObMthvOvfl
+		VPNT0zH3QSSAeChE4u8xtANU4QRMoi05AjPjM2FZj6hTqdtFvdD0WXG+Y3Yo
+		ZG6KZDrJLwM2cDN9O1STxl30MqhnUt8rMz3JmyiPG622YRKwxwFl/yr51aMl
+		PRwrKyk3YSPXPk5e05kJ0c0PSPe1biLFYH4WleR7el3w1X7mXcIoo1zvsGql
+		8UwBdLf98E/6dpWGwzNxQ+Q6MZmtXnNDqULjwacNc9l12Q4MfVaXgbFToNY3
+		/6Tw6OkLvrtr+V9dfzCqqyYxWxOJ+6lmx66zOz++2hIa+JqJAuKtGu8eT+g1
+		dkw/QE5ovAZZJeWW8r3+zkJTWf/z9+NwAcrp2lzVEh/VCG/OZYWbuQO5ifG0
+		TrkTg8AagkbtenkMRo6j2X1m+N3ryOiP2K+M4bfdKNknXs3oP22QRua9qxs=
+		</data>
+		<key>iv</key>
+		<data>
+		HAui89qhieJAc3ysOMx0vw==
+		</data>
+		<key>key</key>
+		<data>
+		Pmck4HQpX05zPVD8JMcWtQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>lowed unbound.But now my blood shall not sink in the ground;
+To thee I do devote it--THOU shalt take
+The vengeance, which shall yet be sought and found,
+Which if _I_ have not taken for the sake--
+But let that pass--I sleep, but thou shalt yet awake.
+CXXXIV.
+And if my voice break forth, 'tis not that now
+I shrink from what is suffered:  let him speak
+Who hath beheld decline upon my brow,
+Or seen my mind's convulsion leave it weak;
+But in this page a record will I seek.Not in the air shall these my words disperse,
+Though I be ashes; a far hour shall wreak
+The deep prophetic fulness of this verse,
+And pile on human heads the mountain of my curse!
+CXXXV.
+That curse shall be forgiveness.--Have I not--
+Hear me, my mother Earth! behold it, Heaven!--
+Have I not had to wrestle with my lot?
+Have I not suffered things to be forgiven?
+Have I not had my brain seared, my heart riven,
+Hopes sapped, name blighted, Life's lif</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>15099</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>cV1izx2Qe2ZUZWcHZcJsEl9NKdsDjgVdNGNNLfvTInc6zlruM</string>
+		<key>salt</key>
+		<data>
+		m/gjBig7Eq1xPi4=
+		</data>
+	</dict>
+</dict>
+</plist>

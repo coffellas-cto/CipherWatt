@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		+6q4tGds0XmqMtwCnaU5iBC1BvfzgDeLZUvrB9rmFicmy1FLPRIhvdMARZiw
+		oso8wA4yYWabF/DwCTodJsv6Ui4TMXD4ZeC12WDGSCSBLK6Ga3TqG873amqs
+		b+8Tw6A2z9964kN8FrmfZx2nvGnXSgh3Q9PNEL/MuwFMvovx2hN7rn55iBnI
+		ZWNB6aei/eYpN/9j7zJDAlo1cZhW4EamyF1pqfvpsjsQxHlOxxbJqLN0gZkK
+		v0jxKd30PccMKC5CA3ufxvPqdMbwM86nksaTt9Mfb2lrPhmtxEBTucEM1Ryz
+		eRVHYPrqRyOOl3BgsIyT8duD88ClljXXcCH/ucqN2WNWB+4WKI58kY7z9xx2
+		VbxOQfmGrHTI0sQVny3wuNmHXpuN2Bo/y5VoaYguZAfKGSgLn+JeLrl2FVmy
+		MWR/4Vl1IgEKbtaP2NpyU7Mm54llmoNLidhjhCZCOWHzDHJpoCU527rooG8H
+		ytQ6Tubun/vPR3VZPlRGlpspQo8+cSQxiTL1S6ZEuK6O0FnJcDcmNSQI3xl2
+		uhoSmieSmqQReMU=
+		</data>
+		<key>iv</key>
+		<data>
+		p8VVptgKOQOV7bPqMP+GVQ==
+		</data>
+		<key>key</key>
+		<data>
+		Ho/7Dd78C9ESCayzLPLQSQw5rE/J9f7c2fuF/Sda4ew=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>r higher.Sweet be thy cradled slumbers!  O'er the sea,
+And from the mountains where I now respire,
+Fain would I waft such blessing upon thee,
+As, with a sigh, I deem thou mightst have been to me!
+..CANTO THE FOURTH
+I.
+I stood in Venice, on the Bridge of Sighs;
+A palace and a prison on each hand:
+I saw from out the wave her structures rise
+As from the stroke of the enchanter's wand:
+A thousand y</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

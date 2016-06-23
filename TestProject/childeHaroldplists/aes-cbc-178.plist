@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		zsYSLDhwmXadswPmaIsIslfF+boJdlBXZsFwaOmjz8rrzQl0ZLe4bQpKJvnp
+		knnjXHlP6GFKDN6qG68RxuBnKyq/z/6ZLFPEuQyetEmMhc4HdWc76dk0W2Ks
+		5qj7ezSU/3kDJDT6amdzVMi4YenJdgTgpEXygm6LbDOB/F+//DbtfEbJrWHm
+		3Fzfl4th+BhCX13HOjAjONZ3CXzgzPntWjij8x4Hprv6A4YCThVgYMRfUuBO
+		J7AkuCYM0WUnihgdQL5cVxT6kqcrnEr7JcwHkALIA9W0Ys6FGBI2i2x5jAYT
+		SL19JnLvrQmm+SszlpzJgK+4VcocruZ1PS9k6A1oPXKXbuUpXEI2Z5rKaQgh
+		6w6w/rrYIFT4LsYTPhsesOM2BT/EovF6lPmtaE9StX/QxmqIk3Ve0nQpE+G2
+		lZjIPWcjvPuqmnboQQnPnSj2saDTHB8/pXDPglMAOCCMYUqdot3fNTBITzu0
+		C4IMEHoXqNICqyXSWFirYIX3c8E1FFTYpmNIKLUBTH4s2xYoI2AIFcxVNXDF
+		1xOYHZ7QjPuX/7lT2fBEy1Z39gWA5/pHksXIcOtshv7eOE5+6msMQAzzkBM+
+		6QYxbcQ3Y9b/jDKyK+YV5ZpcAiphJkHd1ZjeRZce3QXAu6TqzPA1BC6E0Blm
+		gVbm81qGA85CzaasOPSJTyBZ6YujwcgYsaze+p1cAwHWpD6U7i//Vs6oRKXt
+		J0Gn6UlTjbtgycF407uwFdTU+r8JyIdZC5zZ22ggyce+jPoDkdwpkcI6IWEV
+		3Q07NOHVZw==
+		</data>
+		<key>iv</key>
+		<data>
+		v71tynJSJO+fw408vcDyjw==
+		</data>
+		<key>key</key>
+		<data>
+		5ky594jwmwjKr9jA4egdqw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>n!--but thou, alas,
+Didst never yet one mortal song inspire--
+Goddess of Wisdom! here thy temple was,
+And is, despite of war and wasting fire,
+And years, that bade thy worship to expire:
+But worse than steel, and flame, and ages slow,
+Is the drear sceptre and dominion dire
+Of men who never felt the sacred glow
+That thoughts of thee and thine on polished breasts bestow.
+II.
+Ancient of days! august Athena! where,
+Where are thy men of might, thy grand in soul?
+Gone--glimmering through the dream of things that were:
+First in the race that led to Glory's goal,
+They won</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16342</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>ikjdFNAihyIMebz5w8dEJ6QxrkbDbU</string>
+		<key>salt</key>
+		<data>
+		rsVDwuzifvYd2wXh
+		</data>
+	</dict>
+</dict>
+</plist>

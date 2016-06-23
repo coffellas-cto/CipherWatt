@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		teBygEVJUc712rEnV3fJuaN6DBJnf8N0+6nySRRC1Hwm/8UNnLoN4YnseYRj
+		DOhOw2DSEoy1hgGCAOLDczHozve3Z4IA1xY8p3ZuDMyJOIF4KEg0P8/7Xnqj
+		kkP4V5E8cK4mrb0Jctw5/3uU1HmKtRwI/5B5SmecT9gPBmH0xHWFSIJqeDHw
+		mKUOUbBqR8E+FTR38PopjQN8ez5Q2XHm2aN1eX9A36kH6ftog2MQTw0Em+FZ
+		bykpArjbHUY+7+n4ruX5JVOKU9N+sC9P5Ngb5qawLYIkF+B7aA5aMjA5Mn98
+		VxLr7VzDImtWOnjxb4uyfLQopoL64IHx5ZSmNxPERn3miDeJStPh+Xn+dDBD
+		kHdQrjqp+GqBSK5wfq4tsPuPyX4t4BRTvNJZaMez99jdGHGutSHnDrBAF5Jc
+		4lXzi71YxIneZ/AlE9PMJSlesf/o9NFnF7R3A+EIniLdYuv1xTqQLWBcYsY0
+		oIwbOkyd/gRZFDYe1FLpgJluKzfmfvkD12x7WuTJ945QUQprfdMztGxkB9Oe
+		3tcDq/nkwdvFOhpvCiodUm/BwiNCJzvGquex7syx4MoQquPupo92/uwxm9cC
+		/rlOSEYq0negLH3s+ZE3nWsELuIzdTC9t54GLvIIkK/h+HdS4ZDlH8U/pF1Z
+		wejgNgt8Uaqo8BHLW2zfG+hDanDhp/HY7QycqS7Sh37RXUoRtIcHJnFl6UFk
+		CZWyth8/qw8vDai6PQRBJxjPpzf3kMgx7sAJ3G1ZJe3G9hVjqBhAN0+4Z8Eq
+		8XCxiqcMscBHEfSxxs2aDX2/fOieauM3dpeym3phYLYpiMnODU4gU/1iekAU
+		KzKaFpI0C8Tt6LMSWux9K9N1pphM9Ps7BUvf1CI58N6IivaLfd/WjM5yWW3t
+		Ujv+wkRYkFRzHLcN4vFFSt574qVpFUle2k59gcdNoSxm+nZh2+IOBwG8Ccd+
+		bIH6Rfdq0KURrNHeW9jvk+jWASpRDiYIlyce1HcJDOQ1A8jZ/YxLuc7/It9d
+		DqtmcYfQWh6ZFI1E4AN3bo/TRjiW7kpt9VuPCNX0A3gUcxeyNdPNR1JgF/vF
+		+5NboiRnlxyyuTCDT1F/TLFqOjfQR0cHZngOz5D8Bqo51asScpwFgBKgzF6W
+		gg0dELKB90ccp85+8Xom/tq3HTAQFD6Gvc19o0fFetg7BbvXTxc3LMk=
+		</data>
+		<key>iv</key>
+		<data>
+		EKLv33/yXlCVrvTFd7PY7Q==
+		</data>
+		<key>key</key>
+		<data>
+		GPjljr7y5+6tNuK1kUzgTQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ers of sects and systems, to whom add
+Sophists, Bards, Statesmen, all unquiet things
+Which stir too strongly the soul's secret springs,
+And are themselves the fools to those they fool;
+Envied, yet how unenviable! what stings
+Are theirs!  One breast laid open were a school
+Which would unteach mankind the lust to shine or rule:
+XLIV.
+Their breath is agitation, and their life
+A storm whereon they ride, to sink at last,
+And yet so nursed and bigoted to strife,
+That should their days, surviving perils past,
+Melt to calm twilight, they feel overcast
+With sorrow and supineness, and so die;
+Even as a flame unfed, which runs to waste
+With its own flickering, or a sword laid by,
+Which eats into itself, and rusts ingloriously.
+XLV.
+He who ascends to mountain-tops, shall find
+The loftiest peaks most wrapt in clouds and snow;
+He who surpasses or subdues mankind,
+Must look dow</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

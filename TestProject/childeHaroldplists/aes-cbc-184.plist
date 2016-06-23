@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		sqM4vbbcJGthLcRWai7mDEi3ynqj5YqCxN8knKBhf9pYaPCL1qz+VaE6gkv8
+		n3576/INvf2qS492rrWEeobJrDa9il9hqyF1AbOhgqaGT1tytNIWCc8I9YKF
+		7Hd9D7Sa79hoqpn2VFk/NJH9R4sCeOe6H/rhu62yx+psneizgzxnOyyM20Td
+		BTjRh8q2D5KbUxj6QpcR34ptRldNvd+sj00qK1eid/fYKJBoyzBM1/876BSH
+		fe+4YOjzrBRurfYcXirsMNJ+xameyX9Vf4iSZKxy7E35jBF2NiKy5er6FOdF
+		vdoNgweQ8zGvpSCS3vJRxGLFyaYNJh2ocOsZixyVzKIEU64qzU36uZUvYXoP
+		RMSXUZNy9rGwSXIAvUjex7fQZd6KwPI/nrJIFnCJv0EfXAhhBhTxVPZd6yCW
+		B8vYm3PWYLliOhpK4p1oYOdUkJB/t1uIDXZCtCiCTqOSTT+FEOGcpVF1sFgX
+		5Y1XupklFgUg37Y8eECNBH0+NMaLAPsO7GL1t7pUG4nWskRFSb4b0yNXjABI
+		qsqK9neXtoypAfxQ5fZt00v+iEp+A3PDkR4W/iXIU8LrDu+GlWfL/Myt4Wm5
+		1dXIPb+e8acDqmIMuuWcivF7Hvw3bwg0G6wJMQ/XXrLFLofySglghSZL97L9
+		BGpwwvC5sSyfKQZGHV7qIDL24EFMtuCWAkRVdanqPum1zaMAD1oTDkznFGqu
+		MQU8iTJfGvapnGZTYGObVt6uVaQLl7UiX1gBvSeYYL8wVkX5j2qvyKJcNxJO
+		x8RoxkJOfzPRJEPwsIrlaFMlHZvEw15+oh0dqcHjsW93el+l6K4RMXHeqiZF
+		Ly1jGgzqV87SkIlUHE4U13M6C/w94H+lsr6Aa+tGvezqeTqQF664zIKfu83y
+		7j0SMSg2nEVv3QT2Z3N0YneIrmcO0qe7OuBmcGcIljz7pbW6JgHKp4EE7BG7
+		Kr8BTIWQKACRXSjSq3gsV5dNWKXbpUMxkHxtEilbs5J89Yqgf2AkxxVYZSyG
+		C3KdzqGeoN4llzFD02KVW9bG3CgKe7plq0SuOaPxPRC4kb1UXy0clClA/SpW
+		KwFw1VAG
+		</data>
+		<key>iv</key>
+		<data>
+		s1d6i0B1G0SBDRslDchozg==
+		</data>
+		<key>key</key>
+		<data>
+		WTc2lY4jmpKw6bR1h/lGZBL4k4EXrpgr
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string> passing stranger's gaze
+His mansion and his sepulchre; both plain
+And venerably simple, such as raise
+A feeling more accordant with his strain,
+Than if a pyramid formed his monumental fane.
+XXXII.
+And the soft quiet hamlet where he dwelt
+Is one of that complexion which seems made
+For those who their mortality have felt,
+And sought a refuge from their hopes decayed
+In the deep umbrage of a green hill's shade,
+Which shows a distant prospect far away
+Of busy cities, now in vain displayed,
+For they can lure no further; and the ray
+Of a bright sun can make sufficient holiday.
+XXXIII.
+Developing the mountains, leaves, and flowers
+And shining in the brawling brook, where-by,
+Clear as its current, glide the sauntering hours
+With a calm languor, which, though to the eye
+Idlesse it seem, </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

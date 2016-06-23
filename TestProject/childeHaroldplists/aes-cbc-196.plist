@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		8cUmoYJGjRWEh2cgszbxFFh4Cjdy3TANpa3a3rdiz2VyBITHJxNXp7xonAZl
+		/Xz81nmelMKAdIIz3uoun9w4lbKBu7erTc4e0xu8orH3Zp6hgIRd/x8P7tQi
+		Q/Eh6DXZ18wDwAn5/LHQibyJDFDz9UCjSHU9dTlFApBTmx2aftFcaaoTy5Cl
+		36BUjF1ZnT3/asadxsaDUbOKufrea1aWv8F0zLIpnJ7ZOAhdjQTRgUbQ5Te8
+		x/O6+PMR5quxgLB04npeSX6VV5bvnb67oOJQ8Oksof+zLb0cb5lETtrv2UU5
+		sLYYBXj+II2JVpOO7hLdUylJpjZhmsg0vZ21eZJs5zkLWEF5GvHIgdaRla4y
+		BN3eygEA2e53x/DwZIbDtzKadcbxvy8Xdlm9f80zG/if9NR+vx6ZkrRlVH7H
+		sOwTAvqyNNQkp26qd2X42C74I2z0KPWjQ2hlwBuaOUpVgvi2vvTZY9hABwaE
+		Hlz0HJ8Sr3TUgVaK4oM4MNe2M0kyOUaFgKQ1kZKRG5h51BNbI+6V9kpyqb+e
+		9vMYH60VotZtIedYpFuuZ1g9UsCh3Dl3KBML
+		</data>
+		<key>iv</key>
+		<data>
+		hSy2zcjJ20TlL4XWna5XPQ==
+		</data>
+		<key>key</key>
+		<data>
+		Q9ITNEZAN9iYVZqtURlp4g==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>be, as my fortunes are,
+Of hasty growth and blight, and dull Oblivion bar.
+X.
+My name from out the temple where the dead
+Are honoured by the nations--let it be--
+And light the laurels on a loftier head!
+And be the Spartan's epitaph on me--
+'Sparta hath many a worthier son than he.'
+Meantime I seek no sympathies, nor need;
+The thorns which I have reaped are of the tree
+I planted,--they have torn me, and I bleed:</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

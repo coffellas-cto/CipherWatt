@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		biKnLzjZ2ThlTcXNIVoH9t05414BhcUxDigg28UjnWGyAXUAfYHIwVC9WKto
+		k5n1my4jeSaHP+SJMndUWFUfmthazoz9u2TdwMjFcq/dlRmgYe8iZ9ZVZ2n8
+		g7fbIqpEcwhSb41jzbJ7doePmfI/lQB6l0Z0z0pYCMwgQCrpniwkr4lx6P47
+		WtFXgAhRtXFu4tRGllPDwAsgcuxptK7KgWb7j7PJO66TeAP0uF0qQ9b9i0ep
+		sK8KnnCb95CzaDoTts966FkRdcs3G57KZdybrTT9JRrUij7fn+b5y5qtAvs2
+		1sDh6+mXnPheD3MrENOs8Bg/rQ11hJmKrI1pEb6sDCt804R61qgM3YG2zqKR
+		bae8ZngHjMsWQxBnC9Slir8QudZ7YaPn3xqtadrFMEkQy/ETYNa2qbjyO9FI
+		nZOkue/okfzAA6sBAd1SK+NvnAHNhxwOcWv7K1xXa9BWUukA+5bp3zNo5eTt
+		1OB4M9wFEpU=
+		</data>
+		<key>iv</key>
+		<data>
+		sIVPPsPt4QzQWTvtm8v+oQ==
+		</data>
+		<key>key</key>
+		<data>
+		t3NmAFVFu/G4QHOvMvvMeIEnQBM2piO4
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>en have stood aloof--
+In aught that tries the heart how few withstand the proof!
+LXVII.
+It chanced that adverse winds once drove his bark
+Full on the coast of Suli's shaggy shore,
+When all around was desolate and dark;
+To land was perilous, to sojourn more;
+Yet for awhile the mariners forbore,
+Dubious to trust where treachery might lurk:
+At length t</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

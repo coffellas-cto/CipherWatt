@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		+MJbc5cflIazpKEshSCgZBFQFxKKviSzxq15RfKWl7wRTOvrDerhBTeUm2/P
+		RWDY443YjBxYmMT0TOviFujMcU6oZK9BvFxOPkL3COmK3VZeUrLmm/HlFlR/
+		grfOY2dKflZ1h/dyj94HRwb9gKstV0C4jl2s3MS70pXZzHaKvIAHSAKfmPv2
+		n8U6ZQR5U0tcFVobGjDR8EagbHJyy+CHF9co7+tbQsVl4joKiOUZGoFgjRL4
+		SVt0Dby0O2G1xuyTne47cFfbEALxY5AIJfhAfi20ltW4ilFbxtjsPCb2DRkK
+		XDg99NocBVhkx6ZX8+/wkQ073nq5Q027Xti73ZfIpICP4p0ww18oWVtS2+/Y
+		uERHl/oU6NSmm6zpRCNpJsS3InLT6JVvAe12NTgOemt83XXp1jSjBGiLFYfa
+		Orpfplji7ZfEKZoEhqxtRxUOHCQQNModEETc71YiEiXfKUtHw9ROQ7FsEk4S
+		Z5252uaFL4HS0Ij0mkmQhFcxSMnyd2hcJl8QLMgDeIAceAZc+YUYlMTbYQ77
+		3fZxZyCMHnElqmEN4F9DPCY1ri7xMmrHfjYGekJw9j+5hOOThibdMnKN8Q1p
+		0El06Gh3ZcHbdqq9FavLC6JKkWeyK4+Ij8V3bVfNCcRxFJBrktA/nS3Wft2j
+		AgvN7Ab6AAOuHVDHjQeGF7JZj+9sWtvEJOsbGiaEi9xYxMQkquun77YmVzxQ
+		oGX5IFMwrrsCnK1gj0+ESrf/5avrhtXsoQHLBMcks87LRVT9uRtIqLlT1Q2e
+		na03cFXj0Q==
+		</data>
+		<key>iv</key>
+		<data>
+		1ouv0WaIDyrL/2S3KaDsXQ==
+		</data>
+		<key>key</key>
+		<data>
+		nlGCmGInYp9UXuyQ0LywsxGk3GfN/aU4
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>ain,
+Then to the vulture let each corse remain;
+Albeit unworthy of the prey-bird's maw,
+Let their bleached bones, and blood's unbleaching stain,
+Long mark the battle-field with hideous awe:
+Thus only may our sons conceive the scenes we saw!
+LXXXIX.
+Nor yet, alas, the dreadful work is done;
+Fresh legions pour adown the Pyrenees:
+It deepens still, the work is scarce begun,
+Nor mortal eye the distant end foresees.Fall'n nations gaze on Spain:  if freed, she frees
+More than her fell Pizarros once enchained.Strange retribution! now Columbia's ease
+Repairs the wrongs tha</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>18287</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>HY44B3JPfbSuPGzfEUqTydFOKCCmAQZ1tkrgJVP7wshwjxnezy</string>
+		<key>salt</key>
+		<data>
+		Ie8nY/73xz+kT+Ntk19sAg==
+		</data>
+	</dict>
+</dict>
+</plist>

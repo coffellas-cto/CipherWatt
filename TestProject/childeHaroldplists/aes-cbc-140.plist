@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		RlBf+zrQuw9vLtiSoVSahlTXA7++Mlonja2z3GZy/n2EsRvmLoR98IKcOMCW
+		r/rgsY72bQpPELzpyIVuC/bkbjVaLezKpe6m5rWLbJSjhX5MHA+MxYrmLk5G
+		Mp9HozaeePfrHyp/B6Flx+4E0ro3N9tEDxSpLWBtMXdweJQisGIMPfP9s0Yj
+		vS3z6IWD+qZxXufDCfK0mpxH14iMdTuDn0CNfzyx9ZkPP0nh/AlBGJDdEKVn
+		OHDvpreAEoBiU/cI4iWu5N5KzUlbjb/aEWrFh5aaxwHOLC1slfGhcRwBJ1Rk
+		I9HRD1N1TF0Vr2vKiyEQx5LAQbmjV7qJnimPazFSNAtCIBxSmAiYMTyLYe3m
+		TDQc/XwFgNOszbJxslOyte25PpAsqFS/eA3qFobag/dbH1hdKUFfRcT26fRJ
+		OYOQtS6VVkZYl+hYBdRHxIFud0nH++6dDUozJKVl0ehS3clQnYrcKJHTkbfI
+		qYJPRJXT1SZkzT++FJSe+EFbiTz6YI30ioAtY0WSYv04KG+yIZszIF78dWBE
+		upyZLcD/xqFkikj20LhLdF1lAK0RXVZ4iz8lsqEUtw25N/9N30IGWtDuHQX6
+		rAoS+gCpYJfXP+BRQfNNU17lmQFuO1XscTlPDi0lWnCpi0YK4yZgSIOPpnT+
+		4IBIl2QHia8AOt6PebvGfxYIrPldHce62elI35qm23KIEQohtw9JvjrO+dLR
+		IbDS/lk4TcAxHvXwj/XlvG75SifBKR0IgQKqCfcVij1cLkJb5zT9jWoP7F7M
+		1TvEn6D9lLYINsnpuLP0IljAfOoZI7ZkQzPPzNA7lqSVYnk3tRN4WWoyTfnX
+		SOS+AV9ibIkWHQ==
+		</data>
+		<key>iv</key>
+		<data>
+		ePY4U3ullHMa+HdVg9XVIg==
+		</data>
+		<key>key</key>
+		<data>
+		OilVXdmO+D02gPvlnIk9rg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> swain:
+Nurtured in blood betimes, his heart delights
+In vengeance, gloating on another's pain.What private feuds the troubled village stain!
+Though now one phalanxed host should meet the foe,
+Enough, alas, in humble homes remain,
+To meditate 'gainst friends the secret blow,
+For some slight cause of wrath, whence life's warm stream must flow.
+LXXXI.
+But Jealousy has fled:  his bars, his bolts,
+His withered sentinel, duenna sage!
+And all whereat the generous soul revolts,
+Which the stern dotard deemed he could encage,
+Have passed to darkness with the vanished age.Who late so free as Spanish girls were seen
+(Ere War upr</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>17223</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>x2Zs1U3ytZOmoJJ96kuqfm1Em6AIx860IH</string>
+		<key>salt</key>
+		<data>
+		2vgCvenuh/Dc
+		</data>
+	</dict>
+</dict>
+</plist>

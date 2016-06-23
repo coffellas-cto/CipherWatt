@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		a9OcJQAv/TJZ8HB4dlAwvK2te2jHNVDMPz0FXWe7xRsRHQiXoxvxgsMKiQMg
+		psNL1S27FLR7DI6scsPXpkTbOv/SWKiEDW7TEcuG3yZ1w6QxqLFoHL48Z735
+		kwn52zIAI55ttkrza8UaxC9u+vdWOx026xQM1b3XHo9xxGDjxCHjPcDTM07n
+		hW5KOzOlTt+4FcK8SgkCiRufPN2qmZfcZRVuPFKE9jyVYuSGOp2Vdd+larin
+		j3b/s4xhvZiPod1DPrXRXfiA9MZ86lABKGZMsKmGht5xukr/ufen0pmyNEXN
+		ugF4fbvlZU8YCD/Wm7GGWjV1l9/PpZOUUs4AnhRFToDG1mNxMa85QHLbjXbs
+		yMo=
+		</data>
+		<key>iv</key>
+		<data>
+		v3jSMUYnGUQCUWsDDSyrOQ==
+		</data>
+		<key>key</key>
+		<data>
+		BjynphDZILVHaDnSip9lmQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>hing,
+Share with immortal transports? could thine art
+Make them indeed immortal, and impart
+The purity of heaven to earthly joys,
+Expel the venom and not blunt the dart--
+The dull satiety which all destroys--
+And root from out the soul the deadly weed w</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>15603</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>AgBqopQj1bLQkEEutIZpMKCT7IK5j7xkUPvAibKyiAWCDuraE2</string>
+		<key>salt</key>
+		<data>
+		UJb3PSU0cdvVy7MWYLOgfQEPCBDYmLTb
+		</data>
+	</dict>
+</dict>
+</plist>

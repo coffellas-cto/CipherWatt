@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Q6ANufPJsaYUO3ldcp0LYlPsSJNvEGPgHX5+PFuQ1jS9zoTkuR0InwacfpRV
+		NVtKb7+MnZ8UrYEdyQgmPryP3LdlxQ3MqvZHdtypNKKNBtJlAatlzoMp79dU
+		rRxREqfg2EsFJFTA1JXiRk06ts1hpJJBsduJwVO+qpZj5y7eKQ1XOqLRb2LP
+		O55zdo1KZh8zCmvFvJpkikUf77f8lbvpolSMqkfZ7F5u1ZCNo5yzeISHcPCu
+		tOPSi3XahfgqC65Z9UFqWo1cTUkdw7Elh9+8R6kG/ba7yRhxFXJogFKwF2PH
+		TSi5S3kQEb7Q0z+k5zuv9u3tzg3fE4Pb2kAPxxZXGqFexuPRS6ApU1UksDPX
+		tD2Zm+hb8UGCfZUHanDWkt5ivyZXnmwfsCa0CSZn6p+P+Z/Mw26gUxwyoQxn
+		aJn4tCXebntafJgh5nsm+Erixbyth5pgxSKILk+g5NLwQSb+8Y6DAwaJgabb
+		HrQlkJOaUAukJskXRxAcGnUOaTpX4EkrNjGJQbiz4shUn2QvUfc4SxknPlnZ
+		RpmO/B2uhp737D7/HOm3UERackMNsgFSm4hU5aLK1tMW74KAhJrF/EDv0W5L
+		24GpuRv9KheUp/GPGNd/BDY0e41t7Ou0bpqB8Nx9If8tzXQINpdYajQSo1lD
+		EOlB+3Qzlw5RSUagc4M3+KGNSJStVYTBGT365RI6wwsTrTrnJUOQLd1H5TQb
+		Ps4Bj6X3JwZljbM+Lq3JOv3hBEiDlDDoCtbL3VJaQglOU8o0XrFZ7/9KUdjk
+		tTaOxV714nEgxmhoW1yFFaazK5L1FXCmhDBWtSSlc89CWGqaSSUXs2sLtgk4
+		uBw6QOwpiX1mjTwceflIIWfecxsnIB34rLiNOZtyWkkkI3+qvAE3NE3Z1wRZ
+		OgHi7wE/yHR1L2y0puuIcF4ytiRTmv6BnUN4xMI9HszcHL1iN1OXwt4u0mra
+		wrYVP0QY9/DEyKUGIUU22IFr9hahfXye4FaAJoz5ZTh+5uVH4nFJLq4qJAGB
+		VBndGguUEeNXGRzzyIiEe2zNRGSLvRR1Wu4zoNJZOtOQAgmNjlP6GcwyFBj5
+		Ye5WPbgY2Z1pJu7AJRcCfl4wNKJycOeEpVu1g/CSvDRnQ2yhnDTV51juFO+j
+		wKTf6Z95a69e/t1YWEU7ihiF+SIR91N8MgEd/GB9mSZ/+sW3g3DPHEPqkpsZ
+		nnWi3OlZNirXNsmf
+		</data>
+		<key>iv</key>
+		<data>
+		ECORjpMCksCUPD+JfSFFVA==
+		</data>
+		<key>key</key>
+		<data>
+		kwrCfXjohmR46P5fFgs/FL7JySz6xgiB
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>till their flame was fierceness, and drew on
+Keen contest and destruction near allied,
+And many a tower for some fair mischief won,
+Saw the discoloured Rhine beneath its ruin run.
+L.
+But thou, exulting and abounding river!
+Making thy waves a blessing as they flow
+Through banks whose beauty would endure for ever,
+Could man but leave thy bright creation so,
+Nor its fair promise from the surface mow
+With the sharp scythe of conflict,--then to see
+Thy valley of sweet waters, were to know
+Earth paved like Heaven; and to seem such to me
+Even now what wants thy stream?--that it should Lethe be.
+LI.
+A thousand battles have assailed thy banks,
+But these and half their fame have passed away,
+And Slaughter heaped on high his weltering ranks:
+Their very graves are gone, and what are they?
+Thy tide washed down the blood of yesterday,
+And all was stainless, and on thy clear stream
+Gl</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>10589</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>B6Yx29T7FP6yj1qIv7J2UBK2JGGDGTOB21</string>
+		<key>salt</key>
+		<data>
+		7mxMI82Oqtf5cC1sf/86sV6MT+yLCo1i5nM31g==
+		</data>
+	</dict>
+</dict>
+</plist>

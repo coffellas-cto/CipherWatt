@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		QtPiPlcXAubY+YQI8fDoyJhfJbguFCs3QBfIbueH0jqgkdLmm8Tf+1axISLI
+		nEe62OWEpMEJH0YEHGMkID0N3t4dyqiTVvCDwKzNgETwZw3ahKesUKBuZj9F
+		Qy+VJ/1KZ4Ap6nPU9pWCHKiLjlK/H7ntBjPDEsL5jAUjttchnVnz0pz0/qYx
+		sM/TYU8delzbS70s2h7xIZdNPi6odnYuvsJj/p0ZYz+pJnN2q4uftTa2zUEp
+		j6tMNVU2deALSTetPpHkbXAS2cApWGH+dN/245R4ZM/3WxTBOHAKSKykpkqH
+		JfZtVjrASniFlAntameq9v37gLwUs/ogjP2mKI3Y8IVK/igFK7leWNwz8yij
+		dxdJRRLVo8y0FSKYONaazr42FlVeSPd/8wmu1pMEATDjT9+Sdty0YK1op6yb
+		IXejo2+1ejO7X4Pd5TCEJYiD9b0u7iOq6VjKKz4qWkv5R+9eLig12fbPOjfU
+		Gq1fYDAjpZWjXr+jSMK76/w1NTM72omMmDlhxg7j19z8uyEBghG/5AxaDCBQ
+		XikhZTHkOJQcSfJl0OYKNRYofDXOcb9EpHVHqZPB/QdjWa6paY6SkIC4Wwu9
+		18AoOE706t9tBmH9KgkhNKlFq3eN15NXDSeUnIhAhpLTjuwI9n+Tyix+mij6
+		TL+h0tEjGWKN9ooJIymZGncIhVM8hgzpMRyLym6JDAHVeWXMMma6NFhnJQog
+		vRYZ9/0Qnh2cYFV6zcZDCQ2dp5LrN58eiAhgAB+rK162wkCWzc6BVK2EQFPA
+		111Zk2uApN3l6x4dXTtzRQDEYBe7EkDK6yVK0EFuDFbBYJ44y/LUVXRJKCi5
+		voawkizctfMHGwIaPYuVfzTaUj5LROdSMgup/oaJ7x8BwxEvxekAC7PjriEW
+		MVkpE6wrLFRiBxQfFj4n91xVnwj3DtZQrY3zuBF1oq3E+kKJFh3hFVdIvK9D
+		TqmlQN9kdiSosgAv8MUU26CAzNxfkwFYz/rHBJ+29kRNh1Zg+yGb9Mthbslc
+		yUqHBqXnZ5zFWqeK1U2tdKqGu0gnXerSyqR0Nq+y9YCj3mFdjyVltncwhgZa
+		Mg3AlRVuvpNswGGZdssDzL+hlU9B2kuG81a5pFN5vvH192rrgDTxcEb0F7zJ
+		iMhmbakiSDFvdtDl2Ez20B2JI4xhn8Od+85XbcgEP43Rfwgwof/+bS/NtHcj
+		6Ti62qZgIWIpgZBt
+		</data>
+		<key>iv</key>
+		<data>
+		rWmq1yHAx31Srfx3izkhYA==
+		</data>
+		<key>key</key>
+		<data>
+		8fEHLR+maEo8iyNUftzTwyGQ5Y9aMLZfiajCJRRUIqE=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>, the conqueror's yell;
+The roofs that we fired, and the plunder we shared,
+The wealthy we slaughtered, the lovely we spared.
+I talk not of mercy, I talk not of fear;
+He neither must know who would serve the Vizier;
+Since the days of our prophet, the crescent ne'er saw
+A chief ever glorious like Ali Pasha.
+Dark Muchtar his son to the Danube is sped,
+Let the yellow-haired Giaours view his horsetail with dread;
+When his Delhis come dashing in blood o'er the banks,
+How few shall escape from the Muscovite ranks!
+Selictar! unsheath then our chief's scimitar:
+Tambourgi! thy larum gives promise of war.Ye mountains that see us descend to the shore,
+Shall view us as victors, or view us no more!
+LXXIII.
+Fair Greece! sad relic of departed worth!
+Immortal, though no more; though fallen, great!
+Who now shall lead thy scattered children forth,
+And long accustomed bondage uncreate?</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>13053</integer>
+		<key>md</key>
+		<string>sha1</string>
+		<key>password</key>
+		<string>rCqGD1vekyUGAeodrSY9BPaUGcy8NWwGWFzB4GrfjxWYispg</string>
+		<key>salt</key>
+		<data>
+		s6rqkpmv1pZH87nbX7c=
+		</data>
+	</dict>
+</dict>
+</plist>

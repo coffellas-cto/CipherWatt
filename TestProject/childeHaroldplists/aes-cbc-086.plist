@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		RBAelERfuj9Fd4lzrGiUv0YxT1CtwyHDqVVqAwjja6rC/dgepZEV+4a7TzKE
+		r3LRGOrxndiBnG+RDwJtjkkCTGpDgToj84oRLF8B2k/gJP8qaiCCyCEp/B6y
+		MDhLrpuXdHVq6L8S3DlTwdN2qX42tdAI/TW6zFVr4QZ7+uPh1ubRQbb7dbF0
+		B9J8upBcSgSplXXtJdaEQFOcq0QJmFhcKjh8sjbA+tst8x+jzs28qvIlKdfQ
+		E9qENoFqtz5TuS40pKpC8rhtixSB066xlTqX3NWi9CPcYesbYJjJHWs56nBo
+		Koo+61MswNbcAMIC6OdPRmHi9aSd6kS5N8YRlY9TP9YBGuA+bq3blxf/lfFz
+		qszDnPzl/Lk0VXMA+BV0xavghKgTK2OLsAdLlSgOxlMvlwrxhjSnS/kUDVTG
+		QRyo/YDwKhRxrcAfo/TFbRT42KNnjoORRJdxEZbr88WTciwcpInh6nd+j17u
+		hkhJEt6HRaisQwxz8QQG/uePBR4eik+ZDwjhu1pJYr+nGoMnflZuZKZGT++T
+		VTHU0vgZx4FikuWomXYg2teRPJg9+a61Bpn6khOk+PhzT/i4eX/dRohFkstK
+		U2x1uWxgQEES8T6TZJr6NN+In4u/FRN/g7aMqfyQNzuC/JNd156ati+qj/yv
+		hJEhC2pFK7eAWcWFVziIGzmjfy5y+u/kDqaXcjSfjFX5jSPtB2aRe6Bgf2Xw
+		srp2s+A6vUKNegf9CuiW+Payui3jwoWEfY1z73XGqD8JT+mG3tX/d6YOGsmh
+		d16N2Ce99vpNaSNg8gLd/wCtYXD90+Du2arBlmAREXzrzi5tcH2tpUbIZxt5
+		vKCrXTPZG1GAvkuwr5r71XzU6sRtjB6qLsMYFHBjQ07sXpYVV8fhgMtWQJZ+
+		Z9RLgfR/cb1AZOaEZuQ8P6t/Gf3bQdZOzcujaneBeh3qfHvbCrqwvU6rN5ll
+		ysuUaaC9Qj7iM0vuBA8G0M+PlsXLXdkAipXcHUeCmXfdk1mY7y1HsmcYAdvh
+		Ca8OQXzgdozBSt1d5frKYXCExd0i15Uf0Nt0miYczPD3OaDJ2gyTZLGPLQZh
+		YznJV/E2E67MP//7vJgAoPpRThjKk663FWy+hOC/HLsifA82wdyDNL5ZTm3Y
+		k/d2VEQc5UiNCZhZykWXacpXpk0cLEZSCJa2Z6u3TOfvrnBKFeiOyQ9wqimj
+		QRqTGz7Vyv89xYAQ1HscZt6I/Ul4RMNkWV66JFp0OPGcLP59zrcEQ8Vdc6pA
+		np5a+/9b2hx+zj/8UeIjA+xwnCqhZamluhETa7qFlt8RlIc/BBqJsVcMC/mj
+		fo+diNqJ4U+V1zYTj4hjmc6z
+		</data>
+		<key>iv</key>
+		<data>
+		Jpza9xve+E/GutkyCSzuYA==
+		</data>
+		<key>key</key>
+		<data>
+		0UhQ6V7JVsKbYJuSVh2vuOdv2yfLjo5x
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>this my verse entwined;
+And long as kinder eyes a look shall cast
+On Harold's page, Ianthe's here enshrined
+Shall thus be first beheld, forgotten last:
+My days once numbered, should this homage past
+Attract thy fairy fingers near the lyre
+Of him who hailed thee, loveliest as thou wast,
+Such is the most my memory may desire;
+Though more than Hope can claim, could Friendship less require?
+..CANTO THE FIRST
+I.
+Oh, thou, in Hellas deemed of heavenly birth,
+Muse, formed or fabled at the minstrel's will!
+Since shamed full oft by later lyres on earth,
+Mine dares not call thee from thy sacred hill:
+Yet there I've wandered by thy vaunted rill;
+Yes! sighed o'er Delphi's long-deserted shrine
+Where, save that feeble fountain, all is still;
+Nor mote my shell awake the weary Nine
+To grace so plain a tale--this lowly lay of mine.
+II.
+Whilome in Albion's isle there dwelt a youth,
+Who ne in virtue's ways did take delight;
+But spent his days in riot most uncouth,
+And vexed </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		zXeJ94fuNSCtX/CxekeaTsuxA3LWpEq3zDYNM2qWmPwJHth8z55DDatCGmzj
+		rAzl3PVg42emLQ9Add640fm06C+LiFCKiLHguj8VABC6tx2Dlz10z3Xugilw
+		0J6y4D1YKqyGQo6c32/knwVQoRcIYXgTcDYmTHpwyq5Wj5MRHKJvTr2n9eGr
+		qYCvwhV/HuhEJxxWI8BA6Tge2skh80dH9oh/Uq6g7mHIQm/AzRWiEavXdYqq
+		cdqN1jgeUji4Ynk1KolPs4+vdDEY6vZzQS0pH/+52OLXG4FL+Vffx+oSnsV7
+		BhleVnGVNVfhgqMQiXpg9tpDfTOy8j29wQ86y23X7Iwhzyyy3BUiMbS0F2jF
+		1cpvGgAk1an2j63MMNi0X3Rg5L+3Hqs71fn6Yl1mMPNYNlYYqJT+Lf0B1fLa
+		CANZUmWuaj+eWpTOcbxqX85V4AuND2yqCdKZnkBDnTQStgyFmQ==
+		</data>
+		<key>iv</key>
+		<data>
+		ChcfN/esTaq+tFzoGESnOg==
+		</data>
+		<key>key</key>
+		<data>
+		dzZ+iDGfQqYsBdAVZ1jHIH9sv4QshidPl0HBZcfgW2s=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>pe the dust from off the idle name
+We never more shall hear,--but never more,
+Oh, happier thought! can we be made the same:
+It is enough, in sooth, that ONCE we bore
+These fardels of the heart--the heart whose sweat was gore.
+CLXVII.
+Hark! forth from the abyss a voice proceeds,
+A long, low distant murmur of dread sound,
+Such as arises w</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>15441</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>o35HGxnd4S9yADUeXUPQsBxtcquyd4GWoqiT</string>
+		<key>salt</key>
+		<data>
+		kzWUot7iZYKG
+		</data>
+	</dict>
+</dict>
+</plist>

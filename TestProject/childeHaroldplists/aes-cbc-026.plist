@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		ZJ/0WKqlo1n4SSZ4ZHzazuuhSCtchoPbt2babAHfR6GyCgPhAxvj5Tdr18rS
+		VKv74VzYsthtWlNP3aFRBVYEbJy/O8Ag7H2KGxuqLIq6pm3DoP6YhIAymaPK
+		SmMo+WtCH19ORozh4EJI1JyCNzhD1i/kkF4IgNWzCpEXOfnFlC/5AeyEMKYP
+		XPEu0JBnEf3LA/RwQd5r/eDsb++zfq2hoIve3jWKlnRGtgVMC3zit/BmZT1X
+		nkkPCA/zjcKyvhUyK2l1T0R9mlhcqUzxcn5nQY+RcYsbhKcCb2e7SmxbPaf/
+		HrJGC9dRHcSIbIFQ6tDVppJGRXb3xdYY63bXmSfxmCZMvr4aag+45mpRtUmx
+		I2CwCNXTOa2xCoSCbYLMxlXvc1tUJXsfoehbLillfk7ZkCAvgOj2wJAra8I+
+		BXyDibWUIiW3dWLwU0jXsDgaV6jBmnepT4AAF4Go61sQ2tD8q9sXOf8kMPRA
+		zSYvEFXKiN7zNuV2ZT4SezMN42ZvnnFdgBkhzTkiRBvR9zUlLK5Yr3kIaseP
+		ByZ7+zwLxOZnwxjmgxNo0MFf1HgRNDt9riKnlyahMoyXTHu6C/42bVGJ+j/h
+		WA/z80HUwXSuRD8TNSzBCkCDpJYh1dkrio8Jv+LKBVt5m1kH1veuqJWbPjAw
+		DHH6rIFQKODoo7EfgYY0ONXEKMxLlZIilpP3oTO6ZExzDd6M8cYBtqmFAWwJ
+		fLDTMKcgtU4CXsLN09bAnxZWI2MMMiHYFuMsBTVXuTRwc8cH7aFBpzxfssrj
+		c4PZhhCasvv7k7KtsjP90ATFIl8PSr0J2Yg+p4cNT62zW6AtWCkl
+		</data>
+		<key>iv</key>
+		<data>
+		boLpmRgfG4q4wbnJn6a/IQ==
+		</data>
+		<key>key</key>
+		<data>
+		KYkzF57Khydz9gdxS5EhNC1aAUAubXVU
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>o the lists advance;
+Rich are their scarfs, their chargers featly prance:
+If in the dangerous game they shine to-day,
+The crowd's loud shout, and ladies' lovely glance,
+Best prize of better acts, they bear away,
+And all that kings or chiefs e'er gain their toils repay.
+LXXIV.
+In costly sheen and gaudy cloak arrayed,
+But all afoot, the light-limbed matadore
+Stands in the centre, eager to invade
+The lord of lowing herds; but not before
+The ground, with cautious tread, is traversed o'er,
+Lest aught unseen should lurk to thwart his speed:
+His arms a dart, he fights aloof, nor more
+Can man achieve with</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

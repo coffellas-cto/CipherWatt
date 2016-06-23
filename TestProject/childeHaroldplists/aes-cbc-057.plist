@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		N87bFjw3fZzupO314JaPvqKNujdZ0g3W/WcmLBeUj4oXVBCCZvZJLSX6j8ls
+		/lBVT6gw+ICAVB+bjsc726rQowWvc3yXYCFqnplt9OB9yz4mOaVWRBpZ5cf5
+		wg6BBr/RIRra1uDlI38iuADJR/Pf0tmTB0/Iqk9t9XiP8C6V7JIkI+RellT2
+		0Jpnt8jhvgFd+vck+M+ytTT283q9qkNeKC1JmuOh0jfulQfjUuX9jvsf0COE
+		JPXBLod3k9yOF2+7KMOToNlUFL88NSdlOJVgLS8pWLXJYX3dzkYqW5EJ7Bx1
+		UEz9ZUL/v5fj4fEUfYWfwxIwKfsP1tNKxBpXIz8SVrB/eUuWNL7Vx5uq5pHw
+		Yk0erZuvbDs/MgXWhsf+FrJ9cguuJFGHM7gN3IrjfUmSnh6V+NWe3nM5/Jpe
+		/bspmGgo1aJRsFIZSMJv6c73WZABkmSpXzL+UaLFrEVZwXvXdsV3jb6qBC89
+		EIjLThAk2pn+6w1YJfXUHzmMH9DcSlGTXDIHZsAHqypjY2HON3muYbVE0y2u
+		jtIdQRxCv7XlBpDD8Qs+HYFYZhQwOfqdREjLJ77vJxfdp4l65l+dqqqqW0VI
+		7MhVyNgIlZJBzbx40pE71G2kbfEBnmfd3eH6bwxqUVQavjlfoquf8fSX0gJc
+		Zx8sxr0w1r35htzgXt8YUg8tihAm99CvkZVSgjnZrhGncJOuGq/WpYQje6ND
+		j8K8DRHD2XbBASPC0vdDxYZJAj5NwgN3GPtaOJtMU8L9ZAA15n/cFkVNPkzA
+		FWUskyMb8pWqzUw1EdPQXVyDgcUMkgHfKrhaKo24veFlM5iCNpeu5sbG2tu8
+		VKpBbTmC4+RKDuOdxeDHkj0YyJtSOUNyfcSXgEB7Cc+g9yBEsadWKRYX9bVV
+		wANnzoFtIxetFVPig902zkd0jDim6iXgUUS1MzkSEXfk09ugy52ZcjmAOSlc
+		3SHRYXJ8Y79AnVcWbrh6hdMX4y6TBb+ITKTvY0YU8Fkg9pIRTdmgJo18/WAl
+		PIRWbwOw4DrxKZVIYfoZl47rIKEw/kOm68T/FA4hiInGQWR/5HmdlT8yQHvE
+		EgAlEfM5tOJpFUkrf0b79cuhH5eceNcJ/2iz/4EOgwCW9Ig5XlpHg7E2WuAv
+		tiPtRpdFgQlbxS+hShhxRwcZ5q/jzf+7wr7U/0yptIFqA7nf/fLOTl1Dg40b
+		KT+yxC40WxcStkfTqnA70xjF2SsOPz6yTQB1Ma8jXbVjxGtv3yDwMnLL4CVa
+		spEL2GW6YoA2F6UJM7mU2IZVfmrlGBto/NhRDOhugGpShBU7v3s/FR/T5Zv+
+		ZHvC2vBs1jZqmPbiuur6Ma60
+		</data>
+		<key>iv</key>
+		<data>
+		ZqCjyJcSxnHpXjGqUJ6f+A==
+		</data>
+		<key>key</key>
+		<data>
+		Sr3zezho3/d657wWpYTuQA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>e-eyed maid of heaven!--but thou, alas,
+Didst never yet one mortal song inspire--
+Goddess of Wisdom! here thy temple was,
+And is, despite of war and wasting fire,
+And years, that bade thy worship to expire:
+But worse than steel, and flame, and ages slow,
+Is the drear sceptre and dominion dire
+Of men who never felt the sacred glow
+That thoughts of thee and thine on polished breasts bestow.
+II.
+Ancient of days! august Athena! where,
+Where are thy men of might, thy grand in soul?
+Gone--glimmering through the dream of things that were:
+First in the race that led to Glory's goal,
+They won, and passed away--is this the whole?
+A schoolboy's tale, the wonder of an hour!
+The warrior's weapon and the sophist's stole
+Are sought in vain, and o'er each mouldering tower,
+Dim with the mist of years, grey flits the shade of power.
+III.
+Son of the morning, rise! approach you here!
+Come--but molest not yon defenceless urn!
+Look on this spot--a nation's sepulchre!
+Abode of gods, who</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

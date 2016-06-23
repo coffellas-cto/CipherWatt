@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		x9OkMWNw72ny0X/b2vncWDdrJja+kCN8/FMetfVSpFlFrdcM4qUcMVofiVdQ
+		lbGhUAE5vqqRs0nMfUg0xu5LL5BXn2ZBZpr+3hzVw/8vEYdRw3XhTDU9n6aF
+		DTy6+b2YCbzcPg7MLnM5FfjwryE0NHr6gFPM3xYK3T58mLvVyPY9lSC70Zdl
+		+u89ap2GGQeeOiyXSSEJxqSOOAx3MWdbko5aWLlhvc4tAJqK9C6VrJoX/hat
+		fogJGzxkRioxk8JCyY1CCfYjbAIjWQPWVymXzxnaLRb9WWQUTqhUHb0oiInF
+		HB6gxYofNhjDC3DPe+YzU9puX8nvYZijr+vzS56srg==
+		</data>
+		<key>iv</key>
+		<data>
+		UXTiJ0bN9jfLKad7bWU1Hw==
+		</data>
+		<key>key</key>
+		<data>
+		e0Wu1CftDSttSgg/o0ooTzZH5dLOExZ7
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>not?
+Though here no more Apollo haunts his grot,
+And thou, the Muses' seat, art now their grave,
+Some gentle spirit still pervades the spot,
+Sighs in the gale, keeps silence in the cave,
+And glides with glassy foot o'er yon melodious wave.
+LXIII.
+O</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		PR8AjlzNR80pKp+IejvYTT0LfDfOGccB0t0+CP1YntmJZ7/M5Zk41zSl1PgZ
+		01X1S9Iqs+oOD2rndmoStoNndJ+8jyp1ZUO8rxSSmPPk0gPJN90Zm25jsETb
+		Fn+fTYwDZ3kcYZ/mV5gAy4yQMITZ5Pc94Wt/e/A3MeAva5LbrOD/AUh7FjRn
+		JB54WbIuNvQ22aFbyuyA5Ah90LznVd1yHoRLyyKRAFPe2Jy7+UWOvVnZeofW
+		qmOgPzb4lfC4rdAFg2CbuGapSqjzqA0ekASVeuzWVUqZaSr2BSen7IcOm8nu
+		a3L5+eR1bClnd6fAdRkqNfnMfhERXhKq+hLS1fTBZ3Y5Vb3NCiXx5vEPhS6p
+		G8P0ifJhhLwQK8X1VlCgdg6BQE217lx1p68k/x1YAbw/XUEoNlLpM+fD0RHZ
+		qYI45aixyYVIk3SY8mS9wWDhqBjE0AzhHwbZVEvgxE6NcmwLRWXUbErljrZM
+		Ep2if1NlIZwIGnjIYgh8yliy5IF4kEhzmMJ4v+ItTU919BA+Zgz59hieD9Wo
+		n4woqFsJuo74+Eijvxq4K/BqeVf8+ijvfHuMhnDwhqJZuU0DbODZ5R9mtqT9
+		8a7yXri/qekMwX1qQsPxmOtvnfocctgwnWckzriYjZTYBuw/qkyKtSk8uhYr
+		1yzIYtmHtr01ICwRNzZ0ZdoGaPZJXvmeas9PGrhplURU4lUTgikqhpz3CEb1
+		UpJ3xE0y+cKsCLU47E5cpIza3pXfyPdC7mIoskMysWCzm0lRNztDuU8NUq2z
+		3UhOGXv+bJGZaI6D0Ekx93TdAL3LNQw98Gu8Bo7FkgSzoUXH44Jn0ycrbIu4
+		oHVLvtNm5DfBb+Y9OLZFXJQblUGcezB7rugVHz3+uGPEj+Fl7iH2K3ZDwVdM
+		GIXaMFhb4oCBaz2QpZe6qjLY6YZLr8LAgC0jRWCuUCdLHYBD8fVBdK2yU5ls
+		acEitCDW0ibaSMRx9JdM98QWjsiVvgxsCznF7Xz+tJW4zLO0x/8z1W1c2GWD
+		Tk6r8vk0qom7PkQJ8zQ3ybGR7AsieDqvBDU0zsBVYcLCKJqSIhMZ+rN6XrHm
+		fpStUpYeoo7MUEMLFgScla3zNE3L7NulkNcPF7c+MdidURaIHgb28rEhX/Fs
+		wL88T5O1s0uhIVHjSNJ2efVT0L580E8kKJ83B+ZpFse357/SLoldV2A=
+		</data>
+		<key>iv</key>
+		<data>
+		xpdIQ535p3o4QZ575hJxjA==
+		</data>
+		<key>key</key>
+		<data>
+		Olec2qkce9avExEZgrJucg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>Or in a narrower sphere wild Rapine's path pursued.
+XLV.
+Full swiftly Harold wends his lonely way
+Where proud Sevilla triumphs unsubdued:
+Yet is she free--the spoiler's wished-for prey!
+Soon, soon shall Conquest's fiery foot intrude,
+Blackening her lovely domes with traces rude.Inevitable hour!  'Gainst fate to strive
+Where Desolation plants her famished brood
+Is vain, or Ilion, Tyre, might yet survive,
+And Virtue vanquish all, and Murder cease to thrive.
+XLVI.
+But all unconscious of the coming doom,
+The feast, the song, the revel here abounds;
+Strange modes of merriment the hours consume,
+Nor bleed these patriots with their country's wounds;
+Nor here War's clarion, but Love's rebeck sounds;
+Here Folly still his votaries enthralls,
+And young-eyed Lewdness walks her midnight rounds:
+Girt with the silent crimes of capitals,
+Still to the last kind Vice clings to </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

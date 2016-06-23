@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		+XXl4yOdytTJXbpV0+dawqLO+TX+CQ2JefSAp+ZNneQx5nG9ZI1n5WIfu0PE
+		FHBIkPhVB9n8bWpD6Ke3YWMEGTS2N6Niww0ZuJlR31pFlGs9ZhE3envwHcHs
+		jS3YncCMMe80oRc/Rcq0assy+hxQHOnZw13LB9/iPm5r7PEkN4PWYIhKx97a
+		oNKn4CJiSXQB9ouC1uS5+gMZMKo4FbhreBKCf8yGOM9kC8581CSpgDSWgKS5
+		V9OGEDIqnXeu+WP48FD08E1DPKy4Moa2WkmxRXsecVFxSrSQ1cGhlNxvT9/l
+		VJd9DHoPJNkUqPIwADF0u+vvJ7xSRTEoRkGWASmuKJtzhiWanNrenYvmnCsm
+		7uqff9+9rIlu/HEpBKmWfxDxqMCk2SDorHeuSpmiiANboJcaEIlk2OD3bqwo
+		PdWx5eo9S/MENGaY7mIXHBSknvu6DBGv76RDbAnKQJotGI9Crdp0klM7HMdU
+		wV/tObYyPkhSfi1i38AJ8ha4mV2JfIHHKuawNuQIdMytRoXOFSTbmJ9iDWVJ
+		O+OfW23PKHHBNdlAQbSK8TDYsN4f1rIfPelrj+ow/CnlLKCcPHyPDEzw8iDq
+		ufsGAD2ffQGoeOxwkq4tCjlr8uIAC3f1z8tSgBlZ+fTBt0xROqWyV+PjAZdr
+		nzy+2DqKD64jI3gpxNDVJLZJWbF1+r6mG7u9kpZjbpnJWFg5+/SGvlMT8pAv
+		Uv8YyRvaAizAoNowXshffAiXsfO9idzKZqXVoF/hdWd01fVXKCzpG0PyXsTt
+		awXsU+wJJIqoi5ttsr+5+GJ6ZinGEjao8dR4DaoijD9sO7+9tZMBy/xXMZfa
+		iMtKjmws9iKDlIxtU+dV1/exNu84ga2Q9qriSlc46YXNVnERTtxa/MIX1Bi9
+		y4yWp4ITmuPiOX2MlUMKQX9PIRH55yphC2cg+2+Ou1ysyiMEZ17sAe2dmzmm
+		aVbAxl5VmHqBv/R9FLsYP3uT1aW6rXKN2mIJKz29DpMR7Zwuv88EMZ9XukYO
+		gHioH7UBdvlNKbHX7bvQJ8OCnVP+pcOsaXrCxMqaG/cwL2IEkkI3eyV1mK7n
+		nD5vqLY7lx0W0q+SnCv9RyZBehxM/VKdWPFWrAMhyoZRn+jUMQVmNpTzzSt1
+		ephNS6ifir77sw5cxfMvRcUUnRBDM7XbFWgFugoORMFO3nkeEa1DZZ6FO066
+		Oxjhk4BlSz0QVIvBU5tEKcNv8l6u7XWJ5Q1E8NLAfgqt5e99nW4lOG0LL80S
+		C6IEQaxDSN9UK5Rm/gzyEcuqcG6comsJU9+ygsw6qffxyX67afo80P2WnKH3
+		LxCaqUmPi9tzfrqw2NyPmb9xhXQyr/qZKesv/Iu9dJUqrysStxTjzRlQ9IS9
+		RoLsgAXjWb4PM0dqxFXvNZx6Hqet
+		</data>
+		<key>iv</key>
+		<data>
+		VfC8e033YYawgG5YhUkbTw==
+		</data>
+		<key>key</key>
+		<data>
+		0DBou8gZFs4jWx2xBKx4pA==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ead,
+Thy name shall circle round the gaping throng,
+And shine in worthless lays, the theme of transient song.
+XLIV.
+Enough of Battle's minions! let them play
+Their game of lives, and barter breath for fame:
+Fame that will scarce reanimate their clay,
+Though thousands fall to deck some single name.In sooth, 'twere sad to thwart their noble aim
+Who strike, blest hirelings! for their country's good,
+And die, that living might have proved her shame;
+Perished, perchance, in some domestic feud,
+Or in a narrower sphere wild Rapine's path pursued.
+XLV.
+Full swiftly Harold wends his lonely way
+Where proud Sevilla triumphs unsubdued:
+Yet is she free--the spoiler's wished-for prey!
+Soon, soon shall Conquest's fiery foot intrude,
+Blackening her lovely domes with traces rude.Inevitable hour!  'Gainst fate to strive
+Where Desolation plants her famished brood
+Is vain, or Ilion, Tyre, might yet survive,
+And Virtue vanquish all, and Murder cease to thrive.
+XLVI.
+But all unconscious of the coming doom,
+The feast, the song</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		bY4UuvIx84qEi1KMX3+OahenaoxCzW+H/+To4Ic9m0i3WEqISpxkRGbnEgqH
+		EEDT4xEt4fC6EPboq/eZATR4/GZRfINa6cYf/EP83oWSravubebc1gnix0D6
+		WSQ/dOMsSvtru1A+UE2EfY2ugaXJcSIoXWW2pWSO/kan/lmPPwIB1nWuFCyK
+		Gd5+LG/TrAMd/ruL9/LeAg6Zisb/nAsQSdYtBzPYcSRBIyN4zZY6Wbjpn94y
+		HssDJ5MLLyloCAEollkQxY7OXA7TckcbXm2Y+mbzaGTNhNUrBLrDhM010g19
+		pmUt+WPjLddxYnDDB9eKckQbnbNgb4HqIPse5Ke31DJQcLEvlCyqCkpQrmed
+		5WViYGAd7U5Zoqa51+um62cNmjHhfOJCfY5Ddvki+4H0u1GNAYI6vTL1V9fD
+		Rgt+oNnsWsxdjMIHUsWb2jfON7m08oQoFJRkBdaVXfZ1w1At1A==
+		</data>
+		<key>iv</key>
+		<data>
+		l1yaYuboBfmoF4VW0gFWgQ==
+		</data>
+		<key>key</key>
+		<data>
+		8oW/hfzDHM+4ft24Y8IO7a9EUjZHmMWd
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>eep barbarian monarchs ride,
+Where the car climbed the Capitol; far and wide
+Temple and tower went down, nor left a site;--
+Chaos of ruins! who shall trace the void,
+O'er the dim fragments cast a lunar light,
+And say, 'Here was, or is,' where all is doubly night?
+LXXXI.
+The double night of ages, and of her,
+Night's daughter, Ignor</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

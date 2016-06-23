@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		8fpg3L3s1xWwVV7c65hiIMmbDbIUQoUqeuJCprGBR+lR7PGRqERlsuPHUybF
+		dzfizgp9wOnDOW4pjlZvIPg5Se9cjddgLVGGuAszTMIgxM2M2zU/7eCOyDSX
+		ppbe3Cr4DeRW2PtvV/Yx1Eja8ujYZbkAEGvHc+ZABhgab8bypG+2+sqgOOgH
+		OdGTg9SaqSUe55afIqIdgsmu9CV8BEYxEIvJeO/aZ62UZK5FGePcGiTsNBnN
+		c4PVutYIE1QvxA6c1PbYXL7urMG8j4d8Ia1n1JdSiSPQWm/BC/uDm/ZwSqM5
+		Zkw/JqiGrAb4uYj5WBjRiXG38GWXh0v2MWgOFspG14llM5e/VQTC0izre2tm
+		6+Rj7GqJJul3vJCKo8JU5X2XzSjUbG2M2WAUpzXHTLcUYyGBBYMHxxQsUqh9
+		uOhZEu/u2bQSSXA1QXTmhNRGzc8FmhlMWFZ0K5Rky3Sn3kkD0IKmCUYuLEeV
+		NersIQshFc7NbVVzW6T2xoW8ePuUisMUbeSmp2Ky1mnFd8NJiLjBwwmmv2B5
+		wmSJ7jUzXP9MzPug48CW7vw6QNr3jeh1fJcTrZXGklEKG+r6vQBGjv2PXdKJ
+		A31Q2n7vrvomzpfbndRZT2eW+SldhfV3R77qXB34JmH/BIzBgnamghlinSpn
+		4Q==
+		</data>
+		<key>iv</key>
+		<data>
+		4LZdEMW8y+rj1gzsEG7a7w==
+		</data>
+		<key>key</key>
+		<data>
+		l15as2eaaMQycOt+BYFBjFgC0ezaCeuZhZn8rDVII3k=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>uin rises near.
+LXXXII.
+Alas, the lofty city! and alas
+The trebly hundred triumphs! and the day
+When Brutus made the dagger's edge surpass
+The conqueror's sword in bearing fame away!
+Alas for Tully's voice, and Virgil's lay,
+And Livy's pictured page!  But these shall be
+Her resurrection; all beside--decay.Alas for Earth, for never shall we see
+That brightness in her eye she bore when Rome was free!
+LXXXIII.
+O thou, whose chariot rolled on Fortune's wheel,
+Triumphant Sylla!  Tho</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

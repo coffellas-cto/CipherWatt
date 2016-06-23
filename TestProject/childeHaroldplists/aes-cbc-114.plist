@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Bp4tjdJ9dccrFb1wYJnggTa6e7Lr4ljwJY4aKn+QMN/JhwwrV0EBxOp24gg4
+		tn/qdKBed7Rda8WHGRC/R8wndv77IOMb82CETHoAjnz3vX8kUanIDTTPZ/Ia
+		o/hcjvIjeQysM0QXJD8Eya9uSkRrN4A6qxxK8p8ot31/3kN30F3dUkvOuqOt
+		WUriE7ByM6n0v+w1pwzndVhD5uIeEYVLrYXGQpTHragM+FpQQHC0+cm227cj
+		80CpVEw8ipvryE+sKFq598T/qdKndM0C334h621RKToc4//u82kHMiYgDa7a
+		KkWELrrqhT1C92qTu6mCEhEC53mmncLESs4Uf1VRrHLrsAQi2G6LMemadTp1
+		w4vOxy5iSKtVqHcxY1lkhJHqOk7JXqlxHgCR2eFFhUjZOCWhXfxLwoAAjdWE
+		o2kGx+CdrGGKEFisY0l7JI+jIs4L3ku2S5Ufqwdbeq45AqzPR19AZZY/mBkn
+		I3hCLeM9pV4=
+		</data>
+		<key>iv</key>
+		<data>
+		FDG18L8t3aYbPnGThN5+UQ==
+		</data>
+		<key>key</key>
+		<data>
+		8d3aDjcm4GCPlB/yKGStc6oZxFKbCqhN
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>s throne,
+And thou mayst find a new Calypso there.Sweet Florence! could another ever share
+This wayward, loveless heart, it would be thine:
+But checked by every tie, I may not dare
+To cast a worthless offering at thy shrine,
+Nor ask so dear a breast to feel one pang for mine.
+XXXI.
+Thus Harold deemed, as on that lady's eye
+He looked, and met its be</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>18037</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>XpUooqe5PxbAEhU7apu5fjTPOEWeEMGM</string>
+		<key>salt</key>
+		<data>
+		XrKv6zNKzxk5Z+Mtr63gYrNH+S4n4Zx4Eftl
+		</data>
+	</dict>
+</dict>
+</plist>

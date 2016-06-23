@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		uHrbM+0s/lWUqD3qnlNVQSdw2Yx8u4KSAlxlCejxRcxPV9nNdu9wje16h3o9
+		TaHmbMhDjUxm4Wkuu+MxX5ytT9q5QLykmGoRfkQkhVWLjOHH8spHQVslDdnY
+		l4lKzKcTnnSYXLbVbQK5MQnR1soJbVgusQmvjVTWa9DDuCOeHos+ouRMR3jV
+		O0wB/eeORVI6PITAY+35wym7iy+14fLzf1S5/tnHpNRkIkibB3fJSow8PB2m
+		7oO8GX32dD2WDj8kuDyk4lx//cCqh+buC0B6o8gjXXVTOTOnNhQERtAJCbkk
+		Ko2a2kHoP/tfuev34K2VFCsiikcfnHjPzIzhjH6gkldzPYePq2/8H8cBNSIv
+		dTBx1aic5U7JLslwPqQrqBS58S1jBMurIFBR3Sjj53JjdLKZ9aIU768j5182
+		uVm87uHELb79aD67z69HfOSNQyOyPpqhpih8U3UVNGfogYTR/bKNmBCbsVJf
+		o5uLkQHXUOLmS6ZHotc/f+mU8OJXICAJIOpNvlNpgATvGtH7z+J+tQ==
+		</data>
+		<key>iv</key>
+		<data>
+		jB289Q7ifa61JNeJBX/1wQ==
+		</data>
+		<key>key</key>
+		<data>
+		IqhgAxXxcTepzNoqdbSQgElbpwZzpcxDlpOeoW8Yn58=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>tle with the ocean and the shocks
+Of the loud breakers, and the ceaseless roar
+Which rushes on the solitary shore
+Where all lies foundered that was ever dear:
+But could I gather from the wave-worn store
+Enough for my rude boat, where should I steer?
+There woos no home, nor hope, nor life, save what is here.
+CVI.
+Then let the winds howl on! their harmony
+Shall henceforth be my mus</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

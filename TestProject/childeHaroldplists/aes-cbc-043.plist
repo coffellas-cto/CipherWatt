@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		rMezRKJwhsDnlGGB7YsRhSgjENBdl3l2iv1h3+xfnfk1LeBgMhNUeuDnGasA
+		L0B9vKro4jOSP/rmupFa4QsixhrfR+7Hhot5r8xAOU98q8KjkdV3SUVKbFSU
+		ikYTuPne7DGCa5fRlKLQHqcnOZzDpKiqIQRP04Ikx2LSfrrCUzINqwK0mzU8
+		V2lrGjXbWpkRXR5MDTKYn0re2TRqNju6zziJLFUz0yXWwOP3aWByTUJHq311
+		lHagSahfKxdHHp0b9YbrAkhGR6PEng9YZPKlJDfafB9ZqjfXRCeXL74taPKT
+		maZGkPZepjwE2RWaPMVDJAcbhf5I8N3rg7UXd0LE4iNvBQI1jEOL5CA84XWp
+		Wl6yN/9668XEfNgl9ukaANhUiNqzQtQNp8o8rPZ+Cg6U5ROz1OgyRrJVmh3W
+		H0zftebnaWbtYkO58LeHio1ng2WtXh1x+nqJb59M4ribhsoJiVP6uyNfu2Nu
+		hYyj+sdjQicU2E0i+GJH9xwxmrkrNZSRKgPIbM+IYvSKYxX5RGyVG2D8MvTX
+		Lh8B5ZIER2FW6ARPop4Vaa1Oo7q2YA3RB0jkiBkFhWKsopDV6YQRVW3tEd0s
+		I8IZ5tWTb3bl7TZvtzeDg2Fr+gxQhcFK6yHgjTU9FCkXi2zBcim3LbSdyFsW
+		RVMkYfHOgSvI/n0aSDOoMr3RCnV8wPPjs4ybQByvi7j/NrolShALn4nLsj4B
+		3PWJNJUzOFEQftATpCv1F1lCSkODuERuOwZ9VFeU16vU1CKnByArg5HtupnO
+		k27p9l4u/5rlnu+O1WoHWFmUs+TDWXp8E8k2caPXFdNTeC22B0hTwVloJjjs
+		xnko6w5eliJn9KL0mPi8Gija/aEwiVP059J7zrbLAGPu3vq3QzRMCZGpVrI6
+		HdjPU70+Z7SQgS2ZxOQjavaZ1A3s60LwU2ZIzEYspMZ33UC5GURkdBAydZPF
+		</data>
+		<key>iv</key>
+		<data>
+		Ft70dT3FdgY79Zc7QTg3nA==
+		</data>
+		<key>key</key>
+		<data>
+		uceqyC43j2FxrwZyX4gsSw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>heart, and that was far away;
+He recked not of the life he lost nor prize,
+But where his rude hut by the Danube lay,
+THERE were his young barbarians all at play,
+THERE was their Dacian mother--he, their sire,
+Butchered to make a Roman holiday--
+All this rushed with his blood--Shall he expire,
+And unavenged?--Arise! ye Goths, and glut your ire!
+CXLII.
+But here, where murder breathed her bloody steam;
+And here, where buzzing nations choked the ways,
+And roared or murmured like a mountain-stream
+Dashing or winding as its torrent strays;
+Here, where the Roman million's blame or praise
+Was death or life, the playthings of a crowd,
+My voice sounds much--and fall the stars' faint rays
+On the arena void</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

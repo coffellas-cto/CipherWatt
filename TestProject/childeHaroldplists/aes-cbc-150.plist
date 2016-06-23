@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		uVYetNCKZDWsKNSf5ceQRyavu+Z/FxI7T0GloTo2l03WaU1uVAPbGT+se4yr
+		NT50KAK96Hod8kL9CzDKtAzOVxsBYb5r/uckKdYd3Xla1kLd59oQQa2BCWju
+		mN84alwYB2zE1Ymx2FbjQh502GS9uTXSa/6r6olsiidsJ45v+jgIWLH+fcUG
+		KqthXB8QO7ZiA2IdqOXep9ebNrdMm6UvcJXpzUFogaPlcmWYmupv2Ws/cV6o
+		vMMcwhHuCyzFkR7bCn0JJEcYc9/M+NgMJpZr/gOfKyZ963j+fk7h4T04xF+E
+		IW5bMxj5SvqT2bXkyxtPARAsPLVOxrYBYjRWZlT+M7ftk3JKAVLTfRFFHGxj
+		M+Ky/j3YsFiA3KHfg1iveEKWMPjU7hKiuaX9RZUf6NUsumqtO6vxhd5EGzOd
+		KKhE5V3twcAu7CNBehBX5GYg8NO9lnujMMptOS+5ji/owZv11HD/HF2yCZQv
+		QrO1HnUADf4kn6ppxKz49xCLYUTES397CeDeZ1oD9/dqkg170aNipCWubguP
+		kLlnmapjQzxt6WnHY47Pkb1A35KMWJ8w+F4RXVW8eCyYBG6Uo6akio6rICMf
+		8kiY2uOP8AzmryHpQ7kJmWPWsiUlJypMTEZx+njpjY7CcZEyKGOX6xjb3MMc
+		lE7Dmw/grjo7dIJ4qZDYcG7DIOJxYfcDevdewyictrQwYoKlEaH49IkM+8Ge
+		DKB7XdBAuRokbAwmTrFJ1P6Ybv10dG+9MFQDB8t/nT7iDdvf7/0o2GKN4+EG
+		cLgifVnZIxODLuHsUhtDJ5aqYrf7Y6IdB1AAJ4FnMBEurP3ucwcra0LoVRj6
+		3rIAVQ34yBjWKH0J2FnZLjYmEDYFd9IfRy0DFdGNb0DFnZmIEEu748JpWqVN
+		OrDtmScPTPrGFNWZqDIC2Cew6JtaF2zk3drolFP/iCnt7U9nh6KtLxK+1l8c
+		rCXoV8fpG0n/G0pUniR7A5ekts8QADt6QaFmVYWHA8B3LrTZ6cnAaxQil3jR
+		6b8KYlRMg2XTXBZrwPES++sumAtakjwIFYyR+gTEykxZHgDYIfUKmY6/9cML
+		13a4818t
+		</data>
+		<key>iv</key>
+		<data>
+		n+5iaObTOVwcD65gCv0EuQ==
+		</data>
+		<key>key</key>
+		<data>
+		kYEIqYPDbTqAgBNeug1/Lg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ng all things prone,--
+Now to o'erthrow a fool, and now to shake a throne.
+CVII.
+The other, deep and slow, exhausting thought,
+And hiving wisdom with each studious year,
+In meditation dwelt, with learning wrought,
+And shaped his weapon with an edge severe,
+Sapping a solemn creed with solemn sneer;
+The lord of irony,--that master spell,
+Which stung his foes to wrath, which grew from fear,
+And doomed him to the zealot's ready hell,
+Which answers to all doubts so eloquently well.
+CVIII.
+Yet, peace be with their ashes,--for by them,
+If merited, the penalty is paid;
+It is not ours to judge, far less condemn;
+The hour must come when such things shall be made
+Known unto all,--or hope and dread allayed
+By slumber on one pillow, in the dust,
+Which, thus much we are sure, must lie decayed;
+And</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

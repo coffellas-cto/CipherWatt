@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		sHPpROm+Q35EWG2yPG76Mebic3X8CmE7CPvDP/5XYBfRNcgTPiv1vJg1amIw
+		5KgKyqtt6NZLRj6IfPj6FtEMgRhVW+Xvr1ITPtA+VKP7wU8KdqC6iRm/wcub
+		yAY+nmBa1/h5iQTK1+oUQbaNdEEGRTOqcHTFCE+7k6D9MKEQBeO7E38B6QOF
+		pkEpIG08p0PBCQDsovtB5g7P6gAODt5r/h5okCNAOXWdEeUBV432FNyZ97Xr
+		BfQSzJEVao4dMc87IKZoY1uZVd31fND7f0pkYrnKCxsoGh51hbgn6SrSXuTM
+		7r/fSLq+CnwyZGtAAgJw3wOfawV2+Sp1feuG5FhFnq/GmV2PSEY3tP3A/k63
+		ZNuoztwdPtGYAi4DrWCZ6q/v9jowIHmM6faGEYbiluiOKQ==
+		</data>
+		<key>iv</key>
+		<data>
+		y/hDnZT83IIO7FqQ7pTG6g==
+		</data>
+		<key>key</key>
+		<data>
+		Nlu5p92lpOta6rmThblUvVnTMPkuhy4LXuMDbBcHNe0=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>t arch, and gently pauses there;
+When the stars twinkle through the loops of time,
+And the low night-breeze waves along the air,
+The garland-forest, which the grey walls wear,
+Like laurels on the bald first Caesar's head;
+When the light shines serene, but doth not glare,
+Then in this magic ci</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>19442</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>EIQ6C8exT0Fy8LC0jMDI0Ko0auZNuV5aMaHPFwQheE1i</string>
+		<key>salt</key>
+		<data>
+		lkdb37COxWIMa80yXg==
+		</data>
+	</dict>
+</dict>
+</plist>

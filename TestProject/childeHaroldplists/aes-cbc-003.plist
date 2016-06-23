@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		NbOXzntq8hDuoOgYvrCksX65ItKXZM39YqgYZpET0t4/FK69UDfDv1xjpesH
+		zpmuAUq8gjZTcl17IzgVO0JSj7N3jpH4YsNiGIO031S7HzugF0gyOh4f/PU+
+		I09y98EJrQwbn+xr0SXLIPiMle9YOwTw6QIBV/Mc0WDy0XBRElsvzVLIcuZx
+		ZCcuh1dV+biGpUGtZBX9WttnhCGJDFXhrmJREa1UIcm1D+hXud/zV/isqmJ7
+		LkZN9/r4Gm3nbtm1MxVRzYXr3cmn5wwbVPstVVu1z5kOl9aeNsReyZt9WD9V
+		IzzEBCoxlwqmn1VbxDP+icASWKeRH31BsXeOpa0j6X4ctWj918KzjBwuLSO8
+		6mwHrzmRC8r53p71lJ2G1NiUhefjZEh+cNL9zWRk2G3QFNz7e88kbKQ/raRx
+		2N0e6FuoUNOgf1Hx7CtKvw1O+fCzEQ3gAay5OgZilTZqqkCiiIkzxCNEVuOA
+		Ci64KK1TLYuVBD5rGwk4WhsitH9vG1y9IZHW+XcS7VZ63qYeoWKbbiMAnGUP
+		sRNyid+w69ohhnxFn36DLtoI529PL/7vcYNWofVAO3JpDqjzf3Nru8LXYmc7
+		aXxGF+x/UkT1u8eqEFHwPtazHISk5XgRE/Y9tX8Gs1cwh4n42ZPqK8ZpiOJQ
+		rNrUtMA+5Ab1CocF5dx2lpBOyeN+Yra0c3OzukkQ3Od+LcuI97xyFCpEqbPN
+		ojggj4WdEXuNPGfV+PaofQuCFnv3i94ph0cZSf5+fHKUsQNWrdlPJMg4l764
+		CXk1kL7ArJ/F71Wj1pdzxlRLsMB3bxzaZpsGQdCKpCDOFnkqbNN59eo5zi0O
+		ePEZLR6koPYMWLEaUQL0hdhwngBMQEMn/qk7UGPzyqiguti7++HX2I+GO3iR
+		JBkLZpMY+SAvktp1paiLfec2Dd56Afh9NKnrHtb8weSPSpgnv4epsTbNZfcu
+		J5AKbA6U1blcwFg987H1lw==
+		</data>
+		<key>iv</key>
+		<data>
+		w/xfBArA99pD2OP3q28cjg==
+		</data>
+		<key>key</key>
+		<data>
+		4iJWpubD8aOCjIepiwFs5w==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>horde
+Of many-nationed spoilers from the Po
+Quaff blood and water; nor the stranger's sword
+Be thy sad weapon of defence, and so,
+Victor or vanquished, thou the slave of friend or foe.
+XLIV.
+Wandering in youth, I traced the path of him,
+The Roman friend of Rome's least mortal mind,
+The friend of Tully:  as my bark did skim
+The bright blue waters with a fanning wind,
+Came Megara before me, and behind
+AEgina lay, Piraeus on the right,
+And Corinth on the left; I lay reclined
+Along the prow, and saw all these unite
+In ruin, even as he had seen the desolate sight;
+XLV.
+For time hath not rebuilt them, but upreared
+Barbaric dwellings on their shattered site,
+Which only make more mourned and more endeared
+The few l</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>15934</integer>
+		<key>md</key>
+		<string>sha224</string>
+		<key>password</key>
+		<string>cO8ahtNFbb0EHvhVKKVqduTG6HVEWulapil</string>
+		<key>salt</key>
+		<data>
+		0BiOLe1ZADU=
+		</data>
+	</dict>
+</dict>
+</plist>

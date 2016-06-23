@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		1i9sn34sBrQ0aWOYlU1ipjLO+6Zsch5JVtRxnwaARZhYCoF+DTbC6RukQXid
+		K1OY1zYnEtAoWfMXbMYN38ri5FnK5ZFU0nrqEGKo8Bx4EQVzH5zcH+/sp5NM
+		wSyT5ihJyFFgblWqR5ovRdcXjE2ULUu+Ap8i4fzTGmqUGEEH2Xak7V1Unfse
+		YENemI0/wk0b/IAf7BAYYbkre30jOi0LkP3ahcBqOEHBLZBSRursvuIiyt4g
+		DPyRgz4s+D2zOsB+nwy46saNsSRPPjHPQHLqtcUuQ2NoURJCgjepwXncK1cZ
+		tBujn8nfZAAnJhvpz0Vhiae8PqK2aYc1YPLWFsi4twYYVyZZ1YM35gDNV4yC
+		nfn0cjgMQWdlgMIZfEv9ZgicqB5IyVHcpvMxy5EPFZzvYeibgzMp5uvYWxZX
+		4joJHeHXkjt1/xmHMFy16j3pYOsTtp2hD7X4yByew2kHpNl1fkDYnAuvP4Aq
+		Rogl96xIw47cIiC+AaBTvg5WGTbNnQdnByRjqh7+0pL5WZtftBKm63eTwEs8
+		yHi6rmLw3TULZ5s8X/b4ntw2NprZy2q84oFTEXocqgG8NiVQ9FHXY7k0UoL2
+		Z2aOC2JGVRZFRvyKpdU=
+		</data>
+		<key>iv</key>
+		<data>
+		A2DwwkKfQukJS65epTWfYQ==
+		</data>
+		<key>key</key>
+		<data>
+		RRVtme6Lk/kGRU//ZUgn0pi24jjeOvl5sMKQ1SLRCCg=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>d without a scar?
+The heart's bleed longest, and but heal to wear
+That which disfigures it; and they who war
+With their own hopes, and have been vanquished, bear
+Silence, but not submission:  in his lair
+Fixed Passion holds his breath, until the hour
+Which shall atone for years; none need despair:
+It came, it cometh, and will come,--the power
+To punish or forgive--in ONE we shall be slower.
+LXXXV.
+Clear, placid Leman! thy contrasted lake,
+</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

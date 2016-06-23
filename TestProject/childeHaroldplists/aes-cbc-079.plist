@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		XVGvm099DKbB6f+9TUPfyrXvlmtzBuA8wYnhIGWoCqUDg6PVk9HEep9zDbSf
+		rBPgLk91kCWvJzsMYwCgfWByl3f56cB5q4B9XuUqYluSI1F09E+dcmlhRiiM
+		hXvjqXWHnsgcyEiQd2+eNFLc12PcXJ+4KfhOcE89ydWt0o25kQFa+y6q6HoI
+		+yuIL6nZMLw+LDoBJ4jUL2QbmEFpURCS2+ImntVNc8VaBC9DpggW9iu985lv
+		5qNRMfQqu9aUizoVDR5+xVV/OikKbibvu6Q96PyaNuOu+cWA2l2GKKn808PG
+		Hns3VF2W3M3f4u/rFBad3YRBjWlxu/XnaskuHU7gkXRHFfId0kMW6NdsUsuL
+		CR6RCsgxLS/qwi1qdRWayNtbJOfgT8ciYAitxqArrQ8evcHOsYoYF7yG68Po
+		xD/YgMqjN5kkJXTKdPUJzYKaU3r7rCXGzvSWsYecCyvfVFopxeN1Y789je5M
+		s33pVvDW63tanfdbbD0QfQMqVdhqyynhIBnBQvsz5coe70V1wkw7r41GPHKo
+		z/dHS7KTju3K/TY36gyVHvkj5H5Lk+Nm4Qt9tZ/BO4q+mIcIkr2324ylRhqX
+		Deauf9dCXEwY6rbb5wgYJgHT8XMrnoMsWz+tOOlmNJpXPHe3qJYX8HOIcVEo
+		y1UHBumfUZUeHka72HICrd0=
+		</data>
+		<key>iv</key>
+		<data>
+		VpqfozNdwByyKmHjUld07w==
+		</data>
+		<key>key</key>
+		<data>
+		vAqB0ahjT2ZpB60EBb11M0Cmt6Av2vkx
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>uldst thou survive the marble or the oak,
+When nations, tongues, and worlds must sink beneath the stroke?
+LIV.
+Epirus' bounds recede, and mountains fail;
+Tired of up-gazing still, the wearied eye
+Reposes gladly on as smooth a vale
+As ever Spring yclad in grassy dye:
+E'en on a plain no humble beauties lie,
+Where some bold river breaks the long expanse,
+And woods along the banks are waving high,
+Whose shadows in the glassy waters dance,
+Or with the moonbeam sleep in Midnight's solemn trance.
+</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

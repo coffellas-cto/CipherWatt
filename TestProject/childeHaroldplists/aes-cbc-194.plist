@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		qZrsStAFNM0ipzktiDPIIIyVwyIFPSANJ83xVxBJ+ZCJQ5Luptw/VAFrJVVf
+		sTZ/z17Djx4haBcd0PfyVOFjODdj4tuc0XOdht54Jg7IKWc3ia258h2AIpbc
+		4rX3tffdIZ/5C9ez9KGaaYYjcBWt8mH+VXBcgaohCfOCYxFo/xWurgkaLPNP
+		Z11XRP6DVVZJ578Dc00JMdLyovFJW5DOFxO8bjy+jdtffehwMdHy9m1XEUzo
+		3MuQxBGTUP9LSCySTb+UC0EMHqhnxz8doXD4CabqppEhW7P3ePH/Bz+6AMBM
+		l1/GVmUtX7xL0cK4+ZS2VHpSxragjaghhApQTAxOBmT25jTLmt64l9dv0eef
+		jjv1QLykAlZTbW8NuuD6l1pRqYMXGhxvdC3IlY8b5sGNhEkQeHTdw7pkY98t
+		jqyWzVXw1y25e0naHgulap8JZjvhvLgePTyEU9bjpjmuiIHd3Bv1E1pVQku3
+		T5V9OJ3Mb10s8M4GwTwd/WsrR4V4+98g3Ck2qmuG0igBj4i6/2qeXGdPBLWq
+		j+qdaA4qR4VMK1aszzmbvZ7hV5VF1oyfiiBk8HBFVIqT2nZJHPsK9RkkGDJT
+		gneszj+JNqediY5D5q7dWDidPoYBo8tpShSstGqNNUtEtJfbojNYOWuT+7Fv
+		bQa6HmIaSjtp+Mo5K2/6apvKRYddV6y2ewYFXsPD1EeKOuCCywchl9A+v35L
+		4ja7kZ0C1tCpMGGXjAinI4WTbVXdkv9onExA4wh4w57pwHboMJaHtkmYQVCo
+		GTeLvPabXzJ0GiPBHNVUm7egpktCoO9XwzIG0/wA6cbdZQ5ZLzwi0ClDuKPa
+		BLX67OcHqeWwMGeBnM13LHyqKKtKPZKNvMwFQMg1gaCdOq4xVdkc72LNhMK+
+		M47wZr2X7GNADZjaOgcFu592hwBIGtKc9DmPgz+NIS0K64Bd/wI8wY9PZuyH
+		tLeZtiQ5N+otgE48LRx11TpcJlIomZEePkwmysYNZVk=
+		</data>
+		<key>iv</key>
+		<data>
+		hTlk9Wzcum1a7R60GtO+zA==
+		</data>
+		<key>key</key>
+		<data>
+		gFgmBLFxvM+xchXrINhMT3P2K98LF4K7
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string> rose the mountains, there to him were friends;
+Where rolled the ocean, thereon was his home;
+Where a blue sky, and glowing clime, extends,
+He had the passion and the power to roam;
+The desert, forest, cavern, breaker's foam,
+Were unto him companionship; they spake
+A mutual language, clearer than the tome
+Of his land's tongue, which he would oft forsake
+For nature's pages glassed by sunbeams on the lake.
+XIV.
+Like the Chaldean, he could watch the stars,
+Till he had peopled them with beings bright
+As their own beams; and earth, and earth-born jars,
+And human frailties, were forgotten quite:
+Could he have kept his spirit to that flight,
+He had been happy; but this clay will sink
+Its spark immortal, envying it the light
+T</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

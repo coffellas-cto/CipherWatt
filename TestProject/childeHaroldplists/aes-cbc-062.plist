@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		90k6seoEp/AQro8Ihv0r+X7QJbst4FhUSJBL/sFBpJZwax/EV5ahTYJxumN6
+		8Obsehc9wugzr/dwtnZv9Y66HxXnttWgsW5ojCpYb6I7fABMQRpIRiQfQAt1
+		aS9wRTH6651+/dv00y1OLell06CeUb/FaGN/u4Cr1rhQPfOe3kZWiAJrD3+z
+		qSZ01DfayLCVrJNB050vJjkCU0vg4Vq9+p7XHjGtoYSGhmQM4+a5gLRIevsX
+		VCrqyl581VM65xAJTqRmZ2QQb1obhNiQy2JR+rg+bVmn/lVjixUTaF3Rs1FA
+		xHZUDjVYa7Ru/tBms8uG/JTlcrYwsvj4gHytyQX//ApWA7rRKojyOZ8apIe3
+		4vniTwHpc0T/b/1HkWRFPfgJ4SSnlT576+NrYfh8AwDCvlfq/c8RVnKODwn+
+		0TY5HEXUWGvTSw33aDSsYaGv2IGrvZv+STzbyyTvukX5IVoYvHSqpxgDgnTv
+		LwOz0dCmzS75FTURVHguQ3U+vwSWz5OgLmewmmtPVRlJiUecwW/aUSexeNmB
+		CefZtvIcyevIYzK1WaJKvirXR03Zb847zvyJOQtWRuHEALYXyjwx6RyXVm+a
+		OJdhYeqw5/u/MpxuXB9nKmu8Piecf/BTmhkVDU6pXRh8AHECzNEvyrIHCQDz
+		VWcUZPGx2roGFkOOn4zm+cZojONk6ovLwrCS4XWTk/s/CHXUk92UYdFBHNI1
+		6CEMsKLargN70+kLpZY0a/AicZxVEcVkdzCM7LTuxzSaOCC81zbyxq0zuIFj
+		zbX4xMsspTNLwurIaNKv3AB0dZGiFfK0f7v/Og9vG+8zQ/N1eXtoMhp8T1Qj
+		Z3doqYBg/AjRkcradYDwFV5jiCqH+ym3wOzFvcNX6y1R/lBH2CkzODmskkLw
+		7wf32fhIqGllgWpXeaU8fi1jf0uByp3kRbj+3EUTCbI6mHZGvKdT43llnwIA
+		p9ROO7RViFMcA972wt334X1TXfLMGIOPrtCpW/K7E1MS3cKnWAOUzO7jZjw+
+		mIFTH3VW4kM7BWN4SWf83OMnSd67/d2EybiCUd8hRaADPGDFfdbxn+red3or
+		1nToSOvonjgmE7AHav635P+BBjm+GXj5jSsQM2wucytt1hhiiEw5eD0LDd5m
+		jbLx3iEhCyhx4xTVuEjy7ax1Gz62cQLN9soXO3BUPJjLYQmEJnk23RhtldTY
+		rQiQ21ZvxIuqxLEUOZS4uTBGGNMQ4ANV1bKKIrSdAfd8l9r6ULZokH0Q4TA2
+		ExDFJzObyvG5YEFMsWrk79LE4Tqucrzf/3UUP8Byr9MyPYMmdyFI2xxKIFQ/
+		pby4QkvJ06nfd0rnxXStxrdub685/bvH+O78sJTF3PJFQtP8DkcAUTP9+gY2
+		OUoHlhnd4rFQMgRbFuLmVyrYcwNOEptUKFnBwhDhkMB+dLcsBA==
+		</data>
+		<key>iv</key>
+		<data>
+		EtyAWlSpj7fRr50p08l7IQ==
+		</data>
+		<key>key</key>
+		<data>
+		reEbtuEmjEBehHfolULvzQ==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> upon the seat's
+Of former sovereigns, and the antique brood
+Of Este, which for many an age made good
+Its strength within thy walls, and was of yore
+Patron or tyrant, as the changing mood
+Of petty power impelled, of those who wore
+The wreath which Dante's brow alone had worn before.
+XXXVI.
+And Tasso is their glory and their shame.Hark to his strain! and then survey his cell!
+And see how dearly earned Torquato's fame,
+And where Alfonso bade his poet dwell.The miserable despot could not quell
+The insulted mind he sought to quench, and blend
+With the surrounding maniacs, in the hell
+Where he had plunged it.  Glory without end
+Scattered the clouds away--and on that name attend
+XXXVII.
+The tears and praises of all time, while thine
+Would rot in its oblivion--in the sink
+Of worthless dust, which from thy boasted line
+Is shaken into nothing; but the link
+Thou formest in his fortunes bids us think
+Of thy poor malice, naming thee with scorn--
+Alfonso! how thy ducal pageants shrink
+From thee! if in another station born,
+Scarce fit to be the </string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>19919</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>QSZ68eRQZu105e2RUBt9GkiIIkVj3DX</string>
+		<key>salt</key>
+		<data>
+		6rEzUBYi8eAvQb4T9nvdOSw=
+		</data>
+	</dict>
+</dict>
+</plist>

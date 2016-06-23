@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		nfJzkMFTOzK6ZfjRe/Oxn8Q8SYhi0j7Rk4gESz603yKnxRk/YFXIuRmez2Bh
+		ZY6WSRjrH82LgajakvBPsktn2tBJ4uzcAtFwPz3aNQ4uCANPUNicwyEfoqKQ
+		11U6aum393hNCtUtEAczpOYc3UBOnKKbklcnlWyEzxEuNWRwbXWPAg7gUrLn
+		O0vnMzPXjAJUYhUvh8LTaR6mWx8D1yIZwBrNgiun7WslC/AuUNsXDAnsUmjX
+		6zxIxrZC+amW85itjrmui2egBgreaD+yMqwtVNieo4WQFywUjzVSrDMDXRCi
+		4jseIC4xu6G8QvEmrsaXX3beSN67W5DAjqfP+15HKO/C8wNC4tthv+aZ53DA
+		v31dh+2ZjsmDJRFVFnBYHjVNtJyNAi13HbInKlGN6jCUpUtsxzgwoflHi8tN
+		39tP9z1Src+vizlWT71JFJvA2MOIlIRzguYgsyO2A+Lfzudc52id6Ayfoh4/
+		L6fasV/Aczy09xyQ5KMv3zmEq93wKJPBp3CGk0he/M30+q2GDEiSnda3p5qF
+		eDhEo8suSBL/a/1aiio5MBzPZf2F/FxvOnlY1sbLTKtdMNJ/NrT+QCFikSNm
+		Hy+5b7dW4xb0/5Rz+qJ3/7h9V9YZIK2zcF9MCDSpAANhXRf8aev+sA4PNlqX
+		mXTXMX0VDfpeMbFw/hNrQY9IpOHLS/mgci5+pTojwNzSrsIq6jYLI8Sx9+Qa
+		OC3nIPBN1LtLV6llbw/I5ICmHXl6O71xEMq7Di9f4rO3yerU5eX6++PVA276
+		rcDse69xJp6Eu74GPBZ0s47EFYV6fxGIpFzYH/+V5Ympn7skjXCWjAN+8UOp
+		LqGPDtPgvBl1/l656WuZNnCK80Vjk1kVgwkGbQxxxMAigeiuDQPw99XVpQH+
+		Uxu4/R7Toh9ae2KKZ+clsqkx4t3P7U6PN6R9SLxZQabEv56O1OZCYfoMKRNK
+		8Y7jVXdcDaK72hZSR6Holp5wR3mL0jrTlvkpG+hbc+7X0BuY2CReMpGPeV5v
+		x6SFMrZeQGuaKAA9cfrFMHr8og==
+		</data>
+		<key>iv</key>
+		<data>
+		ySG5ci/iOiG4jaimf5FfWw==
+		</data>
+		<key>key</key>
+		<data>
+		Qgl2wbCcHe+cTXBg4cPNgLcn6259oz6wJQspinlMnXs=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>iven him far from those,
+For 'tis his nature to advance or die;
+He stands not still, but or decays, or grows
+Into a boundless blessing, which may vie
+With the immortal lights, in its eternity!
+CIV.
+'Twas not for fiction chose Rousseau this spot,
+Peopling it with affections; but he found
+It was the scene which passion must allot
+To the mind's purified beings; 'twas the ground
+Where early Love his Psyche's zone unbound,
+And hallowed it with loveliness:  'tis lone,
+And wonderful, and deep, and hath a sound,
+And sense, and sight of sweetness; here the Rhone
+Hath spread himself a couch, the Alps have reared a throne.
+CV.
+Lausanne! and Ferney! ye have been the abodes
+Of names which unto you bequeathed a name;
+Mortals, who sought and found, by danger</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16485</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>J9SUttARcDgj5zzf88smWotDMZhQLRE1Js</string>
+		<key>salt</key>
+		<data>
+		TiJ2WdG8wsqHC52O
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		E0+dLhoEd5ZRjj7UUZJWyKOY0uFFfz9pOsqFC+a13YVZw00woyuvROPNjLaV
+		AZtea3ChGlxc1zLtOTxySdx5mVDBYj3Eu2TwMyvnTddhSkChtHuLUAbD22U9
+		m4vDsVBEW+c2fum4UofnGogFjn/ZHbuN2BIZfR4+AHCyM9UMFMku3rBD1cI4
+		YQF4071o41P5nGlDtsPpPNi/ctnxo3D6PfxiHhgAn9jN8Lb/GzRnim761hkX
+		CB1YbfawBBnbFoR/XDENKQPgolCWUUjGmxdU3ASWW2fNS14GiInFxV0mf075
+		rTAah3+BCEGQHZOiM7vcdy0+WiGQPZGEXtdz7peh//Wx7mHzHu7+Xrwkh7bQ
+		NweEInHkO238DHtgdFA3lQfuE6/+ftP7TGGQSmuouOr4qEwRyWk6OtzcEsM/
+		saiXFXhyFHHcEgetI4APRz46q7b6YMe61Wi/Fjq29lB/0bng6H8KtNlcvOXb
+		9BSInwb2pOicHByJISD08SZQhl3B4t7/Zt4Rjy9Kx7Etpbd+Krwi4Cq1/MQd
+		ITMkD6QMQnWYG8pVefyn6j6LBWkGhZubEEiujCZJ4KuDl4elonw9FmfiqF86
+		aiDCt1fCEM77G60DmSDlqg+5a6UCaGuMp+0P0UBIbanyNFXz7CT0aatSh59/
+		2AfRqXf8yt9Xqk0I7yuTl3ne5nHIvSMyN8JqFQOjl7m5iTqcf8kw6V4vxvDF
+		xBzu3cXxRmGp7/Axo/HbQDC22RI=
+		</data>
+		<key>iv</key>
+		<data>
+		nWeIOCeuQPWBr9J6yn+L/g==
+		</data>
+		<key>key</key>
+		<data>
+		Lx+MmJKZuMG/JOAaF0j032MoX1DL7zrcdy6LdWFqZTE=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>shock renewed, nor can efface
+The blight and blackening which it leaves behind,
+Which out of things familiar, undesigned,
+When least we deem of such, calls up to view
+The spectres whom no exorcism can bind,--
+The cold--the changed--perchance the dead--anew,
+The mourned, the loved, the lost--too many!--yet how few!
+XXV.
+But my soul wanders; I demand it back
+To meditate amongst decay, and stand
+A ruin amidst ruins; there to track
+Fall'n states and buried greatness, o'er a land
+Which WAS the mightiest in its old command,
+And IS the love</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>12974</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>1jKc6QhOPtA2T5Ywi4dMnGwHMdfV5p6SVXLpzL3j</string>
+		<key>salt</key>
+		<data>
+		wu/UURndtixvC0o=
+		</data>
+	</dict>
+</dict>
+</plist>

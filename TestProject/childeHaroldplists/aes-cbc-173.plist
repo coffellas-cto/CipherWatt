@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		3Mup0SzunpyyghwRGLr6GwF9KwVr8AMO/i+O1eXivukMB+sWxaj+t+yKJ+p7
+		SPFSb/Dez378Y9vG9OvExLTl8XL5pZwu82w1nIHXZVbJAwsD7EO8NfPvSKBO
+		oixU+y6+AvMpBOdfY+YFCzC3zJUVHILJ3XOAW9LV1BzT4pJIuhpgQDVhSmPD
+		RlUR2PXR9ZPQNZt5HhXxTX2Q6epCnCL8ylFSJ1UIpLIuJIBg9i7B28t4FUe1
+		T7AL4hwH4hokg3fJ0TBGyzgprB3Y1vUNLKsXry77K/pxfo1uFLwR8Zs8VobG
+		hqTm2eyFXp8NCRS6J1r/5U0/otUTiNyq2zRdy5wg4PEeJ/PgR3bCZc+zhYkk
+		m3Jhl6mlbzEdf22XsMa51sKqd9H9P53tNx7L6GhYgk5VR6XzVJxtm0Bygjg1
+		y1DGi8l3U5rJKS5o+wctRfi5JutxnsSRIcShpjGQngkLO2greMYd6YOI7BOn
+		FcmcpkR7eFFUK0wSFb+HGr74uKTM7kU+gyG4EmxaVyWiIIbByxYMhl4Fnd2x
+		dx00oWGgCtd5hGOyEmjasVFbLcRRvRhidWXYb1AhGzqLnjKxkBc59SlbQL5S
+		xELPFL444/27AGUEesxBhI2/EFJrgILPbhcQQHqmVBL83Q4umEzf5Xs2RYLF
+		hVUPUVIrY+FYXBQWgGr8tGp2wiRV+KQ3lyC6so9MzPxzHc5/COA4ZPVVNxXI
+		LTuB7uDHIb3zUfOkZN2xlR+gT9o=
+		</data>
+		<key>iv</key>
+		<data>
+		S2q0NK9bs5FID3k47vXaEw==
+		</data>
+		<key>key</key>
+		<data>
+		2NXROchH9/aoVMxID0eGv053J953RvJQ4YQvBL9imTA=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>below.
+LIII.
+I leave to learned fingers, and wise hands,
+The artist and his ape, to teach and tell
+How well his connoisseurship understands
+The graceful bend, and the voluptuous swell:
+Let these describe the undescribable:
+I would not their vile breath should crisp the stream
+Wherein that image shall for ever dwell;
+The unruffled mirror of the loveliest dream
+That ever left the sky on the deep soul to beam.
+LIV.
+In Santa Croce's holy precincts lie
+Ashes which make it holier, dust which is
+E'en in itself an immortality,
+Though ther</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16642</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>yMeN1LvtaECaYO1ULIq1OVjBT8hhBI96od7qRD3KA71</string>
+		<key>salt</key>
+		<data>
+		wrXqzuWOxJWDLi3nqWBMFMY=
+		</data>
+	</dict>
+</dict>
+</plist>

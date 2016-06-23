@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		WH2tTqBi3s/3aSTIVgP2IqGPuFD+VA0MKAz2XhoTaN6z2sTLLtab8AhX3O2A
+		ismD0qzCKmPWrsaYYEFZ7WdsG8y4PzmhooF93sSA+eWioaKq1CSVR6PlYUVn
+		nIq0PeXrzWbsel+EknjiWu7IX9hq2KreWxeH93sQ1ZTQfDkM1SnC84hETIbI
+		DnTS6FCvELHuYjoaR8pJL7Gq5dOGwy+kOf0szqBD9EVYmBStxJCVW+Njp/cI
+		V6b9xoaHVCwxKu9zeYu8O6B63tCGWCPzy7Njr5qbclXFYS2SFMBD88CB67O7
+		h3gmeiatt6jMVWDCGgE6F5RCJmV/si21mbcOXwBnpwXLSEM9qlzFQbmAikN8
+		cvHlCH0S196H8E9A6FUUhf99NK2lLRulZLkievHsrkuwJBXhMixN0BLWpoGl
+		6Z6X0SCHqPehciQYTfYiZKlmzmGs/LcsN598OpbrH/yGV9GtGlTN3RfYxZ9W
+		p1S5irRJbqPbRjkubWI9Ul2+z2SoC+OJRVT5bpb8k4uY7Q2610zA1e4YOga+
+		ZouYKr58I47aXhENHhJESzt0xbFz/wcGeioArtKnTgOYLgFbDZDWa5MbICDh
+		SD+aeUolxzZSXa2fHjyyBNf/U7bfzNeRV4CzxwVXKmss83dGfmS0v3VW9LNO
+		nBdte7rYxkHz7DPp9Lbgc7O62JyGotw8QPXGvI/1L3tjSx+s+772D7JCH68O
+		gBL7oj73LOEF97zBsIZ/ZHBXcg4XuDwVVhAk7KanXo3StLOTk8rg6JFvWQ+J
+		YBNYSfiJAXR80J+cm+Geu50qbP6GA2dJn6JQ/WZ2YGL6n5U1UIDPKGwpW7c+
+		dSREvjgozkj/jB3iM+sulJ8uGFY1yLgxC4PoX/Y9/WoorNBzNja9LHuB++JX
+		fgiRQ86q3VMurIp9A8Mju31U6Nqz7Ev9sncCP2w3OSmoc7cb477ueNM9T4U2
+		JNiQRL9LwzlbkI1sz1Mnr1wR7Iq+StjizZ6BzoaGypjWdszjYtTxPnS3xrHz
+		cT0smUozz+FlBzszIOqDuGmpTsyGZk4D2BTY+dHNiIw+gzsqqh8Veh/9CmII
+		YFMI06TKwroE6Qy/ykZD3+bNaOLsyGzsmqiLZf9eqm3eR4InxkLCatEBJ6ol
+		RKHWwJnrZoQ2hLzP+0kH2k22bXmzW2tfuw==
+		</data>
+		<key>iv</key>
+		<data>
+		588T7K9LIqharzFcC/J61A==
+		</data>
+		<key>key</key>
+		<data>
+		u5sVhyrxyQ9Cr4q/YWrq/XuQXGHBH3Um
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>e sating gaze
+Of wonder pleased, or awe which would adore
+The worship of the place, or the mere praise
+Of art and its great masters, who could raise
+What former time, nor skill, nor thought could plan;
+The fountain of sublimity displays
+Its depth, and thence may draw the mind of man
+Its golden sands, and learn what great conceptions can.
+CLX.
+Or, turning to the Vatican, go see
+Laocoon's torture dignifying pain--
+A father's love and mortal's agony
+With an immortal's patience blending:--Vain
+The struggle; vain, against the coiling strain
+And gripe, and deepening of the dragon's grasp,
+The old man's clench; the long envenomed chain
+Rivets the living links,--the enormous asp
+Enforces pang on pang, and stifles gasp on gasp.
+CLXI.
+Or view the Lord of the unerring bow,
+The God of life, and poesy, and light--
+The Sun in human limbs arrayed, and brow
+</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

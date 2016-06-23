@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		xpHZdHFCwckswbmqhj8I3a0N9Qtgjq/egpXdL8SP/GhU5PPFG2E6PZRM5UDc
+		yqupkJRIVz4G2IJv0omcyrAE1DCBLsxrkTx2bQw727cA3ohK+TIsUqYPpoqA
+		cp3jQBpL8/GxUlb2PQJbplJy3Xpk1fS1Puz36MlCxuCQsO18Ak2qaw/dh1UJ
+		y/laLeTdgmzQvex1XxPKor9+13wyqDMd9p1eIVUOL+gfug6dA5qUSTDzId11
+		uR30bGwoq2yTHcZh24qgsP03W5K0IeVZII6LlC+R6PIEyFA3Ns4ZaN3X+028
+		RwhcOb25gROTjYgWt2eN0+qxCSpWd+gb98VXNjx/7xQRjF2IUA7YIYfhWhbD
+		riYzrnmoUQ0VpRVF7A9U39ykinkegRUS2uTAlqt07QxjAcKj7DtnLT+wQB7t
+		UF44AXE=
+		</data>
+		<key>iv</key>
+		<data>
+		0vxjZCuaby066Lr/ketOKg==
+		</data>
+		<key>key</key>
+		<data>
+		AoICKPlLvvk2mj1rqFV84w==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>avail,
+Nor the wild plunging of the tortured horse;
+Though man and man's avenging arms assail,
+Vain are his weapons, vainer is his force.One gallant steed is stretched a mangled corse;
+Another, hideous sight! unseamed appears,
+His gory chest unveils life's panting source;
+Though death-struck, still his feeble f</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

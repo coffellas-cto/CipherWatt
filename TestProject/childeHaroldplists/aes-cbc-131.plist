@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		kFggi67PwSVuMA8ZBplRQmako01zGUWG/X/GlyDHOMbbTGj3N2fMqopDkg/n
+		j6NyFX+g1m9qiNrLL9GY6jYjGluzYxLwtZRyECrX4ktI+7TWZp9FSpiLi5+k
+		+vFWmvEJQY0+VIwNFPofWNPqfWqZiIEmKM+f9wnLigU8QxGBmvROHsYRUEi2
+		Rlm5xw/omfRDf4vrmTxqVrqTmuRovKKkdF2x110oDA48ldOQ7YIPTVLs5kMY
+		zDqfjWJRsNhMd7oVKs6WVDcjrnSqlj4W5+FQWfe0dJx32JiQztPTQiw/euWg
+		hgiPuCJnMRCJkdVRgrD52xiL6P/e7T9O9Azw/73m04ZkPKyq6yGpbrafG14l
+		A2DujvmzKswnkepJNETrNDWy7+M6mClBv9aPUHn2siLVlOh/DvLIYRo7I9kf
+		KHj3k6e9BdoKnCOAIyoq4IIFWFCn0ohFOy9rRVoo51h5p8kPuVkuZv+IBu+b
+		MZvKjT32d01UoV6llFqBBBJBEZPgyc3LUV5ODkYVNgEYVK/PWKx1ASvBU349
+		9aReEjEAei/yIPGwEvsPT9/3b2kM81ifCcU+rrJbQJj1CHYuvE9RtQmJDXKR
+		Y+MPFSqsFG2ZhtsWOhrlqWmJgiAVv7qoYw1fNV8S2VXiSjz6dGggA8TCKt68
+		XhPMtbhlE79EZ5IFNI1P00giBsC/DiTDldwdFxiaCAAnQXriUfA/u+PtKmww
+		DFVWU8cd3Md7XbCiKNllHPlQdJaicwaMaDA547sCp9IEfoY1DV9oiSFKHwXA
+		n+e4mXHNWM3ola/JzjIDXPWAFBPywexn8xQw3XfWBltarPUP7dz0GWTc4i0v
+		VSvi8uDg32fPz2fUlMWSb98dG5Uqmqs88MuMivMwdnOI9O6/TIvA073zy6Zi
+		4+sXkpDkJflx9OIWV5uenSmu+zZh8WFKRI6X+nWUubd5Vy9AbGZgL+PQrPd/
+		pPs8mHGW7ZZPA48qUWFKhRZDqc26JYuX5CQdVj6hc309I4OkShUxR8QM8IDF
+		1jJgj3us8Mjq6nAisUtbQ/hngfiPxeAI8yC5F0HsXSEhCLFN9mJtBN2WtWhV
+		rgoM/wbm+9+hJ2cBal4lNjzGf4226+f5DbGxXQ5xlD544X7qmQJdAVCbN4Hw
+		vSYRhnPLqEH/aCSTq7swfRdv6Gp4RbDVKcYp7XthJ35QKCwGhQssEVDt6TKT
+		tyz4/NeIOoO3asHeS4NmED5lTVfVDB4SnTaU62ocoLfFuYpIJi38ZlCWTfqu
+		0gi8cFfBwZVQiZ/2ZJO/0R0KTKBCUdvCzVA6H+NqayOJJjMq7uZCi10KbWWr
+		sWJYUWgZvnqu5h+BP8/RXDcQGut59ALCm2UMt3gD7ZXIw6YxMUNNQ5jKuW17
+		qIAcwiCamBFN6NXDzgughHZ3iWCVpQClZqzd62Z1pXqLSHM4Sw==
+		</data>
+		<key>iv</key>
+		<data>
+		1YkGuz0HFKfqcDJjHznc8Q==
+		</data>
+		<key>key</key>
+		<data>
+		8IL1TZW7eWO1qRbAj6tZQuVv2+KoUbof
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string> the mighty low,
+Pride might forbid e'en Friendship to complain:
+But thus unlaurelled to descend in vain,
+By all forgotten, save the lonely breast,
+And mix unbleeding with the boasted slain,
+While glory crowns so many a meaner crest!
+What hadst thou done, to sink so peacefully to rest?
+XCII.
+Oh, known the earliest, and esteemed the most!
+Dear to a heart where nought was left so dear!
+Though to my hopeless days for ever lost,
+In dreams deny me not to see thee here!
+And Morn in secret shall renew the tear
+Of Consciousness awaking to her woes,
+And Fancy hover o'er thy bloodless bier,
+Till my frail frame return to whence it rose,
+And mourned and mourner lie united in repose.
+XCIII.
+Here is one fytte of Harold's pilgrimage.Ye who of him may further seek to know,
+Shall find some tidings in a future page,
+If he that rhymeth now may scribble moe.Is this too much?  Stern critic, say not so:
+Patience! and ye shall hear what he beheld
+In other lands, where he was doomed to go:
+Lands that contain the monuments of eld,
+Ere Greece </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

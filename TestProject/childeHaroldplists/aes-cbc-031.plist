@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		SrT1f98n8xruT12O0mH9DIHBFu+kl4+RlFNUcu8BN9OjuP45kOh0sEKcYyf2
+		yEa4Xmn7ypxMC++Hgj/hIoI1wUnABiVFMvv7qj1Ytqj9exzepZpVsZei4dW8
+		XaRMTck+wB6d7VyPbDJxoEngoi94lKxcGRlRI7ymGtUO6DS80hT7Q1vqnQh4
+		SXuZJD+ve9qDYC1idbp4XJNbH4tDI4xXT6ctb6tleW5MAqjQ1COLRV+00qGG
+		bMuzcWP5R+LdYslKTH53JO3Mq/nNZ5Cuso2MSqPWTE7VmrV/sKi+RI7n/pgF
+		mhIOkYTuod8ep9TOPDUvLe4NqNbQzSSEmr4hIuS3a77pCqnGHpU6JRYtfJPg
+		wcC12V5XEaLbE5xXyg0rOBzbIrAqC1vSyjA7ucfSIsNH2Kv0q+hfhWQc24Ji
+		odcR3Ok/K5pTKBzcncAd05dhBn5uZWZ5BwAeSIpESlln/+5LySe7M9wMak3I
+		+ZXu9v4q4sHQNBXlwy26yMkvvOLoKmFi8U4/xbXY4CA/aJHYHZvR14JQEUQH
+		ZYTAamIiLqbW14EKQAlDWwjOWqg0RPbNyp1JFs++zSt+z6LpMOPYQDm8ypb7
+		DtCxw6tXmXLXm6IkDFCbOjGk2igP9C9ekbEgvyfzrumFV+o3W0K7TKe0Rd+t
+		jmon/Hu1HbiDc06bMSM/Nf9HBUMSaenyGMKewIPBoYJJHMOzyenofUPLKzho
+		Xwc6mMsYGt6M0JtP6N24a7hA2qPbIP/XD4EBOGNakeaDg3B5N6B0zqvkb8VP
+		mLoqWTLFDgcG27lDEKPKEDfPPYicQFsSGaratN1f+l7K2rZL4sG90sdvEakt
+		gIL6PttlytXKzu625/My25cUo0JJQQbejFdwlLKjAO0Lgp8qKtOEPg1FToXy
+		xvF1J7rHUuhul6iutQ4IyOLAX5NPjI3Y3LarXpwBEo1sD4Phbz02LmicJ4Hq
+		PAY8lPJ/4Dvw4e8RMpzugQ==
+		</data>
+		<key>iv</key>
+		<data>
+		/MBchThdWU0utp47HwX/Gw==
+		</data>
+		<key>key</key>
+		<data>
+		8kznQZOoiJzS/P0j8XnueLrlj4OOxXH7CiH6TurFiJE=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>ity the deed proclaim!
+Will not our own and fellow-nations sneer,
+To view these champions cheated of their fame,
+By foes in fight o'erthrown, yet victors here,
+Where Scorn her finger points through many a coming year?
+XXVII.
+So deemed the Childe, as o'er the mountains he
+Did take his way in solitary guise:
+Sweet was the scene, yet soon he thought to flee,
+More restless than the swallow in the skies:
+Though here awhile he learned to moralise,
+For Meditation fixed at times on him,
+And conscious Reason whispered to despise
+His early youth misspent in maddest whim;
+But as he gazed on Truth, his aching eyes grew dim.
+XXVIII.
+To horse! to horse! he quits, for ever quits
+A scene of peace, though soothing </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

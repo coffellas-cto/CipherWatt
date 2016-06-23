@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		Lgnj2eJ2pPqijRESrhamUVW9tkP0/M9pns8qjuVFah+GenFP1ZUbz6Ci+pe+
+		kI8rerTNh534aYvj3a5g5I409FJ9UDBgEa3FjqXSKvWsmiZXepUVLhjdLTl/
+		dMkVU11RiDKYONpaTSwq5g96/In1MEzwwTPeOT88GepNenDDDaqhcTK8QswY
+		Q6Kc4mFBbldAypI+USPFYYU+hGMVOIw6ibdk2ZrVrBDUfx0XYe9RRCrdUZ31
+		ZR07Tod8NTuAUqrX+OW7p3ul8r5vDUBNhR+DxfyFPzvyk4qym1aKp9ZJQgpi
+		NAdun6ZDj1iDs2D34K8N30aBO/uIsqg9lg0XFIRFMt4PTi+dX3Ti+YExhNXA
+		w1dous0bXcIr9FCxNRP18Bbjly8eJX8OGS5Nx4Np15ye2fqUkEyZhypIPn25
+		JLQGkPZdnIXJn7C2yUm/lAlVc0WH503QQPYxpQb/HH6234TeofetMJ94xuMJ
+		msaJkxQGGAysjUTNUZUrDkzBQ0ki62zte1GUZFIzDXMFL74lW3KHvc1ptxyE
+		0hYV2Twg1EfGB0efaHipJPKqUFYiF/LHt4twAcODQQMUxRFJa/54w5y2hJA4
+		c38pLPBUrbgV0l6UNOLdll7Eq4M7sgpZVYZWR3quG/1uF9Jm0hrD41K+S52I
+		n6jEHzP7Sbyfpn2mjOlHJokUjLDCaGBsKmLEogsg3g21+Nig4paLviFaN1Xp
+		7IqcyfXSlCYmoi8jKNrQ4YBV6Ngkd/NOQQqi1D0nhsTLV0bxrWdkX8CPTJMQ
+		orkMawyjCLP8fFI5iGi4uGowX7u0zYrUoVXo5JEMXGaeVTCysNhM4MsiL41S
+		WscGZw4SEndII9m4n71ZMh7Wx1KYPWiktFSPN0N0YJv43jHGB74j1Kdj
+		</data>
+		<key>iv</key>
+		<data>
+		TI5xu+8Wq2sTKiP1SxzMfg==
+		</data>
+		<key>key</key>
+		<data>
+		/z+xGov2k//8jy76W3NT8Ob1Bm8yglDig32/sQuM7os=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>o what region, so
+On earth no more, but mingled with the skies!
+Still wilt thou dream on future joy and woe?
+Regard and weigh yon dust before it flies:
+That little urn saith more than thousand homilies.
+V.
+Or burst the vanished hero's lofty mound;
+Far on the solitary shore he sleeps;
+He fell, and falling nations mourned around;
+But now not one of saddening thousands weeps,
+Nor warlike worshipper his vigil keeps
+Where demi-gods appeared, as records tell.Remove yon skull from out the scattered heaps:
+Is that a temple where a God may dwell?
+Why, e'en the worm at last disdains her shattered cell!
+VI.
+Look on its broken arch, its ruined wall,
+Its chambe</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<false/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>14072</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>KTsD0WvVum4f7gpCml4rPE</string>
+		<key>salt</key>
+		<data>
+		3UxXUFLIySjRg9z4tpe0NC947Aex0A5ggo+S
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		SLWO2FESjmbAgcKN1tY8zbeQqtHZUVnLnFJGq4cthyyFmhBWnPRWoQF/i3aD
+		AfrR8ugJdTroqvR7OTbgnUsK+dTgJOy8EV/SdJek9y+pj4H/rGQfC19YyhXl
+		f7wIEiZqVFoBr4gTMyelzRYYjCACJ4fu3i9BCKnknx4HFZsKymUlJTzqwLq2
+		G1h7flraJZ7AiX2zuJ+RuJwpEOQswRH3WBzvMfZENj8XgXL4fLrIftpu7MZl
+		9JBU8yOZKB5ttuMWEIt0PSMMjHt4gJ4++gSmBg==
+		</data>
+		<key>iv</key>
+		<data>
+		kBVPC2skDAfavj3E3AyUxA==
+		</data>
+		<key>key</key>
+		<data>
+		L2gJRGk6X8VkfeeitCTtlw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> when we
+Beheld it last by Calpe's rock unfold
+Those waves, we followed on till the dark Euxine rolled
+CLXXVI.
+Upon the blue Symplegades:  long years--
+Long, though not very many--since have done
+T</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

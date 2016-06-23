@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		DQ4z0tbCNOxcNdWMRqVn+uEE1VqHuYmB4M7XxOESYn9XB37mNT1BfNleWVWi
+		gHEWg1OSt58776/QCidtcC7KfLDhVwqEOp/tnbydYS5GZ+o2Gi0U86XgGeAr
+		M/mHYvHi7s0mlcsb3yMVzaEzgZDq0SrJIsGT2r5thUWbDwLEU5Q76ilCSanl
+		RcNYuuyixzSFhNESBphyzwk+X3Mo1hTiopTjqsYySQSZveRuhTK3zBdLPZup
+		i1Joqxaheuv0E9fC5UBukquis4B4VeA8h0HAwjJ3B/Jgy/KVtKbSj/kGTYI0
+		Im1Grw/pYZdOw+Dd5mCat+ipK/EryvsMZVYWN5Wh8XEgPFHR/Jj19qIWlxeM
+		g/wI8U9hobNz7J0u7LkFHbnD1IgCpnOWj5K4Z2F5/xz8C9hbYyVqIwtGlgxH
+		WoQT038o/8IIxGf+pS83ePegbPmMNMq9yix7vj8k0GsTS/pm/Ugtp8EmGIDG
+		vovrGIN3+C+mw+kNfDEhl1QD+xyV2YIoWzg6iFsg9rAxYb8gPi6ZZTOdKu1L
+		Q7ySkztMUWHBH7FplbGEP8dAk6C35kReSznVmNxbNsw6NxN6D3cI+yA3AWMf
+		ItQY62KytlAYY5G4G1SM5Cd1+8spmqLCQzSpeU0muiJVQ5si1L7Bq+W/opvl
+		yTUa7fmxVh3hVbY+PxMmSaBBkUH+omz/Z/ZQb+d1b6EUohkRrPnQK4FtJlIk
+		2cRKFNT2BsvaJGA+pI5b+/9ihq9qy/kyxdIdHF5pk43xX8DHUh+KXbhu4A+m
+		uMAxEXemVypBbcDRSIXaSK2M7WOV8gKo8uygOL2EOOgJQBsG0jYa5Cod6Fzy
+		dU78AxxdPvs0tng+XY+MWsw14p+h3g5IpLGOyimkh9FMF4rgYshDrwp/Qk/f
+		Cf2i5hpGm+gIHTsZAiC7oCmjlkvu91CiiRJb16hJG9FhzCmkxU+GZ2CjMkey
+		/6lHDDDIt3W1/MIZGD58cBRvUCjKUtAXwQMIkqk44zSAEw3oNjE8SO2oMmzI
+		Jh+ODs3kbYU6QBpFlZy2Z8RR2x3P00ehVEA7jW7iHRwHJ5eupgbiOCT2XDXF
+		unZJGa8eeu3B37HGShNEnUXUEbZUtrthwUJMWstTtNl+LrpNSpXQbGQNyu67
+		LnVlx+mCNGyqmW9j23tpSwj5txyzudW2RN/LKWGWSL6l7/xdyFypWg7fP6mx
+		GFoi3DNaeaGiO7CObEbVaVJLjTG8RgHm4JyJpMGQFo03EcdRBXByB5HydaBh
+		Z4fV4JXgFQHgFyJ5QijWvgraKVtJGDcDze/VzklIs2onnkGYCBYve+RdG9N3
+		inOpwVki3xhaXTcIugSPoVf3zK3gJNJzmtrSpom/zBRtOSyfj5yb7mPRttpI
+		61yRNBU=
+		</data>
+		<key>iv</key>
+		<data>
+		sohec+sqY88vB0PVOiiusA==
+		</data>
+		<key>key</key>
+		<data>
+		Ci2/QtnTvXcoBZHjY0fJNg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>ain and breast
+Flashed the thrilled spirit's love-devouring heat;
+In that absorbing sigh perchance more blest,
+Than vulgar minds may be with all they seek possest.
+LXXX.
+His life was one long war with self-sought foes,
+Or friends by him self-banished; for his mind
+Had grown Suspicion's sanctuary, and chose
+For its own cruel sacrifice, the kind,
+'Gainst whom he raged with fury strange and blind.But he was frenzied,--wherefore, who may know?
+Since cause might be which skill could never find;
+But he was frenzied by disease or woe
+To that worst pitch of all, which wears a reasoning show.
+LXXXI.
+For then he was inspired, and from him came,
+As from the Pythian's mystic cave of yore,
+Those oracles which set the world in flame,
+Nor ceased to burn till kingdoms were no more:
+Did he not this for France, which lay before
+Bowed to the inborn tyranny of years?
+Broken and trembling to the yoke she bore,
+Till by the voice of him and his compeers
+Roused up to too much wrath, which follows o'ergrown fears?</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

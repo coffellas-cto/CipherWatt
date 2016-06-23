@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		n4NvCexfQONKXK9HSWHUtJQEXIcyzwi74ZyrPuhlUP5Mch2Xgm6t+VZECv9i
+		2P/ZWLu467ZuJDh3mG2vtFYHaHmvKeVbMP6qvIGq4DgEnCNM2+XEpWz70O5Z
+		cTr+4arpXnMS8LHPQN1h51CiVpjAZkHTB1JOoyGNcopiBHmV5nxrHfKCSm6D
+		xMKGx9SIqJ5sOY0AKRI0/ojYRfmaTwtS/eTRTcL7p3utqI1h0PYeMqf4yuZT
+		84U3rGhitHJo4daUkm9dFqDWJEEhlhq4tUPDK6pGPF54iG2lPvxhwy3Z1lxL
+		v07RjghAvOcjPbmoypzeDCYlpF4R8LDN+p2PSbAiLnuWrcNcFFF2nImKPFoq
+		nq/edAmhO3coc3KghFUbLGmrYUPXLd86zM5d8kdImpBKhhwQzB1wlgsAhRZS
+		sStnL2fTyMjH3MysOYC1sbKNc9eNu1DVj1Hppa4tSlqznYAo74qTDeyp0FxO
+		lNqCdbIwlYYZKJsvwz8ZSHlB4yk1whBb
+		</data>
+		<key>iv</key>
+		<data>
+		L7WRVKQ/bD4EKlrhQtsj5Q==
+		</data>
+		<key>key</key>
+		<data>
+		aav7qH4BalRfT2GU85c0iuXSh8r6v+sU
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>e
+Fill with thy fame the youth of many a shore:
+Boast of the aged! lesson of the young!
+Which sages venerate and bards adore,
+As Pallas and the Muse unveil their awful lore.
+XCII.
+The parted bosom clings to wonted home,
+If aught that's kindred cheer the welcome hearth;
+He that is lonely, hither let him roam,
+And gaze complacent on congenial earth.Greece is no light</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>11430</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>mjWxIBHDfmTGTOk7U38j2AK</string>
+		<key>salt</key>
+		<data>
+		MoBdK1YDkF5wn+AQ
+		</data>
+	</dict>
+</dict>
+</plist>

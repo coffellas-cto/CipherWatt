@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		d5Vn+aB5RTccbSJC6F1fau3cXkrL8DynO1QO9bXklvZ2eZdRdbSJH1DOTxGH
+		ucUrJBYVzfegLt42dh0niGO+wqMKak9mjCze6CiXLPLWeq0QDVvQ1DfiSlkY
+		TFHU96rTA81hlo9XStMmIgNeP04wuHgZWjlQM5vtSXZcxZCmC2DXQW9U2jY8
+		M3dGi23PUirar5su6+PTT/L1m3qNRN73KNvD3ZZoDQANWLpnXXEbyvJFwEfo
+		gsuGdnQFyOuS8x/aN7itQJnGSWEKqIeOeHApP0WQCF6Gu88naGLB8AJn1JXt
+		900yt8bAcFxbEWcErD+/n0Xb6/fRHYRtx/XEZiN6qpc+uWr7JKsqwh+ZHjVT
+		1YXbaLsuM7AUGoPWdjEBoX9Y2gs8IiHs6t6wkxKUE6gEzvaXicyfwkKHgbOy
+		CdlAO2mT8Z/EdSzBGeLI2e+GNY9RiuPsbup5RpTxFBzAi2g6jP5B/8iVT+9o
+		YJtt8RSzEx8s26dfp4C5E580HwcasuoEwByRBrGZAAHo2ScZELax6d2uTXuU
+		danwAkvpBu8ULVkYykxYP2u9CxsVj9LU5F251+ZoSQxwYbzlllCxwQi/pUxx
+		4569IeRFcuR1vqP4w/d9RV4BZu3jkzbS16T/lPjipEJvSwY+H1SvwulMW0Vn
+		I/kxskOTkP0iP5JIcFPxyqtsKJz0CniyosvTbUKGrX7RN3EWBK7jdDvRfgRk
+		AOSKSTQ/szzgpwrRszrJueHDmPpHrzkIqfquDoAeqxNWK+g//0XT2dSu7ak9
+		HeZGNnMeD0VVG2fzcGBsoAyyQEiNb+dWxu8/7vMb44pnPqkZ6htKFXH55j7S
+		ijuKIPX4INJTb8jan4cPhJmInRb6fmcvNMCXyON4k9eWwh8IBNp6lDWuXi8H
+		u3mDMEZ329qrUhSiUAgdUEG8lgu8vjvUK7nP2esJLtURutK3FayPq6PefrBw
+		QAA25G1Qo1svkp/nHqwTc914Ls27+9Y3oMsPxLb9EYawvF4GwYpD8PwFeJgx
+		NDO3FeXZq8paIT7rhYEBi0TTQwjA/ldEJB45yfWhkUeQDegaYLYvM5JhiUeZ
+		wXIxXIU/mAn8YJtfCRZDWR2bSdrBmBk4UWecC8yBdbst932ABy6ugfB6/XQZ
+		bTwyuFezzy7cRu+amk5TN9G+Os/Er8u2iaYEe5zMuXkeyBAew59f/wcK542C
+		OZlTtDfD6hOU2HadSFvqWdMAuCWGGRbEq7tjUPSP0/0oy29DyKO6zvzV0C3f
+		wC0soGbXLEoYjozqUZtkxqz1Y3o86tFoH3XiMXG9EA==
+		</data>
+		<key>iv</key>
+		<data>
+		Zs4O1OvyyNt0Mq5vNe2Dkw==
+		</data>
+		<key>key</key>
+		<data>
+		XLFajG2pmbvjisikF3mzfK5L7W8pZ3aLqsdn16BBXd8=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>ge e'e;
+For hut and palace show like filthily;
+The dingy denizens are reared in dirt;
+No personage of high or mean degree
+Doth care for cleanness of surtout or shirt,
+Though shent with Egypt's plague, unkempt, unwashed, unhurt.
+XVIII.
+Poor, paltry slaves! yet born midst noblest scenes--
+Why, Nature, waste thy wonders on such men?
+Lo! Cintra's glorious Eden intervenes
+In variegated maze of mount and glen.Ah me! what hand can pencil guide, or pen,
+To follow half on which the eye dilates
+Through views more dazzling unto mortal ken
+Than those whereof such things the bard relates,
+Who to the awe-struck world unlocked Elysium's gates?
+XIX.
+The horrid crags, by toppling convent crowned,
+The cork-trees hoar that clothe the shaggy steep,
+The mountain moss by scorching skies imbrowned,
+The sunken glen, whose sunless shrubs must weep,
+The tender azure of the unruffled deep,
+The orange tints that gild the greenest bough,
+The torrents that f</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

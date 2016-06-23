@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		6FkPoMBz8Vc78IsD8cA3EU6S//gKxHAqz61NsfyfZEkFMzhS9We8T7H6tRqc
+		TmlX4zIeyoJ3JqG3rYt5wWGLVRkk3miRbc6RaF7ZJOpE+EiLJjF/eUqCFk/O
+		lX8nJHbQz2wQXgKT7FgrnKBzc5NT1BBObG0nYpgZb5V8A1tORPPryk6dF0Qk
+		5omseDPxn0SbnhpKABP+SBUyQ/0ovQ/P/qxxE5RQooss231WNit8VWvE96sV
+		LWWlDpj3zJfl3+yhC6kxJSwqYrJ5ArWROTN0G0D5POfG5TXNASdHxG9pL36l
+		7irYc6TWkxNRE/yrx5HOhzyYqmpROjsY8gGiwPwks1H80iLwqL1TT3GhDJfk
+		VYbGyQRFXwpyy9+VEl7PoCT54slDEuK1FZGMhrjUKqjShvEWjOyRJpI4SO/s
+		r4bQKNaRMbA0jbfnz09VhDqjqq3NPLzZsaQgilaWydAGLIglBD7N4dpbUlXm
+		PHOFE/3ajLxhNfiNC8Fa7da3ijRAoD2hYS4L8scu3GQf3oS1Lv6V/VzNY0wF
+		c0KUP7lB6iBCHJaLHWWMyMvONXrP3g5bclUd1WpePxvwg2trzfuI0GDgg+QM
+		W3VMvXfAEUd84z52unQIBhDReLQpawjcmZEFB1ibaEr6+9xHOd0aMVFc5oFr
+		7WW8xlM1fJhwmZF7qOs8+mScSluALkErwUsty86ZpuNHBLpJ9hrszF8piyfE
+		M2IXYYb31WShvy2xxdBlqxGSsp2iKRRpE09cDS8ba9eRHQJ3W5CKcqGheP3E
+		q2eic8FFLCKvDpdspnehbTTQaMaW3tP7ET4hU7HbRbdVJDIlqhhPx3ZKjw3J
+		Ik8smKNUeWxrMHUUOlRbXvR5ZG9Au66U2OzIrkWwCiCEX/8kfWQiqAmG7rWk
+		FHkXgWYpWAvH1eT6jmWufW+KYjbYj/iuVyXAcFIz4JLm+kJP4ibrgjt+7PAl
+		YYe20U1PQV/GU3/IFpGpLKkwjELpPoMLBaMIDmqGx9IK+1CbKU9qGltt6CS+
+		9INNlExnsgJp5xksVQZL+VxMnLeel/jdTsymQr6wyg+7taSPyrTYAkuPPIX1
+		TvTXHaGTrmfEY4toDarTITMfy6N7b6ym1HqH0QeUYswgUSngv18b/wNUYp5Z
+		ir5n+Trp/wLm
+		</data>
+		<key>iv</key>
+		<data>
+		yyJWI9NGWonRKCP6kcrndQ==
+		</data>
+		<key>key</key>
+		<data>
+		0q+7VMKw/MnjrlilTQv8cJoN54r/z527
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>love to eyes which spake again,
+And all went merry as a marriage bell;
+But hush! hark! a deep sound strikes like a rising knell!
+XXII.
+Did ye not hear it?--No; 'twas but the wind,
+Or the car rattling o'er the stony street;
+On with the dance! let joy be unconfined;
+No sleep till morn, when Youth and Pleasure meet
+To chase the glowing Hours with flying feet.But hark!--that heavy sound breaks in once more,
+As if the clouds its echo would repeat;
+And nearer, clearer, deadlier than before!
+Arm! arm! it is--it is--the cannon's opening roar!
+XXIII.
+Within a windowed niche of that high hall
+Sate Brunswick's fated chieftain; he did hear
+That sound, the first amidst the festival,
+And caught its tone with Death's prophetic ear;
+And when they smiled because he deemed it near,
+His heart more truly knew that peal too well
+Which stretc</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16553</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>zHl51GPX9JsjvgovyxCPQiHn2KKplmT5</string>
+		<key>salt</key>
+		<data>
+		CLXDfbXgpcPjb7NEMq18q+9udys=
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		9IKAg9UwsIvgfRErZaPrqOLNXxPPIOyad6h0jJxA0dYRYYLnagt+gSLI1eVV
+		6etFeXWi1FUueR9TksS1Gh7EY1Ia/j6y+xoW8bRNz8QS8d5SLLqHTh9htsyy
+		wa9/hZGNoj/6OTgZywO2PXg3xi592+qDYbS8qWK1TvQkNa9gP4RPWrCJlhYQ
+		spEdNW5K7TuA11qmd5BuT4jpCuxgcst4HLktdVCYZCXb5KIEtJYvr4+w2/cT
+		kG/xe7T/SCbGi8rQ4diTzzfzEGtBPBms7AAmW1ycIM+MVGltqU47EGkrHxSD
+		SrXhSov75LHxtnuBvFTAzVXwx6RWLH8fq3NHvvFBjIm77stgpEiAygWO9FOy
+		JWWkyBRygiwf5gyYMekolWr7oiR89zMZCHB0NuG2ut5TS7N13976TcpN4iD9
+		e3mxxlvV1UxZjQbsZaYBH+Stum9RIXjjFdpvAjlJ8MY/t5rQZqz/ibzX3/ET
+		b+LW9F9D2Q9xy7gAAoP8PN9afLC1PIdyvjoFk6H+7XFSmGuTn0p4kclJDuze
+		In6rzM39S5dKzHtHGSKCCjhxGiO8MEi8rKZEymAr4nxTq3dmDSAyHyAwSXDj
+		03p+mmfJt5of6evWZ3L+Ri5KocexzefuYYMTaLtoegjnFgcLD40YULXe8TM7
+		TZVlhMEmOjLSuGBv5m6gfqJjzDtHjfVy5MRNbYhOyflqjasd8jfTDuv+/b0r
+		5lvNv4KFmCAFpNaOCk9bJKrsl2llNKIhzfVH/42obngMlqXTYB1Ec31BfNLD
+		SFoiTbtkmdlLvV8NQoEM++5VofpqTgiF5B+tE+dqmAcWX1uJMTOhmTTF3Wib
+		7jBTgMRBS8ApOoJcQXvXdF+iKfgDWoMN3bQa8uSQfOQ/A7MMhZWB94PhYB4f
+		QfKRojoRs0Ce7j1rKDD5J4poWK+LenJ+fGxJFvaQ/KtMJbTYVdyp8OpDMXT1
+		irDkZZIh5VcTn7MYSnj57SdpA8n6QITztnU+wycyD3cI3b46NAf5P977n8yk
+		psm891A7z68ELKlNiw64L4nth0/oblxBtMWPTD8WfaZzj3lJkXHo1WZME33f
+		uq00YZ/oKS+ZihdK/5+Tjt6/NICUEcI3JyH7RDIW73DEfr9G49I=
+		</data>
+		<key>iv</key>
+		<data>
+		5rTXvcdzhYt+317Uf5ZvRA==
+		</data>
+		<key>key</key>
+		<data>
+		HMzhRl41wT/EurUjbmeI5A==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>
+Till the broad sun withdraws his lessening ray;
+Then must the pennant-bearer slacken sail,
+That lagging barks may make their lazy way.Ah! grievance sore, and listless dull delay,
+To waste on sluggish hulks the sweetest breeze!
+What leagues are lost before the dawn of day,
+Thus loitering pensive on the willing seas,
+The flapping sails hauled down to halt for logs like these!
+XXI.
+The moon is up; by Heaven, a lovely eve!
+Long streams of light o'er dancing waves expand!
+Now lads on shore may sigh, and maids believe:
+Such be our fate when we return to land!
+Meantime some rude Arion's restless hand
+Wakes the brisk harmony that sailors love:
+A circle there of merry listeners stand,
+Or to some well-known measure featly move,
+Thoughtless, as if on shore they still were free to rove.
+XXII.
+Through Calpe's straits </string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>11277</integer>
+		<key>md</key>
+		<string>sha256</string>
+		<key>password</key>
+		<string>AQ5t84E4NEeMZhRt4IZnnMo0aFWowMDUjg5YIuJ</string>
+		<key>salt</key>
+		<data>
+		jyTLTdZy0FVbMtDgHmTBm/c=
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		YYACChP+wzI/OXQjFKdHuMR6gtPsmNikFaJdfvaDN+B1Kk3RwdVHJX10SvOx
+		gqUu4dt0u0FRQeneqUtsMsQN/Ky13T7d81Jx3+dA36lSq3HOK/zHWMY+mQzv
+		JGVb7vic+gJJ8rlv/PccfGEBdpnfPFZziejZ9cFRVn8o2uA2LmOvp1P35pqC
+		9ctv0+bO/GYry9ejww4ko3/WY0OCwgrv20MTfa2HmoU3gogU3CjXlNYS3YDR
+		UOO5PqYfD5bCx5M0bztvgw9pJY/Ig9Kbzp2zUGooF8G6C/trPLBoVUF6hE+m
+		lsqPAU6PUzED/FkKSX5Np2IyNNDfnyzkOEQWD2sG0P6O34T2uCN7WCAeMhto
+		blpSYjRIfKII+zaVaQDdWJBrecxcTBKb0NFM/a8vpCr9CwucaJppLdRnq9Ox
+		7AwLb1ImOUA+ajbGediOYsHSgyW3
+		</data>
+		<key>iv</key>
+		<data>
+		ErwgKR0oAVcKZCQH1AjSSA==
+		</data>
+		<key>key</key>
+		<data>
+		Pxfb5Y7kDLX71/f4cbCkd/ydNKHMsWh4
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>ith cheek all bloom,
+Laughing the clouds away with playful scorn,
+And living as if earth contained no tomb,--
+And glowing into day:  we may resume
+The march of our existence:  and thus I,
+Still on thy shores, fair Leman! may find room
+And food for meditation, nor pass by
+Much, that may give us pause, if pondered fittin</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

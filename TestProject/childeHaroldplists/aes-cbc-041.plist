@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		084A7M4FpRFxBs+zd5mnia9L1nyxgskTMS1WkaYcrEZ10TsTirgUJEFjl9OA
+		GoXMpws6EMkcl4R406pYr5cbQjuBC9LM/07A0hZmRNXNFK+zKM7gM5s3amPe
+		rGgYwwBlH5+I3T1bikUmk/JEJjjlDyjHsBj5diwRBp1nHUXWmTE08wLZIjpd
+		93oC7yJs8Obv6gU9OV3RasQWJ4MrKpLhkhNpjKquyqikkoGuDYW8/EMDsXwQ
+		Tpn2Huz4ueIOCzZGx5vcw+McaCPGxe1Y65whqnREMbDA0Nn+IkNEEJIAVuKH
+		xibq7TMeK7M+R1K7V24G
+		</data>
+		<key>iv</key>
+		<data>
+		hOrKjH8pz+671SmVPE9fLg==
+		</data>
+		<key>key</key>
+		<data>
+		Lrv26OyEQBb7QG33mgw6yibTbdvVnBND
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>orms hath ta'en his stand;
+For here, not one, but many, make their play,
+And fling their thunderbolts from hand to hand,
+Flashing and cast around:  of all the band,
+The brightest through these parted hills hath forked
+His l</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>16364</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>X5CWrFlrRA2R4fzSc3mAMdIItJwgJlfyXyb37fhjtXGAKxGus</string>
+		<key>salt</key>
+		<data>
+		jX8g1mf0shYRkj7hwMzPpZeDGcs9
+		</data>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		R0Ns6Mf45jgyCyjpJs2y1V2Fz3rE3Gktv89X+zrBKY8KTIp/g1XEubxml8Dp
+		5XCHm88bisYApEYNb/H6VmMS6AhIdQdkW9WZi7yVgKZ3jejPuBswA5Dy933+
+		PE5xiVMUpu7HcOB9nDQPD1EPWe9OMvAVCs7fo7AWPcXOiQHg5TsHD4yLzA41
+		i52dWVd+8ffGbmwKYEVpdRRxE3WIdZklJnVKye55jvsNmWFkDd6OYt3XM/GE
+		wIZyQQrImy1993CQzUXcOnd2Il4dlBtGqjORAdaLO5gF2OWD6Bp8oryuz8Kx
+		aLFi5jotT2oV11sG6ulW34kEtz6VaaY1BHuGfffsEo9BStnMcy2LRP464bgC
+		WAbnP43jXrlvGLpeBRtnAsJVLk7Xn4sSdYf4/T1/TWG9nBcC4pbXJCzr2x0/
+		VOmDVnc37lC6VENd+JT8iMfrl+Sn
+		</data>
+		<key>iv</key>
+		<data>
+		pxb05DBHty/+gSNYGf9dqA==
+		</data>
+		<key>key</key>
+		<data>
+		7w1dhHa99ra7mZL0RfqFKcYdxqXrR2owrj/R/0ZjP5g=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>
+And bids him thank the bard for freedom and his strains.
+XVII.
+Thus, Venice, if no stronger claim were thine,
+Were all thy proud historic deeds forgot,
+Thy choral memory of the bard divine,
+Thy love of Tasso, should have cut the knot
+Which ties thee to thy tyrants; and thy lot
+Is shameful to the nations,--most of all,
+A</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>11090</integer>
+		<key>md</key>
+		<string>sha512</string>
+		<key>password</key>
+		<string>LoY0za7gsTbql6IBmGKWUiIbSknZkfTNCzdk</string>
+		<key>salt</key>
+		<data>
+		FU3qyGoVrWgQsUx2TEdzkoh90FmmOny2+Q==
+		</data>
+	</dict>
+</dict>
+</plist>

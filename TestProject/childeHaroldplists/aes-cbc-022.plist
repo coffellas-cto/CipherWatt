@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		QTcTXm02jDOFx0WUYAH7mNqZFdRzPyhc953z14U6Ix5Z0CYAj9ZnNbWdGTiU
+		Te7BPozNHL1u+kwY1+llngd8D9YWYI58YAECTZ4qQxr3C7x3GrlSEXLaRbNx
+		vwXcFYyBYVYq6e8PZEx7Ktthpm2D2VYjC7dOxqRty/j8OctNXnLaTt/zmPLw
+		nEHJ4rlrIiraxjyY6nMSbGFEIPbgVeRwgVE6dDR/ykAcePzVy1GGtlLtLyjf
+		2K4g4IRwFjOwy51ScQ6CzBJUNl8pTni2LjhaUj0gX46tgq7QhtPukWy2fIaL
+		2eUGv4K1L6oJAiboNobojgMbi38NUUWb1JVoCsvao/86yYM/JGxjGEasckE9
+		jsMsv42gRn5cf/Nb9lhBpQy0m/MtDfNcj72JqE+VZZhrzAmuT1i//t0Srbaw
+		jf5sd60=
+		</data>
+		<key>iv</key>
+		<data>
+		CzV1cXNzGIMktHV2cHGiaw==
+		</data>
+		<key>key</key>
+		<data>
+		EgFmE5qRJFOoFHhSmHrIzg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>t joy to think at last I look on thee!
+LXII.
+Happier in this than mightiest bards have been,
+Whose fate to distant homes confined their lot,
+Shall I unmoved behold the hallowed scene,
+Which others rave of, though they know it not?
+Though here no more Apollo haunts his grot,
+And thou, the Muses' seat, art now th</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

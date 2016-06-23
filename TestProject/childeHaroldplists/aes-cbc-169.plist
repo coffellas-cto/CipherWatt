@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		chugszeHmA9WkL3faEpiXNhEoqZxh36NDLAf10lje0J5YJVyMLWvJg9/Iq5r
+		TLi/71OPASa3z1J94uWh44zYXyt91lFz6xD/FKV6tpHsvVwmjxcdS9QG5HN/
+		dy0cTjpxz0RyPujFqaXkEGAheXKRDKStbNVy7KFkFUlQFVxrU5FnPyKH7jvO
+		K5k+uOY2cMvK1jX9V0KmO83gJalOdTzwSFuqoja93JLHDW1W9qvnwGLP+J2s
+		QiH7rweYcwtIAqCdzmAc4wn/KFejHUwwKzjjG2xz3REjhrSVv6Ugk3L9Dxkd
+		AzgECovvRt94z2aiFDhzrHyE3h5GGVFm8YzLz9GEu0kVyVkIG8NrAaL3gkqF
+		RSi6BubLRkDHG6sjlbq7Fe2rq6GYhrzQJNhYukyPsxEZOrJy0DReNN5fLRlG
+		lyesVPjhwAixDALCt56VKM4Kgv7xjz1qAlr/A8ezIBBgM+rFQwO+hTSgtAHm
+		h/VF30uS1DTs0i3xIlxnUfvPdGZKXiuqkv9JhPLEnqYV7ufuX/65CfKB7h3J
+		bzjeobzeG+tcy95cQ5zmLNG/vnkPEOsbR2P8DcNUrmigMHLuU1/n/NaYc3K6
+		NKWrOhPi9MxeJsrADhZQo7S/OsAVdhkVUHUMgKOQ+9+Wh+gVYPHEc8uIVLV5
+		scnLJ755hO+lxN7T7jIZ5sSTn0KHYW2zSwvDn6HJwr3ISMbf6zuh6AD3O4EI
+		Bvq1Tnv4OhWwrobwXgFHs+2UMjRJVjF4D2SKd5VqsDw/Z4w2MFLniiGOuQ7i
+		UGNvDqUpObH4usrwRzjcNEl+c+MJB2mN1pBpEy1DTRhzXYcPH4r+6f49/XGp
+		caS9hbtOuWj9OjrUCRXbpa2ZLL3FAvgYuRPVOFR29Qnpwc6ZTl6NgzbaH8kw
+		FFrkNUONfCmBwm9umqMGqlLdR2QwkZ/XL/mMlM3aI5tkdQXulARJ+Apj0Hqj
+		2buMYls+/B6RRniVryfSQt27yx/GjpYG7K7oC3uDwN/IV7HWHt/qN2sPQJTj
+		WG4sTpc5GnSJqhJjmXtnbOUF0+v8RwwDwLo92Qtqqv9qVShY0eV5bxl4m570
+		oielnvcdmWMO/fQq/Kbe8bLmULjscl/z3yRgB4bAz+FY6M9cyNA=
+		</data>
+		<key>iv</key>
+		<data>
+		tbNmex0AxiJB4YqC7C98iQ==
+		</data>
+		<key>key</key>
+		<data>
+		mlNKvO7AsFBgEcyp3QsvZg==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string> make each curst oppressor bleed,
+So may such foes deserve the most remorseless deed!
+LXXXVIII.
+Flows there a tear of pity for the dead?
+Look o'er the ravage of the reeking plain:
+Look on the hands with female slaughter red;
+Then to the dogs resign the unburied slain,
+Then to the vulture let each corse remain;
+Albeit unworthy of the prey-bird's maw,
+Let their bleached bones, and blood's unbleaching stain,
+Long mark the battle-field with hideous awe:
+Thus only may our sons conceive the scenes we saw!
+LXXXIX.
+Nor yet, alas, the dreadful work is done;
+Fresh legions pour adown the Pyrenees:
+It deepens still, the work is scarce begun,
+Nor mortal eye the distant end foresees.Fall'n nations gaze on Spain:  if freed, she frees
+More than her fell Pizarros once enchained.Strange retribution! now Columbia's ease
+Repairs the </string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

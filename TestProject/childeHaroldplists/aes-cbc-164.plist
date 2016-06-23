@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		/UgjcM5tpi2rkcrEYK682e/eFmHrwxSbGvw3/ptP/m0gX2G2ShvdqHcUETyo
+		AUFp2vqVNz1f2SVs4jbovHOyKDc07Bjtnv5GRupLyMjq9JeVvVXt77Z2QqS+
+		mSAO2omZiMlW/gWDJgSJirBfPvy90/ci+kxTT1JCS6zP1mv2yh062/Ct9HQD
+		7BnhGc+KdxtiTHZPjXfBbNoKPtIALg6CN6IZV7e1fGH1lZOat3fXP2YFSTiH
+		A5DywyL8U+vEF/Pbf4+L/3JwWtnKWDpzGktvSj/CTcQozw5hDW9qAk/zNb0X
+		1vrFJD/Qpj8AxRDDQGjRQcxNfr6LSUrdV1Nrwp62Pswe7zBEk7okl6Vwbikq
+		xbYykUtnOkfe8/f4j99YpW8BqdFNnmfQQqwb76KufDdFjs7ZAuA7tU73JDDD
+		CuXZU8dzZnt+V1CFoEk3ICSYmJrLeeOwx2VWQum5PyUrpHYU50Ucrj8BQxiB
+		CPuF1uXUpSUTwojhefFSjJz8R7RZA9iJllBczacfbL8qXtJWmEwW3EYfUBcr
+		akVfqai7N2tNXzRpqQ3qojcCue/QwcHvKQNz6a6aURdpFmBBMMSwWAVxguTT
+		UdEvgfAGEhDxO7CzNEnaHXL/4TNBZ+UVyfEp9YvqSmpsgkhckyvlYTjIz8vh
+		RgqtoE7A3F4n922FjyZRM16LuVcLBiwxjHVZ4LTF1/hGmM0+qF3Gzlx6teY+
+		AhRD63mwUUFitfFGIOkyxKn/6YuVmoDMSxmnN24OZ4rW0+BNEaQCAWL/+KD5
+		hv47c/pja3XGYRCgjwMHSZgGN1NsUQgbvR1D/Ie1Kt9Wow+3NFzh8fo5zOFO
+		dHPURA0i5t5NZuqMV9gD93v10+Xx8OGbn+KyAi/xzmrSEEcgL+5o4s12lLQE
+		SsfdcvbK4Gig/RFDFPQBRMbXoVd5ypAwNXHWz/UOSYYBNl33KXZbFvL0CP6h
+		Owk4njWsy6Hzscjs4DC7hTYUQE5aF0jOpo4ePoGi8P4yKeCclxBw38aOr4AR
+		vw6ciDnaccSDq4JNFC2uN28s7TEjdX2uQcv1kc6jcEI/e1uHM0+M0qXjBWW8
+		Td2/yzwprgX8Zsfh71ZKhy7iNKYACD3lfVB0Eqs6l4NkQXp5n3qIOJ9uMEZo
+		XC8/eEexh5NaxklZpPGo7I9ElklyiwJ2GfHvhj9nNKTSyoVQCxKNwJZoON7n
+		gEg2HNKmrjmobLnSGlqUN982lCH3NmR2z2N20abGwsalsy1bZIvaCgsU6cW4
+		Ep9UeoczXLjKi5wRaeYoMDp5N7aIj+51i5yl8CvP9sQkLrOfnoIgQ2C1Iphe
+		0kHQLgw/E72sJbi83N9l6o5ed3PkG5dDBxXQF22ahBEfqA1XXXh2+wlIFnpo
+		bdYq3rLqyKEgAOW5gCux6zzVRHPvALAfEPDEZ7uxlSwo2YWH6VAYw1fSqGuJ
+		1zQcxrwhOuB45QwHHSYxdr/ymX30L1oM
+		</data>
+		<key>iv</key>
+		<data>
+		lbL3hid9N2uRRq9BiXGFCQ==
+		</data>
+		<key>key</key>
+		<data>
+		lmVG7i8FLO8RW1mqZ8IF1w==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>eless vultures cease to prey
+On self-condemning bosoms, it were here,
+Where Nature, not too sombre nor too gay,
+Wild but not rude, awful yet not austere,
+Is to the mellow earth as autumn to the year.
+LX.
+Adieu to thee again! a vain adieu!
+There can be no farewell to scene like thine;
+The mind is coloured by thy every hue;
+And if reluctantly the eyes resign
+Their cherished gaze upon thee, lovely Rhine!
+'Tis with the thankful glance of parting praise;
+More mighty spots may rise--more glaring shine,
+But none unite in one attaching maze
+The brilliant, fair, and soft;--the glories of old days.
+LXI.
+The negligently grand, the fruitful bloom
+Of coming ripeness, the white city's sheen,
+The rolling stream, the precipice's gloom,
+The forest's growth, and Gothic walls between,
+The wild rocks shaped as they had turrets been
+In mockery of man's art; and these withal
+A race of faces happy as the scene,
+Whose fertile bounties here extend to all,
+Still springing o'er thy banks, though empires near them fall.
+LXII.
+But these recede.  Above me are the Alps,
+The palaces of</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

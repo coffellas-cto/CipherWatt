@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		uL8NVPScN5qjdXiQEvV9NqmdJWVoYhM3uxVb0KLBXga1zoBpn7EdrY8LdlZ1
+		oVtIoABgRyCGPofC2mRvgvHh6wGRpK0dDwsEnMNn8K2Zbgb9HLTwBnk2L9K9
+		Cc/wIleB5WTkoFX2ggWZGtO+2xVvdYTPgwI9PKFAF+3iMgp3BqfVHVa4DD7H
+		YmMY2FfWRyl7WVIkABQ65jmWko1fSX1mBiKnWdPM1qYZ+bu8fAWmtNV+HwLv
+		SRd9nOxS3jZF91O2uA3SV0jV+YHjhLX5YLlsrIQsyDRV0wjsOWI++5qlOeN6
+		UMtWOiKOBsA66iGMe3TL9Hf6+2IM/ZLiaqINIaDxETutwb1bCvpB6+L0pBIm
+		kZY=
+		</data>
+		<key>iv</key>
+		<data>
+		DDe0AD/qsj0tji6stCh1ig==
+		</data>
+		<key>key</key>
+		<data>
+		AxXbJwOJV92av7LM9FLpnSPo/a/3kJ2z
+		</data>
+		<key>keyLength</key>
+		<integer>192</integer>
+		<key>plainText</key>
+		<string>low.
+VII.
+The Childe departed from his father's hall;
+It was a vast and venerable pile;
+So old, it seemed only not to fall,
+Yet strength was pillared in each massy aisle.Monastic dome! condemned to uses vile!
+Where superstition once had made her den,
+Now Paphia</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

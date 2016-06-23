@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		IohOGB7hJkAxG/OBCv60HEaI6LmVvtVtS1L+2G+ju5K6YbrvC6kgBR0mJ66L
+		klW9qWaF2KruI+J2TaeTgZwDiiHhaaBCJoMXywsHDfLatHEzC1U9eG2L6zgj
+		jWXAiZv93tSvz4/VM79XeOFx5VET3cHuI+uc2XKqStj9lY7yXJWiXtqvn1Tj
+		6ZsarechPT2iA6LDqlnbDm5/jdCb3rNbWfkXKUTN/E8bC/5Ma3i0bA7lq9iW
+		uvG7bORtR/u8I7CWcHgRgjjeubxdIgZD0ureLXII/GnTwb3O6VH9IVZDWB1v
+		PYDp+QO92oZWNq5wNNJpeIp6GhAvvspkkuIPB6+Vh6qmxmWfUJiSBA6r7Enl
+		pedt0t+INCk5LiowlJL2htGmZTZUepHg3aOYeHjgPk2nALx7d+Ivlmg/m4w6
+		TtB2scIDlGzBGqhqqRvmHxzTOsxXX/GhntHdMN60rlRYhh9wGJVy/qnm8+18
+		lopRDuVnrhu7yIHVIDHZ4wpTkE/fH+Di0K6+irjLJxngtCqvMEBOMydPyDmQ
+		2366x3wlKQ4yO7Su7dqDvDT7vcsJourF9wxfIbX6tZ1wsPI5v3nqtOnGRkJO
+		dlKpIR2JZuWdZDJVcWg72Z8/Fn84NiayMj7W5pJ36KJgEUBTvedsNtZAPwM1
+		reSAGob/28tV7tIlg9e+fpU0R0XJvODDjl0G0/35wqgXS9U3+XxQOWAV1RKM
+		0YpxkT59zqEkiDLpH8d2T976R3FpbQ14kTdJsp3dBdHO6OxyiqvhrYub0/bC
+		UNLOhjVHIKIYQPu5Nmsh1VVhI0adccnSkEQb11A1HaO7Kr0GPSdFQGsp1P/9
+		bWxj8BVG7ZpHOlcG/F4h/bQoXX6qKCQxoxQ=
+		</data>
+		<key>iv</key>
+		<data>
+		TqMIObBUMsB2Tbk0F/IF4Q==
+		</data>
+		<key>key</key>
+		<data>
+		2cOLJfe7YBoGuqLZsBTffw==
+		</data>
+		<key>keyLength</key>
+		<integer>128</integer>
+		<key>plainText</key>
+		<string>doubly number thine;
+My loveless eye unmoved may gaze on thee,
+And safely view thy ripening beauties shine:
+Happy, I ne'er shall see them in decline;
+Happier, that while all younger hearts shall bleed
+Mine shall escape the doom thine eyes assign
+To those whose admiration shall succeed,
+But mixed with pangs to Love's even loveliest hours decreed.
+Oh! let that eye, which, wild as the gazelle's,
+Now brightly bold or beautifully shy,
+Wins as it wanders, dazzles where it dwells,
+Glance o'er this page, nor to my verse deny
+That smile for which my breast might vainly sigh,
+Could I to thee be ever more than friend:
+This much, dear m</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

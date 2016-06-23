@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		IWlsRutjZDBWIBji/5wk1p0MwKfr7EUlwsOb9iqnn0izNgdwbkeFXTnq479g
+		McMTj+xXD8JOt47xvmTu/MxC6X/IhQR/kQVJjYZ0FbqurNs7w5HrPHeLAPWz
+		QSufnLFCQsEeMUknm0hqU0hi90jDSmkKiZeONVN5i7cA+kNLBsqDB6nZFddE
+		7yyoItEfd3KZ6tXOM1/P2Oin182kktB++iKnVdKAX86kUCK8SqmF7TGmfZwu
+		gl7fcsV/weGhzDbE5QFWSuC3pmLDi2l1xH5Q6xr6ZgGWtkHnWFZ5u7AXEIpf
+		wuD5edcSnY/F7j0IFpoDtqYdJTxXNkSiOMCtreryDq1G9AuYMjKE4pbBEEHf
+		NHODzigcfy8KhH5tQ3758dzkgMxp/54HnTPMny8/A9DqsZfEv/Z9nfjSqVuX
+		UO6wac2EoqGmortjF9Ko6g/zpyrmwPfSyRNLPOOLPEU3vdpNzv3VC7WUm5W7
+		TtIRHCLx7VsA2Rg5Aa3PF4/sL+IHGFdLJhR9xh+UW4uGRd20F1vfD5MTbpR9
+		WV8PsQvgMSMIlD3RFF9JSE+o4mR6m2/cE3YqSWB7YcyAaVo/P+cRC+Hn5fBe
+		vSNiNx1oOPxKDbJdVb7D5Xs9JfuXlEF3li2/eWegjhDRoD88jf9n5CErP414
+		Pak7NhvkorgCPCzjsTxqyKm+eV+D+4R2d3NQYRRcYxtQhqQ/rIXuzjKCv+90
+		yjS0JZr/X2NgJzDQfgX1zDUXKIOfyHzDRZ/SdjDtwW9R9apkoz70NlYa7ZIv
+		QUOS8ttJQA==
+		</data>
+		<key>iv</key>
+		<data>
+		EsboFibxDdnwlUuvQhxKug==
+		</data>
+		<key>key</key>
+		<data>
+		Tt9Jg3ClhGsDF+01eveeXI1QRuCNdrGie9Khcr5l1kY=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>ng ray;
+Such as the great of yore, Canova is to-day.
+LVI.
+But where repose the all Etruscan three--
+Dante, and Petrarch, and, scarce less than they,
+The Bard of Prose, creative spirit! he
+Of the Hundred Tales of love--where did they lay
+Their bones, distinguished from our common clay
+In death as life?  Are they resolved to dust,
+And have their country's marbles nought to say?
+Could not her quarries furnish forth one bust?
+Did they not to her breast their filial earth entrust?
+LVII.
+Ungrateful Florence! Dante sleeps afar,
+Like Scipio, buried by the upbraiding shore</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

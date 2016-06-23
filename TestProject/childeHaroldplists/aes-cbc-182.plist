@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		OKB9dxH+1991CyFp+OilGiCfLzrnMyyzHfghMdo94l5btqBG67HG+SUScyeI
+		q885Lhw8QL0++XkFMtl02hqn/Ip8sWnt8UQg3Hz6SkL1FferTrHSQcDVP8zs
+		k1wRNm8A7GtfqPW7efxkCvA6xhEzH7YkJLTYxGgDxBExMRR9zCQyA788Kmlh
+		6wuHA0vsgfi75bOgvEB+CXrCzjYjxoIhRKqlihO5LQb0Yh8DFOLOs57WvmXV
+		wmK/U/eWJMNMggBKbrtHFpav7vhjxWkftbzIoQ==
+		</data>
+		<key>iv</key>
+		<data>
+		FBEgrAnKW4eGn6whUB9O8g==
+		</data>
+		<key>key</key>
+		<data>
+		7U6wBywHuUEcruQmSTpJ1LmCHVzaseKAzbJ0WWR4qqY=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>thy limbs blacked with lightning--dost thou yet
+Guard thine immortal cubs, nor thy fond charge forget?
+LXXXIX.
+Thou dost;--but all thy foster-babes are dead--
+The men of iron; and the world hath rea</string>
+		<key>usePBKDF2</key>
+		<false/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

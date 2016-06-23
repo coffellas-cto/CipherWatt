@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aes</key>
+	<dict>
+		<key>cipherText</key>
+		<data>
+		04AerdiHaDS2Cj9c7LsZFavU84eipTzi2J1UFourE27+ItaEJS//MxxvoHk0
+		a8aJt3ppVtt7oIngMUwDp0xhAmIMKh9lZvGtAa+K9w6vI35bCzdYr+5pYh+H
+		TsBmvare9FOR90Z4jRpcUlYRoTWbd1JTkRKgk/IXgQIsyKTlDEeGzj4FYZeV
+		tRKxXjsfZuxmaZflfBfxSnLBSoQbTISlWrtlkhWKni7FU4zrLd2yhkPm540I
+		Jl5v3+8wB5XP7MVPGNQ3a69o/NJZFpI8StBhk1HCGeiU344dvR2iq+zOUEkp
+		krg6CEqnHKYAcOYzC5y6f8Zo6XEfK+byg0rtfM5wyHejn82CMUZRWJWBv2s3
+		UyVoNWbrpgc3bJASiGU2ZXsojY/RSZBg4NiDMQAqMeWKTZT+fmKOqYJCznza
+		qWyD+qafzeN52ReRSN5O7r3hizllhtQ1m+1yduiMFVhSb6Aghm+nwKGYJKlj
+		z7CGyFrpTbzHnqrwJyTaDwfI4rURI+1edYveZ01mRTj8ZtWhb9jp/iNd1GnM
+		862ppwNKECqP+CxLbv01huGTrfmG51t0saQL7P2NxXhpE+vXc+fwOtKn+TVk
+		NBvO+Zr02YNeSmBOanY=
+		</data>
+		<key>iv</key>
+		<data>
+		lAoUgu8cAkRyaGegf2M9yg==
+		</data>
+		<key>key</key>
+		<data>
+		1MiEce/0Sk7LVGmQv3yJKBvQPDTQX8svVgN+N5ojGhU=
+		</data>
+		<key>keyLength</key>
+		<integer>256</integer>
+		<key>plainText</key>
+		<string>mind's
+Ideal shape of such; yet still it binds
+The fatal spell, and still it draws us on,
+Reaping the whirlwind from the oft-sown winds;
+The stubborn heart, its alchemy begun,
+Seems ever near the prize--wealthiest when most undone.
+CXXIV.
+We wither from our youth, we gasp away--
+Sick--sick; unfound the boon, unslaked the thirst,
+Though to the last, in verge of our decay,
+Some phantom lures, such as we sought at first--
+But all too late,-</string>
+		<key>usePBKDF2</key>
+		<true/>
+		<key>usePadding</key>
+		<true/>
+	</dict>
+	<key>pbkdf2</key>
+	<dict>
+		<key>ic</key>
+		<integer>19344</integer>
+		<key>md</key>
+		<string>sha384</string>
+		<key>password</key>
+		<string>4HN6wvLjc2IeVjziPi2ap6H</string>
+		<key>salt</key>
+		<data>
+		Zo2FQlfRB6vtXZ2xXany+UOUe6r5/BrEXxo=
+		</data>
+	</dict>
+</dict>
+</plist>
