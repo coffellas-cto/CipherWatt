@@ -250,4 +250,28 @@
     
 }
 
+- (void)testCopyParameters {
+    CWKeyDerivation *derivation1 = [CWKeyDerivation new];
+    derivation1.PBKDF2Salt = [@"doesntmatter" dataUsingEncoding:NSASCIIStringEncoding];
+    derivation1.PBKDF2NumberOfRounds = 20;
+    derivation1.PBKDF2PseudoRandomAlgorithm = CWPBKDF2PseudoRandomAlgorithmHMACSHA1;
+    
+    CWKeyDerivation *derivation2 = [CWKeyDerivation new];
+    derivation2.PBKDF2Salt = [@"anothermeaninglesssalt" dataUsingEncoding:NSASCIIStringEncoding];
+    derivation2.PBKDF2NumberOfRounds = 200;
+    derivation2.PBKDF2PseudoRandomAlgorithm = CWPBKDF2PseudoRandomAlgorithmHMACSHA512;
+    
+    [derivation1 copyParametersFromKeyDerivation:derivation2];
+    
+    XCTAssertEqual(derivation1.PBKDF2Salt, derivation2.PBKDF2Salt);
+    XCTAssertEqual(derivation1.PBKDF2PseudoRandomAlgorithm, derivation2.PBKDF2PseudoRandomAlgorithm);
+    XCTAssertEqual(derivation1.PBKDF2NumberOfRounds, derivation2.PBKDF2NumberOfRounds);
+    
+    [derivation1 copyParametersFromKeyDerivation:nil];
+    
+    XCTAssertEqual(derivation1.PBKDF2Salt, derivation2.PBKDF2Salt);
+    XCTAssertEqual(derivation1.PBKDF2PseudoRandomAlgorithm, derivation2.PBKDF2PseudoRandomAlgorithm);
+    XCTAssertEqual(derivation1.PBKDF2NumberOfRounds, derivation2.PBKDF2NumberOfRounds);
+}
+
 @end

@@ -600,13 +600,19 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     [failer restoreImplementations];
 }
 
-- (void)testDecryptionWithNoKey {
-    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
-    
+- (NSData *)firstChildeCipherText {
+    id expressionValue;
     NSDictionary *dic = [NSDictionary dictionaryWithContentsOfFile:[[NSBundle bundleForClass:[self class]] pathForResource:@"aes-cbc-001" ofType:@"plist"]];
     NSData *cipherTextData = nil;
     @try { cipherTextData = [dic valueForKeyPath:@"aes.cipherText"]; } @catch (NSException *exception) {} @finally {}
     XCTAssertNotNil(cipherTextData);
+    return cipherTextData;
+}
+
+- (void)testDecryptionWithNoKey {
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    
+    NSData *cipherTextData = [self firstChildeCipherText];
     
     NSError *error = nil;
     NSData *result = [cipher decryptData:cipherTextData error:&error];
@@ -649,6 +655,31 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     NSData *result = [cipher encryptData:nil withPassword:@"ggsvfasfkas" error:&error];
     XCTAssertNil(result);
     XCTAssertNil(error);
+}
+
+- (void)testFailingDecryptionWithFailingKeyDerivation {
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
+    NSData *cipherTextData = [self firstChildeCipherText];
+    
+    NSError *error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    CWSecureRandomnessFailer *failer = [CWSecureRandomnessFailer new];
+    [failer replaceImplementations];
+    NSData *result = [cipher decryptData:cipherTextData withPassword:@"supapupapass" error:&error];
+    [failer restoreImplementations];
+    XCTAssertNil(result);
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorKeyDerivationSaltFailure);
+}
+
+- (void)testDecryptionWithoutIV {
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize128 mode:CWBlockOperationModeCBC];
+    NSData *cipherTextData = [self firstChildeCipherText];
+    
+    NSError *error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    NSData *result = [cipher decryptData:cipherTextData withRawKeyData:[CWSecureRandomness secureRandomDataWithSize:16] error:&error];
+    XCTAssertNil(result);
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorInvalidIV);
 }
 
 @end
