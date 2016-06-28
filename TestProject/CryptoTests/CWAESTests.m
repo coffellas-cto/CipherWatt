@@ -601,7 +601,6 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
 }
 
 - (NSData *)firstChildeCipherText {
-    id expressionValue;
     NSDictionary *dic = [NSDictionary dictionaryWithContentsOfFile:[[NSBundle bundleForClass:[self class]] pathForResource:@"aes-cbc-001" ofType:@"plist"]];
     NSData *cipherTextData = nil;
     @try { cipherTextData = [dic valueForKeyPath:@"aes.cipherText"]; } @catch (NSException *exception) {} @finally {}
