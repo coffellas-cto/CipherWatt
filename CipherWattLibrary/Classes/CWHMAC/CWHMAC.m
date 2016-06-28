@@ -42,7 +42,7 @@
     }
     
     size_t mac_size = [self MACSize];
-    char *macOut = malloc(mac_size);
+    uint8_t *macOut = malloc(mac_size);
     if (macOut == NULL) {
         [self setError:error withCode:CWCipherWattErrorNoMemory];
         return nil;
