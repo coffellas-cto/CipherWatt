@@ -78,10 +78,10 @@ FOUNDATION_EXTERN const NSUInteger kCWKeyDerivationDefaultSaltSize;
  @attention If `PBKDF2Salt` property is empty a random salt will be generated and stored into this property after derivation process.
  
  @param password The text password used as input to the derivation function.
- @param keySize Expected key size in bytes. If 0 nil is returned.
- @param error Upon completion contains error object if any error occured. Can be nil.
+ @param keySize Expected key size in bytes. If 0 `nil` is returned.
+ @param error Upon completion contains error object if any error occured. Can be `nil`.
  
- @return Data representation of derived key or nil if any error has occured or `keySize` parameter is 0.
+ @return Data representation of derived key or `nil` if any error has occured or `keySize` parameter is 0.
  */
 - (NSData *)deriveKeyDataFromPassword:(NSString *)password keySize:(NSUInteger)keySize error:(NSError **)error;
 

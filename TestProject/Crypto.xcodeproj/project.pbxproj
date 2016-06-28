@@ -225,6 +225,10 @@
 		FA00B8A21D1C547A00278851 /* CipherWattConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8951D1C547A00278851 /* CipherWattConstants.m */; };
 		FA00B8A31D1C547A00278851 /* CipherWattConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8951D1C547A00278851 /* CipherWattConstants.m */; };
 		FA14DE831CFCCD9000FF2CBD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA14DE821CFCCD9000FF2CBD /* main.m */; };
+		FA20B69C1D22E517005671A9 /* CWHMACTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B69B1D22E517005671A9 /* CWHMACTests.m */; };
+		FA20B6A31D22F903005671A9 /* CWHMAC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B6A21D22F903005671A9 /* CWHMAC.m */; };
+		FA20B6A41D22F903005671A9 /* CWHMAC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B6A21D22F903005671A9 /* CWHMAC.m */; };
+		FA20B6A71D22F958005671A9 /* HMACVectors.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA20B6A61D22F958005671A9 /* HMACVectors.plist */; };
 		FA37C1D81D0204BE00113208 /* CWKeyDerivationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */; };
 		FA95A7531D1C5E1B00BE7146 /* CWBlockCipherTest.m in Sources */ = {isa = PBXBuildFile; fileRef = FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */; };
 		FA99577D1CFF54760080F83A /* CWAESTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA99577C1CFF54760080F83A /* CWAESTests.m */; };
@@ -465,6 +469,10 @@
 		FA00B8951D1C547A00278851 /* CipherWattConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CipherWattConstants.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		FA14DE7F1CFCCD9000FF2CBD /* Crypto */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Crypto; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA14DE821CFCCD9000FF2CBD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = main.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		FA20B69B1D22E517005671A9 /* CWHMACTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWHMACTests.m; sourceTree = "<group>"; };
+		FA20B6A11D22F903005671A9 /* CWHMAC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWHMAC.h; sourceTree = "<group>"; };
+		FA20B6A21D22F903005671A9 /* CWHMAC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWHMAC.m; sourceTree = "<group>"; };
+		FA20B6A61D22F958005671A9 /* HMACVectors.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = HMACVectors.plist; sourceTree = "<group>"; };
 		FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWKeyDerivationTests.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWBlockCipherTest.m; sourceTree = "<group>"; };
 		FA9957641CFF4BBD0080F83A /* CryptoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CryptoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -733,6 +741,7 @@
 			children = (
 				FA00B8901D1C547A00278851 /* CWSecureRandomness */,
 				FA00B8891D1C547A00278851 /* CWCipherWattObject */,
+				FA20B6A01D22F903005671A9 /* CWHMAC */,
 				FA00B88D1D1C547A00278851 /* CWKeyDerivation */,
 				FA00B8861D1C547A00278851 /* CWBlockCipher */,
 				FA00B8831D1C547A00278851 /* CWAES */,
@@ -822,15 +831,34 @@
 			path = Crypto;
 			sourceTree = "<group>";
 		};
+		FA20B6A01D22F903005671A9 /* CWHMAC */ = {
+			isa = PBXGroup;
+			children = (
+				FA20B6A11D22F903005671A9 /* CWHMAC.h */,
+				FA20B6A21D22F903005671A9 /* CWHMAC.m */,
+			);
+			path = CWHMAC;
+			sourceTree = "<group>";
+		};
+		FA20B6A51D22F958005671A9 /* Test Vectors Plists */ = {
+			isa = PBXGroup;
+			children = (
+				FA20B6A61D22F958005671A9 /* HMACVectors.plist */,
+			);
+			path = "Test Vectors Plists";
+			sourceTree = "<group>";
+		};
 		FA9957651CFF4BBD0080F83A /* CryptoTests */ = {
 			isa = PBXGroup;
 			children = (
+				FA20B6A51D22F958005671A9 /* Test Vectors Plists */,
 				FA00B68B1D14A0E400278851 /* childeHaroldplists */,
 				FA9957681CFF4BBD0080F83A /* Info.plist */,
 				FA99577C1CFF54760080F83A /* CWAESTests.m */,
 				FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */,
 				FA00B83C1D18725900278851 /* CWSecureRandomnessTests.m */,
 				FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */,
+				FA20B69B1D22E517005671A9 /* CWHMACTests.m */,
 				FA00B8441D18785300278851 /* Helpers */,
 			);
 			path = CryptoTests;
@@ -965,6 +993,7 @@
 				FA00B7941D14A1C500278851 /* aes-cbc-044.plist in Resources */,
 				FA00B7BF1D14A1C500278851 /* aes-cbc-087.plist in Resources */,
 				FA00B77A1D14A1C500278851 /* aes-cbc-018.plist in Resources */,
+				FA20B6A71D22F958005671A9 /* HMACVectors.plist in Resources */,
 				FA00B7911D14A1C500278851 /* aes-cbc-041.plist in Resources */,
 				FA00B76C1D14A1C500278851 /* aes-cbc-004.plist in Resources */,
 				FA00B8191D14A1C500278851 /* aes-cbc-177.plist in Resources */,
@@ -1124,6 +1153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA00B8A21D1C547A00278851 /* CipherWattConstants.m in Sources */,
+				FA20B6A31D22F903005671A9 /* CWHMAC.m in Sources */,
 				FA00B89E1D1C547A00278851 /* CWKeyDerivation.m in Sources */,
 				FA00B8981D1C547A00278851 /* CWAES.m in Sources */,
 				FA00B8A01D1C547A00278851 /* CWSecureRandomness.m in Sources */,
@@ -1144,12 +1174,14 @@
 				FA00B89B1D1C547A00278851 /* CWBlockCipher.m in Sources */,
 				FA00B8991D1C547A00278851 /* CWAES.m in Sources */,
 				FA00B89D1D1C547A00278851 /* CWCipherWattObject.m in Sources */,
+				FA20B6A41D22F903005671A9 /* CWHMAC.m in Sources */,
 				FA37C1D81D0204BE00113208 /* CWKeyDerivationTests.m in Sources */,
 				FA00B8A11D1C547A00278851 /* CWSecureRandomness.m in Sources */,
 				FA00B83D1D18725900278851 /* CWSecureRandomnessTests.m in Sources */,
 				FA00B8A31D1C547A00278851 /* CipherWattConstants.m in Sources */,
 				FA00B8971D1C547A00278851 /* NSError+CipherWatt.m in Sources */,
 				FA00B89F1D1C547A00278851 /* CWKeyDerivation.m in Sources */,
+				FA20B69C1D22E517005671A9 /* CWHMACTests.m in Sources */,
 				FA99577D1CFF54760080F83A /* CWAESTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
