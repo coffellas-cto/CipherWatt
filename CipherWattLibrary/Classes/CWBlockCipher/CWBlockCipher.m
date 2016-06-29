@@ -151,31 +151,35 @@
 
 #pragma mark - Private Methods
 
-- (NSData *)performOperation:(CCOperation)operation onData:(NSData *)data keyData:(NSData *)keyData error:(NSError **)error {
+- (BOOL)operationPrologForOperation:(CCOperation)operation data:(NSData *)data keyData:(NSData *)keyData
+                            cryptor:(CCCryptorRef *)cryptor error:(NSError **)error
+{
+    if (error) {
+        *error = nil;
+    }
+    
     if (data == nil) {
-        return nil;
+        return NO;
     }
     
     if (self.keySizeInBytes == 0) {
-        return nil;
+        return NO;
     }
     
     if (self.IV && !self.validIV) {
         [self setError:error withCode:CWCipherWattErrorInvalidIV];
-        return nil;
+        return NO;
     }
     
     if (keyData.length == 0) {
         [self setError:error withCode:CWCipherWattErrorNoKey];
-        return nil;
+        return NO;
     }
     
     if (!self.usePKCS7Padding && data.length % self.blockSizeInBytes) {
         [self setError:error withCode:CWCipherWattErrorNoPaddingDataNotAligned];
-        return nil;
+        return NO;
     }
-    
-    CCCryptorRef cryptor;
     
     // Initialize cryptor
     CCMode mode = [self CCMode];
@@ -192,9 +196,57 @@
                                                      0, // Used for XTS mode only, not implemented
                                                      0, // Default number of rounds
                                                      0, // Deprecated. Not used
-                                                     &cryptor);
+                                                     &(*cryptor));
     if (status != kCCSuccess) {
         [self setError:error withCryptorStatus:status];
+        return NO;
+    }
+    
+    return YES;
+}
+
+- (CCCryptorStatus)performUpdateAndFinalForCryptor:(CCCryptorRef)cryptor data:(NSData *)data
+                                       resultBytes:(uint8_t *)resultBytes resultDataSize:(size_t)resultDataSize
+                                 writtenBytesTotal:(size_t *)writtenBytesTotal error:(NSError **)error
+{
+    CCCryptorStatus status;
+    size_t writtenBytes = 0;
+    // Perform operation
+    status = CCCryptorUpdate(cryptor, data.bytes, data.length, resultBytes, resultDataSize, &writtenBytes);
+    if (status == kCCSuccess) {
+        if (writtenBytesTotal) {
+            *writtenBytesTotal += writtenBytes;
+        }
+        // Finalize
+        status = CCCryptorFinal(cryptor, resultBytes + writtenBytes, resultDataSize - writtenBytes, &writtenBytes);
+    }
+    
+    if (status == kCCSuccess) {
+        if (writtenBytesTotal) {
+            *writtenBytesTotal += writtenBytes;
+        }
+    } else {
+        [self setError:error withCryptorStatus:status];
+    }
+    
+    return status;
+}
+
+- (CCCryptorStatus)operationEpilogForCryptor:(CCCryptorRef)cryptor error:(NSError **)error {
+    CCCryptorStatus status;
+    status = CCCryptorRelease(cryptor);
+    if (status != kCCSuccess) {
+        [self setError:error withCryptorStatus:status];
+    }
+    
+    return status;
+}
+
+- (NSData *)performOperation:(CCOperation)operation onData:(NSData *)data keyData:(NSData *)keyData error:(NSError **)error {
+    CCCryptorRef cryptor;
+    if (![self operationPrologForOperation:operation data:data keyData:keyData
+                                   cryptor:&cryptor error:error])
+    {
         return nil;
     }
     
@@ -202,7 +254,9 @@
     
     // Prepare buffer for result
     size_t resultDataSize = CCCryptorGetOutputLength(cryptor, data.length, true);
-    if (resultDataSize != 0) {
+    if (resultDataSize == 0) {
+        [self setError:error withCode:CWCipherWattErrorZeroExpectedBuffer];
+    } else {
         uint8_t *resultBytes = malloc(resultDataSize);
         if (resultBytes == NULL) {
             [self setError:error withCode:CWCipherWattErrorNoMemory];
@@ -211,32 +265,20 @@
         }
         
         size_t writtenBytesTotal = 0;
-        size_t writtenBytes = 0;
-        // Perform operation
-        status = CCCryptorUpdate(cryptor, data.bytes, data.length, resultBytes, resultDataSize, &writtenBytes);
-        if (status == kCCSuccess) {
-            writtenBytesTotal += writtenBytes;
-            // Finalize
-            status = CCCryptorFinal(cryptor, resultBytes + writtenBytes, resultDataSize - writtenBytes, &writtenBytes);
-        }
+        CCCryptorStatus status = [self performUpdateAndFinalForCryptor:cryptor data:data
+                                                           resultBytes:resultBytes resultDataSize:resultDataSize
+                                                     writtenBytesTotal:&writtenBytesTotal error:error];
         
         if (status == kCCSuccess) {
-            writtenBytesTotal += writtenBytes;
             retVal = [NSData dataWithBytesNoCopy:resultBytes length:writtenBytesTotal freeWhenDone:YES];
         } else {
-            [self setError:error withCryptorStatus:status];
-            
             // `retVal` didn't take ownership of `resultBytes`, so free it explicitly.
             free(resultBytes);
         }
-    } else {
-        [self setError:error withCode:CWCipherWattErrorZeroExpectedBuffer];
     }
     
-    status = CCCryptorRelease(cryptor);
-    if (status != kCCSuccess) {
+    if ([self operationEpilogForCryptor:cryptor error:error] != kCCSuccess) {
         retVal = nil;
-        [self setError:error withCryptorStatus:status];
     }
     
     if (retVal) {
@@ -245,6 +287,8 @@
     
     return retVal;
 }
+
+#pragma mark -
 
 - (CCMode)CCMode {
     switch (self.mode) {
