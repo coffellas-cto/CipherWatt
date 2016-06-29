@@ -149,7 +149,73 @@
     return [self performOperation:kCCDecrypt onData:dataToDecrypt keyData:keyData error:error];
 }
 
+#pragma mark - Encryption / Decryption using buffers
+
+- (BOOL)encryptData:(NSData *)dataToEncrypt buffer:(void *)buffer bufferSize:(size_t)bufferSize bytesWritten:(size_t *)bytesWritten error:(NSError **)error {
+    if (error) {
+        *error = nil;
+    }
+    
+    if (buffer == NULL || bufferSize == 0) {
+        return YES;
+    }
+    
+    NSData *keyData = [self obtainKeyDataWithError:error];
+    if (!keyData) {
+        return NO;
+    }
+    
+    if (self.mode == CWBlockOperationModeCBC && !self.IV) {
+        self.IV = [CWSecureRandomness secureRandomDataWithSize:self.blockSizeInBytes];
+        if (!self.IV.length) {
+            [self setError:error withCode:CWCipherWattErrorIVGenerationFailed];
+            return NO;
+        }
+    }
+    
+    return [self performOperation:kCCEncrypt onData:dataToEncrypt keyData:keyData buffer:buffer bufferSize:bufferSize bytesWritten:bytesWritten error:error];
+}
+
+- (BOOL)decryptData:(NSData *)dataToDecrypt buffer:(void *)buffer bufferSize:(size_t)bufferSize bytesWritten:(size_t *)bytesWritten error:(NSError **)error {
+    if (error) {
+        *error = nil;
+    }
+    
+    if (buffer == NULL || bufferSize == 0) {
+        return YES;
+    }
+    
+    NSData *keyData = [self obtainKeyDataWithError:error];
+    if (!keyData) {
+        return NO;
+    }
+    
+    if (self.mode == CWBlockOperationModeCBC && !self.IV) {
+        [self setError:error withCode:CWCipherWattErrorInvalidIV];
+        return NO;
+    }
+    
+    return [self performOperation:kCCDecrypt onData:dataToDecrypt keyData:keyData buffer:buffer bufferSize:bufferSize bytesWritten:bytesWritten error:error];
+}
+
 #pragma mark - Private Methods
+
+- (NSData *)obtainKeyDataWithError:(NSError **)error {
+    BOOL usePassword = !self.rawKeyData;
+    if (usePassword && self.password.length == 0) {
+        [self setError:error withCode:CWCipherWattErrorNoKey];
+        return nil;
+    }
+    
+    NSData *keyData = nil;
+    if (usePassword) {
+        keyData = [self deriveKeyDataFromPassword:self.password error:error];
+    } else {
+        keyData = self.rawKeyData;
+    }
+    
+    return keyData;
+}
 
 - (BOOL)operationPrologForOperation:(CCOperation)operation data:(NSData *)data keyData:(NSData *)keyData
                             cryptor:(CCCryptorRef *)cryptor error:(NSError **)error
@@ -279,6 +345,49 @@
     
     if ([self operationEpilogForCryptor:cryptor error:error] != kCCSuccess) {
         retVal = nil;
+    }
+    
+    if (retVal) {
+        self.rawKeyData = keyData;
+    }
+    
+    return retVal;
+}
+
+- (BOOL)performOperation:(CCOperation)operation
+                  onData:(NSData *)data keyData:(NSData *)keyData
+                  buffer:(void *)buffer bufferSize:(size_t)bufferSize
+            bytesWritten:(size_t *)bytesWritten error:(NSError **)error
+{
+    if (bytesWritten) {
+        *bytesWritten = 0;
+    }
+    
+    CCCryptorRef cryptor;
+    if (![self operationPrologForOperation:operation data:data keyData:keyData
+                                   cryptor:&cryptor error:error])
+    {
+        return NO;
+    }
+    
+    BOOL retVal = NO;
+    
+    // Prepare buffer for result
+    size_t resultDataSize = CCCryptorGetOutputLength(cryptor, data.length, true);
+    if (resultDataSize == 0) {
+        [self setError:error withCode:CWCipherWattErrorZeroExpectedBuffer];
+    } else if (resultDataSize > bufferSize) {
+        [self setError:error withCode:CWCipherWattErrorIvalidExpectedBufferSize];
+    } else {
+        CCCryptorStatus status = [self performUpdateAndFinalForCryptor:cryptor data:data
+                                                           resultBytes:buffer resultDataSize:resultDataSize
+                                                     writtenBytesTotal:bytesWritten error:error];
+        
+        retVal = status == kCCSuccess;
+    }
+    
+    if ([self operationEpilogForCryptor:cryptor error:error] != kCCSuccess) {
+        retVal = NO;
     }
     
     if (retVal) {

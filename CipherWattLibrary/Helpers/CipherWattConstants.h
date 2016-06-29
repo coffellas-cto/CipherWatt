@@ -40,6 +40,7 @@ typedef NS_ENUM(NSInteger, CWCipherWattError) {
     CWCipherWattErrorNoKey,
     CWCipherWattErrorNoPaddingDataNotAligned,
     CWCipherWattErrorZeroExpectedBuffer,
+    CWCipherWattErrorIvalidExpectedBufferSize,
     
     CWCipherWattErrorCryptorParamError,
     CWCipherWattErrorCryptorBufferTooSmall,

@@ -58,6 +58,9 @@
         case CWCipherWattErrorZeroExpectedBuffer:
             localizedDescription = @"Expected buffer size estimated to zero. Probably data is malformed";
             break;
+        case CWCipherWattErrorIvalidExpectedBufferSize:
+            localizedDescription = @"Expected buffer size is invalid";
+            break;
             
         case CWCipherWattErrorCryptorParamError:
             localizedDescription = @"Illegal parameter value";

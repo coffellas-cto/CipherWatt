@@ -151,4 +151,7 @@ typedef NS_ENUM(NSUInteger, CWBlockOperationMode) {
 - (NSData *)decryptData:(NSData *)dataToDecrypt withRawKeyData:(NSData *)key error:(NSError **)error;
 - (NSData *)decryptData:(NSData *)dataToDecrypt withPassword:(NSString *)password error:(NSError **)error;
 
+- (BOOL)encryptData:(NSData *)dataToEncrypt buffer:(void *)buffer bufferSize:(size_t)bufferSize bytesWritten:(size_t *)bytesWritten error:(NSError **)error;
+- (BOOL)decryptData:(NSData *)dataToDecrypt buffer:(void *)buffer bufferSize:(size_t)bufferSize bytesWritten:(size_t *)bytesWritten error:(NSError **)error;
+
 @end
