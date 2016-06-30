@@ -234,6 +234,8 @@
 		FA20B6AD1D230508005671A9 /* SecureComparisonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B6AC1D230508005671A9 /* SecureComparisonTests.m */; };
 		FA37C1D81D0204BE00113208 /* CWKeyDerivationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */; };
 		FA5B71EA1D259E71005F7073 /* sp800-38a-aes-cbc.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA5B71E91D259E71005F7073 /* sp800-38a-aes-cbc.plist */; };
+		FA5B71F21D25AEAC005F7073 /* CWEasyAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71F11D25AEAC005F7073 /* CWEasyAES.m */; };
+		FA5B71F31D25AEC5005F7073 /* CWEasyAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71F11D25AEAC005F7073 /* CWEasyAES.m */; };
 		FA95A7531D1C5E1B00BE7146 /* CWBlockCipherTest.m in Sources */ = {isa = PBXBuildFile; fileRef = FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */; };
 		FA99577D1CFF54760080F83A /* CWAESTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA99577C1CFF54760080F83A /* CWAESTests.m */; };
 /* End PBXBuildFile section */
@@ -482,6 +484,8 @@
 		FA20B6AC1D230508005671A9 /* SecureComparisonTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecureComparisonTests.m; sourceTree = "<group>"; };
 		FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWKeyDerivationTests.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		FA5B71E91D259E71005F7073 /* sp800-38a-aes-cbc.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "sp800-38a-aes-cbc.plist"; sourceTree = "<group>"; };
+		FA5B71F01D25AEAC005F7073 /* CWEasyAES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWEasyAES.h; sourceTree = "<group>"; };
+		FA5B71F11D25AEAC005F7073 /* CWEasyAES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWEasyAES.m; sourceTree = "<group>"; };
 		FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWBlockCipherTest.m; sourceTree = "<group>"; };
 		FA9957641CFF4BBD0080F83A /* CryptoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CryptoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA9957681CFF4BBD0080F83A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -755,6 +759,7 @@
 				FA00B88D1D1C547A00278851 /* CWKeyDerivation */,
 				FA00B8861D1C547A00278851 /* CWBlockCipher */,
 				FA00B8831D1C547A00278851 /* CWAES */,
+				FA5B71EF1D25AEAC005F7073 /* CWEasyAES */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -857,6 +862,15 @@
 				FA5B71E91D259E71005F7073 /* sp800-38a-aes-cbc.plist */,
 			);
 			path = "Test Vectors Plists";
+			sourceTree = "<group>";
+		};
+		FA5B71EF1D25AEAC005F7073 /* CWEasyAES */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B71F01D25AEAC005F7073 /* CWEasyAES.h */,
+				FA5B71F11D25AEAC005F7073 /* CWEasyAES.m */,
+			);
+			path = CWEasyAES;
 			sourceTree = "<group>";
 		};
 		FA9957651CFF4BBD0080F83A /* CryptoTests */ = {
@@ -1167,6 +1181,7 @@
 			files = (
 				FA00B8A21D1C547A00278851 /* CipherWattConstants.m in Sources */,
 				FA20B6AA1D230350005671A9 /* NSData+CipherWatt.m in Sources */,
+				FA5B71F31D25AEC5005F7073 /* CWEasyAES.m in Sources */,
 				FA20B6A31D22F903005671A9 /* CWHMAC.m in Sources */,
 				FA00B89E1D1C547A00278851 /* CWKeyDerivation.m in Sources */,
 				FA00B8981D1C547A00278851 /* CWAES.m in Sources */,
@@ -1191,6 +1206,7 @@
 				FA20B6A41D22F903005671A9 /* CWHMAC.m in Sources */,
 				FA37C1D81D0204BE00113208 /* CWKeyDerivationTests.m in Sources */,
 				FA20B6AD1D230508005671A9 /* SecureComparisonTests.m in Sources */,
+				FA5B71F21D25AEAC005F7073 /* CWEasyAES.m in Sources */,
 				FA00B8A11D1C547A00278851 /* CWSecureRandomness.m in Sources */,
 				FA00B83D1D18725900278851 /* CWSecureRandomnessTests.m in Sources */,
 				FA00B8A31D1C547A00278851 /* CipherWattConstants.m in Sources */,
