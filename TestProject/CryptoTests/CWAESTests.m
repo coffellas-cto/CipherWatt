@@ -681,4 +681,86 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     XCTAssertEqual(error.code, CWCipherWattErrorInvalidIV);
 }
 
+- (void)testSP800AESCBC {
+    NSString *path = [[NSBundle bundleForClass:[self class]] pathForResource:@"sp800-38a-aes-cbc" ofType:@"plist"];
+    XCTAssertNotNil(path);
+
+    NSArray *tests = [NSArray arrayWithContentsOfFile:path];
+    XCTAssertNotNil(tests);
+    
+    for (NSDictionary *testDic in tests) {
+        NSUInteger keySizeValue = [testDic[@"keysize"] unsignedIntegerValue];
+        CWAESKeySize keySize;
+        switch (keySizeValue) {
+            case 128:
+                keySize = CWAESKeySize128;
+                break;
+            case 192:
+                keySize = CWAESKeySize192;
+                break;
+            case 256:
+                keySize = CWAESKeySize256;
+                break;
+                
+            default:
+                XCTFail(@"Unknown key size");
+                break;
+        }
+        
+        // Test Encryption
+        NSData *IV = testDic[@"iv"];
+        XCTAssertNotNil(IV);
+        XCTAssertEqual(IV.length, 16);
+        
+        NSData *key = testDic[@"key"];
+        XCTAssertNotNil(key);
+        
+        NSData *plaintext = testDic[@"plaintext"];
+        XCTAssertNotNil(plaintext);
+        
+        NSData *ciphertext = testDic[@"ciphertext"];
+        XCTAssertNotNil(ciphertext);
+        
+        CWAES *cipher = [[CWAES alloc] initWithKeySize:keySize mode:CWBlockOperationModeCBC];
+        cipher.rawKeyData = key;
+        cipher.IV = IV;
+        cipher.usePKCS7Padding = NO;
+        
+        // 1. Encryption
+        NSError *error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+        NSData *resultData = [cipher encryptData:plaintext error:&error];
+        XCTAssertNil(error);
+        XCTAssertEqualObjects(resultData, ciphertext);
+        
+        size_t bufferLength = ciphertext.length;
+        uint8_t *buffer = malloc(bufferLength);
+        error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+        size_t bytesWritten = 0;
+        BOOL bRes = [cipher encryptData:plaintext buffer:buffer bufferSize:bufferLength bytesWritten:&bytesWritten error:&error];
+        XCTAssertTrue(bRes);
+        XCTAssertNil(error);
+        XCTAssertEqual(bytesWritten, bufferLength);
+        resultData = [NSData dataWithBytesNoCopy:buffer length:bufferLength freeWhenDone:YES];
+        XCTAssertEqualObjects(resultData, ciphertext);
+        
+        
+        // 2. Decryption
+        error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+        resultData = [cipher decryptData:ciphertext error:&error];
+        XCTAssertNil(error);
+        XCTAssertEqualObjects(resultData, plaintext);
+        
+        bufferLength = plaintext.length;
+        buffer = malloc(bufferLength);
+        error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+        bytesWritten = 0;
+        bRes = [cipher decryptData:ciphertext buffer:buffer bufferSize:bufferLength bytesWritten:&bytesWritten error:&error];
+        XCTAssertTrue(bRes);
+        XCTAssertNil(error);
+        XCTAssertEqual(bytesWritten, bufferLength);
+        resultData = [NSData dataWithBytesNoCopy:buffer length:bufferLength freeWhenDone:YES];
+        XCTAssertEqualObjects(resultData, plaintext);
+    }
+}
+
 @end

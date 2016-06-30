@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>keysize</key>
+		<integer>128</integer>
+		<key>key</key>
+		<data>K34VFiiu0qar9xWICc9PPA==</data>
+		<key>iv</key>
+		<data>AAECAwQFBgcICQoLDA0ODw==</data>
+		<key>plaintext</key>
+		<data>a8G+4i5An5bpPX4Rc5MXKq4tilceA6ycnrdvrEWvjlEwyBxGo1zkEeX7wRkaClLv9p8kRd9PmxetK0F75mw3EA==</data>
+		<key>ciphertext</key>
+		<data>dkmrrIEZskbO6Y6bEukZfVCGy5tQchnuldsROpF2eLJzvta448F0O3EW5p4iIpUWP/HKoWgfrAkSDsowdYbhpw==</data>
+	</dict>
+	<dict>
+		<key>keysize</key>
+		<integer>192</integer>
+		<key>key</key>
+		<data>jnOw99oOZFLIEPMrgJB55WL46tJSLGt7</data>
+		<key>iv</key>
+		<data>AAECAwQFBgcICQoLDA0ODw==</data>
+		<key>plaintext</key>
+		<data>a8G+4i5An5bpPX4Rc5MXKq4tilceA6ycnrdvrEWvjlEwyBxGo1zkEeX7wRkaClLv9p8kRd9PmxetK0F75mw3EA==</data>
+		<key>ciphertext</key>
+		<data>TwIdskO8Yz1xeBg6n6Bx6LTZramtfe305ec4dj9pFFpXGyQgEvt64H+puqw98QLgCLDieYhZiIHZIKnmT1YVzQ==</data>
+	</dict>
+	<dict>
+		<key>keysize</key>
+		<integer>256</integer>
+		<key>key</key>
+		<data>YD3rEBXKcb4rc67whX13gR81LAc7YQjXLZgQowkU3/Q=</data>
+		<key>iv</key>
+		<data>AAECAwQFBgcICQoLDA0ODw==</data>
+		<key>plaintext</key>
+		<data>a8G+4i5An5bpPX4Rc5MXKq4tilceA6ycnrdvrEWvjlEwyBxGo1zkEeX7wRkaClLv9p8kRd9PmxetK0F75mw3EA==</data>
+		<key>ciphertext</key>
+		<data>9YxMBNbl8bp3nqv7X3v71pz8TpZ+24CNZ593e8ZwLH058jNpqdm6z6Uw4mMEIxRhsusF4sOb6fzabBkHjGqdGw==</data>
+	</dict>
+</array>
+</plist>
