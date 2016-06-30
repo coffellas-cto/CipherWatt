@@ -35,6 +35,7 @@
 @implementation CWSecureRandomness
 
 - (NSData *)secureRandomDataWithSize:(NSUInteger)size {
+    // TODO: Error processing.
     if (size == 0) {
         return nil;
     }
