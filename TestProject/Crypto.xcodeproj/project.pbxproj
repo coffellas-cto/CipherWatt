@@ -210,32 +210,32 @@
 		FA00B83D1D18725900278851 /* CWSecureRandomnessTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B83C1D18725900278851 /* CWSecureRandomnessTests.m */; };
 		FA00B8471D18785300278851 /* CWImplementationReplacer.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8461D18785300278851 /* CWImplementationReplacer.m */; };
 		FA00B84A1D18788F00278851 /* CWSecureRandomnessFailer.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8491D18788F00278851 /* CWSecureRandomnessFailer.m */; };
-		FA00B8961D1C547A00278851 /* NSError+CipherWatt.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8811D1C547A00278851 /* NSError+CipherWatt.m */; };
-		FA00B8971D1C547A00278851 /* NSError+CipherWatt.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8811D1C547A00278851 /* NSError+CipherWatt.m */; };
-		FA00B8981D1C547A00278851 /* CWAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8851D1C547A00278851 /* CWAES.m */; };
-		FA00B8991D1C547A00278851 /* CWAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8851D1C547A00278851 /* CWAES.m */; };
-		FA00B89A1D1C547A00278851 /* CWBlockCipher.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8881D1C547A00278851 /* CWBlockCipher.m */; };
-		FA00B89B1D1C547A00278851 /* CWBlockCipher.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8881D1C547A00278851 /* CWBlockCipher.m */; };
-		FA00B89C1D1C547A00278851 /* CWCipherWattObject.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B88B1D1C547A00278851 /* CWCipherWattObject.m */; };
-		FA00B89D1D1C547A00278851 /* CWCipherWattObject.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B88B1D1C547A00278851 /* CWCipherWattObject.m */; };
-		FA00B89E1D1C547A00278851 /* CWKeyDerivation.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B88F1D1C547A00278851 /* CWKeyDerivation.m */; };
-		FA00B89F1D1C547A00278851 /* CWKeyDerivation.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B88F1D1C547A00278851 /* CWKeyDerivation.m */; };
-		FA00B8A01D1C547A00278851 /* CWSecureRandomness.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8921D1C547A00278851 /* CWSecureRandomness.m */; };
-		FA00B8A11D1C547A00278851 /* CWSecureRandomness.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8921D1C547A00278851 /* CWSecureRandomness.m */; };
-		FA00B8A21D1C547A00278851 /* CipherWattConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8951D1C547A00278851 /* CipherWattConstants.m */; };
-		FA00B8A31D1C547A00278851 /* CipherWattConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = FA00B8951D1C547A00278851 /* CipherWattConstants.m */; };
 		FA14DE831CFCCD9000FF2CBD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA14DE821CFCCD9000FF2CBD /* main.m */; };
 		FA20B69C1D22E517005671A9 /* CWHMACTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B69B1D22E517005671A9 /* CWHMACTests.m */; };
-		FA20B6A31D22F903005671A9 /* CWHMAC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B6A21D22F903005671A9 /* CWHMAC.m */; };
-		FA20B6A41D22F903005671A9 /* CWHMAC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B6A21D22F903005671A9 /* CWHMAC.m */; };
 		FA20B6A71D22F958005671A9 /* HMACVectors.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA20B6A61D22F958005671A9 /* HMACVectors.plist */; };
-		FA20B6AA1D230350005671A9 /* NSData+CipherWatt.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B6A91D230350005671A9 /* NSData+CipherWatt.m */; };
-		FA20B6AB1D230350005671A9 /* NSData+CipherWatt.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B6A91D230350005671A9 /* NSData+CipherWatt.m */; };
 		FA20B6AD1D230508005671A9 /* SecureComparisonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA20B6AC1D230508005671A9 /* SecureComparisonTests.m */; };
 		FA37C1D81D0204BE00113208 /* CWKeyDerivationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */; };
 		FA5B71EA1D259E71005F7073 /* sp800-38a-aes-cbc.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA5B71E91D259E71005F7073 /* sp800-38a-aes-cbc.plist */; };
-		FA5B71F21D25AEAC005F7073 /* CWEasyAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71F11D25AEAC005F7073 /* CWEasyAES.m */; };
-		FA5B71F31D25AEC5005F7073 /* CWEasyAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71F11D25AEAC005F7073 /* CWEasyAES.m */; };
+		FA5B72141D25B3D2005F7073 /* NSData+CipherWatt.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71F71D25B3D2005F7073 /* NSData+CipherWatt.m */; };
+		FA5B72151D25B3D2005F7073 /* NSData+CipherWatt.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71F71D25B3D2005F7073 /* NSData+CipherWatt.m */; };
+		FA5B72161D25B3D2005F7073 /* NSError+CipherWatt.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71F91D25B3D2005F7073 /* NSError+CipherWatt.m */; };
+		FA5B72171D25B3D2005F7073 /* NSError+CipherWatt.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71F91D25B3D2005F7073 /* NSError+CipherWatt.m */; };
+		FA5B72181D25B3D2005F7073 /* CWAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71FD1D25B3D2005F7073 /* CWAES.m */; };
+		FA5B72191D25B3D2005F7073 /* CWAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B71FD1D25B3D2005F7073 /* CWAES.m */; };
+		FA5B721A1D25B3D2005F7073 /* CWBlockCipher.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72001D25B3D2005F7073 /* CWBlockCipher.m */; };
+		FA5B721B1D25B3D2005F7073 /* CWBlockCipher.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72001D25B3D2005F7073 /* CWBlockCipher.m */; };
+		FA5B721C1D25B3D2005F7073 /* CWCipherWattObject.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72031D25B3D2005F7073 /* CWCipherWattObject.m */; };
+		FA5B721D1D25B3D2005F7073 /* CWCipherWattObject.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72031D25B3D2005F7073 /* CWCipherWattObject.m */; };
+		FA5B721E1D25B3D2005F7073 /* CWEasyAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72071D25B3D2005F7073 /* CWEasyAES.m */; };
+		FA5B721F1D25B3D2005F7073 /* CWEasyAES.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72071D25B3D2005F7073 /* CWEasyAES.m */; };
+		FA5B72201D25B3D2005F7073 /* CWHMAC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B720A1D25B3D2005F7073 /* CWHMAC.m */; };
+		FA5B72211D25B3D2005F7073 /* CWHMAC.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B720A1D25B3D2005F7073 /* CWHMAC.m */; };
+		FA5B72221D25B3D2005F7073 /* CWKeyDerivation.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B720D1D25B3D2005F7073 /* CWKeyDerivation.m */; };
+		FA5B72231D25B3D2005F7073 /* CWKeyDerivation.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B720D1D25B3D2005F7073 /* CWKeyDerivation.m */; };
+		FA5B72241D25B3D2005F7073 /* CWSecureRandomness.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72101D25B3D2005F7073 /* CWSecureRandomness.m */; };
+		FA5B72251D25B3D2005F7073 /* CWSecureRandomness.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72101D25B3D2005F7073 /* CWSecureRandomness.m */; };
+		FA5B72261D25B3D2005F7073 /* CipherWattConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72131D25B3D2005F7073 /* CipherWattConstants.m */; };
+		FA5B72271D25B3D2005F7073 /* CipherWattConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5B72131D25B3D2005F7073 /* CipherWattConstants.m */; };
 		FA95A7531D1C5E1B00BE7146 /* CWBlockCipherTest.m in Sources */ = {isa = PBXBuildFile; fileRef = FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */; };
 		FA99577D1CFF54760080F83A /* CWAESTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA99577C1CFF54760080F83A /* CWAESTests.m */; };
 /* End PBXBuildFile section */
@@ -458,34 +458,34 @@
 		FA00B8461D18785300278851 /* CWImplementationReplacer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWImplementationReplacer.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		FA00B8481D18788F00278851 /* CWSecureRandomnessFailer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = CWSecureRandomnessFailer.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		FA00B8491D18788F00278851 /* CWSecureRandomnessFailer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWSecureRandomnessFailer.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		FA00B8801D1C547A00278851 /* NSError+CipherWatt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "NSError+CipherWatt.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		FA00B8811D1C547A00278851 /* NSError+CipherWatt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = "NSError+CipherWatt.m"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		FA00B8841D1C547A00278851 /* CWAES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = CWAES.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		FA00B8851D1C547A00278851 /* CWAES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWAES.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		FA00B8871D1C547A00278851 /* CWBlockCipher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = CWBlockCipher.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		FA00B8881D1C547A00278851 /* CWBlockCipher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWBlockCipher.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		FA00B88A1D1C547A00278851 /* CWCipherWattObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = CWCipherWattObject.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		FA00B88B1D1C547A00278851 /* CWCipherWattObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWCipherWattObject.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		FA00B88C1D1C547A00278851 /* CWCipherWattObject_Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = CWCipherWattObject_Private.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		FA00B88E1D1C547A00278851 /* CWKeyDerivation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = CWKeyDerivation.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		FA00B88F1D1C547A00278851 /* CWKeyDerivation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWKeyDerivation.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		FA00B8911D1C547A00278851 /* CWSecureRandomness.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = CWSecureRandomness.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
-		FA00B8921D1C547A00278851 /* CWSecureRandomness.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWSecureRandomness.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
-		FA00B8941D1C547A00278851 /* CipherWattConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CipherWattConstants.h; sourceTree = "<group>"; };
-		FA00B8951D1C547A00278851 /* CipherWattConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CipherWattConstants.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		FA14DE7F1CFCCD9000FF2CBD /* Crypto */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Crypto; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA14DE821CFCCD9000FF2CBD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = main.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		FA20B69B1D22E517005671A9 /* CWHMACTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWHMACTests.m; sourceTree = "<group>"; };
-		FA20B6A11D22F903005671A9 /* CWHMAC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWHMAC.h; sourceTree = "<group>"; };
-		FA20B6A21D22F903005671A9 /* CWHMAC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWHMAC.m; sourceTree = "<group>"; };
 		FA20B6A61D22F958005671A9 /* HMACVectors.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = HMACVectors.plist; sourceTree = "<group>"; };
-		FA20B6A81D230350005671A9 /* NSData+CipherWatt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+CipherWatt.h"; sourceTree = "<group>"; };
-		FA20B6A91D230350005671A9 /* NSData+CipherWatt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+CipherWatt.m"; sourceTree = "<group>"; };
 		FA20B6AC1D230508005671A9 /* SecureComparisonTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecureComparisonTests.m; sourceTree = "<group>"; };
 		FA37C1D71D0204BE00113208 /* CWKeyDerivationTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = CWKeyDerivationTests.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		FA5B71E91D259E71005F7073 /* sp800-38a-aes-cbc.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "sp800-38a-aes-cbc.plist"; sourceTree = "<group>"; };
-		FA5B71F01D25AEAC005F7073 /* CWEasyAES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWEasyAES.h; sourceTree = "<group>"; };
-		FA5B71F11D25AEAC005F7073 /* CWEasyAES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWEasyAES.m; sourceTree = "<group>"; };
+		FA5B71F61D25B3D2005F7073 /* NSData+CipherWatt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+CipherWatt.h"; sourceTree = "<group>"; };
+		FA5B71F71D25B3D2005F7073 /* NSData+CipherWatt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+CipherWatt.m"; sourceTree = "<group>"; };
+		FA5B71F81D25B3D2005F7073 /* NSError+CipherWatt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSError+CipherWatt.h"; sourceTree = "<group>"; };
+		FA5B71F91D25B3D2005F7073 /* NSError+CipherWatt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSError+CipherWatt.m"; sourceTree = "<group>"; };
+		FA5B71FC1D25B3D2005F7073 /* CWAES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWAES.h; sourceTree = "<group>"; };
+		FA5B71FD1D25B3D2005F7073 /* CWAES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWAES.m; sourceTree = "<group>"; };
+		FA5B71FF1D25B3D2005F7073 /* CWBlockCipher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWBlockCipher.h; sourceTree = "<group>"; };
+		FA5B72001D25B3D2005F7073 /* CWBlockCipher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWBlockCipher.m; sourceTree = "<group>"; };
+		FA5B72021D25B3D2005F7073 /* CWCipherWattObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWCipherWattObject.h; sourceTree = "<group>"; };
+		FA5B72031D25B3D2005F7073 /* CWCipherWattObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWCipherWattObject.m; sourceTree = "<group>"; };
+		FA5B72041D25B3D2005F7073 /* CWCipherWattObject_Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWCipherWattObject_Private.h; sourceTree = "<group>"; };
+		FA5B72061D25B3D2005F7073 /* CWEasyAES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWEasyAES.h; sourceTree = "<group>"; };
+		FA5B72071D25B3D2005F7073 /* CWEasyAES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWEasyAES.m; sourceTree = "<group>"; };
+		FA5B72091D25B3D2005F7073 /* CWHMAC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWHMAC.h; sourceTree = "<group>"; };
+		FA5B720A1D25B3D2005F7073 /* CWHMAC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWHMAC.m; sourceTree = "<group>"; };
+		FA5B720C1D25B3D2005F7073 /* CWKeyDerivation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWKeyDerivation.h; sourceTree = "<group>"; };
+		FA5B720D1D25B3D2005F7073 /* CWKeyDerivation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWKeyDerivation.m; sourceTree = "<group>"; };
+		FA5B720F1D25B3D2005F7073 /* CWSecureRandomness.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWSecureRandomness.h; sourceTree = "<group>"; };
+		FA5B72101D25B3D2005F7073 /* CWSecureRandomness.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWSecureRandomness.m; sourceTree = "<group>"; };
+		FA5B72121D25B3D2005F7073 /* CipherWattConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CipherWattConstants.h; sourceTree = "<group>"; };
+		FA5B72131D25B3D2005F7073 /* CipherWattConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CipherWattConstants.m; sourceTree = "<group>"; };
 		FA95A7521D1C5E1B00BE7146 /* CWBlockCipherTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWBlockCipherTest.m; sourceTree = "<group>"; };
 		FA9957641CFF4BBD0080F83A /* CryptoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CryptoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA9957681CFF4BBD0080F83A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -731,92 +731,10 @@
 		FA00B87E1D1C547A00278851 /* CipherWattLibrary */ = {
 			isa = PBXGroup;
 			children = (
-				FA00B8931D1C547A00278851 /* Helpers */,
-				FA00B87F1D1C547A00278851 /* Categories */,
-				FA00B8821D1C547A00278851 /* Classes */,
+				FA5B71F41D25B3D2005F7073 /* Objective-C */,
 			);
 			name = CipherWattLibrary;
 			path = ../CipherWattLibrary;
-			sourceTree = "<group>";
-		};
-		FA00B87F1D1C547A00278851 /* Categories */ = {
-			isa = PBXGroup;
-			children = (
-				FA00B8801D1C547A00278851 /* NSError+CipherWatt.h */,
-				FA00B8811D1C547A00278851 /* NSError+CipherWatt.m */,
-				FA20B6A81D230350005671A9 /* NSData+CipherWatt.h */,
-				FA20B6A91D230350005671A9 /* NSData+CipherWatt.m */,
-			);
-			path = Categories;
-			sourceTree = "<group>";
-		};
-		FA00B8821D1C547A00278851 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				FA00B8901D1C547A00278851 /* CWSecureRandomness */,
-				FA00B8891D1C547A00278851 /* CWCipherWattObject */,
-				FA20B6A01D22F903005671A9 /* CWHMAC */,
-				FA00B88D1D1C547A00278851 /* CWKeyDerivation */,
-				FA00B8861D1C547A00278851 /* CWBlockCipher */,
-				FA00B8831D1C547A00278851 /* CWAES */,
-				FA5B71EF1D25AEAC005F7073 /* CWEasyAES */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		FA00B8831D1C547A00278851 /* CWAES */ = {
-			isa = PBXGroup;
-			children = (
-				FA00B8841D1C547A00278851 /* CWAES.h */,
-				FA00B8851D1C547A00278851 /* CWAES.m */,
-			);
-			path = CWAES;
-			sourceTree = "<group>";
-		};
-		FA00B8861D1C547A00278851 /* CWBlockCipher */ = {
-			isa = PBXGroup;
-			children = (
-				FA00B8871D1C547A00278851 /* CWBlockCipher.h */,
-				FA00B8881D1C547A00278851 /* CWBlockCipher.m */,
-			);
-			path = CWBlockCipher;
-			sourceTree = "<group>";
-		};
-		FA00B8891D1C547A00278851 /* CWCipherWattObject */ = {
-			isa = PBXGroup;
-			children = (
-				FA00B88A1D1C547A00278851 /* CWCipherWattObject.h */,
-				FA00B88B1D1C547A00278851 /* CWCipherWattObject.m */,
-				FA00B88C1D1C547A00278851 /* CWCipherWattObject_Private.h */,
-			);
-			path = CWCipherWattObject;
-			sourceTree = "<group>";
-		};
-		FA00B88D1D1C547A00278851 /* CWKeyDerivation */ = {
-			isa = PBXGroup;
-			children = (
-				FA00B88E1D1C547A00278851 /* CWKeyDerivation.h */,
-				FA00B88F1D1C547A00278851 /* CWKeyDerivation.m */,
-			);
-			path = CWKeyDerivation;
-			sourceTree = "<group>";
-		};
-		FA00B8901D1C547A00278851 /* CWSecureRandomness */ = {
-			isa = PBXGroup;
-			children = (
-				FA00B8911D1C547A00278851 /* CWSecureRandomness.h */,
-				FA00B8921D1C547A00278851 /* CWSecureRandomness.m */,
-			);
-			path = CWSecureRandomness;
-			sourceTree = "<group>";
-		};
-		FA00B8931D1C547A00278851 /* Helpers */ = {
-			isa = PBXGroup;
-			children = (
-				FA00B8941D1C547A00278851 /* CipherWattConstants.h */,
-				FA00B8951D1C547A00278851 /* CipherWattConstants.m */,
-			);
-			path = Helpers;
 			sourceTree = "<group>";
 		};
 		FA14DE761CFCCD9000FF2CBD = {
@@ -846,15 +764,6 @@
 			path = Crypto;
 			sourceTree = "<group>";
 		};
-		FA20B6A01D22F903005671A9 /* CWHMAC */ = {
-			isa = PBXGroup;
-			children = (
-				FA20B6A11D22F903005671A9 /* CWHMAC.h */,
-				FA20B6A21D22F903005671A9 /* CWHMAC.m */,
-			);
-			path = CWHMAC;
-			sourceTree = "<group>";
-		};
 		FA20B6A51D22F958005671A9 /* Test Vectors Plists */ = {
 			isa = PBXGroup;
 			children = (
@@ -864,13 +773,112 @@
 			path = "Test Vectors Plists";
 			sourceTree = "<group>";
 		};
-		FA5B71EF1D25AEAC005F7073 /* CWEasyAES */ = {
+		FA5B71F41D25B3D2005F7073 /* Objective-C */ = {
 			isa = PBXGroup;
 			children = (
-				FA5B71F01D25AEAC005F7073 /* CWEasyAES.h */,
-				FA5B71F11D25AEAC005F7073 /* CWEasyAES.m */,
+				FA5B72111D25B3D2005F7073 /* Helpers */,
+				FA5B71F51D25B3D2005F7073 /* Categories */,
+				FA5B71FA1D25B3D2005F7073 /* Classes */,
+			);
+			path = "Objective-C";
+			sourceTree = "<group>";
+		};
+		FA5B71F51D25B3D2005F7073 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B71F61D25B3D2005F7073 /* NSData+CipherWatt.h */,
+				FA5B71F71D25B3D2005F7073 /* NSData+CipherWatt.m */,
+				FA5B71F81D25B3D2005F7073 /* NSError+CipherWatt.h */,
+				FA5B71F91D25B3D2005F7073 /* NSError+CipherWatt.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		FA5B71FA1D25B3D2005F7073 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B720E1D25B3D2005F7073 /* CWSecureRandomness */,
+				FA5B72011D25B3D2005F7073 /* CWCipherWattObject */,
+				FA5B72081D25B3D2005F7073 /* CWHMAC */,
+				FA5B720B1D25B3D2005F7073 /* CWKeyDerivation */,
+				FA5B71FE1D25B3D2005F7073 /* CWBlockCipher */,
+				FA5B71FB1D25B3D2005F7073 /* CWAES */,
+				FA5B72051D25B3D2005F7073 /* CWEasyAES */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		FA5B71FB1D25B3D2005F7073 /* CWAES */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B71FC1D25B3D2005F7073 /* CWAES.h */,
+				FA5B71FD1D25B3D2005F7073 /* CWAES.m */,
+			);
+			path = CWAES;
+			sourceTree = "<group>";
+		};
+		FA5B71FE1D25B3D2005F7073 /* CWBlockCipher */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B71FF1D25B3D2005F7073 /* CWBlockCipher.h */,
+				FA5B72001D25B3D2005F7073 /* CWBlockCipher.m */,
+			);
+			path = CWBlockCipher;
+			sourceTree = "<group>";
+		};
+		FA5B72011D25B3D2005F7073 /* CWCipherWattObject */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B72021D25B3D2005F7073 /* CWCipherWattObject.h */,
+				FA5B72031D25B3D2005F7073 /* CWCipherWattObject.m */,
+				FA5B72041D25B3D2005F7073 /* CWCipherWattObject_Private.h */,
+			);
+			path = CWCipherWattObject;
+			sourceTree = "<group>";
+		};
+		FA5B72051D25B3D2005F7073 /* CWEasyAES */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B72061D25B3D2005F7073 /* CWEasyAES.h */,
+				FA5B72071D25B3D2005F7073 /* CWEasyAES.m */,
 			);
 			path = CWEasyAES;
+			sourceTree = "<group>";
+		};
+		FA5B72081D25B3D2005F7073 /* CWHMAC */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B72091D25B3D2005F7073 /* CWHMAC.h */,
+				FA5B720A1D25B3D2005F7073 /* CWHMAC.m */,
+			);
+			path = CWHMAC;
+			sourceTree = "<group>";
+		};
+		FA5B720B1D25B3D2005F7073 /* CWKeyDerivation */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B720C1D25B3D2005F7073 /* CWKeyDerivation.h */,
+				FA5B720D1D25B3D2005F7073 /* CWKeyDerivation.m */,
+			);
+			path = CWKeyDerivation;
+			sourceTree = "<group>";
+		};
+		FA5B720E1D25B3D2005F7073 /* CWSecureRandomness */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B720F1D25B3D2005F7073 /* CWSecureRandomness.h */,
+				FA5B72101D25B3D2005F7073 /* CWSecureRandomness.m */,
+			);
+			path = CWSecureRandomness;
+			sourceTree = "<group>";
+		};
+		FA5B72111D25B3D2005F7073 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				FA5B72121D25B3D2005F7073 /* CipherWattConstants.h */,
+				FA5B72131D25B3D2005F7073 /* CipherWattConstants.m */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 		FA9957651CFF4BBD0080F83A /* CryptoTests */ = {
@@ -1179,16 +1187,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA00B8A21D1C547A00278851 /* CipherWattConstants.m in Sources */,
-				FA20B6AA1D230350005671A9 /* NSData+CipherWatt.m in Sources */,
-				FA5B71F31D25AEC5005F7073 /* CWEasyAES.m in Sources */,
-				FA20B6A31D22F903005671A9 /* CWHMAC.m in Sources */,
-				FA00B89E1D1C547A00278851 /* CWKeyDerivation.m in Sources */,
-				FA00B8981D1C547A00278851 /* CWAES.m in Sources */,
-				FA00B8A01D1C547A00278851 /* CWSecureRandomness.m in Sources */,
-				FA00B89C1D1C547A00278851 /* CWCipherWattObject.m in Sources */,
-				FA00B8961D1C547A00278851 /* NSError+CipherWatt.m in Sources */,
-				FA00B89A1D1C547A00278851 /* CWBlockCipher.m in Sources */,
+				FA5B72201D25B3D2005F7073 /* CWHMAC.m in Sources */,
+				FA5B721A1D25B3D2005F7073 /* CWBlockCipher.m in Sources */,
+				FA5B72221D25B3D2005F7073 /* CWKeyDerivation.m in Sources */,
+				FA5B72141D25B3D2005F7073 /* NSData+CipherWatt.m in Sources */,
+				FA5B721E1D25B3D2005F7073 /* CWEasyAES.m in Sources */,
+				FA5B72161D25B3D2005F7073 /* NSError+CipherWatt.m in Sources */,
+				FA5B72181D25B3D2005F7073 /* CWAES.m in Sources */,
+				FA5B721C1D25B3D2005F7073 /* CWCipherWattObject.m in Sources */,
+				FA5B72261D25B3D2005F7073 /* CipherWattConstants.m in Sources */,
+				FA5B72241D25B3D2005F7073 /* CWSecureRandomness.m in Sources */,
 				FA14DE831CFCCD9000FF2CBD /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1200,21 +1208,21 @@
 				FA95A7531D1C5E1B00BE7146 /* CWBlockCipherTest.m in Sources */,
 				FA00B84A1D18788F00278851 /* CWSecureRandomnessFailer.m in Sources */,
 				FA00B8471D18785300278851 /* CWImplementationReplacer.m in Sources */,
-				FA00B89B1D1C547A00278851 /* CWBlockCipher.m in Sources */,
-				FA00B8991D1C547A00278851 /* CWAES.m in Sources */,
-				FA00B89D1D1C547A00278851 /* CWCipherWattObject.m in Sources */,
-				FA20B6A41D22F903005671A9 /* CWHMAC.m in Sources */,
+				FA5B721F1D25B3D2005F7073 /* CWEasyAES.m in Sources */,
+				FA5B72251D25B3D2005F7073 /* CWSecureRandomness.m in Sources */,
+				FA5B72171D25B3D2005F7073 /* NSError+CipherWatt.m in Sources */,
+				FA5B72151D25B3D2005F7073 /* NSData+CipherWatt.m in Sources */,
+				FA5B72191D25B3D2005F7073 /* CWAES.m in Sources */,
 				FA37C1D81D0204BE00113208 /* CWKeyDerivationTests.m in Sources */,
 				FA20B6AD1D230508005671A9 /* SecureComparisonTests.m in Sources */,
-				FA5B71F21D25AEAC005F7073 /* CWEasyAES.m in Sources */,
-				FA00B8A11D1C547A00278851 /* CWSecureRandomness.m in Sources */,
 				FA00B83D1D18725900278851 /* CWSecureRandomnessTests.m in Sources */,
-				FA00B8A31D1C547A00278851 /* CipherWattConstants.m in Sources */,
-				FA00B8971D1C547A00278851 /* NSError+CipherWatt.m in Sources */,
-				FA00B89F1D1C547A00278851 /* CWKeyDerivation.m in Sources */,
+				FA5B721B1D25B3D2005F7073 /* CWBlockCipher.m in Sources */,
+				FA5B72231D25B3D2005F7073 /* CWKeyDerivation.m in Sources */,
 				FA20B69C1D22E517005671A9 /* CWHMACTests.m in Sources */,
+				FA5B721D1D25B3D2005F7073 /* CWCipherWattObject.m in Sources */,
+				FA5B72271D25B3D2005F7073 /* CipherWattConstants.m in Sources */,
+				FA5B72211D25B3D2005F7073 /* CWHMAC.m in Sources */,
 				FA99577D1CFF54760080F83A /* CWAESTests.m in Sources */,
-				FA20B6AB1D230350005671A9 /* NSData+CipherWatt.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
