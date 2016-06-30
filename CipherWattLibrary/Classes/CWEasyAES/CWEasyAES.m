@@ -49,6 +49,7 @@
     self = [super init];
     if (self) {
         _clientID = clientID;
+        _provideMessageIntegity = YES;
     }
     return self;
 }

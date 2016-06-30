@@ -7,10 +7,12 @@
 //
 
 #import <Foundation/Foundation.h>
-
+// TODO: Documentation
 @interface CWEasyAES : NSObject
 
 @property (nonatomic, copy) NSString *clientID;
+/** Default - YES. */
+@property (nonatomic, assign) BOOL provideMessageIntegity;
 
 - (instancetype)initWithClientID:(NSString *)clientID;
 
