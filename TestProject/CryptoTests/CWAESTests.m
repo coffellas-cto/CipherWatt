@@ -597,6 +597,21 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     XCTAssertNil(result);
     XCTAssertNotNil(error);
     XCTAssertEqual(error.code, CWCipherWattErrorIVGenerationFailed);
+    
+    // Using buffer
+    
+    NSData *dataToEncrypt = [@"somethingwhatever" dataUsingEncoding:NSASCIIStringEncoding];
+    size_t bufferSize = dataToEncrypt.length / 16 * 16 + 16;
+    uint8_t *buffer = malloc(bufferSize);
+    size_t written = 0;
+    cipher.rawKeyData = [@"blahdoesntmatterinthistest" dataUsingEncoding:NSASCIIStringEncoding];
+    BOOL bResult = [cipher encryptData:dataToEncrypt buffer:buffer bufferSize:bufferSize bytesWritten:NULL error:&error];
+    XCTAssertFalse(bResult);
+    XCTAssertEqual(error.code, CWCipherWattErrorIVGenerationFailed);
+    XCTAssertEqual(written, 0);
+    
+    free(buffer);
+    
     [failer restoreImplementations];
 }
 
