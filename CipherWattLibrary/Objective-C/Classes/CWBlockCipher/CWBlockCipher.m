@@ -157,7 +157,8 @@
     }
     
     if (buffer == NULL || bufferSize == 0) {
-        return YES;
+        [self setError:error withCode:CWCipherWattErrorZeroBufferProvided];
+        return NO;
     }
     
     NSData *keyData = [self obtainKeyDataWithError:error];
@@ -182,7 +183,8 @@
     }
     
     if (buffer == NULL || bufferSize == 0) {
-        return YES;
+        [self setError:error withCode:CWCipherWattErrorZeroBufferProvided];
+        return NO;
     }
     
     NSData *keyData = [self obtainKeyDataWithError:error];

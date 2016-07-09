@@ -46,6 +46,9 @@
         case CWCipherWattErrorNoMemory:
             localizedDescription = @"Failed to allocate memory";
             break;
+        case CWCipherWattErrorZeroBufferProvided:
+            localizedDescription = @"No buffer provided or buffer length is zero";
+            break;
         case CWCipherWattErrorIVGenerationFailed:
             localizedDescription = @"IV generation failed";
             break;

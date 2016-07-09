@@ -694,6 +694,19 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     XCTAssertNil(result);
     XCTAssertNotNil(error);
     XCTAssertEqual(error.code, CWCipherWattErrorInvalidIV);
+    
+    // Same with buffer
+    
+    error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    uint8_t *buffer = malloc(cipherTextData.length);
+    size_t written = 0;
+    cipher.rawKeyData = [@"whatever" dataUsingEncoding:NSASCIIStringEncoding];
+    BOOL bResult = [cipher decryptData:cipherTextData buffer:buffer bufferSize:cipherTextData.length bytesWritten:&written error:&error];
+    XCTAssertFalse(bResult);
+    XCTAssertEqual(written, 0);
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorInvalidIV);
+    free(buffer);
 }
 
 - (void)testSP800AESCBC {
@@ -776,6 +789,39 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
         resultData = [NSData dataWithBytesNoCopy:buffer length:bufferLength freeWhenDone:YES];
         XCTAssertEqualObjects(resultData, plaintext);
     }
+}
+
+- (void)testEncryptDecryptZeroBuffer {
+    CWAES *cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize128 mode:CWBlockOperationModeCBC];
+    NSError *error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
+    size_t written = 0;
+    BOOL result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] buffer:NULL bufferSize:120 bytesWritten:&written error:&error];
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorZeroBufferProvided);
+    XCTAssertFalse(result);
+    XCTAssertEqual(written, 0);
+    
+    uint8_t *buffer = malloc(1);
+    result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] buffer:buffer bufferSize:0 bytesWritten:&written error:&error];
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorZeroBufferProvided);
+    XCTAssertFalse(result);
+    XCTAssertEqual(written, 0);
+    
+    
+    [cipher decryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] buffer:NULL bufferSize:120 bytesWritten:&written error:&error];
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorZeroBufferProvided);
+    XCTAssertFalse(result);
+    XCTAssertEqual(written, 0);
+    
+    result = [cipher decryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] buffer:buffer bufferSize:0 bytesWritten:&written error:&error];
+    XCTAssertNotNil(error);
+    XCTAssertEqual(error.code, CWCipherWattErrorZeroBufferProvided);
+    XCTAssertFalse(result);
+    XCTAssertEqual(written, 0);
+    
+    free(buffer);
 }
 
 @end

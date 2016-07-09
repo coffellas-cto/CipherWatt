@@ -35,6 +35,7 @@ FOUNDATION_EXTERN NSString * const kCWCipherWattErrorDomain;
 typedef NS_ENUM(NSInteger, CWCipherWattError) {
     CWCipherWattErrorUnknown = -2020,
     CWCipherWattErrorNoMemory,
+    CWCipherWattErrorZeroBufferProvided,
     CWCipherWattErrorInvalidIV,
     CWCipherWattErrorIVGenerationFailed,
     CWCipherWattErrorNoKey,
