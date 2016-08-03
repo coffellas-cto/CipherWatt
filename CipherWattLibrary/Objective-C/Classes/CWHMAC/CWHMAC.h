@@ -61,4 +61,7 @@ typedef NS_ENUM(NSUInteger, CWHMACAlgorithm) {
  */
 - (NSData *)computeMACForData:(NSData *)data keyData:(NSData *)keyData error:(NSError **)error;
 
+// TODO: Add verification method
+// See timing attack defense #2 from Boneh course.
+
 @end
