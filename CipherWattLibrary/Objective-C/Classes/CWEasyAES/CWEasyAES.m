@@ -11,6 +11,7 @@
 @implementation CWEasyAES
 
 - (NSData *)easyEncryptData:(NSData *)dataToEncrypt password:(NSString *)password error:(NSError **)error {
+    // TODO: Implement
     /* Algorithm is as follows:
      1. Generate random SALT.
      2. Derive a MASTER KEY from password with PBKDF2 using SALT.
@@ -26,6 +27,7 @@
 }
 
 - (NSData *)easyDecryptData:(NSData *)dataToDecrypt password:(NSString *)password error:(NSError **)error {
+    // TODO: Implement
     /* Algorithm is as follows:
      1. Take input as SALT+MAC+IV+CIPHERTEXT.
      2. Derive a MASTER KEY from password with PBKDF2 using SALT.
