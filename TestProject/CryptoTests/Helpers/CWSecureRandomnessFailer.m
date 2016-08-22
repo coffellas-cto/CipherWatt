@@ -11,7 +11,7 @@
 
 @implementation CWSecureRandomness (CWSecureRandomnessTests)
 
-- (NSData *)secureRandomDataWithSizeFail:(NSUInteger)size {
+- (NSData *)secureRandomDataWithSizeFail:(NSUInteger)size error:(NSError **)error {
     return nil;
 }
 
@@ -27,7 +27,7 @@
 
 - (void)replaceImplementations {
     self.replacer = [[CWImplementationReplacer alloc] initWithClass:[CWSecureRandomness class]];
-    [self.replacer replaceImplemenetationForSelector:@selector(secureRandomDataWithSize:) withImplementationOfSelector:@selector(secureRandomDataWithSizeFail:)];
+    [self.replacer replaceImplemenetationForSelector:@selector(secureRandomDataWithSize:error:) withImplementationOfSelector:@selector(secureRandomDataWithSizeFail:error:)];
 }
 
 - (void)restoreImplementations {

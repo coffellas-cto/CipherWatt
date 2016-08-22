@@ -28,12 +28,12 @@
  SOFTWARE.
  */
 
-#import <Foundation/Foundation.h>
+#import "CWCipherWattObject.h"
 
 // TODO: Add documentation
-@interface CWSecureRandomness : NSObject
+@interface CWSecureRandomness : CWCipherWattObject
 
-- (NSData *)secureRandomDataWithSize:(NSUInteger)size NS_AVAILABLE(10_10, 8_0);
-+ (NSData *)secureRandomDataWithSize:(NSUInteger)size NS_AVAILABLE(10_10, 8_0);
+- (NSData *)secureRandomDataWithSize:(NSUInteger)size error:(NSError **)error NS_AVAILABLE(10_10, 8_0);
++ (NSData *)secureRandomDataWithSize:(NSUInteger)size error:(NSError **)error NS_AVAILABLE(10_10, 8_0);
 
 @end

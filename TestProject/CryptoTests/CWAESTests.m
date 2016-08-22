@@ -244,7 +244,7 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     if (testKeyDerivation & TestKeyDerivationYES) {
         keyDerivation = [CWKeyDerivation new];
         keyDerivation.PBKDF2NumberOfRounds = 5; // No need for security here, just check the algorithm so it is fast enough for numerous tests
-        keyDerivation.PBKDF2Salt = testSalt & TestSaltPresent ? [CWSecureRandomness secureRandomDataWithSize:64] : nil;
+        keyDerivation.PBKDF2Salt = testSalt & TestSaltPresent ? [CWSecureRandomness secureRandomDataWithSize:64 error:nil] : nil;
         CWPBKDF2PseudoRandomAlgorithm algo;
         if (testKeyDerivationAlgo & TestKeyDerivationAlgoSHA1) {
             algo = CWPBKDF2PseudoRandomAlgorithmHMACSHA1;
@@ -262,7 +262,7 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     }
     
     if (testIV & TestIVPresent) {
-        IV = [CWSecureRandomness secureRandomDataWithSize:16];
+        IV = [CWSecureRandomness secureRandomDataWithSize:16  error:nil];
     }
     
     if (testKeySize & TestKeySize128) {
@@ -277,9 +277,9 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     NSUInteger keySizeInBytes = [CWAES keySizeInBytesFromKeySize:keySize];
     
     if (testKey & TestKeyPresent) {
-        key = [CWSecureRandomness secureRandomDataWithSize:keySizeInBytes];
+        key = [CWSecureRandomness secureRandomDataWithSize:keySizeInBytes error:nil];
     } else if (testKey & TestKeyTooShort) {
-        key = [CWSecureRandomness secureRandomDataWithSize:keySizeInBytes / 2];
+        key = [CWSecureRandomness secureRandomDataWithSize:keySizeInBytes / 2 error:nil];
     }
     
     if ((testKey & TestKeyEmpty) && (testPassword & TestPasswordEmpty)) {
@@ -438,7 +438,7 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
                                  password:nil
                                        IV:nil
                                usePadding:YES
-                                   rawKey:[CWSecureRandomness secureRandomDataWithSize:[CWAES keySizeInBytesFromKeySize:CWAESKeySize128]]];
+                                   rawKey:[CWSecureRandomness secureRandomDataWithSize:[CWAES keySizeInBytesFromKeySize:CWAESKeySize128] error:nil]];
     
     testPlainText = @"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.___";
     [self encryptThenDecryptWithPlainText:testPlainText
@@ -447,7 +447,7 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
                                  password:nil
                                        IV:nil
                                usePadding:NO
-                                   rawKey:[CWSecureRandomness secureRandomDataWithSize:[CWAES keySizeInBytesFromKeySize:CWAESKeySize128]]];
+                                   rawKey:[CWSecureRandomness secureRandomDataWithSize:[CWAES keySizeInBytesFromKeySize:CWAESKeySize128] error:nil]];
     
     testPlainText = @"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?";
     
@@ -457,7 +457,7 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
                                  password:nil
                                        IV:nil
                                usePadding:YES
-                                   rawKey:[CWSecureRandomness secureRandomDataWithSize:[CWAES keySizeInBytesFromKeySize:CWAESKeySize192]]];
+                                   rawKey:[CWSecureRandomness secureRandomDataWithSize:[CWAES keySizeInBytesFromKeySize:CWAESKeySize192] error:nil]];
     
     [self encryptThenDecryptWithPlainText:testPlainText
                                   keySize:CWAESKeySize192
@@ -482,13 +482,13 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     
     
     keyDerivation = [CWKeyDerivation new];
-    keyDerivation.PBKDF2Salt = [CWSecureRandomness secureRandomDataWithSize:300];
+    keyDerivation.PBKDF2Salt = [CWSecureRandomness secureRandomDataWithSize:300 error:nil];
     
     [self encryptThenDecryptWithPlainText:testPlainText
                                   keySize:CWAESKeySize256
                             keyDerivation:keyDerivation
                                  password:@"atur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi "
-                                       IV:[CWSecureRandomness secureRandomDataWithSize:16]
+                                       IV:[CWSecureRandomness secureRandomDataWithSize:16 error:nil]
                                usePadding:YES
                                    rawKey:nil];
 }
@@ -644,13 +644,13 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     
     error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
     cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
-    result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] withRawKeyData:[CWSecureRandomness secureRandomDataWithSize:12] error:&error];
+    result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] withRawKeyData:[CWSecureRandomness secureRandomDataWithSize:12 error:nil] error:&error];
     XCTAssertNotNil(result);
     XCTAssertNil(error);
     
     error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
     cipher = [[CWAES alloc] initWithKeySize:CWAESKeySize192 mode:CWBlockOperationModeCBC];
-    cipher.rawKeyData = [CWSecureRandomness secureRandomDataWithSize:12];
+    cipher.rawKeyData = [CWSecureRandomness secureRandomDataWithSize:12 error:nil];
     result = [cipher encryptData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] error:&error];
     XCTAssertNotNil(result);
     XCTAssertNil(error);
@@ -690,7 +690,7 @@ testKeyDerivationAlgo:(TestKeyDerivationAlgo)testKeyDerivationAlgo
     NSData *cipherTextData = [self firstChildeCipherText];
     
     NSError *error = [NSError errorWithDomain:@"" code:-1000 userInfo:nil];
-    NSData *result = [cipher decryptData:cipherTextData withRawKeyData:[CWSecureRandomness secureRandomDataWithSize:16] error:&error];
+    NSData *result = [cipher decryptData:cipherTextData withRawKeyData:[CWSecureRandomness secureRandomDataWithSize:16 error:nil] error:&error];
     XCTAssertNil(result);
     XCTAssertNotNil(error);
     XCTAssertEqual(error.code, CWCipherWattErrorInvalidIV);

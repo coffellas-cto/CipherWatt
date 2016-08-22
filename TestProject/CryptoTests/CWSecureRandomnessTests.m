@@ -26,10 +26,10 @@
 }
 
 - (void)testSecureRandom {
-    NSData *randomData = [CWSecureRandomness secureRandomDataWithSize:8];
+    NSData *randomData = [CWSecureRandomness secureRandomDataWithSize:8 error:nil];
     XCTAssertEqual(randomData.length, 8);
     
-    randomData = [CWSecureRandomness secureRandomDataWithSize:0];
+    randomData = [CWSecureRandomness secureRandomDataWithSize:0 error:nil];
     XCTAssertNil(randomData);
 }
 
@@ -37,12 +37,12 @@
     CWSecureRandomnessFailer *failer = [CWSecureRandomnessFailer new];
     [failer replaceImplementations];
     
-    NSData *randomData = [CWSecureRandomness secureRandomDataWithSize:8];
+    NSData *randomData = [CWSecureRandomness secureRandomDataWithSize:8 error:nil];
     XCTAssertNil(randomData);
     
     [failer restoreImplementations];
     
-    randomData = [CWSecureRandomness secureRandomDataWithSize:8];
+    randomData = [CWSecureRandomness secureRandomDataWithSize:8 error:nil];
     XCTAssertEqual(randomData.length, 8);
 }
 

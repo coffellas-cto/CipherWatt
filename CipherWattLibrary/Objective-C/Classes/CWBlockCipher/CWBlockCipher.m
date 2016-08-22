@@ -108,7 +108,7 @@
     }
     
     if (self.mode == CWBlockOperationModeCBC && !self.IV) {
-        self.IV = [CWSecureRandomness secureRandomDataWithSize:self.blockSizeInBytes];
+        self.IV = [CWSecureRandomness secureRandomDataWithSize:self.blockSizeInBytes error:nil];
         if (!self.IV.length) {
             [self setError:error withCode:CWCipherWattErrorIVGenerationFailed];
             return nil;
@@ -167,7 +167,7 @@
     }
     
     if (self.mode == CWBlockOperationModeCBC && !self.IV) {
-        self.IV = [CWSecureRandomness secureRandomDataWithSize:self.blockSizeInBytes];
+        self.IV = [CWSecureRandomness secureRandomDataWithSize:self.blockSizeInBytes error:nil];
         if (!self.IV.length) {
             [self setError:error withCode:CWCipherWattErrorIVGenerationFailed];
             return NO;

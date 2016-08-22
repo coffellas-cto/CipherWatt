@@ -62,7 +62,7 @@ const NSUInteger kCWKeyDerivationDefaultSaltSize = 8;
     }
     
     if (self.PBKDF2Salt.length == 0) {
-        self.PBKDF2Salt = [[CWSecureRandomness new] secureRandomDataWithSize:kCWKeyDerivationDefaultSaltSize];
+        self.PBKDF2Salt = [[CWSecureRandomness new] secureRandomDataWithSize:kCWKeyDerivationDefaultSaltSize error:nil];
         if (self.PBKDF2Salt == nil) {
             [self setError:error withCode:CWCipherWattErrorKeyDerivationSaltFailure];
             return nil;

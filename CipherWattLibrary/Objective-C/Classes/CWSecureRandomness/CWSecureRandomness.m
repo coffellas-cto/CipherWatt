@@ -29,13 +29,17 @@
  */
 
 #import "CWSecureRandomness.h"
+#import "CWCipherWattObject_Private.h"
 #import <CommonCrypto/CommonCryptor.h>
 #import <CommonCrypto/CommonRandom.h>
 
 @implementation CWSecureRandomness
 
-- (NSData *)secureRandomDataWithSize:(NSUInteger)size {
-    // TODO: Error processing.
+- (NSData *)secureRandomDataWithSize:(NSUInteger)size error:(NSError **)error {
+    if (error) {
+        *error = nil;
+    }
+    
     if (size == 0) {
         return nil;
     }
@@ -43,6 +47,7 @@
     NSData *retVal = nil;
     uint8_t *bytes = malloc(size);
     if (bytes == NULL) {
+        [self setError:error withCode:CWCipherWattErrorNoMemory];
         return nil;
     }
     
@@ -50,14 +55,15 @@
     if (status == kCCSuccess) {
         retVal = [NSData dataWithBytesNoCopy:bytes length:size freeWhenDone:YES];
     } else {
+        [self setError:error withCryptorStatus:status];
         free(bytes);
     }
     
     return retVal;
 }
 
-+ (NSData *)secureRandomDataWithSize:(NSUInteger)size {
-    return [[self new] secureRandomDataWithSize:size];
++ (NSData *)secureRandomDataWithSize:(NSUInteger)size error:(NSError **)error {
+    return [[self new] secureRandomDataWithSize:size error:error];
 }
 
 @end
