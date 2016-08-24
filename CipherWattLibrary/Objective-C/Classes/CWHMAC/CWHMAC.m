@@ -30,6 +30,7 @@
 
 #import "CWHMAC.h"
 #import "CWCipherWattObject_Private.h"
+#import "CWSecureRandomness.h"
 #import <CommonCrypto/CommonHMAC.h>
 
 @implementation CWHMAC
@@ -60,6 +61,31 @@
     
     NSData *retVal = [NSData dataWithBytesNoCopy:macOut length:mac_size freeWhenDone:YES];
     return retVal;
+}
+
+- (BOOL)verifyMACForData:(NSData *)data keyData:(NSData *)keyData MACToVerify:(NSData *)MACToVerify {
+    /*
+     Here "timing attack defence #2" from Dan Boneh Cryptography I course is used.
+     Google "double hmac".
+     First we compute normal MAC, but then we compare MACs of candidate and original MAC.
+     So adversary doesn't know which strings are compared. The comparison of not equal MAC(MAC(msg))
+     will drop at random points revealing nothing to adversary, so no timing attack is possible.
+     Moreover we change key for second MAC iteration assuming our PRNG is good. If it's no good, well,
+     the whole idea using CommonCrypto as a backbone is bad then :).
+     */
+    
+    NSData *MAC = [self computeMACForData:data keyData:keyData error:nil];
+    
+    NSData *randomKey = [CWSecureRandomness secureRandomDataWithSize:keyData.length error:nil];
+    if (randomKey == nil) {
+        // Fallback to original key if something (very unlikely) goes wrong
+        randomKey = keyData;
+    }
+    
+    NSData *MACOfMAC = [self computeMACForData:MAC keyData:randomKey error:nil];
+    NSData *MACOfCandidateMAC = [self computeMACForData:MACToVerify keyData:randomKey error:nil];
+    
+    return [MACOfMAC isEqualToData:MACOfCandidateMAC];
 }
 
 #pragma mark - Private Methods

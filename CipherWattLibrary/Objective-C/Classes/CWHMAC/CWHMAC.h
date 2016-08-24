@@ -39,7 +39,11 @@ typedef NS_ENUM(NSUInteger, CWHMACAlgorithm) {
     CWHMACAlgorithmSHA512
 };
 
-/** Class used to compute hash-based message authentication code (HMAC). */
+/**
+ @brief Class used to compute hash-based message authentication code (HMAC).
+ 
+ @discussion You are encouraged to use `verifyMACForData:keyData:MACToVerify:` method to verify your MAC, as it uses timing attack defence under the hood.
+ */
 @interface CWHMAC : CWCipherWattObject
 
 /** Hash algorithm to use. Default is `CWHMACAlgorithmSHA224`. */
@@ -61,7 +65,13 @@ typedef NS_ENUM(NSUInteger, CWHMACAlgorithm) {
  */
 - (NSData *)computeMACForData:(NSData *)data keyData:(NSData *)keyData error:(NSError **)error;
 
-// TODO: Add verification method
-// See timing attack defense #2 from Boneh course.
+/**
+ Verifies the HMAC.
+ @param data Data to compute HMAC on.
+ @param keyData Raw key data. If `nil` the key is treated the same as an array of zeroes.
+ @param MACToVerify A candidate HMAC data to be verified.
+ @return `YES` if MAC is verified, `NO` otherwise.
+ */
+- (BOOL)verifyMACForData:(NSData *)data keyData:(NSData *)keyData MACToVerify:(NSData *)MACToVerify;
 
 @end

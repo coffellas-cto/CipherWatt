@@ -23,6 +23,17 @@
     [super tearDown];
 }
 
+- (NSArray *)testVector {
+    // Test vectors taken from https://tools.ietf.org/html/rfc4231
+
+    NSString *path = [[NSBundle bundleForClass:[self class]] pathForResource:@"HMACVectors" ofType:@"plist"];
+    XCTAssertNotNil(path);
+    NSArray *testVector = [NSArray arrayWithContentsOfFile:path];
+    XCTAssertNotNil(testVector);
+    
+    return testVector;
+}
+
 - (void)testCreation {
     CWHMAC *mac = [CWHMAC new];
     XCTAssertNotNil(mac);
@@ -46,13 +57,7 @@
 }
 
 - (void)testHMACVectors {
-    // Test vectors taken from https://tools.ietf.org/html/rfc4231
-    
-    NSString *path = [[NSBundle bundleForClass:[self class]] pathForResource:@"HMACVectors" ofType:@"plist"];
-    XCTAssertNotNil(path);
-    NSArray *testVector = [NSArray arrayWithContentsOfFile:path];
-    XCTAssertNotNil(testVector);
-    
+    NSArray *testVector = [self testVector];
     for (int i = 0; i < testVector.count; i++) {
         NSDictionary *testDic = testVector[i];
         
@@ -119,6 +124,53 @@
     CWHMAC *mac = [[CWHMAC alloc] initWithAlgorithm:CWHMACAlgorithmSHA1];
     NSData *result = [mac computeMACForData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] keyData:[@"somedata" dataUsingEncoding:NSASCIIStringEncoding] error:nil];
     XCTAssertNotNil(result);
+}
+
+- (void)testVerify {
+    NSArray *testVector = [self testVector];
+    XCTAssert(testVector.count > 1);
+    NSDictionary *firstVector = testVector[0];
+    NSDictionary *secondVector = testVector[1];
+    
+    NSData *data = firstVector[@"Data"];
+    NSData *key = firstVector[@"Key"];
+    CWHMAC *mac = [CWHMAC new];
+    CWHMACAlgorithm algo = CWHMACAlgorithmMD5;
+    
+    for (int j = 0; j < 4; j++) {
+        NSString *macDictionaryKey = nil;
+        switch (j) {
+            case 0:
+                algo = CWHMACAlgorithmSHA224;
+                macDictionaryKey = @"HMAC-SHA-224";
+                break;
+            case 1:
+                algo = CWHMACAlgorithmSHA256;
+                macDictionaryKey = @"HMAC-SHA-256";
+                break;
+            case 2:
+                algo = CWHMACAlgorithmSHA384;
+                macDictionaryKey = @"HMAC-SHA-384";
+                break;
+            case 3:
+                algo = CWHMACAlgorithmSHA512;
+                macDictionaryKey = @"HMAC-SHA-512";
+                break;
+                
+            default:
+                break;
+        }
+        
+        NSData *normalMac = firstVector[macDictionaryKey];
+        NSData *wrongMac = secondVector[macDictionaryKey];
+        
+        mac.algorithm = algo;
+        
+        XCTAssertTrue([mac verifyMACForData:data keyData:key MACToVerify:normalMac]);
+        XCTAssertFalse([mac verifyMACForData:data keyData:key MACToVerify:wrongMac]);
+    }
+    
+    return;
 }
 
 @end
